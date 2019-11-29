@@ -1,6 +1,12 @@
-PT-LKB embeddings can be downloaded from: <a href="http://ontopt.dei.uc.pt/recursos/triplos_10recs.zip>http://ontopt.dei.uc.pt/recursos/triplos_10recs.zip</a>
+# PT-LKB embeddings
 
-References:
+Word embeddings learned with node2vec from a graph of relations in ten lexical resources for Portuguese.
+
+Download:
+* 64-sized vectors: http://ontopt.dei.uc.pt/recursos/PT-LKB_embeddings_64.zip
+* 128-sized vectors: http://ontopt.dei.uc.pt/recursos/PT-LKB_embeddings_128.zip
+
+# References:
 
 Aditya Grover and Jure Leskovec (2016). Node2vec: Scalable feature learning for networks. In Proceedings of 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. pp. 855–864. KDD ’16, ACM.
 
