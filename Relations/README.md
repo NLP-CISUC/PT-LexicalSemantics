@@ -12,7 +12,7 @@ Relation instances acquired from ten Portuguese lexical resources:
 * PULO (http://wordnet.pt/)
 * Port4Nooj (http://www.linguateca.pt/Repositorio/Port4Nooj/)
 * WordNet.Br (http://www.nilc.icmc.usp.br/wordnetbr/)
-* ConceptNet (http://conceptnet.io/), apenas triplos entre duas palavras portuguesas
+* ConceptNet (http://conceptnet.io/)
 
 Format
 * One instance per line, "arg1 RELATION_NAME arg2 n", where n is the number of resources where the relation was found.
@@ -24,3 +24,6 @@ Numbers:
 * Total lemmas: 202,000
 	* In > 1 resource: 58,412
 	* In > 2 resources: 24,959
+
+# References
+Hugo Gonçalo Oliveira (2018). A survey on Portuguese lexical knowledge bases: Contents, comparison and combination. Information, 9(2). https://www.mdpi.com/2078-2489/9/2/34
