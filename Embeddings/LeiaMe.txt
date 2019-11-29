@@ -1,0 +1,48 @@
+Word embeddings PT-LKB
+Data: Julho de 2018
+----------------------
+
+Conteúdo
+--------
+Este pacote contém um modelo distribucionais de palavras, aprendido através da aplicação do método node2vec [1] sobre uma rede semântica extraída a partir de um conjunto de dez bases de conhecimento léxico-semântico em português [2], nomeadamente:
+	- PAPEL (http://www.linguateca.pt/PAPEL/)
+	- Dicionário Aberto (dicionario-aberto.net)
+	- Wikcionário.PT (https://pt.wiktionary.org)
+	- TeP (http://www.nilc.icmc.usp.br/tep2/)
+	- OpenThesaurus.PT (http://paginas.fe.up.pt/~arocha/AED1/0607/trabalhos/thesaurus.txt)
+	- OpenWordNet-PT (https://github.com/own-pt/openWordnet-PT)
+	- PULO (http://wordnet.pt/)
+	- Port4Nooj (http://www.linguateca.pt/Repositorio/Port4Nooj/)
+	- WordNet.Br (http://www.nilc.icmc.usp.br/wordnetbr/)
+	- ConceptNet (http://conceptnet.io/)
+A rede encontra-se disponível na página deste mesmo projeto, arquivo triplos_10recs.zip.
+
+
+Formato
+-------
+O modelo encontra-se num ficheiro com a extensão .emb, cujo nome inclui três valores numéricos x_y_z que indicam o valor utilizado em cada um de três parâmetros do node2vec:
+	x: dimensão dos vetores;
+	y: comprimento de cada caminhada (walk length);
+	z: número de caminhadas (#walks).
+Em todos os modelos disponibilizados foi considerado, para cada arco da rede, um peso igual ao número de recursos que incluem uma relação entre as duas palavras ligadas.
+
+O conteúdo do ficheiro é uma representação textual dos embeddings, compatível com a representação textual de modelos word2vec.
+
+Mais informação sobre o processo de criação destes modelos pode ser encontrada em [3], referência que deve ser citada ao utilizar os modelos.
+Outros modelos PT-LKB referidos no mesmo artigo, nomeadamente os que não consideram o peso ou que consideram apenas relações em mais do que um recurso podem ser pedidos através de um contacto por e-mail.
+
+
+Referências
+-----------
+[1] Aditya Grover and Jure Leskovec (2016). Node2vec: Scalable feature learning for networks. In Proceedings of 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. pp. 855–864. KDD ’16, ACM.
+
+[2] Hugo Gonçalo Oliveira (2018). A survey on Portuguese lexical knowledge bases: Contents, comparison and combination. Information, 9(2).
+
+[3] Hugo Gonçalo Oliveira (2018). Learning Word Embeddings from Portuguese Lexical-Semantic Knowledge Bases. In Proceedings of Computational Processing of the Portuguese Language - 13th International Conference (PROPOR 2018). Springer.
+
+
+-----------------------
+Contactos:
+Hugo Gonçalo Oliveira
+E-mail: hroliv@dei.uc.pt
+URL projeto: http://ontopt.dei.uc.pt
