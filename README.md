@@ -9,3 +9,5 @@ The following resources are included:
 * PT-LKB embeddings, word embeddings learned from the structure of the large Portuguese LKB with node2vec.
 
 * TALES, an analogy-like test with lexical-semantic relations for assessing Portuguese word embeddings, with relations acquired from the large Portuguese LKB.
+
+* Analogies (TAP), an adaptation of the LX-4WAnalogiesPt analogy test to the BATS format, also adopted by TALES.
