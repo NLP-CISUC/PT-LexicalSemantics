@@ -10,4 +10,4 @@ The following resources are included:
 
 * TALES, an analogy-like test with lexical-semantic relations for assessing Portuguese word embeddings, with relations acquired from the large Portuguese LKB.
 
-* Analogies (TAP), an adaptation of the LX-4WAnalogiesPt analogy test to the BATS format, also adopted by TALES.
+* Analogies (TAP), an adaptation of the <a href="https://github.com/nathanshartmann/portuguese_word_embeddings/blob/master/analogies/testset/LX-4WAnalogies.txt">LX-4WAnalogiesPT </a> analogy test to the BATS format, also adopted by TALES.
