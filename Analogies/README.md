@@ -4,4 +4,6 @@ TAP, acronym for the Portuguese name "Teste de Analogias em Português", is and 
 
 The main difference is that TAP is organised similarly to the Bigger Analogy Test Set (BATS, http://vecto.space/data/):
 * Several files, each targeting a different relation.
+* Duplica pairs of words removed.
+
 This enables the assessment of word embeddings in the Vecto framework.
