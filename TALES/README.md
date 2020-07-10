@@ -6,4 +6,4 @@ It is organised similarly to the Bigger Analogy Test Set (BATS, http://vecto.spa
 * Several files, each targeting a different relation, with 50 "questions" in each.
 * A question correspondents to the first argument of a relation a, followed by possible second arguments a', split by /.
 
-Instances of lexical-semantic relations were acquired from a large Portuguese LKB (https://github.com/hgoliv/PT-LexicalSemantics/tree/master/Relations).
+Instances of lexical-semantic relations were acquired from a large Portuguese LKB (https://github.com/NLP-CISUC/PT-LexicalSemantics/tree/master/Relations).
