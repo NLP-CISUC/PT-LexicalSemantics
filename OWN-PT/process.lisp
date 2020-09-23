@@ -5,19 +5,21 @@
   (fare-csv:read-csv-file "/Users/ar/work/wn/PT-LexicalSemantics/OWN-PT/query.csv"))
 
 
+(defun clean-aux (target words)
+  (remove target
+	  (format nil "~{~a~^/~}" (remove-duplicates (cl-ppcre:split "/" words) :test #'equal))
+	  :test #'equal))
+
 (defun clean (data)
   (mapcar (lambda (tr)
 	    (destructuring-bind (target rel words)
 		tr
-	      (list target rel
-		    (remove target
-			    (remove-duplicates (cl-ppcre:split "/" words) :test #'equal)
-			    :test #'equal))))
+	      (list target rel (clean-aux target words))))
 	  data))
 
 (defun collect ()
   (let ((tb (make-hash-table :test #'equal)))
-    (dolist (trio (cdr data) tb)
+    (dolist (trio (clean (cdr data)) tb)
       (push (cons (car trio) (caddr trio))
 	    (gethash (cadr trio) tb)))))
 

@@ -1,870 +1,822 @@
-transmitir	(revelar dar entregar legar levar tirar transportar conduzir trazer
-            circular espalhar)
-precipitar	(cair)
-berrar	(urrar vociferar mugir gritar exclamar bradar chamar)
-reunir	(encontrar ver)
-aquietar	(silenciar)
-sofrer	(aguentar tolerar suportar aturar ter padecer)
-confundir	(obnubilar obscurecer misturar disconcertar enrolar perplexar agitar
-           incomodar enervar)
-vestir	(vestir_formalmente emperequetar_se arrumar_se vestir-se arrumar-se)
-lidar	(englobar compreender conter abarcar circundar tratar)
-divulgar	(advogar agitar lutar fazer_campanha)
-cavalgar	(viajar andar ir)
-admitir	(proporcionar fornecer permitir deixar aceitar)
-aconchegar	(acomodar)
-forrar	(revestir)
-contar	(supor)
-amassar	(cultivar)
-_ressuscitar	(acordar)
-querer	(procurar)
-separar-se	(decepar cortar dividir separar)
-indeferir	(recusar desprezar rejeitar)
-estimar	(medir avaliar)
-dizimar	(aniquilar massacrar devastar)
-insular	(adiar)
-apartar-se	(decepar cortar dividir separar)
-lavar	(lavar-se lavar_se)
-prender	NIL
-envenenar	(empeçonhar intoxicar)
-explorar	NIL
-confrontar	(atacar_de_frente deparar defrontar enfrentar deparar_se)
-fazer_papel	(simular fingir)
-comprazer	(satisfazer)
-corroer	NIL
-outorgar	(deixar consentir permitir)
-xingar	(praguejar blasfemar maldizer)
-ser	(afetar ter_efeito)
-alertar	(desaconselhar advertir admoestar prevenir avisar)
-despir	(desnudar-se despir-se)
-estar_situado	(reclinar)
-domesticar	(domar)
-sindicar	(sindicar-se)
-sobreviver	(haver subsistir resistir perseverar)
-aparentar	(atuar fazer_de_conta)
-digerir	(fazer_digestão)
-cerrar	(fechar)
-combinar	(corresponder estar_conforme_a estar_em_harmonia harmonizar concordar
-          compatibilizar caber)
-entender	(achar considerar obter adquirir atingir envisionar figurar afigurar
-          visualizar compreender ver saber conhecer ler)
-plantar	(semear)
-tampar	(cobrir enfronhar encapar)
-andar	(deslocar mover cavalgar caminhar passear viajar ir)
-falecer	(morrer)
-mijar	(urinar defecar cagar)
-raspar	(vassourar varrer vasculhar)
-destruir	(surrar arruinar quebrar)
-jazer	(reclinar estar_deitado restar estender-se acamar deitar-se)
-efetuar	(executar levar_a_cabo realizar)
-roçar	(vassourar varrer vasculhar)
-inscrever-se	(pedir)
-decair	(desintegrar)
-irritar	(pegar tocar enervar-se irritar-se)
-atacar_de_frente	(confrontar defrontar enfrentar deparar_se)
-nadar	(flutuar)
-acatar	(adotar adoptar)
-malhar	(treinar exercitar-se exercitar)
-assentar-se	(estar_sentado sentar sentar-se)
-advertir	(alertar desaconselhar admoestar prevenir avisar)
-mudar	(relocar tornar revoltar-se revoltar substituir converter trocar)
-avizinhar	(chegar)
-oxidar	(oxidar-se enferrujar)
-englobar	(endereçar cobrir falar tratar lidar)
-encontrar	(tocar verificar re-adquirir descobrir informar-se inteirar
-           reconquistar recuperar reganhar assegurar achar determinar encostar
-           reunir)
-afetar	(atingir provocar propulsar motivar estimular incentivar atacar
-        desempenhar ser)
-alcançar	(vir chegar)
-re-adquirir	(encontrar reganhar achar)
-abandonar	(desmoronar partir ir retirar-se sair olvidar esquecer desabar
-           colapsar quebrar ruir)
-encarar	(virar)
-retirar_se	(retirar-se)
-pingar	(gotejar)
-reportar-se	(concernir relacionar referir)
-desgalhar	(bifurcar ramificar brotar)
-deixar_cair	(afundar cair)
-lamentar	NIL
-viajar_de_avião	(voar transportar_por_avião atravessar)
-fincar	(martelar)
-operar	(funcionar)
-saponificar	NIL
-concernir	(fazer_alusã_oa aludir reportar-se)
-morrer	(quebrar estragar partir bater_as_botas perecer falecer)
-lucrar	(obter adquirir render)
-lacrar	(vedar selar)
-enfrentar	(atacar_de_frente deparar confrontar)
-agir	(simular fingir)
-resistir	(sobreviver haver subsistir)
-perambular	(vagar errar)
-ratear	(dividir_proporcionalmente)
-estar_em_harmonia	(combinar concordar corresponder)
-praticar	(utilizar usar empregar treinar)
-apresenta	(fruir possuir ter)
-revoltar-se	(transformar virar transformar-se mudar acontecer tornar-se)
-brotar	(germinar ramificar-se ramificar desgalhar)
-garantir	(afiançar)
-secundar	(aprovar)
-comparar	NIL
-cultivar	(amassar trabalhar)
-masturbar	(masturbar-se cinco-contra-um punheta bronha)
-reconquistar	(encontrar reganhar achar)
-empetecar	(fazer_decoração adornar ornamentar decorar)
-conceder	(deixar consentir permitir)
-tirar_foto	(filmar)
-figurar	(visualizar entender compreender)
-arquitetar	(criar desenhar)
-sentar	(pôr posar assentar-se estar_sentado sentar-se)
-assegurar	(afiançar provar ver aprender encontrar descobrir checar conferir
-           verificar)
-desintegrar	(putrefazer dissolver dividir decair)
-derivar	(vir_de)
-esvaziar	(remover)
-centrar	(fascinar interessar)
-pendurar	(estar_pendente dependurar)
-seguir	(observar guardar ver espionar assistir olhar mirar adotar adoptar
-        preservar manter continuar)
-vociferar	(gritar exclamar berrar bradar chamar)
-instituir	(construir criar produzir fazer)
-agredir	(assaltar atacar)
-afastar_se	(decorrer)
-sentar-se	(pôr posar assentar-se estar_sentado sentar)
-despejar	(remover desalojar)
-notificar	(introduzir apresentar)
-pretextar	(atuar fazer_de_conta)
-arrumar	(acender fazer)
-usar	(aplicar fazer_valer utilizar praticar empregar jogar)
-reclinar	(estar_deitado jazer estar_situado)
-despir-se	(despojar desnudar despir)
-avançar	(preservar manter continuar)
-vestir_formalmente	(vestir)
-acordar	(renascer reavivar reanimar vivificar animar _ressuscitar reviver)
-pastar	(deixar_pastar)
-concatenar	NIL
-incorrer	(adquirir receber obter comprar atingir)
-transportar	(carregar trazer pegar transmitir)
-lavar_se	(lavar)
-secionar	(dividir_em_segmentos)
-vexar	(enervar-se irritar-se)
-enervar-se	(atormentar perturbar aborrecer amolar agastar vexar molestar
-            incomodar irritar importunar)
-importunar	(enervar-se irritar-se)
-enfileirar	(passar correr)
-considerar	(afirmar julgar pensar deliberar entender compreender)
-afigurar	(visualizar entender compreender)
-acrescentar	(adicionar)
-desalojar	(despejar remover)
-adiar	(insular isolar)
-golpear	(atingir bater colidir)
-engessar	(aplicar passar)
-molestar	(enervar-se irritar-se)
-recusar	(indeferir desprezar rejeitar declinar)
-utilizar	(aplicar fazer_valer praticar usar empregar jogar)
-fracturar	(fraturar quebrar)
-padecer	(ter contrair sofrer)
-rolar	(revirar revolver rodar)
-cozinhar	(acender fazer)
-espionar	(traçar seguir)
-tratar	(englobar compreender conter abarcar circundar endereçar cobrir falar
-        lidar)
-ter_efeito	(desempenhar ser)
-pedir	(reservar inscrever-se requerer solicitar)
-vender	(trair atraiçoar)
-bater_repetidamente	(bater)
-remover	(esvaziar despejar limpar desalojar)
-detectar	(achar descobrir)
-registrar_	(perceber registrar)
-abarcar	(endereçar cobrir falar tratar lidar)
-ter_certeza	(afiançar)
-vadiar	(vagar errar)
-dispõe	(fruir possuir ter)
-suplantar	(substituir recolocar repor)
-enfeitar	(fazer_decoração adornar ornamentar decorar)
-promover	(advogar agitar lutar fazer_campanha)
-ajudar	(servir dar)
-aprovar	(endossar secundar apoiar)
-transformar-se	(virar tornar revoltar-se revoltar)
-selar	(vedar lacrar chancelar)
-atuar	(aparentar pretextar actuar fazer brincar performar representar passar
-       simular fingir)
-citar	(mencionar)
-equiparar	(competir)
-desinteressar	(retirar-se)
-avaliar	(medir estimar)
-rodar	(rolar girar virar)
-adornar	(fazer_decoração ornar decorar ornamentar empetecar embelezar enfeitar)
-dividir_proporcionalmente	(ratear)
-fazer_campanha	(anunciar publicitar promover divulgar)
-disseminar	(circular espalhar)
-aproximar-se_de	(chegar)
-etiquetar	(marcar)
-melhorar	(aperfeiçoar)
-circular	(disseminar alastrar espalhar difundir transmitir)
-esposar	(casar)
-sacudir	(balançar embalar)
-envisionar	(visualizar entender compreender)
-permanecer	(preservar manter continuar)
-permitir	(proporcionar outorgar fornecer dar conceder admitir deixar consentir)
-entornar	(verter)
-errar	(correr_terras perambular vagabundear vaguear transmigrar vadiar vagar)
-verter	(entornar derramar)
-concentrar	(fascinar interessar)
-informar-se	(encontrar ver)
-representar	(simular actuar fazer brincar fingir performar atuar passar)
-aperfeiçoar	(melhorar)
-compensar	(equilibrar-se equilibrar)
-endereçar	(englobar compreender conter abarcar circundar tratar)
-manter	(permanecer adiantar-se seguir progredir avançar ir continuar prosseguir)
-pairar	(levitar)
-vestir-se	(vestir)
-reger	(conduzir)
-satisfazer	(encantar aprazer agradar gostar embevecer comprazer)
-por_leite	(ordenhar)
-mugir	(gritar exclamar berrar bradar chamar)
-vagabundear	(vagar errar)
-atingir	(ter impressionar comprender entender pegar receber obter incorrer
-         bater acertar golpear atacar executar levar_a_cabo realizar comover
-         afetar)
-animar	(acordar)
-naufragar	(submergir afundar)
-deixar	(outorgar permitir conceder admitir partir ir retirar-se sair legar
-        entregar dar)
-cinco-contra-um	(masturbar)
-desinteressar_se	(retirar-se)
-iniciar	(principiar começar)
-alimentar-se	(comer)
-emperequetar_se	(vestir)
-dar_de_mamar	(sugar chupar)
-moldar	(trabalhar)
-proferir	(verbalizar)
-enrolar	(confundir disconcertar)
-enxergar	(assistir ver)
-receber	(pagar incorrer aceitar adquirir obter comprar atingir)
-transportar_por_avião	(avionar pilotar viajar_de_avião)
-dependurar	(pendurar)
-conduzir	(transmitir reger fazer)
-amolar	(enervar-se irritar-se)
-passar	(cobrir emassar engessar enfileirar actuar atuar fazer representar)
-levar	(consumir gastar carregar trazer pegar transmitir)
-chegar	(pegar alcançar acercar aproximar-se_de avizinhar vir)
-imputar	(atribuir)
-revirar	(rolar girar virar)
-vaguear	(vagar errar)
-vir_de	(vir provir derivar descender)
-colidir	(bater acertar golpear)
-endurecer	NIL
-proclamar	(ler)
-estar_sentado	(pôr posar sentar-se sentar assentar-se)
-empeçonhar	(envenenar)
-deliberar	(considerar julgar pensar)
-arruinar	(quebrar destruir)
-corresponder	(combinar estar_conforme_a estar_em_harmonia harmonizar concordar
-              compatibilizar)
-levar_a_cabo	(atingir cumprir efetuar executar realizar)
-arrumar_se	(vestir)
-cair	(terminar ficar deixar_cair soltar largar precipitar)
-parecer	(simular fingir)
-revolver	(rolar girar virar)
-forçar	(empurrar tirar puxar arredar)
-silenciar	(quietar aquietar)
-assaltar	(atacar agredir)
-afundar	(naufragar deixar_cair soltar largar)
-conter	(endereçar cobrir falar tratar lidar acomodar possuir segurar incluir
-        aguentar compreender ter)
-estar_conforme_a	(combinar concordar corresponder)
-casar-se	(casar)
-defecar	(fazer_xixi urinar mijar)
-fazer	(conduzir desenvolver conquistar elaborar trazer atrair construir
-       produzir funcionar criar instituir performar atuar representar passar
-       obter adquirir organizar arrumar cozinhar preparar)
-modelar	(trabalhar)
-sintetizar	(resumir sumarizar)
-desnudar-se	(despojar desnudar despir)
-erguer	(ficar_de_pé)
-advogar	(anunciar publicitar promover divulgar)
-harmonizar	(combinar concordar corresponder)
-emprenhar	(engravidar)
-afluir	(tocar encostar)
-liderar	(capitanear)
-familiarizar	(introduzir apresentar)
-trepar	(beijar)
-purificar	(distilar apurar sublimar destilar extrair)
-comprender	(obter adquirir atingir)
-desvanecer	(empurrar)
-relocar	(mudar)
-dizer	(supor indicar verbalizar ler)
-bradar	(gritar urrar vociferar mugir berrar)
-traçar	(desenhar observar guardar ver espionar assistir olhar mirar)
-contrair	(ter padecer)
-empregar	(aplicar fazer_valer utilizar praticar usar)
-distilar	(purificar apurar sublimar destilar extrair)
-ramificar	(ramificar-se bifurcar brotar desgalhar)
-medir	(estimar avaliar)
-conhecer	(saber entender)
-encantar	(satisfazer)
-cagar	(fazer_xixi urinar mijar)
-construir	(fazer criar instituir)
-distinguir	(assinalar)
-separar	(apartar-se separar-se apartar terminar separar_se decepar cortar
-         dividir romper quebrar)
-rachar	(partir quebrar)
-adquirir	(ter comprender entender pegar desenvolver receber incorrer conquistar
-          lucrar fazer obter)
-dissolver	(desintegrar desmoronar)
-correlatar	(correlatar_se)
-pegar	(vir irritar trazer levar tirar transportar obter adquirir atingir chegar
-       apanhar pagar flagrar)
-perseverar	(sobreviver haver subsistir)
-certificar-se	(afiançar)
-limpar	(desobstruir retirar remover)
-cumprir	(executar levar_a_cabo realizar)
-votar	NIL
-revelar	(dar transmitir)
-capturar	(segurar agarrar)
-significar	(querer_dizer intencionar)
-mumificar	(ressecar)
-estar_deitado	(reclinar estender-se jazer acamar deitar-se)
-principiar	(começar iniciar)
-impressionar	(atingir atacar provocar propulsar motivar estimular incentivar)
-virar	(encarar tornar revoltar-se revoltar girar revirar revolver rodar
-       derrubar acontecer transformar transformar-se tornar-se)
-partir	(morrer quebrar rachar ir retirar-se abandonar largar deixar sair)
-estragar	(morrer)
-denotar	(intencionar)
-ornamentar	(fazer_decoração ornar decorar adornar empetecar embelezar enfeitar)
-travar	(frear)
-recuperar	(encontrar reganhar achar)
-encapar	(cobrir tampar)
-gritar	(urrar vociferar mugir exclamar berrar bradar chamar)
-aprazer	(satisfazer)
-vir	(vir_de pegar alcançar chegar ficar começar)
-reclamar	(afirmar reivindicar)
-jogar	(apostar brincar usar colocar utilizar)
-afastar-se	(decorrer)
-insultar	(praguejar blasfemar maldizer)
-lactar	(sugar chupar)
-acercar	(chegar)
-guardar	(traçar seguir)
-ir_às_compras	(navegar)
-actuar	(performar atuar representar passar)
-manchar	NIL
-sacar	(extrair puxar tirar)
-tirar	(forçar extrair sacar puxar trazer pegar transmitir)
-flutuar	(boiar vagar nadar)
-esperar	(antecipar aguardar dar_à_luz parir ter)
-achar	(julgar pensar re-adquirir reconquistar recuperar declarar reganhar
-       encontrar aprender entender compreender determinar ver detectar
-       descobrir)
-distender	NIL
-reservar	(pedir)
-cravar	(espetar)
-atravessar	(permitir_trânsito cortar vasculhar varrer vassourar voar avionar
-            pilotar viajar_de_avião)
-tornar-se	(virar converter transformar transmudar tornar revoltar-se revoltar)
-ultrapassar	(enganar)
-arder	(começar_a_queimar acender incinerar queimar carburar)
-extrair	(destilar distilar purificar sacar puxar tirar)
-aleitar	(sugar chupar)
-prover	(provocar dar causar)
-colapsar	(desmoronar desabar quebrar ruir largar_mão desistir abandonar)
-entregar	(dar transmitir deixar)
-misturar	(confundir)
-hidratar	NIL
-esmiuçar	(pulverizar)
-caminhar	(deslocar mover ir andar passear)
-fazer_decoração	(ornar decorar adornar ornamentar empetecar embelezar enfeitar)
-cantar	NIL
-visualizar	(afigurar figurar ver envisionar entender compreender)
-voltar_atrás	(decorrer)
-acender	(arder queimar organizar arrumar cozinhar preparar)
-ligar	(tocar)
-escrever	(compor publicar redigir)
-indicar	(dizer)
-acontecer	(suceder virar tornar revoltar-se revoltar calhar ocorrer)
-circundar	(endereçar cobrir falar tratar lidar)
-diminuir	(reduzir)
-destilar	(distilar purificar apurar sublimar extrair condensar)
-apostar	(jogar)
-fazer_amor	(beijar)
-derrubar	(virar)
-transmudar	(converter tornar-se)
-relacionar	(inter-relacionar fazer_alusã_oa aludir reportar-se)
-retirar	(limpar desobstruir)
-interessar	(focar concentrar centrar)
-revoltar	(transformar virar transformar-se mudar acontecer tornar-se)
-diferenciar	(assinalar)
-mover	(andar ir caminhar viajar fazer_uma_moção)
-estipule	(estipular)
-afastar	(empurrar)
-descobrir	(verificar encontrar assegurar determinar ver detectar achar)
-mencionar	(citar)
-montear	(caçar)
-perecer	(morrer)
-aplicar	(utilizar usar empregar cobrir emassar engessar dar)
-acamar	(jazer estar_deitado)
-questionar	(indagar perguntar)
-fotografar	(filmar)
-estimular	(impressionar comover afetar)
-ocorrer	(acontecer)
-sedimentar	(assentar)
-levantar	(ficar_de_pé)
-lamuriar	(birra)
-lotar	(atochar)
-esquecer	(abandonar)
-foder	(beijar)
-formular	(desenvolver)
-aludir	(concernir relacionar referir)
-emassar	(aplicar passar)
-começar_a_queimar	(arder queimar)
-ressuscitar	NIL
-aderir	(grudar colar)
-maldizer	(xingar insultar desbocar)
-sair	(ir retirar-se abandonar largar partir deixar)
-punheta	(masturbar)
-atrair	(fazer)
-convergir	(tocar encostar)
-reanimar	(acordar)
-sugar	(lactar dar_de_mamar amamentar aleitar)
-caber	(combinar)
-desbocar	(praguejar blasfemar maldizer)
-tomar_o_peso	(pesar)
-assegurar-se	(afiançar)
-mirar	(traçar seguir)
-tomar	(beber)
-aturar	(sofrer)
-conformar	(adotar adoptar)
-performar	(representar fazer atuar actuar)
-escovar	(varrer)
-meter	(beijar)
-demandar	(custar)
-arrumar-se	(vestir)
-apoiar	(aprovar)
-calhar	(acontecer)
-noticiar	(introduzir apresentar)
-concordar	(combinar corresponder estar_conforme_a estar_em_harmonia harmonizar
-           compatibilizar)
-devastar	(dizimar)
-frear	(travar)
-separar_se	(decepar cortar dividir separar)
-pregar	(colar grudar)
-engravidar	(emprenhar)
-transformar	(virar tornar revoltar-se revoltar converter tornar-se)
-barricar	(tapar)
-demonstrar	(registrar perceber)
-proteger	(cobrir)
-servir	(ajudar funcionar dar)
-declarar	(achar)
-requerer	(requisitar pedir custar solicitar)
-obter	(ter comprender entender pegar incorrer conquistar fazer lucrar adquirir
-       receber comprar atingir)
-perturbar	(enervar-se irritar-se)
-comprometer	(dar)
-correlatar_se	(correlacionar correlatar)
-parir	(aguardar esperar)
-balançar	(embalar sacudir)
-descender	(vir_de)
-agitar	(confundir incomodar anunciar publicitar promover divulgar bater)
-preparar	(treinar instruir acender fazer)
-vedar	(lacrar selar chancelar)
-reivindicar	(reclamar afirmar)
-pilotar	(voar transportar_por_avião atravessar)
-bater_as_botas	(morrer)
-beijar	(comer foder montar fazer_amor dormir_com fazer_sexo copular meter
-        trepar transar pinar)
-propagar	NIL
-checar	(verificar assegurar)
-fazer_de_conta	(aparentar pretextar simular fingir)
-estender-se	(jazer estar_deitado)
-alimentar_se	(comer)
-solicitar	(requisitar pedir requerer)
-posar	(estar_sentado sentar sentar-se)
-conquistar	(fazer obter adquirir)
-despojar	(desnudar-se despir-se)
-afirmar	(considerar reclamar reivindicar julgar)
-vencer	(enganar)
-isolar	(adiar)
-assistir	(enxergar ver olhar traçar seguir)
-reviver	(acordar)
-trair	(vender)
-urinar	(fazer_xixi mijar defecar cagar)
-provir	(vir_de)
-reduzir	(diminuir)
-gelar	(congelar)
-aprender	(verificar assegurar achar determinar)
-agarrar	(capturar apanhar)
-estender	(aumentar)
-ter	(atingir adquirir obter aguardar esperar apresenta dispõe contrair sofrer
-     conter padecer)
-segurar	(capturar apanhar conter)
-convocar	(chamar convidar)
-disconcertar	(enrolar perplexar confundir)
-mergulhar_	(focar)
-calcinar	(queimar incinerar)
-levitar	(pairar)
-aconchegar-se	(acomodar)
-repor	(substituir sobrepor suplantar)
-render	(lucrar)
-beber	(tomar)
-espalhar	(circular disseminar alastrar difundir transmitir)
-colar	(pregar atar grudar aderir)
-afiançar	(assegurar ter_certeza assegurar-se garantir certificar-se)
-propulsar	(impressionar comover afetar)
-começar	(principiar iniciar vir)
-apresentar	(informar notificar noticiar familiarizar)
-lutar	(anunciar publicitar promover divulgar)
-julgar	(afirmar achar deliberar considerar)
-avionar	(voar transportar_por_avião atravessar)
-fingir	(fazer_de_conta fazer_papel agir comportar-se parecer atuar representar)
-gastar	(ocupar levar)
-aborrecer	(enervar-se irritar-se)
-consentir	(outorgar permitir dar conceder)
-inter-relacionar	(relacionar)
-sindicar-se	(sindicar)
-tocar	(irritar encontrar afluir convergir retocar empurrar executar ligar)
-convencionar	(estipular)
-continuar	(durar prolongar-se preservar manter permanecer adiantar-se seguir
-           progredir avançar ir prosseguir)
-provar	(experimentar verificar assegurar)
-sufocar	(asfixiar estrangular)
-empurrar	(forçar tocar desvanecer afastar afugentar rechaçar)
-deparar	(confrontar defrontar enfrentar deparar_se)
-falar	(supor falar_demais dedurar verbalizar ler englobar compreender conter
-       abarcar circundar tratar)
-focar	(mergulhar_ fascinar interessar)
-desprezar	(indeferir recusar rejeitar declinar)
-obscurecer	(confundir)
-reduzir_a_cinzas	(queimar incinerar)
-ampliar	(aumentar)
-formar	(trabalhar)
-atolar	NIL
-estar_pendente	(pendurar)
-dividir	(dividir_em_segmentos apartar-se separar-se apartar terminar separar_se
-         desintegrar decepar cortar separar romper quebrar)
-incinerar	(queimar calcinar reduzir_a_cinzas arder)
-congelar	(gelar)
-excomungar	NIL
-transar	(beijar)
-carregar	(levar transportar)
-equilibrar	(compensar equilibrar-se)
-executar	(justiçar atingir cumprir efetuar levar_a_cabo realizar tocar)
-trabalhar	(cultivar modelar moldar formar)
-puxar	(forçar sacar extrair tirar arredar)
-eclodir	NIL
-acomodar	(aconchegar-se conter acariciar aconchegar)
-fazer_valer	(utilizar usar empregar)
-endossar	(aprovar)
-urrar	(gritar exclamar berrar bradar chamar)
-transmigrar	(vagar errar)
-retirar-se	(retirar_se desinteressar desinteressar_se abandonar largar partir
-            deixar sair)
-vassourar	(atravessar raspar roçar)
-desencaminhar	(seduzir)
-vagar	(correr_terras perambular vagabundear vaguear transmigrar vadiar errar
-       flutuar)
-marcar	(rotular etiquetar)
-conversar	(verbalizar)
-sumarizar	(sintetizar resumir)
-agradar	(satisfazer)
-informar	(introduzir apresentar)
-falar_demais	(falar)
-apurar	(purificar distilar destilar)
-ornar	(fazer_decoração adornar ornamentar decorar)
-verificar	(provar ver aprender encontrar descobrir checar conferir assegurar)
-determinar	(encontrar aprender ver achar descobrir)
-somar	(adicionar)
-soltar	(afundar cair)
-compreender	(entender achar considerar endereçar cobrir falar tratar lidar
-             envisionar figurar afigurar visualizar ver conter ler)
-aguentar	(sofrer conter)
-pensar	(achar deliberar considerar)
-arredar	(forçar puxar)
-ler	(dizer falar proclamar compreender entender)
-supor	(dizer contar falar)
-simular	(fazer_de_conta representar fazer_papel atuar agir comportar-se parecer)
-fraturar	(fracturar quebrar)
-embelezar	(fazer_decoração adornar ornamentar decorar)
-enervar	(confundir incomodar)
-trazer	(fazer levar tirar transportar funcionar pegar transmitir)
-filmar	(tirar_foto fotografar)
-ruir	(colapsar largar_mão desistir abandonar)
-publicitar	(advogar agitar lutar fazer_campanha)
-herdar	NIL
-perguntar	(indagar questionar)
-elaborar	(desenvolver criar fazer)
-tornar	(transformar virar transformar-se mudar acontecer tornar-se)
-putrefazer	(desintegrar)
-fazer_bolhas	(empolar)
-desaconselhar	(alertar advertir avisar)
-reganhar	(re-adquirir reconquistar recuperar encontrar achar)
-passear	(ir caminhar andar)
-dar_à_luz	(aguardar esperar)
-introduzir	(informar notificar noticiar familiarizar)
-difundir	(circular espalhar)
-cortar	(apartar-se separar-se apartar terminar separar_se decepar dividir
-        separar atravessar)
-crescer	(desenvolver)
-largar_mão	(desmoronar desabar colapsar quebrar ruir)
-flagrar	(apanhar pegar)
-pagar	(pegar receber)
-desmoronar	(dissolver romper quebrar colapsar largar_mão desistir abandonar)
-ramificar-se	(bifurcar ramificar brotar)
-fruir	(apresenta dispõe)
-chupar	(lactar dar_de_mamar amamentar aleitar)
-vivificar	(acordar)
-carburar	(arder)
-acertar	(atingir bater colidir)
-blasfemar	(xingar insultar desbocar)
-andar_à_caça_de	(caçar)
-sincronizar	NIL
-observar	(traçar seguir)
-reavivar	(acordar)
-dividir_em_segmentos	(secionar segmentar dividir)
-preservar	(permanecer adiantar-se seguir progredir avançar ir continuar
-           prosseguir)
-incluir	(conter)
-derrotar	(enganar)
-ver	(verificar visualizar informar-se inteirar assegurar determinar enxergar
-     olhar traçar seguir entender compreender achar descobrir reunir assistir)
-desenhar	(arquitetar criar traçar delinear)
-masturbar-se	(masturbar)
-retroceder	(decorrer)
-requisitar	(requerer solicitar)
-retocar	(tocar)
-cobrir	(enfronhar encapar tampar afixar aplicar passar proteger englobar
-        compreender conter abarcar circundar tratar)
-dar	(dedicar ajudar revelar prover entregar legar servir aplicar comprometer
-     deixar consentir permitir provocar causar transmitir)
-enganar	(derrotar bater vencer superar ultrapassar)
-desempenhar	(afetar ter_efeito)
-olhar	(traçar seguir assistir ver)
-fornecer	(permitir admitir)
-seduzir	(desencaminhar)
-atraiçoar	(vender)
-praguejar	(xingar insultar desbocar)
-recolocar	(substituir sobrepor suplantar)
-decorar	(fazer_decoração ornar adornar ornamentar empetecar embelezar enfeitar)
-interditar	(tapar)
-enfronhar	(cobrir tampar)
-referir	(fazer_alusã_oa aludir reportar-se)
-deixar_pastar	(pastar)
-compor	(publicar escrever)
-suceder	(acontecer)
-aniquilar	(dizimar)
-intoxicar	(envenenar)
-obnubilar	(confundir)
-capitanear	(liderar desbravar)
-dormir_com	(beijar)
-desejar	(procurar)
-largar	(partir ir retirar-se sair afundar cair)
-prevenir	(alertar advertir avisar)
-bater	(palpitar pulsar bater_repetidamente enganar acertar golpear agitar
-       atingir colidir)
-aguardar	(antecipar esperar dar_à_luz parir ter)
-produzir	(fazer criar instituir)
-ressecar	(mumificar)
-correr_terras	(vagar errar)
-desobstruir	(retirar limpar)
-domar	(domesticar)
-semear	(plantar)
-convidar	(convocar)
-dedicar	(dar)
-aceitar	(admitir receber)
-possuir	(apresenta dispõe conter)
-pulsar	(bater)
-comportar-se	(simular fingir)
-bronha	(masturbar)
-pesar	(tomar_o_peso)
-reconsiderar	NIL
-redigir	(escrever)
-palpitar	(bater)
-gotejar	(pingar)
-deitar-se	(jazer estar_deitado)
-dançar	NIL
-estrangular	(asfixiar sufocar)
-decepar	(cortar apartar-se separar-se dividir apartar separar terminar
-         separar_se)
-bifurcar	(ramificar-se ramificar desgalhar)
-inteirar	(encontrar ver)
-terminar	(cair decepar cortar dividir separar)
-dedurar	(falar)
-choramingar	(birra)
-restar	(jazer)
-substituir	(recolocar suplantar repor sobrepor mudar)
-enferrujar	(oxidar)
-lavar-se	(lavar)
-precisar	(custar)
-fazer_uma_moção	(mover)
-agastar	(enervar-se irritar-se)
-fascinar	(focar concentrar centrar)
-registrar	(registrar_ demonstrar perceber)
-realizar	(atingir cumprir efetuar executar levar_a_cabo)
-pulverizar	(esmiuçar)
-casar	(esposar juntar casar-se)
-pinar	(beijar)
-prosseguir	(preservar manter continuar)
-disparar	(atirar)
-juntar	(casar)
-enraizar	(radicar)
-ganhar	(desenvolver)
-queimar	(calcinar reduzir_a_cinzas incinerar começar_a_queimar acender arder)
-suportar	(sofrer)
-rechaçar	(empurrar)
-adiantar-se	(preservar manter continuar)
-condensar	(destilar)
-defrontar	(atacar_de_frente deparar confrontar)
-birra	(choramingar lamuriar)
-custar	(precisar demandar requerer)
-causar	(prover dar)
-montar	(beijar)
-assinalar	(distinguir diferenciar)
-instruir	(preparar treinar)
-folgar	(brincar)
-espetar	(cravar)
-fazer_sexo	(beijar)
-durar	(continuar)
-comprar	(receber obter incorrer)
-motivar	(impressionar comover afetar)
-quietar	(silenciar)
-olvidar	(abandonar)
-acariciar	(acomodar)
-comer	(beijar alimentar-se alimentar_se)
-organizar	(acender fazer)
-rotular	(marcar)
-romper	(separar dividir desmoronar)
-alastrar	(circular espalhar)
-desistir	(desmoronar desabar colapsar quebrar ruir)
-oxidar-se	(oxidar)
-germinar	(brotar)
-tolerar	(sofrer)
-esculpir	NIL
-consubstanciar	NIL
-viajar	(deslocar mover cavalgar andar ir)
-legar	(dar transmitir deixar)
-criar	(desenvolver elaborar construir produzir fazer instituir arquitetar
-       desenhar)
-compatibilizar	(combinar concordar corresponder)
-ir	(deslocar mover viajar cavalgar preservar manter continuar andar caminhar
-    passear abandonar largar partir deixar sair)
-apartar	(decepar cortar dividir separar)
-incomodar	(confundir enervar-se irritar-se agitar enervar)
-derramar	(verter)
-sobrepor	(substituir recolocar repor)
-antecipar	(aguardar esperar)
-proporcionar	(permitir admitir)
-indagar	(perguntar questionar)
-consumir	(ocupar levar)
-deslocar	(andar ir caminhar viajar)
-ficar_de_pé	(encostar levantar erguer)
-aumentar	(estender ampliar)
-girar	(revirar revolver rodar virar-se virar)
-bloquear	(tapar)
-superar	(enganar)
-pôr	(estar_sentado sentar sentar-se)
-teorizar	NIL
-chamar	(convocar gritar urrar vociferar mugir berrar)
-encostar	(encontrar afluir convergir ficar_de_pé)
-exercitar	(malhar treinar exercitar-se)
-correlacionar	(correlatar_se)
-competir	(equiparar igualar)
-amamentar	(sugar chupar)
-afixar	(cobrir)
-desnudar	(desnudar-se despir-se)
-varrer	(escovar atravessar raspar roçar)
-ordenhar	(por_leite)
-treinar	(praticar instruir malhar exercitar preparar)
-renascer	(acordar)
-hiperventilar	NIL
-surrar	(destruir)
-asfixiar	(sufocar estrangular)
-fazer_digestão	(digerir)
-radicar	(enraizar)
-atochar	(lotar)
-desbravar	(capitanear)
-sublimar	(purificar distilar destilar)
-avisar	(alertar desaconselhar advertir admoestar prevenir)
-gostar	(satisfazer)
-equilibrar-se	(equilibrar compensar)
-experimentar	(provar)
-incentivar	(impressionar comover afetar)
-comover	(atingir atacar provocar propulsar motivar estimular incentivar)
-perceber	(registrar_ registrar demonstrar)
-provocar	(prover dar impressionar comover afetar)
-martelar	(fincar)
-desabar	(colapsar largar_mão desistir abandonar)
-estipular	(convencionar estipule)
-estratificar	NIL
-atacar	(impressionar atingir assaltar atirar agredir comover afetar)
-apanhar	(segurar agarrar pegar flagrar)
-decorrer	(afastar-se recuar retroceder afastar_se voltar_atrás)
-quebrar	(arruinar partir destruir fracturar morrer rachar separar dividir
-         desmoronar fraturar colapsar largar_mão desistir abandonar)
-converter	(transformar transmudar tornar-se mudar)
-prolongar-se	(continuar)
-deparar_se	(atacar_de_frente deparar confrontar)
-permitir_trânsito	(atravessar)
-boiar	(flutuar)
-empolar	(fazer_bolhas)
-conferir	(verificar assegurar)
-atormentar	(enervar-se irritar-se)
-fazer_alusã_oa	(concernir relacionar referir)
-igualar	(competir)
-adoptar	(seguir conformar acatar)
-colocar	(jogar)
-atar	(colar grudar)
-trocar	(mudar)
-instanciar	NIL
-recuar	(decorrer)
-virar-se	(girar)
-correr	(enfileirar)
-voar	(atravessar avionar pilotar viajar_de_avião)
-fazer_xixi	(urinar defecar cagar)
-navegar	(ir_às_compras)
-declinar	(recusar desprezar rejeitar)
-chancelar	(vedar selar)
-massacrar	(dizimar)
-ficar	(cair vir)
-adicionar	(acrescer acrescentar somar)
-submergir	(naufragar)
-intencionar	(significar denotar)
-rejeitar	(indeferir desprezar recusar declinar)
-subsistir	(resistir sobreviver perseverar)
-inflamar	NIL
-embalar	(balançar sacudir)
-saber	(conhecer entender)
-afugentar	(empurrar)
-brincar	(jogar folgar atuar representar)
-atirar	(atacar disparar)
-vasculhar	(atravessar raspar roçar)
-haver	(resistir sobreviver perseverar)
-publicar	(escrever compor)
-admoestar	(alertar advertir avisar)
-ocupar	(consumir gastar)
-fechar	(cerrar)
-caçar	(montear andar_à_caça_de)
-acrescer	(adicionar)
-procurar	(querer desejar)
-perplexar	(confundir disconcertar)
-justiçar	(executar)
-atribuir	(imputar)
-revestir	(forrar)
-resumir	(sintetizar sumarizar)
-querer_dizer	(significar)
-verbalizar	(falar dizer conversar proferir)
-exercitar-se	(malhar exercitar)
-adotar	(seguir conformar acatar)
-tapar	(barricar bloquear interditar)
-embevecer	(satisfazer)
-desenvolver	(formular elaborar ganhar crescer adquirir criar fazer)
-assentar	(sedimentar)
-anunciar	(advogar agitar lutar fazer_campanha)
-delinear	(desenhar)
-irritar-se	(atormentar perturbar aborrecer amolar agastar vexar molestar
-            incomodar irritar importunar)
-segmentar	(dividir_em_segmentos)
-copular	(beijar)
-grudar	(pregar atar aderir colar)
-exclamar	(gritar urrar vociferar mugir berrar)
-progredir	(preservar manter continuar)
-funcionar	(fazer servir trazer operar)
+transmitir	revelar/dar/entregar/legar/levar/tirar/transportar/conduzir/trazer/transmitir/circular/espalhar
+precipitar	cair
+berrar	urrar/vociferar/mugir/gritar/exclamar/berrar/bradar/chamar
+reunir	encontrar/ver
+aquietar	silenciar
+sofrer	aguentar/tolerar/suportar/aturar/ter/padecer
+confundir	obnubilar/obscurecer/misturar/disconcertar/enrolar/perplexar/confundir/agitar/incomodar/enervar
+vestir	vestir_formalmente/emperequetar_se/arrumar_se/vestir-se/arrumar-se/vestir
+lidar	englobar/compreender/conter/abarcar/circundar/tratar
+divulgar	advogar/agitar/lutar/fazer_campanha
+cavalgar	viajar/andar/ir
+admitir	proporcionar/fornecer/permitir/deixar/aceitar/admitir
+aconchegar	acomodar
+forrar	revestir
+contar	supor
+amassar	cultivar
+_ressuscitar	acordar
+querer	procurar
+separar-se	decepar/cortar/dividir/separar
+indeferir	recusar/desprezar/rejeitar
+estimar	medir/estimar/avaliar
+dizimar	aniquilar/massacrar/dizimar/devastar
+insular	adiar
+apartar-se	decepar/cortar/dividir/separar
+lavar	lavar-se/lavar_se/lavar
+prender	prender
+envenenar	empeçonhar/intoxicar/envenenar
+explorar	explorar
+confrontar	atacar_de_frente/deparar/confrontar/defrontar/enfrentar/deparar_se
+fazer_papel	simular/fingir
+comprazer	satisfazer
+corroer	corroer
+outorgar	deixar/consentir/permitir
+xingar	praguejar/blasfemar/maldizer
+ser	afetar/ter_efeito
+alertar	desaconselhar/advertir/admoestar/prevenir/avisar
+despir	desnudar-se/despir-se
+estar_situado	reclinar
+domesticar	domar/domesticar
+sindicar	sindicar-se
+sobreviver	haver/subsistir/resistir/sobreviver/perseverar
+aparentar	atuar/fazer_de_conta
+digerir	fazer_digestão/digerir
+cerrar	fechar
+combinar	corresponder/combinar/estar_conforme_a/estar_em_harmonia/harmonizar/concordar/compatibilizar/caber
+entender	achar/considerar/obter/adquirir/atingir/envisionar/figurar/afigurar/visualizar/compreender/ver/saber/conhecer/ler
+plantar	semear
+tampar	cobrir/enfronhar/encapar
+andar	deslocar/mover/cavalgar/caminhar/passear/andar/viajar/ir
+falecer	morrer
+mijar	urinar/defecar/cagar
+raspar	vassourar/varrer/vasculhar
+destruir	surrar/arruinar/quebrar/destruir
+jazer	reclinar/estar_deitado/restar/estender-se/jazer/acamar/deitar-se
+efetuar	executar/levar_a_cabo/realizar
+roçar	vassourar/varrer/vasculhar
+inscrever-se	pedir
+decair	desintegrar
+irritar	pegar/tocar/enervar-se/irritar-se
+atacar_de_frente	confrontar/defrontar/enfrentar/deparar_se
+nadar	flutuar
+acatar	adotar/adoptar
+malhar	treinar/exercitar-se/malhar/exercitar
+assentar-se	estar_sentado/sentar/sentar-se
+advertir	alertar/desaconselhar/advertir/admoestar/prevenir/avisar
+mudar	relocar/tornar/revoltar-se/revoltar/substituir/converter/trocar/mudar
+avizinhar	chegar
+oxidar	oxidar-se/enferrujar/oxidar
+englobar	endereçar/cobrir/falar/tratar/lidar
+encontrar	tocar/verificar/re-adquirir/descobrir/informar-se/inteirar/reconquistar/recuperar/encontrar/reganhar/assegurar/achar/determinar/encostar/reunir
+afetar	atingir/provocar/propulsar/motivar/estimular/incentivar/atacar/desempenhar/ser
+alcançar	vir/chegar
+re-adquirir	encontrar/reganhar/achar
+abandonar	desmoronar/partir/ir/retirar-se/sair/olvidar/esquecer/desabar/colapsar/quebrar/ruir
+encarar	virar
+retirar_se	retirar-se
+pingar	gotejar/pingar
+reportar-se	concernir/relacionar/referir
+desgalhar	bifurcar/ramificar/brotar
+deixar_cair	afundar/cair
+lamentar	lamentar
+viajar_de_avião	voar/transportar_por_avião/atravessar
+fincar	martelar
+operar	funcionar
+saponificar	saponificar
+concernir	fazer_alusã_oa/aludir/reportar-se
+morrer	quebrar/estragar/partir/bater_as_botas/perecer/falecer/morrer
+lucrar	obter/adquirir/render
+lacrar	vedar/selar
+enfrentar	atacar_de_frente/deparar/confrontar
+agir	simular/fingir
+resistir	sobreviver/haver/subsistir
+perambular	vagar/errar
+ratear	dividir_proporcionalmente
+estar_em_harmonia	combinar/concordar/corresponder
+praticar	utilizar/usar/empregar/treinar
+apresenta	fruir/possuir/ter
+revoltar-se	transformar/virar/transformar-se/mudar/acontecer/tornar-se
+brotar	germinar/ramificar-se/ramificar/desgalhar
+garantir	afiançar
+secundar	aprovar
+comparar	comparar
+cultivar	amassar/trabalhar
+masturbar	masturbar-se/cinco-contra-um/punheta/bronha/masturbar
+reconquistar	encontrar/reganhar/achar
+empetecar	fazer_decoração/adornar/ornamentar/decorar
+conceder	deixar/consentir/permitir
+tirar_foto	filmar
+figurar	visualizar/entender/compreender
+arquitetar	arquitetar/criar/desenhar
+sentar	pôr/posar/assentar-se/estar_sentado/sentar/sentar-se
+assegurar	afiançar/provar/ver/aprender/encontrar/descobrir/checar/conferir/verificar
+desintegrar	putrefazer/dissolver/dividir/decair
+derivar	vir_de
+esvaziar	remover
+centrar	fascinar/interessar
+pendurar	estar_pendente/dependurar/pendurar
+seguir	seguir/observar/guardar/ver/espionar/assistir/olhar/mirar/adotar/adoptar/preservar/manter/continuar
+vociferar	gritar/exclamar/berrar/bradar/chamar
+instituir	construir/criar/produzir/fazer
+agredir	assaltar/atacar
+afastar_se	decorrer
+sentar-se	pôr/posar/assentar-se/estar_sentado/sentar/sentar-se
+despejar	despejar/remover/desalojar
+notificar	introduzir/apresentar
+pretextar	atuar/fazer_de_conta
+arrumar	acender/fazer
+usar	aplicar/fazer_valer/utilizar/praticar/usar/empregar/jogar
+reclinar	estar_deitado/jazer/estar_situado
+despir-se	despojar/desnudar/despir
+avançar	preservar/manter/continuar
+vestir_formalmente	vestir
+acordar	renascer/reavivar/reanimar/vivificar/animar/_ressuscitar/reviver
+pastar	deixar_pastar/pastar
+concatenar	concatenar
+incorrer	adquirir/receber/obter/comprar/atingir
+transportar	carregar/trazer/pegar/transmitir
+lavar_se	lavar
+secionar	dividir_em_segmentos
+vexar	enervar-se/irritar-se
+enervar-se	atormentar/perturbar/aborrecer/amolar/agastar/vexar/molestar/incomodar/irritar/importunar
+importunar	enervar-se/irritar-se
+enfileirar	passar/correr
+considerar	afirmar/julgar/pensar/deliberar/considerar/entender/compreender
+afigurar	visualizar/entender/compreender
+acrescentar	adicionar
+desalojar	despejar/remover
+adiar	insular/isolar
+golpear	atingir/bater/colidir
+engessar	aplicar/passar
+molestar	enervar-se/irritar-se
+recusar	indeferir/desprezar/recusar/rejeitar/declinar
+utilizar	aplicar/fazer_valer/utilizar/praticar/usar/empregar/jogar
+fracturar	fraturar/quebrar
+padecer	ter/contrair/sofrer
+rolar	revirar/revolver/rodar
+cozinhar	acender/fazer
+espionar	traçar/seguir
+tratar	englobar/compreender/conter/abarcar/circundar/endereçar/cobrir/falar/tratar/lidar
+ter_efeito	desempenhar/ser
+pedir	reservar/pedir/inscrever-se/requerer/solicitar
+vender	trair/atraiçoar
+bater_repetidamente	bater
+remover	esvaziar/despejar/limpar/remover/desalojar
+detectar	achar/descobrir
+registrar_	perceber/registrar
+abarcar	endereçar/cobrir/falar/tratar/lidar
+ter_certeza	afiançar
+vadiar	vagar/errar
+dispõe	fruir/possuir/ter
+suplantar	substituir/recolocar/repor
+enfeitar	fazer_decoração/adornar/ornamentar/decorar
+promover	advogar/agitar/lutar/fazer_campanha
+ajudar	servir/dar
+aprovar	endossar/secundar/apoiar/aprovar
+transformar-se	virar/tornar/revoltar-se/revoltar
+selar	vedar/lacrar/selar/chancelar
+atuar	aparentar/pretextar/actuar/fazer/brincar/performar/atuar/representar/passar/simular/fingir
+citar	citar/mencionar
+equiparar	competir
+desinteressar	retirar-se
+avaliar	medir/estimar/avaliar
+rodar	rolar/girar/virar
+adornar	fazer_decoração/ornar/decorar/adornar/ornamentar/empetecar/embelezar/enfeitar
+dividir_proporcionalmente	ratear
+fazer_campanha	anunciar/publicitar/promover/divulgar
+disseminar	circular/espalhar
+aproximar-se_de	chegar
+etiquetar	marcar
+melhorar	aperfeiçoar/melhorar
+circular	disseminar/alastrar/espalhar/difundir/transmitir
+esposar	casar
+sacudir	balançar/embalar
+envisionar	visualizar/entender/compreender
+permanecer	preservar/manter/continuar
+permitir	proporcionar/outorgar/fornecer/dar/conceder/admitir/deixar/consentir/permitir
+entornar	verter
+errar	correr_terras/perambular/vagabundear/vaguear/transmigrar/vadiar/vagar/errar
+verter	entornar/derramar/verter
+concentrar	fascinar/interessar
+informar-se	encontrar/ver
+representar	simular/actuar/fazer/brincar/fingir/performar/atuar/representar/passar
+aperfeiçoar	melhorar
+compensar	equilibrar-se/equilibrar
+endereçar	englobar/compreender/conter/abarcar/circundar/tratar
+manter	permanecer/adiantar-se/seguir/progredir/avançar/ir/continuar/prosseguir
+pairar	levitar
+vestir-se	vestir
+reger	reger/conduzir
+satisfazer	encantar/aprazer/agradar/gostar/embevecer/comprazer/satisfazer
+por_leite	ordenhar
+mugir	gritar/exclamar/berrar/bradar/chamar
+vagabundear	vagar/errar
+atingir	ter/impressionar/comprender/entender/pegar/receber/obter/incorrer/bater/acertar/golpear/atacar/executar/levar_a_cabo/realizar/comover/afetar
+animar	acordar
+naufragar	submergir/afundar
+deixar	outorgar/permitir/conceder/admitir/partir/ir/retirar-se/sair/legar/entregar/dar
+cinco-contra-um	masturbar
+desinteressar_se	retirar-se
+iniciar	iniciar/principiar/começar
+alimentar-se	comer
+emperequetar_se	vestir
+dar_de_mamar	sugar/chupar
+moldar	trabalhar
+proferir	verbalizar
+enrolar	confundir/disconcertar
+enxergar	assistir/ver
+receber	pagar/incorrer/aceitar/adquirir/receber/obter/comprar/atingir
+transportar_por_avião	avionar/pilotar/viajar_de_avião
+dependurar	pendurar
+conduzir	transmitir/reger/conduzir/fazer
+amolar	enervar-se/irritar-se
+passar	cobrir/emassar/engessar/enfileirar/actuar/atuar/fazer/representar
+levar	consumir/gastar/carregar/trazer/pegar/transmitir
+chegar	pegar/alcançar/acercar/chegar/aproximar-se_de/avizinhar/vir
+imputar	atribuir
+revirar	rolar/girar/virar
+vaguear	vagar/errar
+vir_de	vir/provir/derivar/descender
+colidir	bater/acertar/golpear
+endurecer	endurecer
+proclamar	ler
+estar_sentado	pôr/posar/sentar-se/sentar/assentar-se
+empeçonhar	envenenar
+deliberar	considerar/julgar/pensar
+arruinar	quebrar/destruir
+corresponder	combinar/estar_conforme_a/estar_em_harmonia/harmonizar/concordar/compatibilizar
+levar_a_cabo	atingir/cumprir/efetuar/executar/levar_a_cabo/realizar
+arrumar_se	vestir
+cair	terminar/ficar/deixar_cair/soltar/largar/cair/precipitar
+parecer	simular/fingir
+revolver	rolar/girar/virar
+forçar	empurrar/tirar/puxar/arredar
+silenciar	quietar/aquietar
+assaltar	atacar/agredir
+afundar	naufragar/deixar_cair/soltar/largar
+conter	endereçar/cobrir/falar/tratar/lidar/acomodar/possuir/segurar/incluir/aguentar/compreender/conter/ter
+estar_conforme_a	combinar/concordar/corresponder
+casar-se	casar
+defecar	fazer_xixi/urinar/mijar
+fazer	conduzir/desenvolver/conquistar/elaborar/trazer/atrair/construir/produzir/funcionar/criar/instituir/performar/atuar/representar/passar/fazer/obter/adquirir/organizar/arrumar/cozinhar/preparar
+modelar	trabalhar
+sintetizar	resumir/sumarizar
+desnudar-se	despojar/desnudar/despir
+erguer	ficar_de_pé
+advogar	anunciar/publicitar/promover/divulgar
+harmonizar	combinar/concordar/corresponder
+emprenhar	engravidar/emprenhar
+afluir	tocar/encostar
+liderar	capitanear
+familiarizar	introduzir/apresentar
+trepar	beijar
+purificar	distilar/purificar/apurar/sublimar/destilar/extrair
+comprender	obter/adquirir/atingir
+desvanecer	empurrar
+relocar	mudar
+dizer	dizer/supor/indicar/verbalizar/ler
+bradar	gritar/urrar/vociferar/mugir/berrar
+traçar	desenhar/observar/guardar/ver/espionar/assistir/olhar/mirar
+contrair	ter/padecer
+empregar	aplicar/fazer_valer/utilizar/praticar/usar
+distilar	purificar/apurar/sublimar/destilar/extrair
+ramificar	ramificar-se/bifurcar/brotar/ramificar/desgalhar
+medir	estimar/avaliar
+conhecer	conhecer/saber/entender
+encantar	satisfazer
+cagar	fazer_xixi/urinar/mijar
+construir	fazer/criar/instituir
+distinguir	assinalar
+separar	apartar-se/separar-se/apartar/terminar/separar_se/decepar/cortar/dividir/separar/romper/quebrar
+rachar	partir/quebrar/rachar
+adquirir	ter/comprender/entender/pegar/desenvolver/receber/incorrer/conquistar/lucrar/fazer/obter/adquirir
+dissolver	desintegrar/desmoronar
+correlatar	correlatar_se
+pegar	vir/irritar/trazer/levar/tirar/transportar/obter/adquirir/atingir/chegar/apanhar/pagar/pegar/flagrar
+perseverar	sobreviver/haver/subsistir
+certificar-se	afiançar
+limpar	desobstruir/retirar/limpar/remover
+cumprir	executar/levar_a_cabo/realizar
+votar	votar
+revelar	dar/transmitir
+capturar	segurar/agarrar
+significar	querer_dizer/intencionar/significar
+mumificar	ressecar/mumificar
+estar_deitado	reclinar/estender-se/jazer/acamar/deitar-se
+principiar	começar/iniciar/principiar
+impressionar	atingir/atacar/provocar/propulsar/motivar/estimular/incentivar
+virar	encarar/tornar/revoltar-se/revoltar/girar/revirar/revolver/rodar/derrubar/acontecer/transformar/virar/transformar-se/tornar-se
+partir	morrer/quebrar/rachar/ir/retirar-se/abandonar/largar/partir/deixar/sair
+estragar	morrer
+denotar	intencionar
+ornamentar	fazer_decoração/ornar/decorar/adornar/ornamentar/empetecar/embelezar/enfeitar
+travar	travar/frear
+recuperar	encontrar/reganhar/achar
+encapar	cobrir/tampar
+gritar	urrar/vociferar/mugir/gritar/exclamar/berrar/bradar/chamar
+aprazer	satisfazer
+vir	vir_de/pegar/alcançar/chegar/ficar/começar
+reclamar	afirmar/reivindicar
+jogar	apostar/brincar/usar/colocar/utilizar
+afastar-se	decorrer
+insultar	praguejar/blasfemar/maldizer
+lactar	sugar/chupar
+acercar	chegar
+guardar	traçar/seguir
+ir_às_compras	navegar
+actuar	performar/atuar/representar/passar
+manchar	manchar
+sacar	extrair/sacar/puxar/tirar
+tirar	forçar/extrair/sacar/puxar/tirar/trazer/pegar/transmitir
+flutuar	boiar/vagar/nadar
+esperar	antecipar/esperar/aguardar/dar_à_luz/parir/ter
+achar	julgar/pensar/re-adquirir/reconquistar/recuperar/declarar/reganhar/encontrar/aprender/entender/compreender/determinar/ver/detectar/achar/descobrir
+distender	distender
+reservar	pedir
+cravar	espetar
+atravessar	permitir_trânsito/cortar/vasculhar/varrer/vassourar/voar/avionar/pilotar/viajar_de_avião
+tornar-se	virar/converter/transformar/transmudar/tornar/revoltar-se/revoltar
+ultrapassar	enganar
+arder	começar_a_queimar/acender/incinerar/queimar/carburar
+extrair	destilar/distilar/purificar/sacar/puxar/tirar
+aleitar	sugar/chupar
+prover	provocar/dar/causar
+colapsar	desmoronar/desabar/quebrar/ruir/colapsar/largar_mão/desistir/abandonar
+entregar	dar/transmitir/deixar
+misturar	confundir
+hidratar	hidratar
+esmiuçar	pulverizar
+caminhar	deslocar/mover/ir/andar/caminhar/passear
+fazer_decoração	ornar/decorar/adornar/ornamentar/empetecar/embelezar/enfeitar
+cantar	cantar
+visualizar	visualizar/afigurar/figurar/ver/envisionar/entender/compreender
+voltar_atrás	decorrer
+acender	arder/queimar/organizar/arrumar/cozinhar/preparar
+ligar	tocar
+escrever	compor/publicar/redigir/escrever
+indicar	dizer
+acontecer	suceder/virar/tornar/revoltar-se/revoltar/calhar/acontecer/ocorrer
+circundar	endereçar/cobrir/falar/tratar/lidar
+diminuir	reduzir/diminuir
+destilar	distilar/purificar/apurar/sublimar/destilar/extrair/condensar
+apostar	jogar/apostar
+fazer_amor	beijar
+derrubar	virar
+transmudar	converter/tornar-se
+relacionar	inter-relacionar/fazer_alusã_oa/aludir/reportar-se
+retirar	limpar/desobstruir
+interessar	focar/concentrar/centrar
+revoltar	transformar/virar/transformar-se/mudar/acontecer/tornar-se
+diferenciar	assinalar
+mover	andar/ir/caminhar/viajar/fazer_uma_moção
+estipule	estipular
+afastar	empurrar
+descobrir	verificar/encontrar/assegurar/determinar/ver/detectar/achar/descobrir
+mencionar	citar
+montear	caçar
+perecer	morrer
+aplicar	utilizar/usar/empregar/cobrir/emassar/engessar/dar
+acamar	jazer/estar_deitado
+questionar	indagar/perguntar
+fotografar	filmar
+estimular	impressionar/comover/afetar
+ocorrer	acontecer
+sedimentar	assentar
+levantar	ficar_de_pé
+lamuriar	birra
+lotar	atochar
+esquecer	abandonar
+foder	beijar
+formular	desenvolver
+aludir	concernir/relacionar/referir
+emassar	aplicar/passar
+começar_a_queimar	arder/queimar
+ressuscitar	ressuscitar
+aderir	grudar/aderir/colar
+maldizer	xingar/insultar/desbocar
+sair	ir/retirar-se/abandonar/largar/partir/deixar/sair
+punheta	masturbar
+atrair	fazer
+convergir	tocar/encostar
+reanimar	acordar
+sugar	lactar/dar_de_mamar/amamentar/aleitar
+caber	combinar
+desbocar	praguejar/blasfemar/maldizer
+tomar_o_peso	pesar
+assegurar-se	afiançar
+mirar	traçar/seguir
+tomar	tomar/beber
+aturar	sofrer
+conformar	adotar/adoptar
+performar	representar/fazer/atuar/actuar
+escovar	escovar/varrer
+meter	beijar
+demandar	custar
+arrumar-se	vestir
+apoiar	aprovar
+calhar	acontecer
+noticiar	introduzir/apresentar
+concordar	combinar/corresponder/estar_conforme_a/estar_em_harmonia/harmonizar/concordar/compatibilizar
+devastar	dizimar
+frear	travar/frear
+separar_se	decepar/cortar/dividir/separar
+pregar	colar/grudar
+engravidar	emprenhar
+transformar	virar/tornar/revoltar-se/revoltar/converter/tornar-se
+barricar	tapar
+demonstrar	registrar/perceber
+proteger	cobrir
+servir	ajudar/funcionar/servir/dar
+declarar	achar
+requerer	requisitar/pedir/custar/requerer/solicitar
+obter	ter/comprender/entender/pegar/incorrer/conquistar/fazer/lucrar/adquirir/receber/obter/comprar/atingir
+perturbar	enervar-se/irritar-se
+comprometer	dar
+correlatar_se	correlacionar/correlatar
+parir	aguardar/esperar
+balançar	embalar/balançar/sacudir
+descender	vir_de
+agitar	confundir/incomodar/anunciar/publicitar/promover/divulgar/agitar/bater
+preparar	treinar/instruir/acender/fazer
+vedar	lacrar/selar/chancelar
+reivindicar	reclamar/afirmar/reivindicar
+pilotar	voar/transportar_por_avião/atravessar
+bater_as_botas	morrer
+beijar	comer/foder/montar/fazer_amor/dormir_com/fazer_sexo/copular/meter/trepar/transar/pinar
+propagar	propagar
+checar	verificar/assegurar
+fazer_de_conta	aparentar/pretextar/simular/fingir
+estender-se	jazer/estar_deitado
+alimentar_se	comer
+solicitar	requisitar/pedir/requerer/solicitar
+posar	estar_sentado/sentar/sentar-se
+conquistar	fazer/obter/adquirir
+despojar	desnudar-se/despir-se
+afirmar	considerar/reclamar/reivindicar/julgar
+vencer	enganar
+isolar	adiar
+assistir	enxergar/ver/olhar/traçar/seguir
+reviver	acordar
+trair	vender
+urinar	fazer_xixi/mijar/urinar/defecar/cagar
+provir	vir_de
+reduzir	reduzir/diminuir
+gelar	congelar
+aprender	verificar/assegurar/achar/determinar
+agarrar	capturar/apanhar
+estender	aumentar
+ter	atingir/adquirir/obter/aguardar/esperar/apresenta/dispõe/contrair/sofrer/conter/ter/padecer
+segurar	capturar/apanhar/conter
+convocar	chamar/convidar
+disconcertar	enrolar/perplexar/confundir
+mergulhar_	focar
+calcinar	queimar/incinerar
+levitar	pairar/levitar
+aconchegar-se	acomodar
+repor	substituir/sobrepor/suplantar
+render	lucrar
+beber	tomar/beber
+espalhar	circular/disseminar/alastrar/espalhar/difundir/transmitir
+colar	pregar/atar/grudar/aderir/colar
+afiançar	assegurar/ter_certeza/assegurar-se/garantir/certificar-se
+propulsar	impressionar/comover/afetar
+começar	principiar/começar/iniciar/vir
+apresentar	informar/notificar/noticiar/familiarizar
+lutar	anunciar/publicitar/promover/divulgar
+julgar	afirmar/achar/deliberar/considerar
+avionar	voar/transportar_por_avião/atravessar
+fingir	fazer_de_conta/fazer_papel/agir/comportar-se/parecer/atuar/representar
+gastar	ocupar/levar
+aborrecer	enervar-se/irritar-se
+consentir	outorgar/permitir/dar/conceder
+inter-relacionar	relacionar/inter-relacionar
+sindicar-se	sindicar/sindicar-se
+tocar	irritar/encontrar/afluir/convergir/retocar/empurrar/tocar/executar/ligar
+convencionar	estipular
+continuar	durar/prolongar-se/preservar/manter/permanecer/adiantar-se/seguir/progredir/avançar/ir/continuar/prosseguir
+provar	experimentar/verificar/assegurar
+sufocar	asfixiar/sufocar/estrangular
+empurrar	empurrar/forçar/tocar/desvanecer/afastar/afugentar/rechaçar
+deparar	confrontar/defrontar/enfrentar/deparar_se
+falar	supor/falar_demais/dedurar/verbalizar/ler/englobar/compreender/conter/abarcar/circundar/tratar
+focar	mergulhar_/fascinar/interessar
+desprezar	indeferir/recusar/rejeitar/declinar
+obscurecer	confundir
+reduzir_a_cinzas	queimar/incinerar
+ampliar	aumentar
+formar	trabalhar
+atolar	atolar
+estar_pendente	pendurar
+dividir	dividir_em_segmentos/apartar-se/separar-se/apartar/terminar/separar_se/desintegrar/decepar/cortar/dividir/separar/romper/quebrar
+incinerar	queimar/calcinar/reduzir_a_cinzas/arder/incinerar
+congelar	gelar/congelar
+excomungar	excomungar
+transar	beijar
+carregar	levar/transportar/carregar
+equilibrar	compensar/equilibrar-se/equilibrar
+executar	justiçar/atingir/cumprir/efetuar/executar/levar_a_cabo/realizar/tocar
+trabalhar	cultivar/modelar/moldar/formar/trabalhar
+puxar	forçar/sacar/extrair/tirar/puxar/arredar
+eclodir	eclodir
+acomodar	aconchegar-se/conter/acariciar/aconchegar
+fazer_valer	utilizar/usar/empregar
+endossar	aprovar
+urrar	gritar/exclamar/berrar/bradar/chamar
+transmigrar	vagar/errar
+retirar-se	retirar_se/desinteressar/desinteressar_se/abandonar/largar/partir/deixar/sair
+vassourar	atravessar/raspar/roçar
+desencaminhar	seduzir
+vagar	correr_terras/perambular/vagabundear/vaguear/transmigrar/vadiar/vagar/errar/flutuar
+marcar	rotular/etiquetar
+conversar	verbalizar
+sumarizar	sintetizar/resumir/sumarizar
+agradar	satisfazer
+informar	introduzir/apresentar
+falar_demais	falar
+apurar	purificar/distilar/destilar
+ornar	fazer_decoração/adornar/ornamentar/decorar
+verificar	provar/ver/aprender/encontrar/descobrir/checar/conferir/verificar/assegurar
+determinar	encontrar/aprender/ver/achar/descobrir
+somar	somar/adicionar
+soltar	afundar/cair
+compreender	entender/achar/considerar/endereçar/cobrir/falar/tratar/lidar/envisionar/figurar/afigurar/visualizar/compreender/ver/conter/ler
+aguentar	sofrer/conter
+pensar	pensar/achar/deliberar/considerar
+arredar	forçar/puxar
+ler	dizer/falar/proclamar/ler/compreender/entender
+supor	dizer/contar/falar
+simular	fazer_de_conta/representar/fazer_papel/atuar/agir/comportar-se/parecer
+fraturar	fracturar/quebrar/fraturar
+embelezar	fazer_decoração/adornar/ornamentar/decorar
+enervar	confundir/incomodar
+trazer	fazer/levar/tirar/transportar/funcionar/trazer/pegar/transmitir
+filmar	tirar_foto/fotografar
+ruir	colapsar/largar_mão/desistir/abandonar
+publicitar	advogar/agitar/lutar/fazer_campanha
+herdar	herdar
+perguntar	indagar/perguntar/questionar
+elaborar	desenvolver/criar/fazer
+tornar	transformar/virar/transformar-se/mudar/acontecer/tornar-se
+putrefazer	desintegrar
+fazer_bolhas	empolar
+desaconselhar	alertar/advertir/avisar
+reganhar	re-adquirir/reconquistar/recuperar/encontrar/reganhar/achar
+passear	ir/caminhar/andar
+dar_à_luz	aguardar/esperar
+introduzir	informar/notificar/noticiar/familiarizar
+difundir	circular/espalhar
+cortar	apartar-se/separar-se/apartar/terminar/separar_se/decepar/cortar/dividir/separar/atravessar
+crescer	desenvolver
+largar_mão	desmoronar/desabar/colapsar/quebrar/ruir
+flagrar	apanhar/pegar
+pagar	pegar/receber
+desmoronar	dissolver/romper/quebrar/colapsar/largar_mão/desistir/abandonar
+ramificar-se	bifurcar/ramificar/brotar
+fruir	apresenta/dispõe
+chupar	lactar/dar_de_mamar/amamentar/aleitar
+vivificar	acordar
+carburar	arder
+acertar	atingir/bater/colidir
+blasfemar	xingar/insultar/desbocar
+andar_à_caça_de	caçar
+sincronizar	sincronizar
+observar	traçar/seguir
+reavivar	acordar
+dividir_em_segmentos	secionar/segmentar/dividir
+preservar	permanecer/adiantar-se/seguir/progredir/avançar/ir/continuar/prosseguir
+incluir	conter
+derrotar	enganar
+ver	verificar/visualizar/informar-se/inteirar/assegurar/determinar/enxergar/olhar/traçar/seguir/entender/compreender/achar/descobrir/reunir/assistir/ver
+desenhar	arquitetar/criar/traçar/delinear
+masturbar-se	masturbar
+retroceder	decorrer
+requisitar	requerer/solicitar
+retocar	tocar
+cobrir	enfronhar/encapar/tampar/afixar/aplicar/passar/cobrir/proteger/englobar/compreender/conter/abarcar/circundar/tratar
+dar	dedicar/ajudar/revelar/prover/entregar/legar/servir/aplicar/comprometer/deixar/consentir/permitir/provocar/causar/dar/transmitir
+enganar	derrotar/bater/vencer/superar/ultrapassar
+desempenhar	afetar/ter_efeito
+olhar	traçar/seguir/assistir/ver
+fornecer	permitir/admitir
+seduzir	desencaminhar/seduzir
+atraiçoar	vender
+praguejar	xingar/insultar/desbocar
+recolocar	substituir/sobrepor/suplantar
+decorar	fazer_decoração/ornar/decorar/adornar/ornamentar/empetecar/embelezar/enfeitar
+interditar	tapar
+enfronhar	cobrir/tampar
+referir	fazer_alusã_oa/aludir/reportar-se
+deixar_pastar	pastar
+compor	publicar/escrever
+suceder	acontecer
+aniquilar	dizimar
+intoxicar	envenenar
+obnubilar	confundir
+capitanear	liderar/desbravar
+dormir_com	beijar
+desejar	desejar/procurar
+largar	partir/ir/retirar-se/sair/afundar/cair
+prevenir	alertar/advertir/avisar
+bater	palpitar/pulsar/bater_repetidamente/enganar/acertar/golpear/agitar/atingir/bater/colidir
+aguardar	antecipar/esperar/aguardar/dar_à_luz/parir/ter
+produzir	fazer/criar/instituir
+ressecar	mumificar
+correr_terras	vagar/errar
+desobstruir	retirar/limpar
+domar	domesticar
+semear	plantar/semear
+convidar	convidar/convocar
+dedicar	dar
+aceitar	admitir/aceitar/receber
+possuir	apresenta/dispõe/conter
+pulsar	bater
+comportar-se	simular/fingir
+bronha	masturbar
+pesar	tomar_o_peso/pesar
+reconsiderar	reconsiderar
+redigir	escrever
+palpitar	bater
+gotejar	gotejar/pingar
+deitar-se	jazer/estar_deitado
+dançar	dançar
+estrangular	asfixiar/sufocar
+decepar	cortar/apartar-se/separar-se/dividir/apartar/separar/terminar/separar_se
+bifurcar	ramificar-se/ramificar/desgalhar
+inteirar	encontrar/ver
+terminar	cair/decepar/cortar/dividir/separar
+dedurar	falar
+choramingar	birra
+restar	jazer
+substituir	recolocar/suplantar/repor/sobrepor/substituir/mudar
+enferrujar	oxidar
+lavar-se	lavar
+precisar	custar
+fazer_uma_moção	mover
+agastar	enervar-se/irritar-se
+fascinar	focar/concentrar/centrar
+registrar	registrar_/demonstrar/registrar/perceber
+realizar	atingir/cumprir/efetuar/executar/levar_a_cabo/realizar
+pulverizar	esmiuçar/pulverizar
+casar	esposar/juntar/casar/casar-se
+pinar	beijar
+prosseguir	preservar/manter/continuar
+disparar	atirar
+juntar	casar
+enraizar	enraizar/radicar
+ganhar	desenvolver
+queimar	calcinar/reduzir_a_cinzas/incinerar/começar_a_queimar/acender/arder
+suportar	sofrer
+rechaçar	empurrar
+adiantar-se	preservar/manter/continuar
+condensar	destilar/condensar
+defrontar	atacar_de_frente/deparar/confrontar
+birra	choramingar/lamuriar
+custar	precisar/demandar/requerer
+causar	prover/dar
+montar	beijar
+assinalar	distinguir/diferenciar
+instruir	preparar/treinar
+folgar	brincar
+espetar	cravar/espetar
+fazer_sexo	beijar
+durar	continuar
+comprar	receber/obter/incorrer
+motivar	impressionar/comover/afetar
+quietar	silenciar
+olvidar	abandonar
+acariciar	acomodar
+comer	beijar/alimentar-se/alimentar_se/comer
+organizar	acender/fazer
+rotular	marcar
+romper	separar/dividir/desmoronar
+alastrar	circular/espalhar
+desistir	desmoronar/desabar/colapsar/quebrar/ruir
+oxidar-se	oxidar
+germinar	brotar/germinar
+tolerar	sofrer
+esculpir	esculpir
+consubstanciar	consubstanciar
+viajar	deslocar/mover/cavalgar/andar/viajar/ir
+legar	dar/transmitir/deixar
+criar	desenvolver/elaborar/construir/produzir/fazer/instituir/arquitetar/criar/desenhar
+compatibilizar	combinar/concordar/corresponder
+ir	deslocar/mover/viajar/cavalgar/ir/preservar/manter/continuar/andar/caminhar/passear/abandonar/largar/partir/deixar/sair
+apartar	decepar/cortar/dividir/separar
+incomodar	confundir/enervar-se/irritar-se/agitar/incomodar/enervar
+derramar	verter
+sobrepor	substituir/recolocar/repor
+antecipar	aguardar/esperar
+proporcionar	permitir/admitir
+indagar	perguntar/questionar
+consumir	ocupar/levar
+deslocar	andar/ir/caminhar/viajar
+ficar_de_pé	encostar/levantar/erguer
+aumentar	estender/ampliar
+girar	revirar/revolver/rodar/virar-se/virar
+bloquear	tapar
+superar	enganar
+pôr	estar_sentado/sentar/sentar-se
+teorizar	teorizar
+chamar	chamar/convocar/gritar/urrar/vociferar/mugir/berrar
+encostar	encontrar/afluir/convergir/ficar_de_pé
+exercitar	malhar/treinar/exercitar-se
+correlacionar	correlatar_se
+competir	equiparar/igualar
+amamentar	sugar/chupar
+afixar	cobrir
+desnudar	desnudar-se/despir-se
+varrer	escovar/atravessar/varrer/raspar/roçar
+ordenhar	por_leite
+treinar	praticar/instruir/malhar/exercitar/preparar/treinar
+renascer	acordar
+hiperventilar	hiperventilar
+surrar	destruir
+asfixiar	asfixiar/sufocar/estrangular
+fazer_digestão	digerir
+radicar	enraizar
+atochar	lotar
+desbravar	capitanear
+sublimar	purificar/distilar/destilar
+avisar	alertar/desaconselhar/advertir/admoestar/prevenir/avisar
+gostar	satisfazer
+equilibrar-se	equilibrar/compensar
+experimentar	provar/experimentar
+incentivar	impressionar/comover/afetar
+comover	atingir/atacar/provocar/propulsar/motivar/estimular/incentivar
+perceber	registrar_/registrar/demonstrar
+provocar	prover/dar/impressionar/comover/afetar
+martelar	martelar/fincar
+desabar	colapsar/largar_mão/desistir/abandonar
+estipular	convencionar/estipule/estipular
+estratificar	estratificar
+atacar	impressionar/atingir/assaltar/atirar/agredir/atacar/comover/afetar
+apanhar	segurar/agarrar/pegar/flagrar
+decorrer	afastar-se/recuar/retroceder/afastar_se/voltar_atrás
+quebrar	arruinar/partir/destruir/fracturar/morrer/rachar/separar/dividir/desmoronar/quebrar/fraturar/colapsar/largar_mão/desistir/abandonar
+converter	transformar/transmudar/tornar-se/mudar/converter
+prolongar-se	continuar
+deparar_se	atacar_de_frente/deparar/confrontar
+permitir_trânsito	atravessar
+boiar	flutuar
+empolar	fazer_bolhas
+conferir	verificar/assegurar
+atormentar	enervar-se/irritar-se
+fazer_alusã_oa	concernir/relacionar/referir
+igualar	competir
+adoptar	seguir/conformar/acatar
+colocar	jogar
+atar	colar/grudar
+trocar	mudar
+instanciar	instanciar
+recuar	decorrer
+virar-se	girar
+correr	enfileirar/correr
+voar	atravessar/avionar/pilotar/viajar_de_avião
+fazer_xixi	urinar/defecar/cagar
+navegar	ir_às_compras
+declinar	recusar/desprezar/rejeitar
+chancelar	vedar/selar
+massacrar	dizimar
+ficar	cair/vir
+adicionar	acrescer/acrescentar/somar/adicionar
+submergir	naufragar
+intencionar	significar/denotar
+rejeitar	indeferir/desprezar/recusar/rejeitar/declinar
+subsistir	resistir/sobreviver/perseverar
+inflamar	inflamar
+embalar	embalar/balançar/sacudir
+saber	conhecer/saber/entender
+afugentar	empurrar
+brincar	jogar/folgar/brincar/atuar/representar
+atirar	atacar/disparar/atirar
+vasculhar	atravessar/raspar/roçar
+haver	resistir/sobreviver/perseverar
+publicar	escrever/compor
+admoestar	alertar/advertir/avisar
+ocupar	consumir/gastar
+fechar	cerrar/fechar
+caçar	montear/andar_à_caça_de
+acrescer	adicionar
+procurar	querer/desejar
+perplexar	confundir/disconcertar
+justiçar	executar
+atribuir	imputar/atribuir
+revestir	forrar
+resumir	sintetizar/resumir/sumarizar
+querer_dizer	significar
+verbalizar	falar/dizer/conversar/proferir/verbalizar
+exercitar-se	malhar/exercitar
+adotar	seguir/conformar/acatar
+tapar	barricar/bloquear/interditar
+embevecer	satisfazer
+desenvolver	formular/desenvolver/elaborar/ganhar/crescer/adquirir/criar/fazer
+assentar	sedimentar
+anunciar	advogar/agitar/lutar/fazer_campanha
+delinear	desenhar
+irritar-se	atormentar/perturbar/aborrecer/amolar/agastar/vexar/molestar/incomodar/irritar/importunar
+segmentar	dividir_em_segmentos
+copular	beijar
+grudar	pregar/atar/aderir/colar
+exclamar	gritar/urrar/vociferar/mugir/berrar
+progredir	preservar/manter/continuar
+funcionar	fazer/servir/trazer/operar/funcionar

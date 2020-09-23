@@ -1,792 +1,784 @@
-fiel	(lealdade)
-perfeição	(imperfeito aprimorado perfeito)
-postura	(vertical)
-ortodoxia	(ortodoxo)
-antigo	(idade)
-interno	(localização colocação posição situação)
-condição	(dominante subordinada subordinado classe_média)
-umidade	(húmido molhado úmido seco)
-opaco	(opacidade)
-chance	(possível impossível)
-de_cabelo_castanho	(tez)
-brilhante	(luminosidade)
-adequação	(inadequado capaz adequado escasso)
-parelho	(igualdade)
-popular	(popularidade)
-comercialismo	(comercial)
-feio	(beleza Belo)
-adoentado	(saúde)
-apagado	(extinção)
-grosso	(grossura espessura)
-saber	(ciente informado)
-insípido	(sabor)
-maléfica	(mal Maldade maldade)
-veloz	(rapidez velocidade)
-santidade	(sagrada santa sagrado santo)
-amável	(amabilidade natureza índole)
-imutável	(mutabilidade)
-estreito	(largura anchura)
-realidade	(irreal não_material existente verdadeiro efectivo real efetivo)
-vão	(eficácia eficiência efetividade utilidade)
-nórdico	(norte)
-plenitude	(exaustivo abrangente amplo detalhado extenso incompleto completo
-           integral totalizado vazio cheio pleno lotado)
-corriqueiro	(convenção)
-sátira	(sarcástico)
-exato	(exactidão exatidão correção rigor precisão acurácia)
-pouco_à_vontade	(conforto)
-casta	(virgindade virtude castidade pureza)
-escasso	(quantidade adequação suficiência)
-imediato	(imediação)
-afetado	(naturalidade)
-covardia	(covardemente covarde cobarde)
-Realidade	(irreal não_material existente)
-qualidade	(inferior superior ruim vantajoso positivo bom boa)
-conhecimento	(ciente informado)
-duração	(de_duração curto)
-humidade	(húmido molhado úmido seco)
-mal_sucedido	(éxito êxito)
-arrojado	(ânimo coragem denodo)
-incrível	(credibilidade)
-despadronizado	(invariabilidade)
-complexo	(complexidade)
-desuniforme	(invariabilidade)
-faculdade	(capaz)
-débil	(força)
-idade	(antigo velho jovem maturo maduro imaturo novo)
-corrupção	(corrupto)
-invariabilidade	(desnivelado desuniforme despadronizado plano no_mesmo_nível)
-positivo	(atributos qualidade)
-obediência	(obediente desobediente)
-igual	(igualdade)
-brava	(ânimo coragem denodo)
-atributos	(ruim vantajoso positivo bom boa)
-estatura	(alto baixo)
-polidez	(gentil indelicado impolido)
-fidelidade_conjugal	(infiel)
-suscetível	(suscetibilidade susceptibilidade)
-lógica	(lógico)
-direito	(posição local lugar)
-fácil	(naturalidade facilidade)
-inteiro	(integridade)
-naturalidade	(fácil natural afetado antinatural)
-lento	(rapidez velocidade)
-inútil	(eficácia eficiência efetividade utilidade)
-maléfico	(mal Maldade maldade)
-liberdade	(livre gratís independente dependente)
-devagar	(rapidez velocidade)
-disponibilidade	(que_não_pode_ser_acessado indisponível inacessível acessível
-                 disponível)
-correto	(correcção corretude)
-sexual	(gênero sexualidade sexo)
-inquietante	(estupefação consternação medo)
-norte	(nórdico nortista setentrional do_norte boreal)
-disposto	(preparação prontidão rapidez)
-vivo	(vida animação)
-parecido	(similardidade similitude semelhança)
-tom	(cromático acromático)
-ortodoxo	(ortodoxia)
-precisão	(preciso exato acurado justo exacto)
-abrangente	(plenitude)
-afoito	(ânimo coragem denodo)
-sulista	(Sul Estados_confederados_da_américa Estados_Confederados_da_América)
-útil	(utilidade)
-individualidade	(individual)
-sagrada	(santidade)
-probabilidade	(provável improvável)
-grande	(dimensão medida magnitude tamanho)
-ausente	(presença)
-impolido	(polidez cortesia)
-hetero	(sexo transa)
-morena	(tez)
-incorreto	(correcção corretude)
-efetividade	(vão eficiente eficaz efetivo inútil)
-limpeza	(sujo suja sujado limpo)
-levante	(oriental)
-nobreza	(nobre)
-força	(débil forte delicado potente impotente ineficaz)
-criador	(criatividade Criatividade)
-desconfortável	(conforto)
-falso	(verdade)
-posterior	(localização colocação posição situação)
-desembaraço	(certo inseguro incerto)
-amigo	(amizade)
-do_sul	(Sul Estados_confederados_da_américa Estados_Confederados_da_América)
-capaz	(faculdade abilidade adequação habilidade potencialidade talento
-       capacidade)
-exacto	(exactidão exatidão correção rigor precisão acurácia)
-bivalente	(valência)
-convenção	(corriqueiro convencional não_usual)
-correção	(preciso exato acurado justo exacto)
-pudor	(modesto)
-forgoso	(temperatura calor Temperatura temperatura_do_ar)
-Estados_confederados_da_américa	(meridional do_sul sulista)
-não_material	(realidade Realidade verdade realismo)
-curto	(duração)
-odor	(inodoro)
-assexual	(gênero sexualidade sexo)
-Distância	(vizinho perto distante longe longínquo próximo)
-benigno	(benevolência)
-oriente	(oriental)
-doentio	(saúde)
-eficiência	(vão eficiente eficaz efetivo inútil)
-aprimorado	(perfeição)
-análogo	(igualdade)
-estupefação	(alarmante inquietante)
-inalterável	(mutabilidade)
-magnético	(magnetismo Magnetismo)
-polivalente	(valência)
-temperança	(moderado)
-corrupto	(corrupção honestidade Honestidade)
-parcial	(integridade)
-_correto	(honestidade Honestidade)
-ávaro	(generosidade)
-pleno	(plenitude)
-árduo	(dificuldade)
-temor	(destemido sem_medo receoso)
-basto	(quantidade)
-gula	(comilão guloso)
-modesto	(pudor modéstia)
-inteligência	(inteligente lerdo estúpido intelectual)
-estúpido	(inteligência)
-essencial	(necessidade)
-humanitário	(humanidade)
-permanência	(permanente duradouro temporário)
-maturo	(maturidade idade)
-liberal	(generosidade ideologia)
-conservador	(ideologia)
-marronícoma	(tez)
-morto	(vida animação)
-são	(saúde)
-posição	(externo vertical adventício interno traseiro posterior rabo direita
-         direito esquerdo dominante subordinada subordinado classe_média)
-potenciabilidade	(potencial possível)
-antinatural	(naturalidade)
-que_não_pode_ser_acessado	(disponibilidade acessibilidade)
-similar	(similardidade similitude semelhança)
-pureza	(casta casto)
-Família_de_Tyrogue	(consistência viscosidade grossura)
-admissível	(admissibilidade)
-Existência	(existente)
-tímido	(confiança)
-presente	(presença cronometragem)
-preciso	(exactidão exatidão correção rigor precisão acurácia)
-luminoso	(luminosidade)
-ser	(existente)
-independente	(independência liberdade)
-baixo	(grau estatura altura)
-cor	(colorido)
-saúde	(saudável são salubre doente adoentado doentio insalubre)
-absorbency	(hidrófilo absorvente)
-separado	(separação)
-infeliz	(aventurança felicidade alegria)
-potencial	(possível potenciabilidade)
-seco	(umidade humidade)
-inumano	(humanidade)
-imoral	(moralidade moral virtude honestidade)
-extrovertido	(curso)
-difícil	(dificuldade)
-tolerância	(permissivo)
-distante	(distância Distância)
-simples	(complexidade)
-Magnetismo	(magnético atrativo)
-varão	(gênero sexualidade sexo)
-susceptibilidade	(suscetível susceptível)
-rapidez	(preparado pronto disposto prestes devagar lento rápido rápida veloz)
-responsabilidade	(responsável)
-desconhecido	(familiaridade)
-mau	(mal Maldade maldade)
-matiz	(cromático acromático)
-audaz	(ousadia audácia)
-longe	(distância Distância)
-denodo	(bravo valoroso valente afoito arrojado brava corajoso)
-anchura	(largo ampla amplo estreita estreito)
-sem_sucesso	(éxito êxito)
-radiante	(luminosidade)
-dependente	(independência liberdade)
-fresco	(frescura temperatura calor Temperatura temperatura_do_ar)
-certeza	(certo inseguro incerto)
-significação	(significativo significante importante)
-no_mesmo_nível	(invariabilidade)
-senioridade	(júnior sênior)
-sarcástico	(sarcasmo sátira ironia)
-imediação	(imediato)
-estreita	(largura anchura)
-forte	(força)
-imaturo	(maturidade idade)
-tonalidade	(cromático acromático)
-existência	(existente)
-fértil	(fertilidade Fertilidade)
-importante	(magnitude importância significado significação)
-analfabeto	(alfabetização alfabetismo)
-criatividade	(original criativo criador)
-acromático	(nuança tonalidade matiz tom)
-ineficaz	(eficácia potência força potencia)
-cobarde	(cobardia covardia)
-honestidade	(imoral corrupto desonroso _correto honrado)
-coragem	(bravo valoroso valente afoito arrojado brava corajoso)
-fino	(espessura grossura textura)
-cromático	(tom matiz tonalidade nuança)
-fama	(mal_afamado)
-heterossexual	(sexo transa)
-Honestidade	(corrupto _correto)
-valência	(bivalente polivalente)
-mediano	(cronometragem)
-humanidade	(desumano inumano humanitário humano)
-gay	(sexo transa)
-generalidade	(específico geral)
-volume	(padrão suave estrepitante alta berrante alto)
-popularidade	(popular)
-regular	(regularidade)
-santa	(santidade)
-União	(setentrional do_norte boreal)
-excitamento	(emocionante excitante)
-saudável	(saúde)
-potencialidade	(incapaz capaz)
-padrão	(volume medida número quantidade quantia magnitude)
-sem_medo	(terror consternação temor medo susto)
-suja	(asseio limpeza)
-mensurável	(número grandeza magnitude)
-triste	(aventurança felicidade alegria)
-desonroso	(honestidade)
-vivído	(luminosidade)
-justiça	(injusto)
-Nord	(setentrional do_norte boreal)
-separação	(separado)
-intelectual	(inteligência)
-extinção	(liquidado extinto apagado revogado extincto)
-desnivelado	(invariabilidade)
-suscetibilidade	(suscetível susceptível)
-eficácia	(vão efetivo inútil eficiente eficaz potente impotente ineficaz)
-individualismo	(individual)
-altivez	(certo inseguro incerto)
-êxito	(próspero bem-sucedido bem_sucedido mal_sucedido sem_sucesso)
-medida	(padrão grande pequeno)
-legal	(legalidade)
-líquido	(Fases_da_matéria Estados_físicos_da_matéria)
-impróprio	(utilidade)
-desumano	(humanidade)
-admissibilidade	(inadmissível admissível lícito aceitável)
-seriedade	(fútil frívolo sério)
-mal	(maléfico mau má ruim maléfica malvado)
-justo	(correcção corretude exactidão exatidão correção rigor precisão acurácia)
-mercantilismo	(comercial)
-similitude	(similar diferente parecido semelhante)
-feia	(beleza Belo)
-igualdade	(parelho idêntico igual análogo)
-moral	(moralidade virtude imoral puro)
-improdutivo	(Fertilidade fertilidade)
-necessidade	(necessário essencial desnecessário desnecessária)
-corajoso	(ânimo coragem denodo ousadia audácia)
-ideologia	(conservador liberal)
-renome	(mal_afamado)
-profundo	(profundeza fundura profundidade)
-recente	(frescura)
-formal	(formalidade)
-partido	(integridade)
-possível	(possibilidade chance potenciabilidade potencial)
-amabilidade	(amável)
-calor	(fresco quente forgoso frio caloroso)
-desnecessário	(necessidade)
-gritaria	(suave estrepitante alta berrante alto)
-Norte	(setentrional do_norte boreal)
-honra	(mal_afamado)
-flavo	(tez)
-confortável	(conforto)
-valoroso	(ânimo coragem denodo)
-efectivo	(realidade)
-ascendência	(maior)
-superficial	(profundeza fundura profundidade)
-cheio	(plenitude)
-original	(originalidade criatividade Criatividade)
-suficiência	(escasso)
-fidelidade	(infiel)
-totalizado	(integralidade plenitude inteireza)
-bravo	(ânimo coragem denodo ousadia audácia)
-número	(padrão mensurável)
-aprumo	(certo inseguro incerto)
-infértil	(Fertilidade fertilidade)
-gênero	(sexual macho varão assexual)
-certo	(pose fé aprumo altivez desembaraço segurança certeza correcção corretude)
-luminosidade	(maçante radiante vivído brilhante luminoso claro iluminado escuro)
-pesado	(peso)
-moderação	(moderado)
-perfeito	(perfeição)
-estado	(dominante subordinada subordinado classe_média)
-reputação	(mal_afamado)
-conforto	(confortável incômodo incómodo desconfortável pouco_à_vontade)
-precoce	(cronometragem)
-molhado	(umidade humidade)
-vida	(morto vivo semvida vívido)
-incómodo	(conforto)
-cronometragem	(presente tardio futuro temporão precoce cedo mediano passado)
-suave	(grau gritaria intensidade_sonora volume)
-velho	(idade)
-desobediente	(obediência)
-exatidão	(preciso exato acurado justo exacto)
-Criatividade	(original criativo criador)
-contorno	(escuso reto)
-alteridade	(outro)
-civilidade	(grosseiro cortês polido educado)
-distância	(vizinho perto distante longe longínquo próximo)
-tez	(flavo loiro fuscícoma marronícoma brunícoma de_cabelo_castanho obscurícoma
-     morena castanícoma colorido)
-transa	(hetero heterossexual homo gay homossexual)
-incapaz	(abilidade habilidade potencialidade talento capacidade)
-grandeza	(mensurável)
-insalubre	(saúde)
-significante	(significado significação)
-inodoro	(odor cheiro odores hálito)
-integralidade	(incompleto completo integral totalizado)
-temporário	(permanência)
-local	(direita direito esquerdo)
-confiante	(confiança)
-covarde	(cobardia covardia)
-castidade	(casta casto)
-profundidade	(superficial fundo profundo profunda desinteressante raso)
-tédio	(desinteressante monótono chato)
-gratís	(liberdade liberdades_civis)
-incômodo	(conforto)
-liquidado	(extinção)
-tacanho	(generosidade)
-frio	(temperatura calor Temperatura temperatura_do_ar)
-ciência	(científica científico)
-longínquo	(distância Distância)
-doente	(saúde)
-prestes	(preparação prontidão rapidez)
-situação	(externo adventício interno traseiro posterior rabo)
-infiel	(fidelidade lealdade fidelidade_conjugal)
-realismo	(irreal não_material existente)
-inteireza	(incompleto completo integral totalizado)
-leal	(lealdade)
-inacreditável	(credibilidade)
-imperfeito	(perfeição)
-audível	(audibilidade)
-humano	(humanidade)
-mal_afamado	(renome fama honra reputação)
-calibre	(inferior superior)
-sujado	(asseio limpeza)
-indisponível	(disponibilidade acessibilidade)
-comilão	(gula)
-existente	(existência ser forma_de_vida Existência realismo verdade Realidade
-           realidade)
-futuro	(cronometragem)
-indelicado	(polidez cortesia)
-semvida	(vida animação)
-mutável	(mutabilidade)
-éxito	(próspero bem-sucedido bem_sucedido mal_sucedido sem_sucesso)
-monótono	(tédio)
-ativo	(atividade)
-credibilidade	(incrível inacreditável crível acreditável)
-fuscícoma	(tez)
-continuidade	(contínuo)
-terror	(destemido sem_medo receoso)
-rigor	(preciso exato acurado justo exacto)
-oriental	(Do_leste Oriente oriente levante nascente)
-bem_sucedido	(êxito éxito)
-júnior	(senioridade)
-formoso	(beleza Belo)
-importância	(importante)
-pose	(certo inseguro incerto)
-baixa	(grau)
-perpendicular	(orientação Orientação)
-profundeza	(superficial fundo profundo profunda desinteressante raso)
-irreal	(realidade Realidade verdade realismo)
-crível	(credibilidade)
-duradouro	(permanência)
-lacônico	(prolixidade)
-rala	(grossura consistência viscosidade)
-alma	(vívido)
-viscosidade	(rala espesso Família_de_Tyrogue)
-espesso	(espessura consistência viscosidade grossura)
-suficiente	(quantidade)
-magnetismo	(magnético atrativo)
-subordinado	(status posição classe condição estado)
-inseguro	(confiança desembaraço altivez aprumo fé pose segurança certeza)
-diversidade	(que_oferece_várias_aspectos vário)
-moralidade	(moral imoral puro)
-impotente	(eficácia potência força potencia poder)
-caloroso	(temperatura calor Temperatura temperatura_do_ar)
-acurácia	(preciso exato acurado justo exacto)
-contemporâneo	(modernidade)
-eqüidade	(injusto)
-delicado	(força)
-acessível	(disponibilidade acessibilidade)
-lauto	(quantidade)
-peso_(aspectos_físicos)	(tênue esbelto magro gordo)
-próximo	(distância Distância)
-sênior	(senioridade)
-bastante	(quantidade)
-talento	(incapaz capaz)
-verdadeiro	(realidade verdade)
-sagrado	(santidade)
-vantajoso	(atributos qualidade)
-agencioso	(atividade)
-prolixidade	(sucinto lacônico conciso lacónico prolixo)
-largura	(largo ampla amplo estreita estreito)
-o_mesmo	(semelhança similardidade)
-inteligente	(inteligência)
-atrativo	(magnetismo Magnetismo)
-exactidão	(preciso exato acurado justo exacto)
-regularidade	(regular)
-potencia	(potente impotente ineficaz)
-provável	(probabilidade)
-direita	(posição local lugar)
-valente	(ânimo coragem denodo)
-largo	(largura anchura)
-feliz	(aventurança felicidade alegria)
-altura	(baixo deprimido alto)
-macho	(gênero sexualidade sexo)
-bonito	(beleza Belo)
-discordância	(diferente)
-úmido	(umidade humidade)
-gasoso	(Estados_físicos_da_matéria Fases_da_matéria)
-possibilidade	(possível impossível)
-preparação	(preparado pronto disposto prestes)
-excitação	(emocionante excitante)
-familiar	(familiaridade)
-equanimidade	(injusto)
-classe_média	(status posição classe condição estado)
-quente	(temperatura calor Temperatura temperatura_do_ar)
-cheiro	(inodoro)
-semelhante	(similardidade similitude semelhança)
-externo	(localização colocação posição situação)
-fundo	(profundeza fundura profundidade)
-salubre	(saúde)
-quantidade	(padrão escasso insuficiente lauto farto basto copioso abundante
-            bastante suficiente)
-Fases_da_matéria	(gasoso líquido sólido)
-consternação	(destemido sem_medo receoso alarmante inquietante)
-estéril	(Fertilidade fertilidade)
-ciente	(conhecimento saber consciência sentimento_de_si)
-presença	(presente ausente)
-claro	(luminosidade)
-do_norte	(Norte União Nord norte)
-rápido	(rapidez velocidade)
-acurado	(exactidão exatidão correção rigor precisão acurácia)
-moderno	(modernidade)
-tardio	(cronometragem)
-cobardia	(covardemente covarde cobarde)
-novo	(idade)
-colocação	(externo adventício interno traseiro posterior rabo)
-Maldade	(maléfico mau má ruim maléfica malvado)
-santo	(santidade)
-textura	(fino)
-diferença	(diferente)
-sabor	(insípido)
-belo	(beleza Belo)
-confuso	(transparência lucidez)
-frívolo	(seriedade)
-leve	(peso)
-crise	(crítico)
-adequado	(adequação)
-magnitude	(padrão mensurável importante grande pequeno)
-aspiração	(ambicioso)
-estrepitante	(gritaria intensidade_sonora volume)
-incerto	(desembaraço altivez aprumo fé pose segurança certeza)
-obscurícoma	(tez)
-eficaz	(Eficácia efetividade eficiência eficácia)
-inadmissível	(admissibilidade)
-lugar	(direita direito esquerdo)
-ambicioso	(aspiração ambição)
-amplo	(plenitude largura anchura)
-normalidade	(anormal normal)
-originalidade	(original)
-facilidade	(fácil)
-de_duração	(duração)
-vertical	(orientação Orientação postura posição atitude)
-injusto	(eqüidade justiça equanimidade)
-singelo	(complexidade)
-verdade	(irreal não_material existente falso errado verdadeiro)
-escuso	(contorno)
-Estados_físicos_da_matéria	(gasoso líquido sólido)
-farto	(quantidade)
-ambição	(ambicioso)
-magro	(peso_(aspectos_físicos) peso)
-ironia	(sarcástico)
-afável	(natureza índole)
-grosseiro	(civilidade)
-prontidão	(preparado pronto disposto prestes)
-mesmo	(semelhança similardidade)
-opacidade	(opaco)
-sensatez	(razoável)
-científica	(ciência)
-felicidade	(infeliz triste feliz contente)
-setentrional	(Norte União Nord norte)
-movimento	(imóvel movente)
-acessibilidade	(que_não_pode_ser_acessado indisponível inacessível acessível
-                disponível)
-disponível	(disponibilidade acessibilidade)
-necessário	(necessidade)
-manso	(domesticação)
-não_usual	(convenção)
-castanícoma	(tez)
-odores	(inodoro)
-hálito	(inodoro)
-emocionante	(excitação excitamento)
-generosidade	(ávaro ávido tacanho liberal)
-informal	(formalidade)
-adventício	(localização colocação posição situação)
-limpo	(asseio limpeza)
-gordo	(peso_(aspectos_físicos) peso)
-guloso	(gula)
-sucinto	(prolixidade)
-homossexual	(sexo transa)
-poderoso	(poder)
-dominante	(status posição classe condição estado)
-chato	(tédio)
-extincto	(extinção)
-comercial	(mercantilismo comercialismo comércio)
-confiança	(tímido inseguro confiante)
-fertilidade	(fecundo fértil infértil estéril improdutivo)
-informado	(conhecimento saber consciência sentimento_de_si)
-lhano	(natureza índole)
-audacioso	(ousadia audácia)
-subordinada	(status posição classe condição estado)
-diferente	(diferença discordância similardidade similitude semelhança)
-plano	(invariabilidade)
-natural	(naturalidade)
-dimensão	(grande pequeno)
-permanente	(permanência)
-lotado	(plenitude)
-integridade	(integral inteiro parcial fracionário partido quebrado)
-poder	(impotente poderoso)
-personalidade	(individual)
-excitante	(excitação excitamento)
-consciência	(ciente informado)
-sexo	(hetero sexual macho heterossexual varão homo gay homossexual assexual)
-Orientação	(inclinado perpendicular fio_de_prumo vertical horizontal)
-responsável	(responsabilidade)
-rabo	(localização colocação posição situação)
-passado	(cronometragem)
-abundante	(quantidade)
-vário	(diversidade)
-hidrófilo	(absorbency)
-fecundo	(fertilidade Fertilidade)
-Sul	(do_sul sulista meridional)
-asseio	(sujo suja sujado limpo)
-normal	(normalidade)
-obediente	(obediência)
-potente	(eficácia potência força potencia)
-atitude	(vertical)
-fora_da_lei	(legalidade)
-virgindade	(casto casta)
-exaustivo	(plenitude)
-deprimido	(altura altitude)
-nuança	(cromático acromático)
-temperatura_do_ar	(fresco quente forgoso frio caloroso)
-específico	(generalidade)
-raso	(profundeza fundura profundidade)
-Oriente	(oriental)
-status	(dominante subordinada subordinado classe_média)
-meridional	(Sul Estados_confederados_da_américa Estados_Confederados_da_América)
-vívido	(alma vida)
-atividade	(inativo agencioso ativo)
-ânimo	(bravo valoroso valente afoito arrojado brava corajoso)
-homo	(sexo transa)
-eficiente	(Eficácia efetividade eficiência eficácia)
-Temperatura	(fresco quente forgoso frio caloroso)
-audácia	(audacioso audaz bravo destemido corajoso)
-boreal	(Norte União Nord norte)
-correcção	(correto justo certo errado incorreto)
-complexidade	(complexo intrincado simples singelo)
-comércio	(comercial)
-velocidade	(devagar lento rápido rápida veloz)
-inadequado	(adequação)
-tênue	(peso_(aspectos_físicos) peso)
-detalhado	(plenitude)
-potência	(potente impotente ineficaz)
-bem-sucedido	(êxito éxito)
-significativo	(significado significação)
-casto	(virgindade virtude castidade pureza)
-animação	(vivo semvida morto)
-jovem	(idade)
-propósito	(funcional)
-conciso	(prolixidade)
-funcional	(função propósito)
-maldade	(maléfico mau má ruim maléfica malvado)
-similardidade	(similar diferente parecido semelhante mesmo o_mesmo)
-pronto	(preparação prontidão rapidez)
-improvável	(probabilidade)
-lucidez	(confuso)
-impossível	(possibilidade chance)
-pouco_familiar	(familiaridade)
-próspero	(êxito éxito)
-anormal	(normalidade)
-destemido	(terror consternação temor medo susto ousadia audácia)
-completo	(integralidade plenitude inteireza)
-lindo	(beleza Belo)
-quebrado	(integridade)
-intenso	(grau)
-legalidade	(legal lícito ilegal fora_da_lei)
-independência	(independente dependente)
-índole	(afável amável gentil lhano)
-Eficácia	(eficiente eficaz)
-intrincado	(dificuldade complexidade)
-transparência	(confuso)
-alto	(estatura grau altitude altura gritaria intensidade_sonora volume)
-reto	(contorno)
-maçante	(luminosidade)
-intensivo	(grau)
-inativo	(atividade)
-húmido	(umidade humidade)
-domesticação	(manso)
-traseiro	(localização colocação posição situação)
-dificuldade	(árduo difícil foda intrincado)
-cedo	(cronometragem)
-amistoso	(amizade)
-grau	(suave intenso intensivo baixo baixa alto)
-fundura	(superficial fundo profundo profunda desinteressante raso)
-virtude	(casta casto bom boa moral imoral puro)
-sexualidade	(sexual macho varão assexual)
-nobre	(nobreza)
-covardemente	(cobardia covardia)
-brunícoma	(tez)
-vizinho	(distância Distância)
-sentimento_de_si	(ciente informado)
-insuficiente	(quantidade)
-intensidade_sonora	(suave estrepitante alta berrante alto)
-fracionário	(integridade)
-alarmante	(estupefação consternação medo)
-maioria	(maior)
-crítico	(crise)
-contínuo	(continuidade)
-lerdo	(inteligência)
-Fertilidade	(fecundo fértil infértil estéril improdutivo)
-errado	(verdade correcção corretude)
-amizade	(amigo amigável amistoso)
-inacessível	(disponibilidade acessibilidade)
-abilidade	(incapaz capaz)
-localização	(externo adventício interno traseiro posterior rabo)
-contente	(aventurança felicidade alegria)
-inclinado	(orientação Orientação)
-alfabetização	(analfabeto)
-lealdade	(infiel fiel leal)
-susto	(destemido sem_medo receoso)
-puro	(moralidade moral virtude)
-livre	(liberdade liberdades_civis)
-esquerdo	(posição local lugar)
-imóvel	(movimento)
-honrado	(honestidade)
-classe	(dominante subordinada subordinado classe_média)
-maior	(ascendência maioridade maioria)
-consistência	(rala espesso Família_de_Tyrogue)
-sarcasmo	(sarcástico)
-iluminado	(luminosidade)
-ceremonioso	(formalidade)
-extenso	(plenitude)
-tamanho	(grande pequeno)
-amigável	(amizade)
-frescura	(fresco recente)
-idêntico	(igualdade)
-efetivo	(realidade efetividade eficiência eficácia)
-temperatura	(fresco quente forgoso frio caloroso)
-lícito	(legalidade admissibilidade)
-formalidade	(ceremonioso formal informal)
-fio_de_prumo	(orientação Orientação)
-sensibilidade	(sensível)
-extinto	(extinção)
-acreditável	(credibilidade)
-permissivo	(tolerância)
-geral	(generalidade)
-sólido	(Fases_da_matéria Estados_físicos_da_matéria)
-colorido	(tez cor)
-superior	(qualidade calibre)
-gentil	(cortesia polidez natureza índole)
-sensível	(sensibilidade)
-cortesia	(cortês gentil indelicado impolido)
-maduro	(maturidade idade)
-incompleto	(integralidade plenitude inteireza)
-segurança	(certo inseguro incerto)
-função	(funcional)
-semelhança	(similar diferente parecido semelhante mesmo o_mesmo)
-curso	(extrovertido)
-fútil	(seriedade)
-loiro	(tez)
-espessura	(fino espesso grosso)
-copioso	(quantidade)
-corretude	(correto justo certo errado incorreto)
-quantia	(padrão)
-audibilidade	(audível)
-sério	(seriedade)
-desnecessária	(necessidade)
-beleza	(bonito formoso lindo belo feio feia)
-alta	(gritaria intensidade_sonora volume)
-desinteressante	(profundeza tédio fundura profundidade)
-fé	(certo inseguro incerto)
-esbelto	(peso_(aspectos_físicos) peso)
-ampla	(largura anchura)
-preparado	(preparação prontidão rapidez)
-ousadia	(audacioso audaz bravo destemido corajoso)
-individual	(personalidade individualismo individualidade)
-bondade	(bom boa)
-prolixo	(prolixidade)
-horizontal	(orientação Orientação)
-integral	(integridade integralidade plenitude inteireza)
-nascente	(oriental)
-outro	(alteridade)
-capacidade	(incapaz capaz)
-maioridade	(maior)
-variável	(mutabilidade)
-nortista	(norte)
-boa	(atributos qualidade virtude bondade)
-medo	(destemido sem_medo receoso alarmante inquietante)
-habilidade	(incapaz capaz)
-liberdades_civis	(livre gratís)
-profunda	(profundeza fundura profundidade)
-modernidade	(contemporâneo moderno)
-benevolência	(benigno)
-criativo	(criatividade Criatividade)
-aventurança	(infeliz triste feliz contente)
-ruim	(atributos qualidade mal Maldade maldade)
-revogado	(extinção)
-utilidade	(útil vão inapto inútil impróprio)
-polido	(civilidade)
-escuro	(luminosidade)
-significado	(significativo significante importante)
-alfabetismo	(analfabeto)
-moderado	(moderação temperança)
-científico	(ciência)
-orientação	(inclinado perpendicular fio_de_prumo vertical horizontal)
-peso	(pesado leve tênue esbelto magro gordo)
-inferior	(qualidade calibre)
-Estados_Confederados_da_América	(meridional do_sul sulista)
-mutabilidade	(imutável inalterável variável mutável)
-natureza	(afável amável gentil lhano)
-berrante	(gritaria intensidade_sonora volume)
-movente	(movimento)
-sujo	(asseio limpeza)
-malvado	(mal Maldade maldade)
-convencional	(convenção)
-má	(mal Maldade maldade)
-razoável	(sensatez)
-familiaridade	(familiar desconhecido pouco_familiar estranho)
-vazio	(plenitude)
-susceptível	(suscetibilidade susceptibilidade)
-Belo	(bonito formoso lindo belo feio feia)
-real	(realidade)
-maturidade	(maduro maturo imaturo)
-rápida	(rapidez velocidade)
-lacónico	(prolixidade)
-foda	(dificuldade)
-modéstia	(modesto)
-cortês	(civilidade cortesia)
-forma_de_vida	(existente)
-estranho	(familiaridade)
-altitude	(deprimido alto)
-ávido	(generosidade)
-inapto	(utilidade)
-perto	(distância Distância)
-aceitável	(admissibilidade)
-lógico	(lógica)
-absorvente	(absorbency)
-ilegal	(legalidade)
-receoso	(terror consternação temor medo susto)
-que_oferece_várias_aspectos	(diversidade)
-bom	(atributos qualidade virtude bondade)
-educado	(civilidade)
-Do_leste	(oriental)
-grossura	(fino grosso rala espesso Família_de_Tyrogue)
-alegria	(infeliz triste feliz contente)
-pequeno	(dimensão medida magnitude tamanho)
-temporão	(cronometragem)
+fiel	lealdade
+perfeição	imperfeito/aprimorado/perfeito
+postura	vertical
+ortodoxia	ortodoxo
+antigo	idade
+interno	localização/colocação/posição/situação
+condição	dominante/subordinada/subordinado/classe_média
+umidade	húmido/molhado/úmido/seco
+opaco	opacidade
+chance	possível/impossível
+de_cabelo_castanho	tez
+brilhante	luminosidade
+adequação	inadequado/capaz/adequado/escasso
+parelho	igualdade
+popular	popularidade
+comercialismo	comercial
+feio	beleza/Belo
+adoentado	saúde
+apagado	extinção
+grosso	grossura/espessura
+saber	ciente/informado
+insípido	sabor
+maléfica	mal/Maldade/maldade
+veloz	rapidez/velocidade
+santidade	sagrada/santa/sagrado/santo
+amável	amabilidade/natureza/índole
+imutável	mutabilidade
+estreito	largura/anchura
+realidade	irreal/não_material/existente/verdadeiro/efectivo/real/efetivo
+vão	eficácia/eficiência/efetividade/utilidade
+nórdico	norte
+plenitude	exaustivo/abrangente/amplo/detalhado/extenso/incompleto/completo/integral/totalizado/vazio/cheio/pleno/lotado
+corriqueiro	convenção
+sátira	sarcástico
+exato	exactidão/exatidão/correção/rigor/precisão/acurácia
+pouco_à_vontade	conforto
+casta	virgindade/virtude/castidade/pureza
+escasso	quantidade/adequação/suficiência
+imediato	imediação
+afetado	naturalidade
+covardia	covardemente/covarde/cobarde
+Realidade	irreal/não_material/existente
+qualidade	inferior/superior/ruim/vantajoso/positivo/bom/boa
+conhecimento	ciente/informado
+duração	de_duração/curto
+humidade	húmido/molhado/úmido/seco
+mal_sucedido	éxito/êxito
+arrojado	ânimo/coragem/denodo
+incrível	credibilidade
+despadronizado	invariabilidade
+complexo	complexidade
+desuniforme	invariabilidade
+faculdade	capaz
+débil	força
+idade	antigo/velho/jovem/maturo/maduro/imaturo/novo
+corrupção	corrupto
+invariabilidade	desnivelado/desuniforme/despadronizado/plano/no_mesmo_nível
+positivo	atributos/qualidade
+obediência	obediente/desobediente
+igual	igualdade
+brava	ânimo/coragem/denodo
+atributos	ruim/vantajoso/positivo/bom/boa
+estatura	alto/baixo
+polidez	gentil/indelicado/impolido
+fidelidade_conjugal	infiel
+suscetível	suscetibilidade/susceptibilidade
+lógica	lógico
+direito	posição/local/lugar
+fácil	naturalidade/facilidade
+inteiro	integridade
+naturalidade	fácil/natural/afetado/antinatural
+lento	rapidez/velocidade
+inútil	eficácia/eficiência/efetividade/utilidade
+maléfico	mal/Maldade/maldade
+liberdade	livre/gratís/independente/dependente
+devagar	rapidez/velocidade
+disponibilidade	que_não_pode_ser_acessado/indisponível/inacessível/acessível/disponível
+correto	correcção/corretude
+sexual	gênero/sexualidade/sexo
+inquietante	estupefação/consternação/medo
+norte	nórdico/nortista/setentrional/do_norte/boreal
+disposto	preparação/prontidão/rapidez
+vivo	vida/animação
+parecido	similardidade/similitude/semelhança
+tom	cromático/acromático
+ortodoxo	ortodoxia
+precisão	preciso/exato/acurado/justo/exacto
+abrangente	plenitude
+afoito	ânimo/coragem/denodo
+sulista	Sul/Estados_confederados_da_américa/Estados_Confederados_da_América
+útil	utilidade
+individualidade	individual
+sagrada	santidade
+probabilidade	provável/improvável
+grande	dimensão/medida/magnitude/tamanho
+ausente	presença
+impolido	polidez/cortesia
+hetero	sexo/transa
+morena	tez
+incorreto	correcção/corretude
+efetividade	vão/eficiente/eficaz/efetivo/inútil
+limpeza	sujo/suja/sujado/limpo
+levante	oriental
+nobreza	nobre
+força	débil/forte/delicado/potente/impotente/ineficaz
+criador	criatividade/Criatividade
+desconfortável	conforto
+falso	verdade
+posterior	localização/colocação/posição/situação
+desembaraço	certo/inseguro/incerto
+amigo	amizade
+do_sul	Sul/Estados_confederados_da_américa/Estados_Confederados_da_América
+capaz	faculdade/abilidade/adequação/habilidade/potencialidade/talento/capacidade
+exacto	exactidão/exatidão/correção/rigor/precisão/acurácia
+bivalente	valência
+convenção	corriqueiro/convencional/não_usual
+correção	preciso/exato/acurado/justo/exacto
+pudor	modesto
+forgoso	temperatura/calor/Temperatura/temperatura_do_ar
+Estados_confederados_da_américa	meridional/do_sul/sulista
+não_material	realidade/Realidade/verdade/realismo
+curto	duração
+odor	inodoro
+assexual	gênero/sexualidade/sexo
+Distância	vizinho/perto/distante/longe/longínquo/próximo
+benigno	benevolência
+oriente	oriental
+doentio	saúde
+eficiência	vão/eficiente/eficaz/efetivo/inútil
+aprimorado	perfeição
+análogo	igualdade
+estupefação	alarmante/inquietante
+inalterável	mutabilidade
+magnético	magnetismo/Magnetismo
+polivalente	valência
+temperança	moderado
+corrupto	corrupção/honestidade/Honestidade
+parcial	integridade
+_correto	honestidade/Honestidade
+ávaro	generosidade
+pleno	plenitude
+árduo	dificuldade
+temor	destemido/sem_medo/receoso
+basto	quantidade
+gula	comilão/guloso
+modesto	pudor/modéstia
+inteligência	inteligente/lerdo/estúpido/intelectual
+estúpido	inteligência
+essencial	necessidade
+humanitário	humanidade
+permanência	permanente/duradouro/temporário
+maturo	maturidade/idade
+liberal	generosidade/ideologia
+conservador	ideologia
+marronícoma	tez
+morto	vida/animação
+são	saúde
+posição	externo/vertical/adventício/interno/traseiro/posterior/rabo/direita/direito/esquerdo/dominante/subordinada/subordinado/classe_média
+potenciabilidade	potencial/possível
+antinatural	naturalidade
+que_não_pode_ser_acessado	disponibilidade/acessibilidade
+similar	similardidade/similitude/semelhança
+pureza	casta/casto
+Família_de_Tyrogue	consistência/viscosidade/grossura
+admissível	admissibilidade
+Existência	existente
+tímido	confiança
+presente	presença/cronometragem
+preciso	exactidão/exatidão/correção/rigor/precisão/acurácia
+luminoso	luminosidade
+ser	existente
+independente	independência/liberdade
+baixo	grau/estatura/altura
+cor	colorido
+saúde	saudável/são/salubre/doente/adoentado/doentio/insalubre
+absorbency	hidrófilo/absorvente
+separado	separação
+infeliz	aventurança/felicidade/alegria
+potencial	possível/potenciabilidade/potencial
+seco	umidade/humidade
+inumano	humanidade
+imoral	moralidade/moral/virtude/honestidade
+extrovertido	curso
+difícil	dificuldade
+tolerância	permissivo
+distante	distância/Distância
+simples	complexidade
+Magnetismo	magnético/atrativo
+varão	gênero/sexualidade/sexo
+susceptibilidade	suscetível/susceptível
+rapidez	preparado/pronto/disposto/prestes/devagar/lento/rápido/rápida/veloz
+responsabilidade	responsável
+desconhecido	familiaridade
+mau	mal/Maldade/maldade
+matiz	cromático/acromático
+audaz	ousadia/audácia
+longe	distância/Distância
+denodo	bravo/valoroso/valente/afoito/arrojado/brava/corajoso
+anchura	largo/ampla/amplo/estreita/estreito
+sem_sucesso	éxito/êxito
+radiante	luminosidade
+dependente	independência/liberdade
+fresco	frescura/temperatura/calor/Temperatura/temperatura_do_ar
+certeza	certo/inseguro/incerto
+significação	significativo/significante/importante
+no_mesmo_nível	invariabilidade
+senioridade	júnior/sênior
+sarcástico	sarcasmo/sátira/ironia
+imediação	imediato
+estreita	largura/anchura
+forte	força
+imaturo	maturidade/idade
+tonalidade	cromático/acromático
+existência	existente
+fértil	fertilidade/Fertilidade
+importante	magnitude/importância/significado/significação
+analfabeto	alfabetização/alfabetismo
+criatividade	original/criativo/criador
+acromático	nuança/tonalidade/matiz/tom
+ineficaz	eficácia/potência/força/potencia
+cobarde	cobardia/covardia
+honestidade	imoral/corrupto/desonroso/_correto/honrado
+coragem	bravo/valoroso/valente/afoito/arrojado/brava/corajoso
+fino	espessura/grossura/textura
+cromático	tom/matiz/tonalidade/nuança
+fama	mal_afamado
+heterossexual	sexo/transa
+Honestidade	corrupto/_correto
+valência	bivalente/polivalente
+mediano	cronometragem
+humanidade	desumano/inumano/humanitário/humano
+gay	sexo/transa
+generalidade	específico/geral
+volume	padrão/suave/estrepitante/alta/berrante/alto
+popularidade	popular
+regular	regularidade
+santa	santidade
+União	setentrional/do_norte/boreal
+excitamento	emocionante/excitante
+saudável	saúde
+potencialidade	incapaz/capaz
+padrão	volume/medida/número/quantidade/quantia/magnitude
+sem_medo	terror/consternação/temor/medo/susto
+suja	asseio/limpeza
+mensurável	número/grandeza/magnitude
+triste	aventurança/felicidade/alegria
+desonroso	honestidade
+vivído	luminosidade
+justiça	injusto
+Nord	setentrional/do_norte/boreal
+separação	separado
+intelectual	inteligência
+extinção	liquidado/extinto/apagado/revogado/extincto
+desnivelado	invariabilidade
+suscetibilidade	suscetível/susceptível
+eficácia	vão/efetivo/inútil/eficiente/eficaz/potente/impotente/ineficaz
+individualismo	individual
+altivez	certo/inseguro/incerto
+êxito	próspero/bem-sucedido/bem_sucedido/mal_sucedido/sem_sucesso
+medida	padrão/grande/pequeno
+legal	legalidade
+líquido	Fases_da_matéria/Estados_físicos_da_matéria
+impróprio	utilidade
+desumano	humanidade
+admissibilidade	inadmissível/admissível/lícito/aceitável
+seriedade	fútil/frívolo/sério
+mal	maléfico/mau/má/ruim/maléfica/malvado
+justo	correcção/corretude/exactidão/exatidão/correção/rigor/precisão/acurácia
+mercantilismo	comercial
+similitude	similar/diferente/parecido/semelhante
+feia	beleza/Belo
+igualdade	parelho/idêntico/igual/análogo
+moral	moralidade/virtude/moral/imoral/puro
+improdutivo	Fertilidade/fertilidade
+necessidade	necessário/essencial/desnecessário/desnecessária
+corajoso	ânimo/coragem/denodo/ousadia/audácia
+ideologia	conservador/liberal
+renome	mal_afamado
+profundo	profundeza/fundura/profundidade
+recente	frescura
+formal	formalidade
+partido	integridade
+possível	possibilidade/chance/potenciabilidade/potencial
+amabilidade	amável
+calor	fresco/quente/forgoso/frio/caloroso
+desnecessário	necessidade
+gritaria	suave/estrepitante/alta/berrante/alto
+Norte	setentrional/do_norte/boreal
+honra	mal_afamado
+flavo	tez
+confortável	conforto
+valoroso	ânimo/coragem/denodo
+efectivo	realidade
+ascendência	maior
+superficial	profundeza/fundura/profundidade
+cheio	plenitude
+original	originalidade/criatividade/Criatividade
+suficiência	escasso
+fidelidade	infiel
+totalizado	integralidade/plenitude/inteireza
+bravo	ânimo/coragem/denodo/ousadia/audácia
+número	padrão/mensurável
+aprumo	certo/inseguro/incerto
+infértil	Fertilidade/fertilidade
+gênero	sexual/macho/varão/assexual
+certo	pose/fé/aprumo/altivez/desembaraço/segurança/certeza/correcção/corretude
+luminosidade	maçante/radiante/vivído/brilhante/luminoso/claro/iluminado/escuro
+pesado	peso
+moderação	moderado
+perfeito	perfeição
+estado	dominante/subordinada/subordinado/classe_média
+reputação	mal_afamado
+conforto	confortável/incômodo/incómodo/desconfortável/pouco_à_vontade
+precoce	cronometragem
+molhado	umidade/humidade
+vida	morto/vivo/semvida/vívido
+incómodo	conforto
+cronometragem	presente/tardio/futuro/temporão/precoce/cedo/mediano/passado
+suave	grau/gritaria/intensidade_sonora/volume
+velho	idade
+desobediente	obediência
+exatidão	preciso/exato/acurado/justo/exacto
+Criatividade	original/criativo/criador
+contorno	escuso/reto
+alteridade	outro
+civilidade	grosseiro/cortês/polido/educado
+distância	vizinho/perto/distante/longe/longínquo/próximo
+tez	flavo/loiro/fuscícoma/marronícoma/brunícoma/de_cabelo_castanho/obscurícoma/morena/castanícoma/colorido
+transa	hetero/heterossexual/homo/gay/homossexual
+incapaz	abilidade/habilidade/potencialidade/talento/capacidade
+grandeza	mensurável
+insalubre	saúde
+significante	significado/significação
+inodoro	odor/cheiro/odores/hálito
+integralidade	incompleto/completo/integral/totalizado
+temporário	permanência
+local	direita/direito/esquerdo
+confiante	confiança
+covarde	cobardia/covardia
+castidade	casta/casto
+profundidade	superficial/fundo/profundo/profunda/desinteressante/raso
+tédio	desinteressante/monótono/chato
+gratís	liberdade/liberdades_civis
+incômodo	conforto
+liquidado	extinção
+tacanho	generosidade
+frio	temperatura/calor/Temperatura/temperatura_do_ar
+ciência	científica/científico
+longínquo	distância/Distância
+doente	saúde
+prestes	preparação/prontidão/rapidez
+situação	externo/adventício/interno/traseiro/posterior/rabo
+infiel	fidelidade/lealdade/fidelidade_conjugal
+realismo	irreal/não_material/existente
+inteireza	incompleto/completo/integral/totalizado
+leal	lealdade
+inacreditável	credibilidade
+imperfeito	perfeição
+audível	audibilidade
+humano	humanidade
+mal_afamado	renome/fama/honra/reputação
+calibre	inferior/superior
+sujado	asseio/limpeza
+indisponível	disponibilidade/acessibilidade
+comilão	gula
+existente	existência/ser/forma_de_vida/Existência/realismo/verdade/Realidade/realidade
+futuro	cronometragem
+indelicado	polidez/cortesia
+semvida	vida/animação
+mutável	mutabilidade
+éxito	próspero/bem-sucedido/bem_sucedido/mal_sucedido/sem_sucesso
+monótono	tédio
+ativo	atividade
+credibilidade	incrível/inacreditável/crível/acreditável
+fuscícoma	tez
+continuidade	contínuo
+terror	destemido/sem_medo/receoso
+rigor	preciso/exato/acurado/justo/exacto
+oriental	Do_leste/Oriente/oriente/levante/nascente
+bem_sucedido	êxito/éxito
+júnior	senioridade
+formoso	beleza/Belo
+importância	importante
+pose	certo/inseguro/incerto
+baixa	grau
+perpendicular	orientação/Orientação
+profundeza	superficial/fundo/profundo/profunda/desinteressante/raso
+irreal	realidade/Realidade/verdade/realismo
+crível	credibilidade
+duradouro	permanência
+lacônico	prolixidade
+rala	grossura/consistência/viscosidade
+alma	vívido
+viscosidade	rala/espesso/Família_de_Tyrogue
+espesso	espessura/consistência/viscosidade/grossura
+suficiente	quantidade
+magnetismo	magnético/atrativo
+subordinado	status/posição/classe/condição/estado
+inseguro	confiança/desembaraço/altivez/aprumo/fé/pose/segurança/certeza
+diversidade	que_oferece_várias_aspectos/vário
+moralidade	moral/imoral/puro
+impotente	eficácia/potência/força/potencia/poder
+caloroso	temperatura/calor/Temperatura/temperatura_do_ar
+acurácia	preciso/exato/acurado/justo/exacto
+contemporâneo	modernidade
+eqüidade	injusto
+delicado	força
+acessível	disponibilidade/acessibilidade
+lauto	quantidade
+peso_(aspectos_físicos)	tênue/esbelto/magro/gordo
+próximo	distância/Distância
+sênior	senioridade
+bastante	quantidade
+talento	incapaz/capaz
+verdadeiro	realidade/verdade
+sagrado	santidade
+vantajoso	atributos/qualidade
+agencioso	atividade
+prolixidade	sucinto/lacônico/conciso/lacónico/prolixo
+largura	largo/ampla/amplo/estreita/estreito
+o_mesmo	semelhança/similardidade
+inteligente	inteligência
+atrativo	magnetismo/Magnetismo
+exactidão	preciso/exato/acurado/justo/exacto
+regularidade	regular
+potencia	potente/impotente/ineficaz
+provável	probabilidade
+direita	posição/local/lugar
+valente	ânimo/coragem/denodo
+largo	largura/anchura
+feliz	aventurança/felicidade/alegria
+altura	baixo/deprimido/alto
+macho	gênero/sexualidade/sexo
+bonito	beleza/Belo
+discordância	diferente
+úmido	umidade/humidade
+gasoso	Estados_físicos_da_matéria/Fases_da_matéria
+possibilidade	possível/impossível
+preparação	preparado/pronto/disposto/prestes
+excitação	emocionante/excitante
+familiar	familiaridade
+equanimidade	injusto
+classe_média	status/posição/classe/condição/estado
+quente	temperatura/calor/Temperatura/temperatura_do_ar
+cheiro	inodoro
+semelhante	similardidade/similitude/semelhança
+externo	localização/colocação/posição/situação
+fundo	profundeza/fundura/profundidade
+salubre	saúde
+quantidade	padrão/escasso/insuficiente/lauto/farto/basto/copioso/abundante/bastante/suficiente
+Fases_da_matéria	gasoso/líquido/sólido
+consternação	destemido/sem_medo/receoso/alarmante/inquietante
+estéril	Fertilidade/fertilidade
+ciente	conhecimento/saber/consciência/sentimento_de_si
+presença	presente/ausente
+claro	luminosidade
+do_norte	Norte/União/Nord/norte
+rápido	rapidez/velocidade
+acurado	exactidão/exatidão/correção/rigor/precisão/acurácia
+moderno	modernidade
+tardio	cronometragem
+cobardia	covardemente/covarde/cobarde
+novo	idade
+colocação	externo/adventício/interno/traseiro/posterior/rabo
+Maldade	maléfico/mau/má/ruim/maléfica/malvado
+santo	santidade
+textura	fino
+diferença	diferente
+sabor	insípido
+belo	beleza/Belo
+confuso	transparência/lucidez
+frívolo	seriedade
+leve	peso
+crise	crítico
+adequado	adequação
+magnitude	padrão/mensurável/importante/grande/pequeno
+aspiração	ambicioso
+estrepitante	gritaria/intensidade_sonora/volume
+incerto	desembaraço/altivez/aprumo/fé/pose/segurança/certeza
+obscurícoma	tez
+eficaz	Eficácia/efetividade/eficiência/eficácia
+inadmissível	admissibilidade
+lugar	direita/direito/esquerdo
+ambicioso	aspiração/ambição
+amplo	plenitude/largura/anchura
+normalidade	anormal/normal
+originalidade	original
+facilidade	fácil
+de_duração	duração
+vertical	orientação/Orientação/postura/posição/atitude
+injusto	eqüidade/justiça/equanimidade
+singelo	complexidade
+verdade	irreal/não_material/existente/falso/errado/verdadeiro
+escuso	contorno
+Estados_físicos_da_matéria	gasoso/líquido/sólido
+farto	quantidade
+ambição	ambicioso
+magro	peso_(aspectos_físicos)/peso
+ironia	sarcástico
+afável	natureza/índole
+grosseiro	civilidade
+prontidão	preparado/pronto/disposto/prestes
+mesmo	semelhança/similardidade
+opacidade	opaco
+sensatez	razoável
+científica	ciência
+felicidade	infeliz/triste/feliz/contente
+setentrional	Norte/União/Nord/norte
+movimento	imóvel/movente
+acessibilidade	que_não_pode_ser_acessado/indisponível/inacessível/acessível/disponível
+disponível	disponibilidade/acessibilidade
+necessário	necessidade
+manso	domesticação
+não_usual	convenção
+castanícoma	tez
+odores	inodoro
+hálito	inodoro
+emocionante	excitação/excitamento
+generosidade	ávaro/ávido/tacanho/liberal
+informal	formalidade
+adventício	localização/colocação/posição/situação
+limpo	asseio/limpeza
+gordo	peso_(aspectos_físicos)/peso
+guloso	gula
+sucinto	prolixidade
+homossexual	sexo/transa
+poderoso	poder
+dominante	status/posição/classe/condição/estado
+chato	tédio
+extincto	extinção
+comercial	mercantilismo/comercialismo/comércio
+confiança	tímido/inseguro/confiante
+fertilidade	fecundo/fértil/infértil/estéril/improdutivo
+informado	conhecimento/saber/consciência/sentimento_de_si
+lhano	natureza/índole
+audacioso	ousadia/audácia
+subordinada	status/posição/classe/condição/estado
+diferente	diferença/discordância/similardidade/similitude/semelhança
+plano	invariabilidade
+natural	naturalidade
+dimensão	grande/pequeno
+permanente	permanência
+lotado	plenitude
+integridade	integral/inteiro/parcial/fracionário/partido/quebrado
+poder	impotente/poderoso
+personalidade	individual
+excitante	excitação/excitamento
+consciência	ciente/informado
+sexo	hetero/sexual/macho/heterossexual/varão/homo/gay/homossexual/assexual
+Orientação	inclinado/perpendicular/fio_de_prumo/vertical/horizontal
+responsável	responsabilidade
+rabo	localização/colocação/posição/situação
+passado	cronometragem
+abundante	quantidade
+vário	diversidade
+hidrófilo	absorbency
+fecundo	fertilidade/Fertilidade
+Sul	do_sul/sulista/meridional
+asseio	sujo/suja/sujado/limpo
+normal	normalidade
+obediente	obediência
+potente	eficácia/potência/força/potencia
+atitude	vertical
+fora_da_lei	legalidade
+virgindade	casto/casta
+exaustivo	plenitude
+deprimido	altura/altitude
+nuança	cromático/acromático
+temperatura_do_ar	fresco/quente/forgoso/frio/caloroso
+específico	generalidade
+raso	profundeza/fundura/profundidade
+Oriente	oriental
+status	dominante/subordinada/subordinado/classe_média
+meridional	Sul/Estados_confederados_da_américa/Estados_Confederados_da_América
+vívido	alma/vida
+atividade	inativo/agencioso/ativo
+ânimo	bravo/valoroso/valente/afoito/arrojado/brava/corajoso
+homo	sexo/transa
+eficiente	Eficácia/efetividade/eficiência/eficácia
+Temperatura	fresco/quente/forgoso/frio/caloroso
+audácia	audacioso/audaz/bravo/destemido/corajoso
+boreal	Norte/União/Nord/norte
+correcção	correto/justo/certo/errado/incorreto
+complexidade	complexo/intrincado/simples/singelo
+comércio	comercial
+velocidade	devagar/lento/rápido/rápida/veloz
+inadequado	adequação
+tênue	peso_(aspectos_físicos)/peso
+detalhado	plenitude
+potência	potente/impotente/ineficaz
+bem-sucedido	êxito/éxito
+significativo	significado/significação
+casto	virgindade/virtude/castidade/pureza
+animação	vivo/semvida/morto
+jovem	idade
+propósito	funcional
+conciso	prolixidade
+funcional	função/propósito
+maldade	maléfico/mau/má/ruim/maléfica/malvado
+similardidade	similar/diferente/parecido/semelhante/mesmo/o_mesmo
+pronto	preparação/prontidão/rapidez
+improvável	probabilidade
+lucidez	confuso
+impossível	possibilidade/chance
+pouco_familiar	familiaridade
+próspero	êxito/éxito
+anormal	normalidade
+destemido	terror/consternação/temor/medo/susto/ousadia/audácia
+completo	integralidade/plenitude/inteireza
+lindo	beleza/Belo
+quebrado	integridade
+intenso	grau
+legalidade	legal/lícito/ilegal/fora_da_lei
+independência	independente/dependente
+índole	afável/amável/gentil/lhano
+Eficácia	eficiente/eficaz
+intrincado	dificuldade/complexidade
+transparência	confuso
+alto	estatura/grau/altitude/altura/gritaria/intensidade_sonora/volume
+reto	contorno
+maçante	luminosidade
+intensivo	grau
+inativo	atividade
+húmido	umidade/humidade
+domesticação	manso
+traseiro	localização/colocação/posição/situação
+dificuldade	árduo/difícil/foda/intrincado
+cedo	cronometragem
+amistoso	amizade
+grau	suave/intenso/intensivo/baixo/baixa/alto
+fundura	superficial/fundo/profundo/profunda/desinteressante/raso
+virtude	casta/casto/bom/boa/moral/imoral/puro
+sexualidade	sexual/macho/varão/assexual
+nobre	nobreza
+covardemente	cobardia/covardia
+brunícoma	tez
+vizinho	distância/Distância
+sentimento_de_si	ciente/informado
+insuficiente	quantidade
+intensidade_sonora	suave/estrepitante/alta/berrante/alto
+fracionário	integridade
+alarmante	estupefação/consternação/medo
+maioria	maior
+crítico	crise
+contínuo	continuidade
+lerdo	inteligência
+Fertilidade	fecundo/fértil/infértil/estéril/improdutivo
+errado	verdade/correcção/corretude
+amizade	amigo/amigável/amistoso
+inacessível	disponibilidade/acessibilidade
+abilidade	incapaz/capaz
+localização	externo/adventício/interno/traseiro/posterior/rabo
+contente	aventurança/felicidade/alegria
+inclinado	orientação/Orientação
+alfabetização	analfabeto
+lealdade	infiel/fiel/leal
+susto	destemido/sem_medo/receoso
+puro	moralidade/moral/virtude
+livre	liberdade/liberdades_civis
+esquerdo	posição/local/lugar
+imóvel	movimento
+honrado	honestidade
+classe	dominante/subordinada/subordinado/classe_média
+maior	ascendência/maioridade/maioria
+consistência	rala/espesso/Família_de_Tyrogue
+sarcasmo	sarcástico
+iluminado	luminosidade
+ceremonioso	formalidade
+extenso	plenitude
+tamanho	grande/pequeno
+amigável	amizade
+frescura	fresco/recente
+idêntico	igualdade
+efetivo	realidade/efetividade/eficiência/eficácia
+temperatura	fresco/quente/forgoso/frio/caloroso
+lícito	legalidade/admissibilidade
+formalidade	ceremonioso/formal/informal
+fio_de_prumo	orientação/Orientação
+sensibilidade	sensível
+extinto	extinção
+acreditável	credibilidade
+permissivo	tolerância
+geral	generalidade
+sólido	Fases_da_matéria/Estados_físicos_da_matéria
+colorido	tez/cor
+superior	qualidade/calibre
+gentil	cortesia/polidez/natureza/índole
+sensível	sensibilidade
+cortesia	cortês/gentil/indelicado/impolido
+maduro	maturidade/idade
+incompleto	integralidade/plenitude/inteireza
+segurança	certo/inseguro/incerto
+função	funcional
+semelhança	similar/diferente/parecido/semelhante/mesmo/o_mesmo
+curso	extrovertido
+fútil	seriedade
+loiro	tez
+espessura	fino/espesso/grosso
+copioso	quantidade
+corretude	correto/justo/certo/errado/incorreto
+quantia	padrão
+audibilidade	audível
+sério	seriedade
+desnecessária	necessidade
+beleza	bonito/formoso/lindo/belo/feio/feia
+alta	gritaria/intensidade_sonora/volume
+desinteressante	profundeza/tédio/fundura/profundidade
+fé	certo/inseguro/incerto
+esbelto	peso_(aspectos_físicos)/peso
+ampla	largura/anchura
+preparado	preparação/prontidão/rapidez
+ousadia	audacioso/audaz/bravo/destemido/corajoso
+individual	personalidade/individualismo/individualidade
+bondade	bom/boa
+prolixo	prolixidade
+horizontal	orientação/Orientação
+integral	integridade/integralidade/plenitude/inteireza
+nascente	oriental
+outro	alteridade
+capacidade	incapaz/capaz
+maioridade	maior
+variável	mutabilidade
+nortista	norte
+boa	atributos/qualidade/virtude/bondade
+medo	destemido/sem_medo/receoso/alarmante/inquietante
+habilidade	incapaz/capaz
+liberdades_civis	livre/gratís
+profunda	profundeza/fundura/profundidade
+modernidade	contemporâneo/moderno
+benevolência	benigno
+criativo	criatividade/Criatividade
+aventurança	infeliz/triste/feliz/contente
+ruim	atributos/qualidade/mal/Maldade/maldade
+revogado	extinção
+utilidade	útil/vão/inapto/inútil/impróprio
+polido	civilidade
+escuro	luminosidade
+significado	significativo/significante/importante
+alfabetismo	analfabeto
+moderado	moderação/temperança
+científico	ciência
+orientação	inclinado/perpendicular/fio_de_prumo/vertical/horizontal
+peso	pesado/leve/tênue/esbelto/magro/gordo
+inferior	qualidade/calibre
+Estados_Confederados_da_América	meridional/do_sul/sulista
+mutabilidade	imutável/inalterável/variável/mutável
+natureza	afável/amável/gentil/lhano
+berrante	gritaria/intensidade_sonora/volume
+movente	movimento
+sujo	asseio/limpeza
+malvado	mal/Maldade/maldade
+convencional	convenção
+má	mal/Maldade/maldade
+razoável	sensatez
+familiaridade	familiar/desconhecido/pouco_familiar/estranho
+vazio	plenitude
+susceptível	suscetibilidade/susceptibilidade
+Belo	bonito/formoso/lindo/belo/feio/feia
+real	realidade
+maturidade	maduro/maturo/imaturo
+rápida	rapidez/velocidade
+lacónico	prolixidade
+foda	dificuldade
+modéstia	modesto
+cortês	civilidade/cortesia
+forma_de_vida	existente
+estranho	familiaridade
+altitude	deprimido/alto
+ávido	generosidade
+inapto	utilidade
+perto	distância/Distância
+aceitável	admissibilidade
+lógico	lógica
+absorvente	absorbency
+ilegal	legalidade
+receoso	terror/consternação/temor/medo/susto
+que_oferece_várias_aspectos	diversidade
+bom	atributos/qualidade/virtude/bondade
+educado	civilidade
+Do_leste	oriental
+grossura	fino/grosso/rala/espesso/Família_de_Tyrogue
+alegria	infeliz/triste/feliz/contente
+pequeno	dimensão/medida/magnitude/tamanho
+temporão	cronometragem

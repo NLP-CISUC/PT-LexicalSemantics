@@ -1,452 +1,174 @@
-Babilônia	(Marduque Ningishzida Adad Anshar Nabu Niña Adapa Anu Anunnaki
-           Babilónia Ninurta Ishtar Shamash)
-Mesopotâmia	(Ningal Tiamat Namtar Língua_acádia Nanna Babilônia Nergal acadiano
-             Babilonia acádio Babilónia)
-Estado_da_Palestina	(Fatah Jihad_Islâmica
-                     Organização_para_a_libertação_da_palestina
-                     Frente_Democrática_para_a_Libertação_da_Palestina
-                     Frente_Popular_para_a_Libertação_da_Palestina FPLP
-                     Frente_democrática_para_a_libertação_da_palestina
-                     Organização_para_a_Libertação_da_Palestina)
-Colômbia	(Forças_armadas_revolucionárias_da_colômbia
-          Forças_Armadas_Revolucionárias_da_Colômbia Cartel_de_medellín
-          Cartel_de_Medellín Cartel_de_cali Cartel_de_Cáli Cartel_de_Cali)
-Iémen	(Exército_Islâmico_de_Áden-Abyan)
-Colúmbia_Britânica	(Ilha_vancouver Ilha_Vancouver)
-Região_oeste_dos_Estados_Unidos_da_América	(planalto cidade_fantasma)
-Canadá	(Serviço_Canadense_de_Inteligência_de_Segurança 1_de_Julho 1_de_julho
-        Toronto)
-Oriente_próximo	(Guerra_do_Yom_Kipur Guerra_dos_Seis_Dias falafel
-                 Guerra_dos_seis_dias Guerra_do_yom_kipur Pita)
-Comunidade_da_Austrália	(Rupert_murdoch colega Rupert_Murdoch australiano)
-Alemanha	(Panzer Teutões trilhão Margrave alemão língua_alemã Minden suástica
-          cruz_gamada svástica Facção_exército_vermelho
-          Facção_Exército_Vermelho Floresta_Negra Floresta_negra pietismo
-          Mitologia_Nórdica)
-Sri_Lanca	(Hinduismo hinduísmo Tigres_de_Liberação_do_Tamil_Eelam)
-Atlanta	NIL
-América	(cara-pálida Xamanismo perdiz Philip_Marlowe Dia_dos_Presidentes
-         xamanismo Groundhog_Day 22_de_fevereiro 22_de_Fevereiro totem Totem
-         trilhão Hedeoma Ilhas_Marshall República_das_Ilhas_Marshall
-         Ilhas_marshall 12_de_fevereiro 12_de_Fevereiro bandido tribo
-         Festa_do_chá_de_boston Festa_do_Chá_de_Boston trapézio mestiço condado
-         Condado_dos_EUA bilhão ianque gringo cola coca bocal focinho União
-         Norte alfândega polegada dólar Guerra_de_Secessão Guerra_de_secessão
-         Guerra_Civil_Americana Mel_Gibson Mel_gibson)
-San_Antonio	(Batalha_do_Alamo)
-República_da_Índia	(chapati subcontinente Revolta_dos_Sipais ashram Ashram
-                    Revolta_dos_sipais Hinduismo hinduísmo)
-Listas_de_Portugal	(português língua_portuguesa Inquisidor-geral
-                    Inquisidor_geral)
-Bolívia	(Exército_Guerrilheiro_Tupac_Katari Exército_guerrilheiro_tupac_katari)
-Império_Romano	(distrito)
-Colombia	(Forças_armadas_revolucionárias_da_colômbia
-          Forças_Armadas_Revolucionárias_da_Colômbia Cartel_de_medellín
-          Cartel_de_Medellín Cartel_de_cali Cartel_de_Cáli Cartel_de_Cali)
-Ásia_Menor	(Batalha_de_Ipso)
-Serra_Leoa	(Frente_Revolucionária_Unida Frente_revolucionária_unida)
-República_Federal_da_Alemanha	(Panzer Teutões trilhão Margrave alemão
-                               língua_alemã Minden suástica cruz_gamada
-                               svástica Facção_exército_vermelho
-                               Facção_Exército_Vermelho Floresta_Negra
-                               Floresta_negra pietismo Mitologia_Nórdica)
-Malásia	(Jemaah_Islamiyah)
-Líbano	(Frente_pela_Libertação_da_Palestina Hizbollah Tabule
-        Frente_pela_libertação_da_palestina)
-URSS	(Revolução_de_Outubro russo estepe Revolução_de_Fevereiro kvas Kolkhoz
-      kolkhoz Revolução_de_outubro língua_russa Isaac_Stern Isaac_stern)
-Território_Palestiniano	(Fatah Jihad_Islâmica
-                         Organização_para_a_libertação_da_palestina
-                         Frente_Democrática_para_a_Libertação_da_Palestina
-                         Frente_Popular_para_a_Libertação_da_Palestina FPLP
-                         Frente_democrática_para_a_libertação_da_palestina
-                         Organização_para_a_Libertação_da_Palestina)
-Escócia	(pouquinho musculoso pãozinho Curling criança Haggis ravina cânion
-         recatado tímido Língua_scots scots)
-República_Popular_da_China	(qui Ieoh_Ming_Pei Revolução_comunista_chinesa
-                            Revolução_cultural_chinesa revolução_cultural
-                            Ieoh_ming_pei Revolução_Cultural_Chinesa KI ki
-                            Hangzhou Rio_Yalu línguas_sino-tibetanas
-                            Línguas_sino-tibetanas Língua_Chinesa
-                            língua_chinesa chinês Acupuntura acupuntura
-                            Feng_shui Feng_Shui)
-Irlanda_do_Norte	(Ordem_de_Orange Associação_de_defesa_do_ulster
-                  Associação_de_Defesa_do_Ulster)
-Rússia	(Revolução_de_Outubro russo estepe Revolução_de_Fevereiro kvas Kolkhoz
-        kolkhoz Revolução_de_outubro língua_russa Isaac_Stern Isaac_stern
-        Serviço_de_Inteligência_Estrangeiro)
-Vietnã	(Guerra_do_Vietnam Dien_Bien_Phu Guerra_do_Vietnã)
-Gronelândia	(subcontinente)
-Nepal	(Hinduismo hinduísmo)
-Suméria	(Inanna Nammu ENLIL Ninhursag Ninurta Enki Enquidu Enlil Namtar)
-Canada	(Serviço_Canadense_de_Inteligência_de_Segurança 1_de_Julho 1_de_julho
-        Toronto)
-Bolivia	(Exército_Guerrilheiro_Tupac_Katari Exército_guerrilheiro_tupac_katari)
-Polinesia	(tabú tabu)
-Estados_Unidos_Mexicanos	(Enchilada taco Chapultepec Tamal Batalha_de_puebla
-                          Revolução_mexicana Mexicano-americanos
-                          Revolução_Mexicana batalha_de_Puebla tortilla torrada
-                          burrito Puebla Conquistadores conquistador)
-República_do_Peru	(Sendero_luminoso Sendero_Luminoso
-                   Movimento_Revolucionário_Tupac_Amaru)
-Poetas_da_Bélgica	(Batalha_de_Fontenoy Ypres Batalha_de_waterloo
-                   Batalha_de_Waterloo)
-República_Islâmica_do_Paquistão	(madraçal Lashkar-e-Taiba Al-Qaeda Al-Qaida
-                                 Inter-Services_Intelligence)
-Bulgaria	(Pleven)
-Cuba	(Santiago_de_Cuba)
-País_de_Gales	(Sealyham_terrier Sealyham_Terrier Annwn galês língua_galesa)
-Estado_de_Israel	(Frente_Popular_para_a_Libertação_da_Palestina_-_Comando_Geral
-                  moshav Moshav Shabak kibutz Kibutz kibboutz Haganá Haganah
-                  Fatah Mossad Sayeret_matkal Sayeret_Matkal)
-Sri_lanka	(Hinduismo hinduísmo Tigres_de_Liberação_do_Tamil_Eelam)
-Montana	(Batalha_de_little_bighorn Batalha_de_Little_Bighorn
-         Batalha_de_Little_Big_Horn)
-República_do_Líbano	(Frente_pela_Libertação_da_Palestina Hizbollah Tabule
-                     Frente_pela_libertação_da_palestina)
-Pacífico	(Mar_das_Filipinas Mar_das_filipinas)
-Médio_Oriente	(Guerra_do_Yom_Kipur Guerra_dos_Seis_Dias falafel
-               Guerra_dos_seis_dias Guerra_do_yom_kipur Pita)
-EEUU	(cara-pálida Xamanismo perdiz Philip_Marlowe Dia_dos_Presidentes xamanismo
-      Groundhog_Day 22_de_fevereiro 22_de_Fevereiro totem Totem trilhão Hedeoma
-      Ilhas_Marshall República_das_Ilhas_Marshall Ilhas_marshall
-      12_de_fevereiro 12_de_Fevereiro bandido tribo Festa_do_chá_de_boston
-      Festa_do_Chá_de_Boston trapézio mestiço condado Condado_dos_EUA bilhão
-      ianque gringo cola coca bocal focinho União Norte alfândega polegada
-      dólar Guerra_de_Secessão Guerra_de_secessão Guerra_Civil_Americana
-      Mel_Gibson Mel_gibson)
-Georgia	(Atlanta)
-República_Francesa	(Batalha_de_Rocroi Somme Revolução_Francesa Poitiers
-                    Frente_de_Libertação_Nacional_da_Córsega Soissons tricolor
-                    Orleães Revoluçao_francesa Batalha_de_rocroi
-                    Revolução_francesa distrito patrão
-                    Nouvelle_Cuisine_Française Nouvelle_cuisine_française
-                    língua_francesa francês Bastilha deputado legionário
-                    casa_de_câmbio)
-Árabia	(emir)
-Região_Oeste_dos_Estados_Unidos_da_América	(planalto cidade_fantasma)
-América_do_Sul	(América_Latina)
-Sri-Lanka	(Hinduismo hinduísmo Tigres_de_Liberação_do_Tamil_Eelam)
-Itália	(língua_italiana italiano Lingua_italiana italiana Ravenna
-        Batalha_de_magenta Batalha_de_Magenta Cannae Calabria Calábria polenta
-        calamar Brigadas_vermelhas etiqueta_br tag_br Brigadas_Vermelhas
-        taxa_de_transferência_de_bits Basilicata Salerno)
-Ilhas_Gilbert	(Tarawa)
-Italia	(língua_italiana italiano Lingua_italiana italiana Ravenna
-        Batalha_de_magenta Batalha_de_Magenta Cannae Calabria Calábria polenta
-        calamar Brigadas_vermelhas etiqueta_br tag_br Brigadas_Vermelhas
-        taxa_de_transferência_de_bits Basilicata Salerno)
-México	(Enchilada taco Chapultepec Tamal Batalha_de_puebla Revolução_mexicana
-        Mexicano-americanos Revolução_Mexicana batalha_de_Puebla tortilla
-        torrada burrito Puebla Conquistadores conquistador)
-Anatolia	(Batalha_de_Ipso)
-Colómbia	(Forças_armadas_revolucionárias_da_colômbia
-          Forças_Armadas_Revolucionárias_da_Colômbia Cartel_de_medellín
-          Cartel_de_Medellín Cartel_de_cali Cartel_de_Cáli Cartel_de_Cali)
-Oriente_Médio	(Guerra_do_Yom_Kipur Guerra_dos_Seis_Dias falafel
-               Guerra_dos_seis_dias Guerra_do_yom_kipur Pita)
-Paquistão	(madraçal Lashkar-e-Taiba Al-Qaeda Al-Qaida
-           Inter-Services_Intelligence)
-República_Italiana	(língua_italiana italiano Lingua_italiana italiana Ravenna
-                    Batalha_de_magenta Batalha_de_Magenta Cannae Calabria
-                    Calábria polenta calamar Brigadas_vermelhas etiqueta_br
-                    tag_br Brigadas_Vermelhas taxa_de_transferência_de_bits
-                    Basilicata Salerno)
-Reino_da_Tailândia	(línguas_sino-tibetanas Línguas_sino-tibetanas)
-Federação_Russa	(Serviço_de_Inteligência_Estrangeiro)
-Jordânia	(Fatah)
-Reino-Unido	(pia Sir recuperação_de_informação melaço pudim mod anglo-saxão
-             vale merenda Código_de_estrada maçaneta ministro pancadaria
-             avaliador bicicleta anoraque primeira_linha Guido pai-nosso
-             onda_média cientista Thatcherismo presídio estradas_principais
-             salão macacão farinha kedgeree Macintosh Boxing_Day preceptor nous
-             charnecas Onda_Média cadeia prisão sobremesa Boxing_day sala parca
-             lavabo charneca Preceptor sala_de_estar estrada stone residente
-             estagiária estagiário trilhão Condados_do_Reino_Unido deputado
-             Lady fedor sociedade_limitada gafe podadeira Magna_Carta
-             Magna_carta chá Chá_preto chá_preto parlamento
-             Serviço_Aéreo_Especial escritório rod bolacha biscoito cookie
-             Condestável Batalha_da_Grã-Bretanha râguebi rúgbi skiffle
-             Teddy_Boy Teddy_boy par almirantado condado Fisiognomia fisionomia
-             rosto face barra Clientes_de_Usenet colega pintado maquiado
-             fabricado inventado MI6 botequim bar taberna pub boteco estaminé
-             reitor chanceler 5_de_Novembro 5_de_novembro bilhão bilião
-             autoridades_locais Grã-Bretanha Grã_Bretanha sesta bosquezinho
-             alfândega polegada mil_milhões)
-República_da_União_de_Myanmar	(línguas_sino-tibetanas Línguas_sino-tibetanas)
-Iêmen	(Exército_Islâmico_de_Áden-Abyan)
-Reino_Unido_da_Grã-Bretanha_e_Irlanda_do_Norte	(pia Sir
-                                                recuperação_de_informação
-                                                melaço pudim mod anglo-saxão
-                                                vale merenda Código_de_estrada
-                                                maçaneta ministro pancadaria
-                                                avaliador bicicleta anoraque
-                                                primeira_linha Guido pai-nosso
-                                                onda_média cientista
-                                                Thatcherismo presídio
-                                                estradas_principais salão
-                                                macacão farinha kedgeree
-                                                Macintosh Boxing_Day preceptor
-                                                nous charnecas Onda_Média
-                                                cadeia prisão sobremesa
-                                                Boxing_day sala parca lavabo
-                                                charneca Preceptor
-                                                sala_de_estar estrada stone
-                                                residente estagiária estagiário
-                                                trilhão Condados_do_Reino_Unido
-                                                deputado Lady fedor
-                                                sociedade_limitada gafe
-                                                podadeira Magna_Carta
-                                                Magna_carta chá Chá_preto
-                                                chá_preto parlamento
-                                                Serviço_Aéreo_Especial
-                                                escritório rod bolacha biscoito
-                                                cookie Condestável
-                                                Batalha_da_Grã-Bretanha râguebi
-                                                rúgbi skiffle Teddy_Boy
-                                                Teddy_boy par almirantado
-                                                condado Fisiognomia fisionomia
-                                                rosto face barra
-                                                Clientes_de_Usenet colega
-                                                pintado maquiado fabricado
-                                                inventado MI6 botequim bar
-                                                taberna pub boteco estaminé
-                                                reitor chanceler 5_de_Novembro
-                                                5_de_novembro bilhão bilião
-                                                autoridades_locais Grã-Bretanha
-                                                Grã_Bretanha sesta bosquezinho
-                                                alfândega polegada mil_milhões)
-Japão	(Leo_esaki camicase Yakuza Wasabi missô sashimi tempurá Lutadores_de_sumô
-       Seiji_Ozawa caratê Exército_Vermelho_Japonês saquê Shogi distrito go
-       sushi jiu-jítsu Aum_Shinrikyo jiu-jitsu Exército_vermelho_japonês suchi
-       Saqué Leo_Esaki Aum_shinrikyo saqué Kamikaze karatê japonês futon sumô
-       Origami origami)
-Belgica	(Batalha_de_Fontenoy Ypres Batalha_de_waterloo Batalha_de_Waterloo)
-Macedónia	(Batalha_de_Pidna)
-Gronelandia	(subcontinente)
-República_da_Bulgária	(Pleven)
-Serra_leoa	(Frente_Revolucionária_Unida Frente_revolucionária_unida)
-França	(Batalha_de_Rocroi Somme Revolução_Francesa Poitiers
-        Frente_de_Libertação_Nacional_da_Córsega Soissons tricolor Orleães
-        Revoluçao_francesa Batalha_de_rocroi Revolução_francesa distrito patrão
-        Nouvelle_Cuisine_Française Nouvelle_cuisine_française língua_francesa
-        francês Bastilha deputado legionário casa_de_câmbio)
-Filipinas	(Corregidor Leyte Baía_de_Manila Baía_de_manila Abu_Sayyaf
-           New_People's_Army New_people's_army)
-Sudoeste	(ribeiro)
-Portugal	(português língua_portuguesa Inquisidor-geral Inquisidor_geral)
-Sicília	(Siracusa)
-MEXICO	(Enchilada taco Chapultepec Tamal Batalha_de_puebla Revolução_mexicana
-        Mexicano-americanos Revolução_Mexicana batalha_de_Puebla tortilla
-        torrada burrito Puebla Conquistadores conquistador)
-San_antonio	(Batalha_do_Alamo)
-Grã-Bretanha	(pia Sir recuperação_de_informação melaço pudim mod anglo-saxão
-              vale merenda Código_de_estrada maçaneta ministro pancadaria
-              avaliador bicicleta anoraque primeira_linha Guido pai-nosso
-              onda_média cientista Thatcherismo presídio estradas_principais
-              salão macacão farinha kedgeree Macintosh Boxing_Day preceptor
-              nous charnecas Onda_Média cadeia prisão sobremesa Boxing_day sala
-              parca lavabo charneca Preceptor sala_de_estar estrada stone
-              residente estagiária estagiário trilhão Condados_do_Reino_Unido
-              deputado Lady fedor sociedade_limitada gafe podadeira Magna_Carta
-              Magna_carta chá Chá_preto chá_preto parlamento
-              Serviço_Aéreo_Especial escritório rod bolacha biscoito cookie
-              Condestável Batalha_da_Grã-Bretanha râguebi rúgbi skiffle
-              Teddy_Boy Teddy_boy par almirantado condado Fisiognomia
-              fisionomia rosto face barra Clientes_de_Usenet colega pintado
-              maquiado fabricado inventado MI6 botequim bar taberna pub boteco
-              estaminé reitor chanceler 5_de_Novembro 5_de_novembro bilhão
-              bilião autoridades_locais Grã_Bretanha sesta bosquezinho
-              alfândega polegada mil_milhões)
-Camboja	(Khmer_Vermelho Khmer_vermelho)
-EUA	(cara-pálida Xamanismo perdiz Philip_Marlowe Dia_dos_Presidentes xamanismo
-     Groundhog_Day 22_de_fevereiro 22_de_Fevereiro totem Totem trilhão Hedeoma
-     Ilhas_Marshall República_das_Ilhas_Marshall Ilhas_marshall 12_de_fevereiro
-     12_de_Fevereiro bandido tribo Festa_do_chá_de_boston
-     Festa_do_Chá_de_Boston trapézio mestiço condado Condado_dos_EUA bilhão
-     ianque gringo cola coca bocal focinho União Norte alfândega polegada dólar
-     Guerra_de_Secessão Guerra_de_secessão Guerra_Civil_Americana Mel_Gibson
-     Mel_gibson)
-Ilhas_gilbert	(Tarawa)
-Criméia	(Guerra_da_Crimeia)
-Mesopotamia	(Ningal Tiamat Namtar Língua_acádia Nanna Babilônia Nergal acadiano
-             Babilonia acádio Babilónia)
-Assíria	(Ishtar Nusku Shamash)
-Índia	(chapati subcontinente Revolta_dos_Sipais ashram Ashram
-       Revolta_dos_sipais Hinduismo hinduísmo)
-Pensilvânia	(Batalha_de_gettysburg Batalha_de_Gettysburg)
-Estados_Unidos	(cara-pálida Xamanismo perdiz Philip_Marlowe Dia_dos_Presidentes
-                xamanismo Groundhog_Day 22_de_fevereiro 22_de_Fevereiro totem
-                Totem trilhão Hedeoma Ilhas_Marshall
-                República_das_Ilhas_Marshall Ilhas_marshall 12_de_fevereiro
-                12_de_Fevereiro bandido tribo Festa_do_chá_de_boston
-                Festa_do_Chá_de_Boston trapézio mestiço condado Condado_dos_EUA
-                bilhão ianque gringo cola coca bocal focinho União Norte
-                alfândega polegada dólar Guerra_de_Secessão Guerra_de_secessão
-                Guerra_Civil_Americana Mel_Gibson Mel_gibson)
-Bangladeche	(madraçal Hinduismo hinduísmo)
-Babilónia	(Marduque Ningishzida Adad Anshar Nabu Niña Adapa Anu Anunnaki
-           Babilônia Ninurta Ishtar Shamash)
-Assiria	(Ishtar Nusku Shamash)
-Macedônia	(Batalha_de_Pidna)
-África	(Guerra_dos_boers Guerra_dos_Boers Corno_de_áfrica Corno_de_África
-        Namibia Namíbia emir negro negra Safari Safári)
-Império_romano	(distrito)
-Havaí	(Luau golfinho havaiano Língua_Havaiana Língua_havaiana ukulele)
-Fenícia	(Dagon Astarte fenício Língua_fenícia)
-India	(chapati subcontinente Revolta_dos_Sipais ashram Ashram
-       Revolta_dos_sipais Hinduismo hinduísmo)
-Escocia	(pouquinho musculoso pãozinho Curling criança Haggis ravina cânion
-         recatado tímido Língua_scots scots)
-União_das_Repúblicas_Socialistas_Soviéticas	(Revolução_de_Outubro russo estepe
-                                             Revolução_de_Fevereiro kvas
-                                             Kolkhoz kolkhoz
-                                             Revolução_de_outubro língua_russa
-                                             Isaac_Stern Isaac_stern)
-Iemen	(Exército_Islâmico_de_Áden-Abyan)
-Peru	(Sendero_luminoso Sendero_Luminoso Movimento_Revolucionário_Tupac_Amaru)
-Viena	(Wiener_schnitzel Wiener_Schnitzel)
-Atol_midway	(Batalha_de_midway Batalha_de_Midway)
-Israel	(Frente_Popular_para_a_Libertação_da_Palestina_-_Comando_Geral moshav
-        Moshav Shabak kibutz Kibutz kibboutz Haganá Haganah Fatah Mossad
-        Sayeret_matkal Sayeret_Matkal)
-Arábia	(emir)
-Polinésia	(tabú tabu)
-E.U.A.	(cara-pálida Xamanismo perdiz Philip_Marlowe Dia_dos_Presidentes
-        xamanismo Groundhog_Day 22_de_fevereiro 22_de_Fevereiro totem Totem
-        trilhão Hedeoma Ilhas_Marshall República_das_Ilhas_Marshall
-        Ilhas_marshall 12_de_fevereiro 12_de_Fevereiro bandido tribo
-        Festa_do_chá_de_boston Festa_do_Chá_de_Boston trapézio mestiço condado
-        Condado_dos_EUA bilhão ianque gringo cola coca bocal focinho União
-        Norte alfândega polegada dólar Guerra_de_Secessão Guerra_de_secessão
-        Guerra_Civil_Americana Mel_Gibson Mel_gibson)
-Malasia	(Jemaah_Islamiyah)
-Africa	(Guerra_dos_boers Guerra_dos_Boers Corno_de_áfrica Corno_de_África
-        Namibia Namíbia emir negro negra Safari Safári)
-Reino_Unido	(pia Sir recuperação_de_informação melaço pudim mod anglo-saxão
-             vale merenda Código_de_estrada maçaneta ministro pancadaria
-             avaliador bicicleta anoraque primeira_linha Guido pai-nosso
-             onda_média cientista Thatcherismo presídio estradas_principais
-             salão macacão farinha kedgeree Macintosh Boxing_Day preceptor nous
-             charnecas Onda_Média cadeia prisão sobremesa Boxing_day sala parca
-             lavabo charneca Preceptor sala_de_estar estrada stone residente
-             estagiária estagiário trilhão Condados_do_Reino_Unido deputado
-             Lady fedor sociedade_limitada gafe podadeira Magna_Carta
-             Magna_carta chá Chá_preto chá_preto parlamento
-             Serviço_Aéreo_Especial escritório rod bolacha biscoito cookie
-             Condestável Batalha_da_Grã-Bretanha râguebi rúgbi skiffle
-             Teddy_Boy Teddy_boy par almirantado condado Fisiognomia fisionomia
-             rosto face barra Clientes_de_Usenet colega pintado maquiado
-             fabricado inventado MI6 botequim bar taberna pub boteco estaminé
-             reitor chanceler 5_de_Novembro 5_de_novembro bilhão bilião
-             autoridades_locais Grã-Bretanha Grã_Bretanha sesta bosquezinho
-             alfândega polegada mil_milhões)
-Bulgária	(Pleven)
-Bangladesh	(madraçal Hinduismo hinduísmo)
-Ardenas	(Batalha_do_bulge Batalha_do_Bulge)
-Birmânia	(línguas_sino-tibetanas Línguas_sino-tibetanas)
-Afeganistão	(Loya_Jirga Al-Qaeda Al-Qaida)
-Sri_Lanka	(Hinduismo hinduísmo Tigres_de_Liberação_do_Tamil_Eelam)
-Coreia	(Guerra_da_Coreia)
-Austrália	(Rupert_murdoch colega Rupert_Murdoch australiano)
-Ceilão	(Hinduismo hinduísmo Tigres_de_Liberação_do_Tamil_Eelam)
-Coréia	(Guerra_da_Coreia)
-Europa	(mercantilismo Mercantilismo Monumento_megalítico Monumentos_megalíticos
-        Woland escravo servo)
-Texas	(Batalha_do_Alamo)
-Estados_Unidos_da_América	(cara-pálida Xamanismo perdiz Philip_Marlowe
-                           Dia_dos_Presidentes xamanismo Groundhog_Day
-                           22_de_fevereiro 22_de_Fevereiro totem Totem trilhão
-                           Hedeoma Ilhas_Marshall República_das_Ilhas_Marshall
-                           Ilhas_marshall 12_de_fevereiro 12_de_Fevereiro
-                           bandido tribo Festa_do_chá_de_boston
-                           Festa_do_Chá_de_Boston trapézio mestiço condado
-                           Condado_dos_EUA bilhão ianque gringo cola coca bocal
-                           focinho União Norte alfândega polegada dólar
-                           Guerra_de_Secessão Guerra_de_secessão
-                           Guerra_Civil_Americana Mel_Gibson Mel_gibson)
-Escandinávia	(troll lutefisk Troll)
-Bélgica	(Batalha_de_Fontenoy Ypres Batalha_de_waterloo Batalha_de_Waterloo)
-Tailândia	(línguas_sino-tibetanas Línguas_sino-tibetanas)
-Havai	(Luau golfinho havaiano Língua_Havaiana Língua_havaiana ukulele)
-Sião	(línguas_sino-tibetanas Línguas_sino-tibetanas)
-Vienne	(Wiener_schnitzel Wiener_Schnitzel)
-Babilonia	(Marduque Ningishzida Adad Anshar Nabu Niña Adapa Anu Anunnaki
-           Babilônia Babilónia Ninurta Ishtar Shamash)
-Oriente_Próximo	(Guerra_do_Yom_Kipur Guerra_dos_Seis_Dias falafel
-                 Guerra_dos_seis_dias Guerra_do_yom_kipur Pita)
-Roma	(centurião Baco romano solicitador panteão Panteão cruzamento catacumba
-      Áugures agoureiro gladiador Tipos_de_gladiador)
-Reino_do_Camboja	(Khmer_Vermelho Khmer_vermelho)
-República_da	(Batalha_de_Pidna)
-Mexico	(Enchilada taco Chapultepec Tamal Batalha_de_puebla Revolução_mexicana
-        Mexicano-americanos Revolução_Mexicana batalha_de_Puebla tortilla
-        torrada burrito Puebla Conquistadores conquistador)
-Jordania	(Fatah)
-Paquistao	(madraçal Lashkar-e-Taiba Al-Qaeda Al-Qaida
-           Inter-Services_Intelligence)
-Atol_Midway	(Batalha_de_midway Batalha_de_Midway)
-Vietname	(Guerra_do_Vietnam Dien_Bien_Phu Guerra_do_Vietnã)
-Turquia	(Partido_dos_trabalhadores_do_curdistão
-         Partido_dos_Trabalhadores_do_Curdistão)
-Mianmar	(línguas_sino-tibetanas Línguas_sino-tibetanas)
-Espanha	(Grapo língua_galega catalão conquistador sangria
-         Guerra_Civil_Espanhola paelha Inquisidor_geral ETA paella
-         Inquisidor-geral Euskadi_Ta_Askatasuna paeja Conquistadores GRAPO
-         galego Euskadi_ta_askatasuna língua_castelhana castelhano espanhol)
-África_do_Sul	(Qibla)
-Tibete	(línguas_sino-tibetanas Línguas_sino-tibetanas budismo_tibetano
-        Budismo_no_Tibete Budismo_Tibetano)
-Crimeia	(Guerra_da_Crimeia)
-Myanmar	(línguas_sino-tibetanas Línguas_sino-tibetanas)
-Médio-Oriente	(Guerra_do_Yom_Kipur Guerra_dos_Seis_Dias falafel
-               Guerra_dos_seis_dias Guerra_do_yom_kipur Pita)
-Groenlândia	(subcontinente)
-Libano	(Frente_pela_Libertação_da_Palestina Hizbollah Tabule
-        Frente_pela_libertação_da_palestina)
-Grécia	(Queroneia peã Mantineia Midas panteão Panteão Sísifo Leuctra souvlaki
-        Souvlaki grego Grego ditirambo Cavalos_de_troia trojan Baco Termópilas
-        Guerras_dos_Bálcãs Guerras_dos_Balcãs)
-Palestina	(Fatah Jihad_Islâmica Organização_para_a_libertação_da_palestina
-           Frente_Democrática_para_a_Libertação_da_Palestina
-           Frente_Popular_para_a_Libertação_da_Palestina FPLP
-           Frente_democrática_para_a_libertação_da_palestina
-           Organização_para_a_Libertação_da_Palestina)
-América_do_Norte	(Divisória_Continental
-                  Divisória_Continental_da_América_do_Norte canhão desfiladeiro
-                  América_Latina)
-República_da_Turquia	(Partido_dos_trabalhadores_do_curdistão
-                      Partido_dos_Trabalhadores_do_Curdistão)
-Imperio_Romano	(distrito)
-Oceano_Pacífico	(Mar_das_Filipinas Mar_das_filipinas)
-Território_da_Palestina	(Fatah Jihad_Islâmica
-                         Organização_para_a_libertação_da_palestina
-                         Frente_Democrática_para_a_Libertação_da_Palestina
-                         Frente_Popular_para_a_Libertação_da_Palestina FPLP
-                         Frente_democrática_para_a_libertação_da_palestina
-                         Organização_para_a_Libertação_da_Palestina)
-Groênlandia	(subcontinente)
-Anatólia	(Batalha_de_Ipso)
-Estado_da_palestina	(Fatah Jihad_Islâmica
-                     Organização_para_a_libertação_da_palestina
-                     Frente_Democrática_para_a_Libertação_da_Palestina
-                     Frente_Popular_para_a_Libertação_da_Palestina FPLP
-                     Frente_democrática_para_a_libertação_da_palestina
-                     Organização_para_a_Libertação_da_Palestina)
-Sul	(Ku_Klux_Klan Ku_klux_klan)
-Columbia_Britânica	(Ilha_vancouver Ilha_Vancouver)
-China	(qui Ieoh_Ming_Pei Revolução_comunista_chinesa Revolução_cultural_chinesa
-       revolução_cultural Ieoh_ming_pei Revolução_Cultural_Chinesa KI ki
-       Hangzhou Rio_Yalu línguas_sino-tibetanas Línguas_sino-tibetanas
-       Língua_Chinesa língua_chinesa chinês Acupuntura acupuntura Feng_shui
-       Feng_Shui)
-Irlanda	(Morrígan Tuatha_de_danann Banshee Peter_o'toole Angus_Mac_Og
-         língua_irlandesa Danu Lug Tuatha_Dé_Danann Peter_O'Toole Morrigan
-         irlandês gaélico banshee Angus_mac_og Tuatha_dé_danann patronímico)
-Inglaterra	(proxeneta Sherwood saxão Guerra_das_rosas Revolta_Camponesa_de_1381
-            puritanismo saxônico chulo saxônio cafetão Guerra_das_Rosas
-            Revolta_camponesa_de_1381 safado proxenetismo Guerra_civil_inglesa
-            Guerra_Civil_Inglesa)
-América_Setentrional	(Divisória_Continental
-                      Divisória_Continental_da_América_do_Norte canhão
-                      desfiladeiro América_Latina)
+Babilônia	Marduque/Ningishzida/Adad/Anshar/Nabu/Niña/Adapa/Anu/Anunnaki/Babilônia/Babilónia/Ninurta/Ishtar/Shamash
+Mesopotâmia	Ningal/Tiamat/Namtar/Língua_acádia/Nanna/Babilônia/Nergal/acadiano/Babilonia/acádio/Babilónia
+Estado_da_Palestina	Fatah/Jihad_Islâmica/Organização_para_a_libertação_da_palestina/Frente_Democrática_para_a_Libertação_da_Palestina/Frente_Popular_para_a_Libertação_da_Palestina/FPLP/Frente_democrática_para_a_libertação_da_palestina/Organização_para_a_Libertação_da_Palestina
+Colômbia	Forças_armadas_revolucionárias_da_colômbia/Forças_Armadas_Revolucionárias_da_Colômbia/Cartel_de_medellín/Cartel_de_Medellín/Cartel_de_cali/Cartel_de_Cáli/Cartel_de_Cali
+Iémen	Exército_Islâmico_de_Áden-Abyan
+Colúmbia_Britânica	Ilha_vancouver/Ilha_Vancouver
+Região_oeste_dos_Estados_Unidos_da_América	planalto/cidade_fantasma
+Canadá	Serviço_Canadense_de_Inteligência_de_Segurança/1_de_Julho/1_de_julho/Toronto
+Oriente_próximo	Guerra_do_Yom_Kipur/Guerra_dos_Seis_Dias/falafel/Guerra_dos_seis_dias/Guerra_do_yom_kipur/Pita
+Comunidade_da_Austrália	Rupert_murdoch/colega/Rupert_Murdoch/australiano
+Alemanha	Panzer/Teutões/trilhão/Margrave/alemão/língua_alemã/Minden/suástica/cruz_gamada/svástica/Facção_exército_vermelho/Facção_Exército_Vermelho/Floresta_Negra/Floresta_negra/pietismo/Mitologia_Nórdica
+Sri_Lanca	Hinduismo/hinduísmo/Tigres_de_Liberação_do_Tamil_Eelam
+Atlanta	Atlanta
+América	cara-pálida/Xamanismo/perdiz/Philip_Marlowe/Dia_dos_Presidentes/xamanismo/Groundhog_Day/22_de_fevereiro/22_de_Fevereiro/totem/Totem/trilhão/Hedeoma/Ilhas_Marshall/República_das_Ilhas_Marshall/Ilhas_marshall/12_de_fevereiro/12_de_Fevereiro/bandido/tribo/Festa_do_chá_de_boston/Festa_do_Chá_de_Boston/trapézio/mestiço/condado/Condado_dos_EUA/bilhão/ianque/gringo/cola/coca/bocal/focinho/União/Norte/alfândega/polegada/dólar/Guerra_de_Secessão/Guerra_de_secessão/Guerra_Civil_Americana/Mel_Gibson/Mel_gibson
+San_Antonio	Batalha_do_Alamo
+República_da_Índia	chapati/subcontinente/Revolta_dos_Sipais/ashram/Ashram/Revolta_dos_sipais/Hinduismo/hinduísmo
+Listas_de_Portugal	português/língua_portuguesa/Inquisidor-geral/Inquisidor_geral
+Bolívia	Exército_Guerrilheiro_Tupac_Katari/Exército_guerrilheiro_tupac_katari
+Império_Romano	distrito
+Colombia	Forças_armadas_revolucionárias_da_colômbia/Forças_Armadas_Revolucionárias_da_Colômbia/Cartel_de_medellín/Cartel_de_Medellín/Cartel_de_cali/Cartel_de_Cáli/Cartel_de_Cali
+Ásia_Menor	Batalha_de_Ipso
+Serra_Leoa	Frente_Revolucionária_Unida/Frente_revolucionária_unida
+República_Federal_da_Alemanha	Panzer/Teutões/trilhão/Margrave/alemão/língua_alemã/Minden/suástica/cruz_gamada/svástica/Facção_exército_vermelho/Facção_Exército_Vermelho/Floresta_Negra/Floresta_negra/pietismo/Mitologia_Nórdica
+Malásia	Jemaah_Islamiyah
+Líbano	Frente_pela_Libertação_da_Palestina/Hizbollah/Tabule/Frente_pela_libertação_da_palestina
+URSS	Revolução_de_Outubro/russo/estepe/Revolução_de_Fevereiro/kvas/Kolkhoz/kolkhoz/Revolução_de_outubro/língua_russa/Isaac_Stern/Isaac_stern
+Território_Palestiniano	Fatah/Jihad_Islâmica/Organização_para_a_libertação_da_palestina/Frente_Democrática_para_a_Libertação_da_Palestina/Frente_Popular_para_a_Libertação_da_Palestina/FPLP/Frente_democrática_para_a_libertação_da_palestina/Organização_para_a_Libertação_da_Palestina
+Escócia	pouquinho/musculoso/pãozinho/Curling/criança/Haggis/ravina/cânion/recatado/tímido/Língua_scots/scots
+República_Popular_da_China	qui/Ieoh_Ming_Pei/Revolução_comunista_chinesa/Revolução_cultural_chinesa/revolução_cultural/Ieoh_ming_pei/Revolução_Cultural_Chinesa/KI/ki/Hangzhou/Rio_Yalu/línguas_sino-tibetanas/Línguas_sino-tibetanas/Língua_Chinesa/língua_chinesa/chinês/Acupuntura/acupuntura/Feng_shui/Feng_Shui
+Irlanda_do_Norte	Ordem_de_Orange/Associação_de_defesa_do_ulster/Associação_de_Defesa_do_Ulster
+Rússia	Revolução_de_Outubro/russo/estepe/Revolução_de_Fevereiro/kvas/Kolkhoz/kolkhoz/Revolução_de_outubro/língua_russa/Isaac_Stern/Isaac_stern/Serviço_de_Inteligência_Estrangeiro
+Vietnã	Guerra_do_Vietnam/Dien_Bien_Phu/Guerra_do_Vietnã
+Gronelândia	subcontinente
+Nepal	Hinduismo/hinduísmo
+Suméria	Inanna/Nammu/ENLIL/Ninhursag/Ninurta/Enki/Enquidu/Enlil/Namtar
+Canada	Serviço_Canadense_de_Inteligência_de_Segurança/1_de_Julho/1_de_julho/Toronto
+Bolivia	Exército_Guerrilheiro_Tupac_Katari/Exército_guerrilheiro_tupac_katari
+Polinesia	tabú/tabu
+Estados_Unidos_Mexicanos	Enchilada/taco/Chapultepec/Tamal/Batalha_de_puebla/Revolução_mexicana/Mexicano-americanos/Revolução_Mexicana/batalha_de_Puebla/tortilla/torrada/burrito/Puebla/Conquistadores/conquistador
+República_do_Peru	Sendero_luminoso/Sendero_Luminoso/Movimento_Revolucionário_Tupac_Amaru
+Poetas_da_Bélgica	Batalha_de_Fontenoy/Ypres/Batalha_de_waterloo/Batalha_de_Waterloo
+República_Islâmica_do_Paquistão	madraçal/Lashkar-e-Taiba/Al-Qaeda/Al-Qaida/Inter-Services_Intelligence
+Bulgaria	Pleven
+Cuba	Santiago_de_Cuba
+País_de_Gales	Sealyham_terrier/Sealyham_Terrier/Annwn/galês/língua_galesa
+Estado_de_Israel	Frente_Popular_para_a_Libertação_da_Palestina_-_Comando_Geral/moshav/Moshav/Shabak/kibutz/Kibutz/kibboutz/Haganá/Haganah/Fatah/Mossad/Sayeret_matkal/Sayeret_Matkal
+Sri_lanka	Hinduismo/hinduísmo/Tigres_de_Liberação_do_Tamil_Eelam
+Montana	Batalha_de_little_bighorn/Batalha_de_Little_Bighorn/Batalha_de_Little_Big_Horn
+República_do_Líbano	Frente_pela_Libertação_da_Palestina/Hizbollah/Tabule/Frente_pela_libertação_da_palestina
+Pacífico	Mar_das_Filipinas/Mar_das_filipinas
+Médio_Oriente	Guerra_do_Yom_Kipur/Guerra_dos_Seis_Dias/falafel/Guerra_dos_seis_dias/Guerra_do_yom_kipur/Pita
+EEUU	cara-pálida/Xamanismo/perdiz/Philip_Marlowe/Dia_dos_Presidentes/xamanismo/Groundhog_Day/22_de_fevereiro/22_de_Fevereiro/totem/Totem/trilhão/Hedeoma/Ilhas_Marshall/República_das_Ilhas_Marshall/Ilhas_marshall/12_de_fevereiro/12_de_Fevereiro/bandido/tribo/Festa_do_chá_de_boston/Festa_do_Chá_de_Boston/trapézio/mestiço/condado/Condado_dos_EUA/bilhão/ianque/gringo/cola/coca/bocal/focinho/União/Norte/alfândega/polegada/dólar/Guerra_de_Secessão/Guerra_de_secessão/Guerra_Civil_Americana/Mel_Gibson/Mel_gibson
+Georgia	Atlanta
+República_Francesa	Batalha_de_Rocroi/Somme/Revolução_Francesa/Poitiers/Frente_de_Libertação_Nacional_da_Córsega/Soissons/tricolor/Orleães/Revoluçao_francesa/Batalha_de_rocroi/Revolução_francesa/distrito/patrão/Nouvelle_Cuisine_Française/Nouvelle_cuisine_française/língua_francesa/francês/Bastilha/deputado/legionário/casa_de_câmbio
+Árabia	emir
+Região_Oeste_dos_Estados_Unidos_da_América	planalto/cidade_fantasma
+América_do_Sul	América_Latina
+Sri-Lanka	Hinduismo/hinduísmo/Tigres_de_Liberação_do_Tamil_Eelam
+Itália	língua_italiana/italiano/Lingua_italiana/italiana/Ravenna/Batalha_de_magenta/Batalha_de_Magenta/Cannae/Calabria/Calábria/polenta/calamar/Brigadas_vermelhas/etiqueta_br/tag_br/Brigadas_Vermelhas/taxa_de_transferência_de_bits/Basilicata/Salerno
+Ilhas_Gilbert	Tarawa
+Italia	língua_italiana/italiano/Lingua_italiana/italiana/Ravenna/Batalha_de_magenta/Batalha_de_Magenta/Cannae/Calabria/Calábria/polenta/calamar/Brigadas_vermelhas/etiqueta_br/tag_br/Brigadas_Vermelhas/taxa_de_transferência_de_bits/Basilicata/Salerno
+México	Enchilada/taco/Chapultepec/Tamal/Batalha_de_puebla/Revolução_mexicana/Mexicano-americanos/Revolução_Mexicana/batalha_de_Puebla/tortilla/torrada/burrito/Puebla/Conquistadores/conquistador
+Anatolia	Batalha_de_Ipso
+Colómbia	Forças_armadas_revolucionárias_da_colômbia/Forças_Armadas_Revolucionárias_da_Colômbia/Cartel_de_medellín/Cartel_de_Medellín/Cartel_de_cali/Cartel_de_Cáli/Cartel_de_Cali
+Oriente_Médio	Guerra_do_Yom_Kipur/Guerra_dos_Seis_Dias/falafel/Guerra_dos_seis_dias/Guerra_do_yom_kipur/Pita
+Paquistão	madraçal/Lashkar-e-Taiba/Al-Qaeda/Al-Qaida/Inter-Services_Intelligence
+República_Italiana	língua_italiana/italiano/Lingua_italiana/italiana/Ravenna/Batalha_de_magenta/Batalha_de_Magenta/Cannae/Calabria/Calábria/polenta/calamar/Brigadas_vermelhas/etiqueta_br/tag_br/Brigadas_Vermelhas/taxa_de_transferência_de_bits/Basilicata/Salerno
+Reino_da_Tailândia	línguas_sino-tibetanas/Línguas_sino-tibetanas
+Federação_Russa	Serviço_de_Inteligência_Estrangeiro
+Jordânia	Fatah
+Reino-Unido	pia/Sir/recuperação_de_informação/melaço/pudim/mod/anglo-saxão/vale/merenda/Código_de_estrada/maçaneta/ministro/pancadaria/avaliador/bicicleta/anoraque/primeira_linha/Guido/pai-nosso/onda_média/cientista/Thatcherismo/presídio/estradas_principais/salão/macacão/farinha/kedgeree/Macintosh/Boxing_Day/preceptor/nous/charnecas/Onda_Média/cadeia/prisão/sobremesa/Boxing_day/sala/parca/lavabo/charneca/Preceptor/sala_de_estar/estrada/stone/residente/estagiária/estagiário/trilhão/Condados_do_Reino_Unido/deputado/Lady/fedor/sociedade_limitada/gafe/podadeira/Magna_Carta/Magna_carta/chá/Chá_preto/chá_preto/parlamento/Serviço_Aéreo_Especial/escritório/rod/bolacha/biscoito/cookie/Condestável/Batalha_da_Grã-Bretanha/râguebi/rúgbi/skiffle/Teddy_Boy/Teddy_boy/par/almirantado/condado/Fisiognomia/fisionomia/rosto/face/barra/Clientes_de_Usenet/colega/pintado/maquiado/fabricado/inventado/MI6/botequim/bar/taberna/pub/boteco/estaminé/reitor/chanceler/5_de_Novembro/5_de_novembro/bilhão/bilião/autoridades_locais/Grã-Bretanha/Grã_Bretanha/sesta/bosquezinho/alfândega/polegada/mil_milhões
+República_da_União_de_Myanmar	línguas_sino-tibetanas/Línguas_sino-tibetanas
+Iêmen	Exército_Islâmico_de_Áden-Abyan
+Reino_Unido_da_Grã-Bretanha_e_Irlanda_do_Norte	pia/Sir/recuperação_de_informação/melaço/pudim/mod/anglo-saxão/vale/merenda/Código_de_estrada/maçaneta/ministro/pancadaria/avaliador/bicicleta/anoraque/primeira_linha/Guido/pai-nosso/onda_média/cientista/Thatcherismo/presídio/estradas_principais/salão/macacão/farinha/kedgeree/Macintosh/Boxing_Day/preceptor/nous/charnecas/Onda_Média/cadeia/prisão/sobremesa/Boxing_day/sala/parca/lavabo/charneca/Preceptor/sala_de_estar/estrada/stone/residente/estagiária/estagiário/trilhão/Condados_do_Reino_Unido/deputado/Lady/fedor/sociedade_limitada/gafe/podadeira/Magna_Carta/Magna_carta/chá/Chá_preto/chá_preto/parlamento/Serviço_Aéreo_Especial/escritório/rod/bolacha/biscoito/cookie/Condestável/Batalha_da_Grã-Bretanha/râguebi/rúgbi/skiffle/Teddy_Boy/Teddy_boy/par/almirantado/condado/Fisiognomia/fisionomia/rosto/face/barra/Clientes_de_Usenet/colega/pintado/maquiado/fabricado/inventado/MI6/botequim/bar/taberna/pub/boteco/estaminé/reitor/chanceler/5_de_Novembro/5_de_novembro/bilhão/bilião/autoridades_locais/Grã-Bretanha/Grã_Bretanha/sesta/bosquezinho/alfândega/polegada/mil_milhões
+Japão	Leo_esaki/camicase/Yakuza/Wasabi/missô/sashimi/tempurá/Lutadores_de_sumô/Seiji_Ozawa/caratê/Exército_Vermelho_Japonês/saquê/Shogi/distrito/go/sushi/jiu-jítsu/Aum_Shinrikyo/jiu-jitsu/Exército_vermelho_japonês/suchi/Saqué/Leo_Esaki/Aum_shinrikyo/saqué/Kamikaze/karatê/japonês/futon/sumô/Origami/origami
+Belgica	Batalha_de_Fontenoy/Ypres/Batalha_de_waterloo/Batalha_de_Waterloo
+Macedónia	Batalha_de_Pidna
+Gronelandia	subcontinente
+República_da_Bulgária	Pleven
+Serra_leoa	Frente_Revolucionária_Unida/Frente_revolucionária_unida
+França	Batalha_de_Rocroi/Somme/Revolução_Francesa/Poitiers/Frente_de_Libertação_Nacional_da_Córsega/Soissons/tricolor/Orleães/Revoluçao_francesa/Batalha_de_rocroi/Revolução_francesa/distrito/patrão/Nouvelle_Cuisine_Française/Nouvelle_cuisine_française/língua_francesa/francês/Bastilha/deputado/legionário/casa_de_câmbio
+Filipinas	Corregidor/Leyte/Baía_de_Manila/Baía_de_manila/Abu_Sayyaf/New_People's_Army/New_people's_army
+Sudoeste	ribeiro
+Portugal	português/língua_portuguesa/Inquisidor-geral/Inquisidor_geral
+Sicília	Siracusa
+MEXICO	Enchilada/taco/Chapultepec/Tamal/Batalha_de_puebla/Revolução_mexicana/Mexicano-americanos/Revolução_Mexicana/batalha_de_Puebla/tortilla/torrada/burrito/Puebla/Conquistadores/conquistador
+San_antonio	Batalha_do_Alamo
+Grã-Bretanha	pia/Sir/recuperação_de_informação/melaço/pudim/mod/anglo-saxão/vale/merenda/Código_de_estrada/maçaneta/ministro/pancadaria/avaliador/bicicleta/anoraque/primeira_linha/Guido/pai-nosso/onda_média/cientista/Thatcherismo/presídio/estradas_principais/salão/macacão/farinha/kedgeree/Macintosh/Boxing_Day/preceptor/nous/charnecas/Onda_Média/cadeia/prisão/sobremesa/Boxing_day/sala/parca/lavabo/charneca/Preceptor/sala_de_estar/estrada/stone/residente/estagiária/estagiário/trilhão/Condados_do_Reino_Unido/deputado/Lady/fedor/sociedade_limitada/gafe/podadeira/Magna_Carta/Magna_carta/chá/Chá_preto/chá_preto/parlamento/Serviço_Aéreo_Especial/escritório/rod/bolacha/biscoito/cookie/Condestável/Batalha_da_Grã-Bretanha/râguebi/rúgbi/skiffle/Teddy_Boy/Teddy_boy/par/almirantado/condado/Fisiognomia/fisionomia/rosto/face/barra/Clientes_de_Usenet/colega/pintado/maquiado/fabricado/inventado/MI6/botequim/bar/taberna/pub/boteco/estaminé/reitor/chanceler/5_de_Novembro/5_de_novembro/bilhão/bilião/autoridades_locais/Grã-Bretanha/Grã_Bretanha/sesta/bosquezinho/alfândega/polegada/mil_milhões
+Camboja	Khmer_Vermelho/Khmer_vermelho
+EUA	cara-pálida/Xamanismo/perdiz/Philip_Marlowe/Dia_dos_Presidentes/xamanismo/Groundhog_Day/22_de_fevereiro/22_de_Fevereiro/totem/Totem/trilhão/Hedeoma/Ilhas_Marshall/República_das_Ilhas_Marshall/Ilhas_marshall/12_de_fevereiro/12_de_Fevereiro/bandido/tribo/Festa_do_chá_de_boston/Festa_do_Chá_de_Boston/trapézio/mestiço/condado/Condado_dos_EUA/bilhão/ianque/gringo/cola/coca/bocal/focinho/União/Norte/alfândega/polegada/dólar/Guerra_de_Secessão/Guerra_de_secessão/Guerra_Civil_Americana/Mel_Gibson/Mel_gibson
+Ilhas_gilbert	Tarawa
+Criméia	Guerra_da_Crimeia
+Mesopotamia	Ningal/Tiamat/Namtar/Língua_acádia/Nanna/Babilônia/Nergal/acadiano/Babilonia/acádio/Babilónia
+Assíria	Ishtar/Nusku/Shamash
+Índia	chapati/subcontinente/Revolta_dos_Sipais/ashram/Ashram/Revolta_dos_sipais/Hinduismo/hinduísmo
+Pensilvânia	Batalha_de_gettysburg/Batalha_de_Gettysburg
+Estados_Unidos	cara-pálida/Xamanismo/perdiz/Philip_Marlowe/Dia_dos_Presidentes/xamanismo/Groundhog_Day/22_de_fevereiro/22_de_Fevereiro/totem/Totem/trilhão/Hedeoma/Ilhas_Marshall/República_das_Ilhas_Marshall/Ilhas_marshall/12_de_fevereiro/12_de_Fevereiro/bandido/tribo/Festa_do_chá_de_boston/Festa_do_Chá_de_Boston/trapézio/mestiço/condado/Condado_dos_EUA/bilhão/ianque/gringo/cola/coca/bocal/focinho/União/Norte/alfândega/polegada/dólar/Guerra_de_Secessão/Guerra_de_secessão/Guerra_Civil_Americana/Mel_Gibson/Mel_gibson
+Bangladeche	madraçal/Hinduismo/hinduísmo
+Babilónia	Marduque/Ningishzida/Adad/Anshar/Nabu/Niña/Adapa/Anu/Anunnaki/Babilônia/Babilónia/Ninurta/Ishtar/Shamash
+Assiria	Ishtar/Nusku/Shamash
+Macedônia	Batalha_de_Pidna
+África	Guerra_dos_boers/Guerra_dos_Boers/Corno_de_áfrica/Corno_de_África/Namibia/Namíbia/emir/negro/negra/Safari/Safári
+Império_romano	distrito
+Havaí	Luau/golfinho/havaiano/Língua_Havaiana/Língua_havaiana/ukulele
+Fenícia	Dagon/Astarte/fenício/Língua_fenícia
+India	chapati/subcontinente/Revolta_dos_Sipais/ashram/Ashram/Revolta_dos_sipais/Hinduismo/hinduísmo
+Escocia	pouquinho/musculoso/pãozinho/Curling/criança/Haggis/ravina/cânion/recatado/tímido/Língua_scots/scots
+União_das_Repúblicas_Socialistas_Soviéticas	Revolução_de_Outubro/russo/estepe/Revolução_de_Fevereiro/kvas/Kolkhoz/kolkhoz/Revolução_de_outubro/língua_russa/Isaac_Stern/Isaac_stern
+Iemen	Exército_Islâmico_de_Áden-Abyan
+Peru	Sendero_luminoso/Sendero_Luminoso/Movimento_Revolucionário_Tupac_Amaru
+Viena	Wiener_schnitzel/Wiener_Schnitzel
+Atol_midway	Batalha_de_midway/Batalha_de_Midway
+Israel	Frente_Popular_para_a_Libertação_da_Palestina_-_Comando_Geral/moshav/Moshav/Shabak/kibutz/Kibutz/kibboutz/Haganá/Haganah/Fatah/Mossad/Sayeret_matkal/Sayeret_Matkal
+Arábia	emir
+Polinésia	tabú/tabu
+E.U.A.	cara-pálida/Xamanismo/perdiz/Philip_Marlowe/Dia_dos_Presidentes/xamanismo/Groundhog_Day/22_de_fevereiro/22_de_Fevereiro/totem/Totem/trilhão/Hedeoma/Ilhas_Marshall/República_das_Ilhas_Marshall/Ilhas_marshall/12_de_fevereiro/12_de_Fevereiro/bandido/tribo/Festa_do_chá_de_boston/Festa_do_Chá_de_Boston/trapézio/mestiço/condado/Condado_dos_EUA/bilhão/ianque/gringo/cola/coca/bocal/focinho/União/Norte/alfândega/polegada/dólar/Guerra_de_Secessão/Guerra_de_secessão/Guerra_Civil_Americana/Mel_Gibson/Mel_gibson
+Malasia	Jemaah_Islamiyah
+Africa	Guerra_dos_boers/Guerra_dos_Boers/Corno_de_áfrica/Corno_de_África/Namibia/Namíbia/emir/negro/negra/Safari/Safári
+Reino_Unido	pia/Sir/recuperação_de_informação/melaço/pudim/mod/anglo-saxão/vale/merenda/Código_de_estrada/maçaneta/ministro/pancadaria/avaliador/bicicleta/anoraque/primeira_linha/Guido/pai-nosso/onda_média/cientista/Thatcherismo/presídio/estradas_principais/salão/macacão/farinha/kedgeree/Macintosh/Boxing_Day/preceptor/nous/charnecas/Onda_Média/cadeia/prisão/sobremesa/Boxing_day/sala/parca/lavabo/charneca/Preceptor/sala_de_estar/estrada/stone/residente/estagiária/estagiário/trilhão/Condados_do_Reino_Unido/deputado/Lady/fedor/sociedade_limitada/gafe/podadeira/Magna_Carta/Magna_carta/chá/Chá_preto/chá_preto/parlamento/Serviço_Aéreo_Especial/escritório/rod/bolacha/biscoito/cookie/Condestável/Batalha_da_Grã-Bretanha/râguebi/rúgbi/skiffle/Teddy_Boy/Teddy_boy/par/almirantado/condado/Fisiognomia/fisionomia/rosto/face/barra/Clientes_de_Usenet/colega/pintado/maquiado/fabricado/inventado/MI6/botequim/bar/taberna/pub/boteco/estaminé/reitor/chanceler/5_de_Novembro/5_de_novembro/bilhão/bilião/autoridades_locais/Grã-Bretanha/Grã_Bretanha/sesta/bosquezinho/alfândega/polegada/mil_milhões
+Bulgária	Pleven
+Bangladesh	madraçal/Hinduismo/hinduísmo
+Ardenas	Batalha_do_bulge/Batalha_do_Bulge
+Birmânia	línguas_sino-tibetanas/Línguas_sino-tibetanas
+Afeganistão	Loya_Jirga/Al-Qaeda/Al-Qaida
+Sri_Lanka	Hinduismo/hinduísmo/Tigres_de_Liberação_do_Tamil_Eelam
+Coreia	Guerra_da_Coreia
+Austrália	Rupert_murdoch/colega/Rupert_Murdoch/australiano
+Ceilão	Hinduismo/hinduísmo/Tigres_de_Liberação_do_Tamil_Eelam
+Coréia	Guerra_da_Coreia
+Europa	mercantilismo/Mercantilismo/Monumento_megalítico/Monumentos_megalíticos/Woland/escravo/servo
+Texas	Batalha_do_Alamo
+Estados_Unidos_da_América	cara-pálida/Xamanismo/perdiz/Philip_Marlowe/Dia_dos_Presidentes/xamanismo/Groundhog_Day/22_de_fevereiro/22_de_Fevereiro/totem/Totem/trilhão/Hedeoma/Ilhas_Marshall/República_das_Ilhas_Marshall/Ilhas_marshall/12_de_fevereiro/12_de_Fevereiro/bandido/tribo/Festa_do_chá_de_boston/Festa_do_Chá_de_Boston/trapézio/mestiço/condado/Condado_dos_EUA/bilhão/ianque/gringo/cola/coca/bocal/focinho/União/Norte/alfândega/polegada/dólar/Guerra_de_Secessão/Guerra_de_secessão/Guerra_Civil_Americana/Mel_Gibson/Mel_gibson
+Escandinávia	troll/lutefisk/Troll
+Bélgica	Batalha_de_Fontenoy/Ypres/Batalha_de_waterloo/Batalha_de_Waterloo
+Tailândia	línguas_sino-tibetanas/Línguas_sino-tibetanas
+Havai	Luau/golfinho/havaiano/Língua_Havaiana/Língua_havaiana/ukulele
+Sião	línguas_sino-tibetanas/Línguas_sino-tibetanas
+Vienne	Wiener_schnitzel/Wiener_Schnitzel
+Babilonia	Marduque/Ningishzida/Adad/Anshar/Nabu/Niña/Adapa/Anu/Anunnaki/Babilônia/Babilónia/Ninurta/Ishtar/Shamash
+Oriente_Próximo	Guerra_do_Yom_Kipur/Guerra_dos_Seis_Dias/falafel/Guerra_dos_seis_dias/Guerra_do_yom_kipur/Pita
+Roma	centurião/Baco/romano/solicitador/panteão/Panteão/cruzamento/catacumba/Áugures/agoureiro/gladiador/Tipos_de_gladiador
+Reino_do_Camboja	Khmer_Vermelho/Khmer_vermelho
+República_da	Batalha_de_Pidna
+Mexico	Enchilada/taco/Chapultepec/Tamal/Batalha_de_puebla/Revolução_mexicana/Mexicano-americanos/Revolução_Mexicana/batalha_de_Puebla/tortilla/torrada/burrito/Puebla/Conquistadores/conquistador
+Jordania	Fatah
+Paquistao	madraçal/Lashkar-e-Taiba/Al-Qaeda/Al-Qaida/Inter-Services_Intelligence
+Atol_Midway	Batalha_de_midway/Batalha_de_Midway
+Vietname	Guerra_do_Vietnam/Dien_Bien_Phu/Guerra_do_Vietnã
+Turquia	Partido_dos_trabalhadores_do_curdistão/Partido_dos_Trabalhadores_do_Curdistão
+Mianmar	línguas_sino-tibetanas/Línguas_sino-tibetanas
+Espanha	Grapo/língua_galega/catalão/conquistador/sangria/Guerra_Civil_Espanhola/paelha/Inquisidor_geral/ETA/paella/Inquisidor-geral/Euskadi_Ta_Askatasuna/paeja/Conquistadores/GRAPO/galego/Euskadi_ta_askatasuna/língua_castelhana/castelhano/espanhol
+África_do_Sul	Qibla
+Tibete	línguas_sino-tibetanas/Línguas_sino-tibetanas/budismo_tibetano/Budismo_no_Tibete/Budismo_Tibetano
+Crimeia	Guerra_da_Crimeia
+Myanmar	línguas_sino-tibetanas/Línguas_sino-tibetanas
+Médio-Oriente	Guerra_do_Yom_Kipur/Guerra_dos_Seis_Dias/falafel/Guerra_dos_seis_dias/Guerra_do_yom_kipur/Pita
+Groenlândia	subcontinente
+Libano	Frente_pela_Libertação_da_Palestina/Hizbollah/Tabule/Frente_pela_libertação_da_palestina
+Grécia	Queroneia/peã/Mantineia/Midas/panteão/Panteão/Sísifo/Leuctra/souvlaki/Souvlaki/grego/Grego/ditirambo/Cavalos_de_troia/trojan/Baco/Termópilas/Guerras_dos_Bálcãs/Guerras_dos_Balcãs
+Palestina	Fatah/Jihad_Islâmica/Organização_para_a_libertação_da_palestina/Frente_Democrática_para_a_Libertação_da_Palestina/Frente_Popular_para_a_Libertação_da_Palestina/FPLP/Frente_democrática_para_a_libertação_da_palestina/Organização_para_a_Libertação_da_Palestina
+América_do_Norte	Divisória_Continental/Divisória_Continental_da_América_do_Norte/canhão/desfiladeiro/América_Latina
+República_da_Turquia	Partido_dos_trabalhadores_do_curdistão/Partido_dos_Trabalhadores_do_Curdistão
+Imperio_Romano	distrito
+Oceano_Pacífico	Mar_das_Filipinas/Mar_das_filipinas
+Território_da_Palestina	Fatah/Jihad_Islâmica/Organização_para_a_libertação_da_palestina/Frente_Democrática_para_a_Libertação_da_Palestina/Frente_Popular_para_a_Libertação_da_Palestina/FPLP/Frente_democrática_para_a_libertação_da_palestina/Organização_para_a_Libertação_da_Palestina
+Groênlandia	subcontinente
+Anatólia	Batalha_de_Ipso
+Estado_da_palestina	Fatah/Jihad_Islâmica/Organização_para_a_libertação_da_palestina/Frente_Democrática_para_a_Libertação_da_Palestina/Frente_Popular_para_a_Libertação_da_Palestina/FPLP/Frente_democrática_para_a_libertação_da_palestina/Organização_para_a_Libertação_da_Palestina
+Sul	Ku_Klux_Klan/Ku_klux_klan
+Columbia_Britânica	Ilha_vancouver/Ilha_Vancouver
+China	qui/Ieoh_Ming_Pei/Revolução_comunista_chinesa/Revolução_cultural_chinesa/revolução_cultural/Ieoh_ming_pei/Revolução_Cultural_Chinesa/KI/ki/Hangzhou/Rio_Yalu/línguas_sino-tibetanas/Línguas_sino-tibetanas/Língua_Chinesa/língua_chinesa/chinês/Acupuntura/acupuntura/Feng_shui/Feng_Shui
+Irlanda	Morrígan/Tuatha_de_danann/Banshee/Peter_o'toole/Angus_Mac_Og/língua_irlandesa/Danu/Lug/Tuatha_Dé_Danann/Peter_O'Toole/Morrigan/irlandês/gaélico/banshee/Angus_mac_og/Tuatha_dé_danann/patronímico
+Inglaterra	proxeneta/Sherwood/saxão/Guerra_das_rosas/Revolta_Camponesa_de_1381/puritanismo/saxônico/chulo/saxônio/cafetão/Guerra_das_Rosas/Revolta_camponesa_de_1381/safado/proxenetismo/Guerra_civil_inglesa/Guerra_Civil_Inglesa
+América_Setentrional	Divisória_Continental/Divisória_Continental_da_América_do_Norte/canhão/desfiladeiro/América_Latina
