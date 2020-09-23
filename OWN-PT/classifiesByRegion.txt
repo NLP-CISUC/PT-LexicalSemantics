@@ -1,4 +1,4 @@
-Babilônia	Marduque/Ningishzida/Adad/Anshar/Nabu/Niña/Adapa/Anu/Anunnaki/Babilônia/Babilónia/Ninurta/Ishtar/Shamash
+Babilônia	Marduque/Ningishzida/Adad/Anshar/Nabu/Niña/Adapa/Anu/Anunnaki/Babilónia/Ninurta/Ishtar/Shamash
 Mesopotâmia	Ningal/Tiamat/Namtar/Língua_acádia/Nanna/Babilônia/Nergal/acadiano/Babilonia/acádio/Babilónia
 Estado_da_Palestina	Fatah/Jihad_Islâmica/Organização_para_a_libertação_da_palestina/Frente_Democrática_para_a_Libertação_da_Palestina/Frente_Popular_para_a_Libertação_da_Palestina/FPLP/Frente_democrática_para_a_libertação_da_palestina/Organização_para_a_Libertação_da_Palestina
 Colômbia	Forças_armadas_revolucionárias_da_colômbia/Forças_Armadas_Revolucionárias_da_Colômbia/Cartel_de_medellín/Cartel_de_Medellín/Cartel_de_cali/Cartel_de_Cáli/Cartel_de_Cali
@@ -10,7 +10,6 @@ Oriente_próximo	Guerra_do_Yom_Kipur/Guerra_dos_Seis_Dias/falafel/Guerra_dos_sei
 Comunidade_da_Austrália	Rupert_murdoch/colega/Rupert_Murdoch/australiano
 Alemanha	Panzer/Teutões/trilhão/Margrave/alemão/língua_alemã/Minden/suástica/cruz_gamada/svástica/Facção_exército_vermelho/Facção_Exército_Vermelho/Floresta_Negra/Floresta_negra/pietismo/Mitologia_Nórdica
 Sri_Lanca	Hinduismo/hinduísmo/Tigres_de_Liberação_do_Tamil_Eelam
-Atlanta	Atlanta
 América	cara-pálida/Xamanismo/perdiz/Philip_Marlowe/Dia_dos_Presidentes/xamanismo/Groundhog_Day/22_de_fevereiro/22_de_Fevereiro/totem/Totem/trilhão/Hedeoma/Ilhas_Marshall/República_das_Ilhas_Marshall/Ilhas_marshall/12_de_fevereiro/12_de_Fevereiro/bandido/tribo/Festa_do_chá_de_boston/Festa_do_Chá_de_Boston/trapézio/mestiço/condado/Condado_dos_EUA/bilhão/ianque/gringo/cola/coca/bocal/focinho/União/Norte/alfândega/polegada/dólar/Guerra_de_Secessão/Guerra_de_secessão/Guerra_Civil_Americana/Mel_Gibson/Mel_gibson
 San_Antonio	Batalha_do_Alamo
 República_da_Índia	chapati/subcontinente/Revolta_dos_Sipais/ashram/Ashram/Revolta_dos_sipais/Hinduismo/hinduísmo
@@ -85,7 +84,7 @@ Portugal	português/língua_portuguesa/Inquisidor-geral/Inquisidor_geral
 Sicília	Siracusa
 MEXICO	Enchilada/taco/Chapultepec/Tamal/Batalha_de_puebla/Revolução_mexicana/Mexicano-americanos/Revolução_Mexicana/batalha_de_Puebla/tortilla/torrada/burrito/Puebla/Conquistadores/conquistador
 San_antonio	Batalha_do_Alamo
-Grã-Bretanha	pia/Sir/recuperação_de_informação/melaço/pudim/mod/anglo-saxão/vale/merenda/Código_de_estrada/maçaneta/ministro/pancadaria/avaliador/bicicleta/anoraque/primeira_linha/Guido/pai-nosso/onda_média/cientista/Thatcherismo/presídio/estradas_principais/salão/macacão/farinha/kedgeree/Macintosh/Boxing_Day/preceptor/nous/charnecas/Onda_Média/cadeia/prisão/sobremesa/Boxing_day/sala/parca/lavabo/charneca/Preceptor/sala_de_estar/estrada/stone/residente/estagiária/estagiário/trilhão/Condados_do_Reino_Unido/deputado/Lady/fedor/sociedade_limitada/gafe/podadeira/Magna_Carta/Magna_carta/chá/Chá_preto/chá_preto/parlamento/Serviço_Aéreo_Especial/escritório/rod/bolacha/biscoito/cookie/Condestável/Batalha_da_Grã-Bretanha/râguebi/rúgbi/skiffle/Teddy_Boy/Teddy_boy/par/almirantado/condado/Fisiognomia/fisionomia/rosto/face/barra/Clientes_de_Usenet/colega/pintado/maquiado/fabricado/inventado/MI6/botequim/bar/taberna/pub/boteco/estaminé/reitor/chanceler/5_de_Novembro/5_de_novembro/bilhão/bilião/autoridades_locais/Grã-Bretanha/Grã_Bretanha/sesta/bosquezinho/alfândega/polegada/mil_milhões
+Grã-Bretanha	pia/Sir/recuperação_de_informação/melaço/pudim/mod/anglo-saxão/vale/merenda/Código_de_estrada/maçaneta/ministro/pancadaria/avaliador/bicicleta/anoraque/primeira_linha/Guido/pai-nosso/onda_média/cientista/Thatcherismo/presídio/estradas_principais/salão/macacão/farinha/kedgeree/Macintosh/Boxing_Day/preceptor/nous/charnecas/Onda_Média/cadeia/prisão/sobremesa/Boxing_day/sala/parca/lavabo/charneca/Preceptor/sala_de_estar/estrada/stone/residente/estagiária/estagiário/trilhão/Condados_do_Reino_Unido/deputado/Lady/fedor/sociedade_limitada/gafe/podadeira/Magna_Carta/Magna_carta/chá/Chá_preto/chá_preto/parlamento/Serviço_Aéreo_Especial/escritório/rod/bolacha/biscoito/cookie/Condestável/Batalha_da_Grã-Bretanha/râguebi/rúgbi/skiffle/Teddy_Boy/Teddy_boy/par/almirantado/condado/Fisiognomia/fisionomia/rosto/face/barra/Clientes_de_Usenet/colega/pintado/maquiado/fabricado/inventado/MI6/botequim/bar/taberna/pub/boteco/estaminé/reitor/chanceler/5_de_Novembro/5_de_novembro/bilhão/bilião/autoridades_locais/Grã_Bretanha/sesta/bosquezinho/alfândega/polegada/mil_milhões
 Camboja	Khmer_Vermelho/Khmer_vermelho
 EUA	cara-pálida/Xamanismo/perdiz/Philip_Marlowe/Dia_dos_Presidentes/xamanismo/Groundhog_Day/22_de_fevereiro/22_de_Fevereiro/totem/Totem/trilhão/Hedeoma/Ilhas_Marshall/República_das_Ilhas_Marshall/Ilhas_marshall/12_de_fevereiro/12_de_Fevereiro/bandido/tribo/Festa_do_chá_de_boston/Festa_do_Chá_de_Boston/trapézio/mestiço/condado/Condado_dos_EUA/bilhão/ianque/gringo/cola/coca/bocal/focinho/União/Norte/alfândega/polegada/dólar/Guerra_de_Secessão/Guerra_de_secessão/Guerra_Civil_Americana/Mel_Gibson/Mel_gibson
 Ilhas_gilbert	Tarawa
@@ -96,7 +95,7 @@ Assíria	Ishtar/Nusku/Shamash
 Pensilvânia	Batalha_de_gettysburg/Batalha_de_Gettysburg
 Estados_Unidos	cara-pálida/Xamanismo/perdiz/Philip_Marlowe/Dia_dos_Presidentes/xamanismo/Groundhog_Day/22_de_fevereiro/22_de_Fevereiro/totem/Totem/trilhão/Hedeoma/Ilhas_Marshall/República_das_Ilhas_Marshall/Ilhas_marshall/12_de_fevereiro/12_de_Fevereiro/bandido/tribo/Festa_do_chá_de_boston/Festa_do_Chá_de_Boston/trapézio/mestiço/condado/Condado_dos_EUA/bilhão/ianque/gringo/cola/coca/bocal/focinho/União/Norte/alfândega/polegada/dólar/Guerra_de_Secessão/Guerra_de_secessão/Guerra_Civil_Americana/Mel_Gibson/Mel_gibson
 Bangladeche	madraçal/Hinduismo/hinduísmo
-Babilónia	Marduque/Ningishzida/Adad/Anshar/Nabu/Niña/Adapa/Anu/Anunnaki/Babilônia/Babilónia/Ninurta/Ishtar/Shamash
+Babilónia	Marduque/Ningishzida/Adad/Anshar/Nabu/Niña/Adapa/Anu/Anunnaki/Babilônia/Ninurta/Ishtar/Shamash
 Assiria	Ishtar/Nusku/Shamash
 Macedônia	Batalha_de_Pidna
 África	Guerra_dos_boers/Guerra_dos_Boers/Corno_de_áfrica/Corno_de_África/Namibia/Namíbia/emir/negro/negra/Safari/Safári

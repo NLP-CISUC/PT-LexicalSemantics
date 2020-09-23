@@ -176,7 +176,7 @@ saúde	saudável/são/salubre/doente/adoentado/doentio/insalubre
 absorbency	hidrófilo/absorvente
 separado	separação
 infeliz	aventurança/felicidade/alegria
-potencial	possível/potenciabilidade/potencial
+potencial	possível/potenciabilidade
 seco	umidade/humidade
 inumano	humanidade
 imoral	moralidade/moral/virtude/honestidade
@@ -270,7 +270,7 @@ mercantilismo	comercial
 similitude	similar/diferente/parecido/semelhante
 feia	beleza/Belo
 igualdade	parelho/idêntico/igual/análogo
-moral	moralidade/virtude/moral/imoral/puro
+moral	moralidade/virtude/imoral/puro
 improdutivo	Fertilidade/fertilidade
 necessidade	necessário/essencial/desnecessário/desnecessária
 corajoso	ânimo/coragem/denodo/ousadia/audácia

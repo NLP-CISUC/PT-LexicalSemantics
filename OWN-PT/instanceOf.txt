@@ -137,7 +137,7 @@ Vasco_Núñez_de_Balboa	navegador
 Albrecht_Durer	gravurista/entalhador
 TerraNova	ilha
 Domingos	terra/nação/país
-Senhor	Deus/Senhor
+Senhor	Deus
 Ilha_Sul	ilha
 Represa_de_assuã	barragem/dique/barragens/quebra-mar/diques/represa/Barragem
 Ann_Arbor	urbe/centro_urbano/município/metrópole/cidade
@@ -1581,7 +1581,7 @@ Rainer_maria_rilke	poeta/poetisa/Poetas
 Lago_Eyre	lago
 Tirso_de_Molina	Dramaturgos/Dramaturgo/dramaturgo
 Mikhail_Baryshnikov	bailarino/bailarina/dançarino/dançarina/coreógrafo
-Porto	urbe/centro_urbano/município/metrópole/cidade/Porto/porto
+Porto	urbe/centro_urbano/município/metrópole/cidade/porto
 Pacífico	oceano/oceanos/mar
 Península_Itálica	península
 Lago_Urmia	lago
@@ -2392,7 +2392,6 @@ Planície_de_Nullarbor	planície/campanha
 Tito_lívio	historiador/cronista
 John_knox	historiador/cronista/teologista/teólogo/teologisto
 Emiliano_zapata	revolucionário/subversivo/Revolucionário/Revolucionários
-ilha	ilha
 Marie_Jean_Antoine_Nicolas_Caritat	filósofo/matemático
 Guerras_Púnicas	guerra
 Justiniano_I	imperador
@@ -6306,7 +6305,6 @@ Howard_Hughes	piloto-aviador/aeronauta/aviatriz/piloto/aviadora/aviador/industri
 Acordos_salt	Diplomácia/Diplomacia/diplomacia
 Johann_wolfgang_von_goethe	Poetas/escritor/dramaturgo/poetisa/Dramaturgo/Dramaturgos/poeta
 Mahabharata	Livro_sagrado/Textos_religiosos/Livro_Sagrado
-Morte	Morte
 Częstochowa	urbe/centro_urbano/município/metrópole/cidade
 Nuvens_de_Magalhães	nebulosa/galáxia/Via_Láctea
 Tratado_de_versalhes	tratado_de_paz/pacificação/paz

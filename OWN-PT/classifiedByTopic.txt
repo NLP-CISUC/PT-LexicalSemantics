@@ -150,7 +150,7 @@ Valência_química	química/Quimica
 planta	Botânica/botânica/Botanica
 empanar	cozinha/culinária/preparação
 Liberdade_de_reunião	lei/jurisprudência/ciências_jurídicas
-taoismo	Taoismo/Taoísmo/taoismo
+taoismo	Taoismo/Taoísmo
 rebaixar	metalurgia/indústria_de_metais_ferrosos/Metalurgia
 perdão	lei/jurisprudência/ciências_jurídicas
 Kama_Sutra	hinduísmo
@@ -177,13 +177,13 @@ táticas	máquina_de_guerra/exército/forças_armadas
 Araão	Antigo_Testamento/Antigo_testamento
 legato	música
 campo_de_golfe	golfe
-imposto	impostos/taxa/colectas/imposto/tributo
+imposto	impostos/taxa/colectas/tributo
 Transformação_geométrica	ciências_exactas/Matematica/ciência_exacta/matemática
 adaptação	Fisiologia/fisiologia
 revender	mercantilismo/comercialismo/comércio
 Espécie_tipo	ciências_da_vida/biologia
 moda	Estatística/estatística/estatísticas
-música	canto/canção/música
+música	canto/canção
 radiação_cósmica_de_fundo	Cosmologia/cosmologia
 aférese	Lingüistica/Linguistica/linguística/Lingüística/lingüística
 interrogativo	gramática/Gramática/Gramatica
@@ -219,7 +219,7 @@ pároco	Comunhão_anglicana/Comunhão_Anglicana
 extroversão	psicologia/Psicólogos_por_nacionalidade
 manobra	máquina_de_guerra/exército/forças_armadas
 Quadrado	geometria
-tv	tevê/televisão/tv
+tv	tevê/televisão
 apagar	gravação
 sacrificio	animal/criatura/bicho/ser/besta
 mortal	teologia
@@ -281,7 +281,7 @@ gerar	ciências_da_vida/biologia
 operação	cirurgia/ciências_exactas/Matematica/ciência_exacta/matemática/ciência_da_computação/informática/máquina_de_guerra/exército/forças_armadas
 oscilação	Fisica/ciências_físicas/Física/física
 breviário	Igreja_Católica_Romana/Igreja_Católica
-jogo	esporte/jogo
+jogo	esporte
 Ecumenismo_e_diálogo_inter-religioso	cristianismo
 Musico	música
 incluir	química/Quimica
@@ -533,7 +533,7 @@ participial	gramática/Gramática/Gramatica
 brandái	Navegacão/Navegação/navegação
 entalpia	termodinâmica/Termodinâmica
 retratar	Artes_Cénicas/Artes_Cênicas/arte
-negócio	comércio/empresa/negócio
+negócio	comércio/empresa
 ligadura	música
 Rômulo	Mitologia_Romana/Mitologia_romana
 ligação	programação
@@ -546,10 +546,10 @@ cáculo	ciências_exactas/Matematica/ciência_exacta/matemática
 módulo	computador/calculadora
 eletronegatividade	química/Quimica
 New_people's_army	terrorismo/Terrorismo
-legislação	legislação/lei/jurisprudência/ciências_jurídicas
+legislação	lei/jurisprudência/ciências_jurídicas
 Lei_de_Charles	Fisica/ciências_físicas/Física/física
 Roteador	ciência_da_computação/informática
-televisão	tevê/televisão/tv
+televisão	tevê/tv
 transistor	Eletrónica/Eletrônica/electrónica/Eletronica/eletrônica
 senhor	língua_castelhana/castelhano/espanhol
 subir	esporte/Astronomia/astronomia
@@ -676,7 +676,7 @@ afinidade	Imunologia/imunologia
 aterrar	aviação
 Aarão	Antigo_Testamento/Antigo_testamento
 média_geométrica	Estatística/estatística/estatísticas
-estatística	Estatística/estatística/estatísticas
+estatística	Estatística/estatísticas
 calma	poesia/Poemas/verso
 Poseidon	mitologia_grega/Mitologia_Grega
 boticário	química/Quimica
@@ -695,7 +695,7 @@ Kama_sutra	hinduísmo
 absortividade	Fisica/ciências_físicas/Física/física
 editoração_electrónica	ciência_da_computação/informática
 ciclíco	Botânica/botânica/Botanica
-teatro	drama/máquina_de_guerra/exército/forças_armadas/Dramaturgia/teatro/dramaturgia
+teatro	drama/máquina_de_guerra/exército/forças_armadas/Dramaturgia/dramaturgia
 missão	máquina_de_guerra/exército/forças_armadas
 Moisés	Antigo_Testamento/Antigo_testamento
 transladar	geometria
@@ -763,7 +763,7 @@ categoria_gramatical	gramática/Gramática/Gramatica
 Príamo	mitologia_grega/Mitologia_Grega
 reator_nuclear	Fisica/ciências_físicas/Física/física
 órgão	música
-guerra	guerra/máquina_de_guerra/exército/forças_armadas
+guerra	máquina_de_guerra/exército/forças_armadas
 estoicismo	filosofia
 Sarpédon	mitologia_grega/Mitologia_Grega
 cursor	ciência_da_computação/informática
@@ -778,7 +778,7 @@ Função_de_utilidade	economia_(ciência)/economia
 Domingos_de_Gusmão	Igreja_Católica_Romana/Igreja_Católica
 esculpir	arte
 Temis	mitologia_grega/Mitologia_Grega
-impostos	impostos/taxa/colectas/imposto/tributo
+impostos	taxa/colectas/imposto/tributo
 magnete	Fisica/ciências_físicas/Física/física
 desejo_de_morte	psicanálise
 editor_de_texto	ciência_da_computação/informática
@@ -814,7 +814,7 @@ príon	Microbiologia/microbiologia
 transação_penal	lei/jurisprudência/ciências_jurídicas/direito_penal/direito_criminal
 placa_gráfica	ciência_da_computação/informática
 actualizar	tecnologia_informática
-lei	lei/jurisprudência/ciências_jurídicas
+lei	jurisprudência/ciências_jurídicas
 corte	lei/jurisprudência/ciências_jurídicas
 catalisador	química/Quimica
 recepção	futebol_americano
@@ -859,7 +859,7 @@ capítulo	música
 timbre	música
 quartil	Estatística/estatística/estatísticas
 radioactividade	química/Quimica
-linguagem	arte/discurso/língua/idioma/linguagem/música
+linguagem	arte/discurso/língua/idioma/música
 armamento	máquina_de_guerra/exército/forças_armadas
 quantificar	lógica
 procriar	ciências_da_vida/biologia
@@ -896,7 +896,7 @@ Equaçao	ciências_exactas/Matematica/ciência_exacta/matemática
 procedimento_legal	lei/jurisprudência/ciências_jurídicas
 boxear	esporte
 calculadora	ciência_da_computação/informática
-idioma	discurso/língua/idioma/linguagem
+idioma	discurso/língua/linguagem
 mochilar	esporte
 email	ciência_da_computação/informática
 rei	xadrez
@@ -956,7 +956,7 @@ Neptuno	Mitologia_Romana/Mitologia_romana
 segmentação	embriologia/Embriologia
 Bagavadguitá	hinduísmo
 toque_de_recolher	lei/jurisprudência/ciências_jurídicas
-arquitetura	arquitectura/arquitetura
+arquitetura	arquitectura
 apelação	lei/jurisprudência/ciências_jurídicas
 plagiar	ofensa/crime
 Bragi	Mitologia_Nórdica
@@ -987,7 +987,7 @@ Usuário_avançado	ciência_da_computação/informática
 Mutação	Genética/Genetica/genética
 pas	balé
 suspeito	lei/jurisprudência/ciências_jurídicas
-Educação	formação/educação/didáctica/Educação/instrução/ensino/ensinamento
+Educação	formação/educação/didáctica/instrução/ensino/ensinamento
 Sapador	máquina_de_guerra/exército/forças_armadas
 Nebulosa_solar	Cosmologia/cosmologia
 herança	lei/jurisprudência/ciências_jurídicas/Genética/Genetica/genética
@@ -1186,7 +1186,7 @@ atómico	ciências_da_vida/Fisica/biologia/ciências_físicas/Física/física
 Génio	islamismo
 Idade_do_ferro	arqueologia/Arqueologia
 Andrômeda	mitologia_grega/Mitologia_Grega
-ensino	formação/educação/didáctica/Educação/instrução/ensino/ensinamento
+ensino	formação/educação/didáctica/Educação/instrução/ensinamento
 recolheràgaragem	lei/jurisprudência/ciências_jurídicas
 amanhar	pecuária/cultivo/agricultura
 Conjunção	Astronomia/astronomia
@@ -1228,7 +1228,6 @@ confissão	Igreja_Católica_Romana/Igreja_Católica
 incompatível	computador/calculadora
 Ambrósio_de_milão	Igreja_Católica_Romana/Igreja_Católica
 estufar	cozinha/culinária/preparação
-teologia	teologia
 adulto	animal/criatura/bicho/ser/besta
 Ares	mitologia_grega/Mitologia_Grega
 coruchéu	serviço
@@ -1310,7 +1309,7 @@ desvinculado	arquitectura/arquitetura
 órgão_eletrónico	música
 sotaque	discurso/língua/idioma/linguagem
 Gramatica	Lingüistica/Linguistica/linguística/Lingüística/lingüística
-governo	administração/governação/governo
+governo	administração/governação
 Lumpemproletariado	Marxismo
 Ph	química/Quimica
 Toxicomania	narcótico
@@ -1329,7 +1328,6 @@ antagonismo	Bioquimica/bioquímica
 Horas_canónicas	Igreja_Católica_Romana/Igreja_Católica
 hibridização	Genética/Genetica/genética
 Vedas	língua_sânscrita/sânscrito/hinduísmo
-drama	drama
 transmitir	radiodifusão
 libido	psicanálise
 costela	vertebrado
@@ -1386,7 +1384,7 @@ Hespérides	mitologia_grega/Mitologia_Grega
 Advogados_do_Reino_Unido	lei/jurisprudência/ciências_jurídicas
 deletar	gravação
 Eletrólise	química/Quimica
-educação	formação/educação/didáctica/Educação/instrução/ensino/ensinamento
+educação	formação/didáctica/Educação/instrução/ensino/ensinamento
 lento	comércio/música/empresa/negócio
 vez	jogo
 treinador	esporte
@@ -1502,7 +1500,7 @@ Frigga	Mitologia_Nórdica
 deiscência	ciências_da_vida/biologia
 juízo	lei/jurisprudência/ciências_jurídicas
 domesticar	flora/planta/vegetal/animal/criatura/bicho/ser/besta
-exército	máquina_de_guerra/exército/forças_armadas
+exército	máquina_de_guerra/forças_armadas
 putrefação	ciências_da_vida/biologia
 involuntário	Fisiologia/fisiologia
 tenente-coronel	máquina_de_guerra/exército/forças_armadas
@@ -1630,7 +1628,7 @@ Inácio_de_Loyola	Igreja_Católica_Romana/Igreja_Católica
 milícia	máquina_de_guerra/exército/forças_armadas
 Partido_dos_trabalhadores_do_curdistão	terrorismo/Terrorismo
 patrimonial	lei/jurisprudência/ciências_jurídicas
-tevê	tevê/televisão/tv
+tevê	televisão/tv
 plantígrados	mamífero/mamíferos
 Jasão	mitologia_grega/Mitologia_Grega
 sócio	comércio/empresa/negócio
@@ -1662,7 +1660,7 @@ isomorfismo	ciências_da_vida/biologia
 autonómico	Fisiologia/fisiologia
 alternador	veículo/auto/viatura/automóvel/máquina/carro
 Índice_Preço/Lucro	mercado_da_bolsa/Mercado_de_ações/bolsa_de_valores/bolsa/bolsadevalores
-discurso	arte/discurso/língua/idioma/linguagem/música
+discurso	arte/língua/idioma/linguagem/música
 Sintetizadores	música
 Meteoroide	Astronomia/astronomia
 relação	antropologia/Antropologia
@@ -1748,7 +1746,7 @@ televisionar	tevê/televisão/tv
 prevalência	epidemiologia/Epidemiologia
 justiça	legislação/lei/jurisprudência/ciências_jurídicas
 Chanuca	judaísmo
-cultivo	agricultura/cultivo/pecuária
+cultivo	agricultura/pecuária
 Brigadas_vermelhas	terrorismo/Terrorismo
 cultivar	pecuária/cultivo/agricultura/flora/planta/vegetal
 actos_legislativos	lei/jurisprudência/ciências_jurídicas
@@ -1843,7 +1841,7 @@ aterrizar	aviação
 Éos	mitologia_grega/Mitologia_Grega
 sistemático	ciências_da_vida/biologia
 Maicol	Antigo_Testamento/Antigo_testamento
-mitologia	mitologia/Mitologia
+mitologia	Mitologia
 proibição	lei/jurisprudência/ciências_jurídicas
 Reforma_agraria	administração/governação/governo
 participante	comércio/empresa/negócio
@@ -1864,7 +1862,7 @@ nutrição	Fisiologia/fisiologia
 vinificar	Vinificação
 manifestação	ciência_política/política
 remir	ofensa/crime
-jazz	Jazz/jazz
+jazz	Jazz
 simulação	ciência_da_computação/informática
 rapidez	máquina_de_guerra/exército/forças_armadas
 tornar_mais_potente	sonífero/produtos_farmacêuticos/medicamento/narcótico/entorpecente/remédio/droga
@@ -1876,7 +1874,7 @@ leis	lei/jurisprudência/ciências_jurídicas
 arredondamento	ciências_exactas/Matematica/ciência_exacta/matemática
 advogada	lei/jurisprudência/ciências_jurídicas
 livrar	química/Quimica
-língua	arte/discurso/língua/idioma/linguagem/música
+língua	arte/discurso/idioma/linguagem/música
 abiência	psicologia/Psicólogos_por_nacionalidade
 animado	Lingüistica/Linguistica/linguística/Lingüística/lingüística
 Vesta	Mitologia_Romana/Mitologia_romana
@@ -1991,7 +1989,6 @@ célula	ciências_da_vida/biologia
 direito_ao_voto	lei/jurisprudência/ciências_jurídicas
 marcha	máquina_de_guerra/exército/forças_armadas
 cozinhar	cozinha/culinária/preparação
-neurologia	neurologia
 piano	música
 transformação_afim	ciências_exactas/Matematica/ciência_exacta/matemática
 Código_dos_estados_unidos_da_américa	lei/jurisprudência/ciências_jurídicas
@@ -2017,7 +2014,7 @@ Gauvain	Ciclo_arturiano/Matéria_da_Bretanha/Matéria_da_bretanha
 lâmpada_de_fenda	Oftalmologia/oftalmologia
 límpido	discurso/língua/idioma/linguagem
 Desconstrução	literatura/filosofia
-oceano	oceano/oceanos/mar/rio/lago
+oceano	oceanos/mar/rio/lago
 encarceramento	lei/jurisprudência/ciências_jurídicas
 paternalismo	administração/governação/governo
 Exército	máquina_de_guerra/exército/forças_armadas
@@ -2049,7 +2046,6 @@ throughput	computador/calculadora
 tostar	cozinha/culinária/preparação
 Hidra_de_Lerna	mitologia_grega/Mitologia_Grega
 residual	lei/jurisprudência/ciências_jurídicas
-cerâmica	cerâmica
 tabernáculo	judaísmo
 Valhala	Mitologia_Nórdica
 Cócito	mitologia_grega/Mitologia_Grega
@@ -2114,7 +2110,7 @@ Exposições	arte
 oligopólio	economia_(ciência)/economia
 corda	música
 computar	ciências_exactas/Matematica/ciência_exacta/matemática
-flora	flora/planta/vegetal/Botânica/botânica/Botanica
+flora	planta/vegetal/Botânica/botânica/Botanica
 desossar	animal/criatura/bicho/ser/besta
 Defensoria_Pública	lei/jurisprudência/ciências_jurídicas
 docemente	verso/Poemas/poesia
@@ -2361,7 +2357,7 @@ registo_de_índice	ciência_da_computação/informática
 John	Novo_testamento/Novo_Testamento
 género	ciências_da_vida/biologia
 urdir	artesanato
-política	administração/governação/governo/ciência_política/política
+política	administração/governação/governo/ciência_política
 esmaltar	artesanato
 fazer	aritmética/Aritmética/pecuária/cultivo/agricultura/Artes_Cénicas/Artes_Cênicas/mercantilismo/comercialismo/comércio/Dramaturgia/teatro/dramaturgia
 electrificar	Fisica/ciências_físicas/Física/física
@@ -2402,7 +2398,7 @@ advogar	lei/jurisprudência/ciências_jurídicas
 Meteoróide	Astronomia/astronomia
 harmonizar	música
 ajustado	psicologia/Psicólogos_por_nacionalidade
-impressão	Produção_gráfica/impressão
+impressão	Produção_gráfica
 becape	ciência_da_computação/informática
 amazonas	mitologia_grega/Mitologia_Grega
 reprimir	Psicopatologias/psicopatologia/psiquiatria
@@ -2442,7 +2438,6 @@ navio_de_guerra	máquina_de_guerra/exército/forças_armadas
 dissociar	química/Quimica
 prescrição	lei/jurisprudência/ciências_jurídicas
 constituinte	lei/gramática/Gramática/Gramatica/jurisprudência/ciências_jurídicas
-fotografia	fotografia
 disco_magnético	ciência_da_computação/informática
 frigir	cozinha/culinária/preparação
 Exército_vermelho_japonês	terrorismo/Terrorismo
@@ -2571,7 +2566,6 @@ legitimação	lei/jurisprudência/ciências_jurídicas
 Suprema_Corte_dos_Estados_Unidos_da_América	lei/jurisprudência/ciências_jurídicas
 elevar_ao_quadrado	Aritmética/aritmética
 militar	máquina_de_guerra/exército/forças_armadas
-cirurgia	cirurgia
 existencialismo	filosofia
 revivalista	religião/Crença_religiosa/fé
 confabulação	Psicopatologias/psicopatologia/psiquiatria
@@ -2647,7 +2641,7 @@ redondo	ciências_exactas/Matematica/ciência_exacta/matemática
 Polinômio	ciências_exactas/Matematica/ciência_exacta/matemática
 Geometria_Projectiva	matemática/ciência_exacta/Matematica/ciências_exactas
 falência	lei/jurisprudência/ciências_jurídicas
-arquitectura	arquitectura/arquitetura
+arquitectura	arquitetura
 artiodátilo	Zoologia/zoologia
 plotter	computador/calculadora
 catexia	psicanálise
@@ -2702,7 +2696,7 @@ anidro	química/Quimica
 Morte_subita	esporte
 Artrite_reumatoide	vírus
 Terpsícore	mitologia_grega/Mitologia_Grega
-taxa	impostos/taxa/colectas/imposto/tributo
+taxa	impostos/colectas/imposto/tributo
 caminhar	esporte
 epítopo	Imunologia/imunologia
 forças_navais	máquina_de_guerra/exército/forças_armadas
@@ -2813,7 +2807,6 @@ Qibla	terrorismo/Terrorismo
 estratégia	máquina_de_guerra/exército/forças_armadas
 técnicas_de_amostragem	Estatística/estatística/estatísticas
 Caronte	mitologia_grega/Mitologia_Grega
-literatura	literatura
 direitos_do_cidadão	lei/jurisprudência/ciências_jurídicas
 coca	flora/planta/vegetal
 adenosina	Bioquimica/bioquímica
@@ -2895,7 +2888,7 @@ Amiloide	patologia
 linguagem_orientada_à_objetos	ciência_da_computação/informática
 estrear	Artes_Cénicas/Artes_Cênicas
 router	ciência_da_computação/informática
-meteorologia	meteorologia/Meteorologia
+meteorologia	Meteorologia
 enriquecer	cozinha/culinária/preparação
 David	Antigo_Testamento/Antigo_testamento
 fortificar	cozinha/culinária/preparação
@@ -3371,7 +3364,7 @@ causa	lei/jurisprudência/ciências_jurídicas
 apegado	arquitectura/arquitetura
 procuração	lei/jurisprudência/ciências_jurídicas
 transacionar	mercantilismo/comercialismo/comércio
-indústria	indústria/manufatura
+indústria	manufatura
 Cultura_clóvis	arqueologia/Arqueologia
 constante_de_tempo	Eletrónica/Eletrônica/electrónica/Eletronica/eletrônica
 fadiga	psicologia/Psicólogos_por_nacionalidade
@@ -3413,7 +3406,6 @@ programador	ciência_da_computação/informática
 encrustar	artesanato
 processamento_de_texto	Produção_gráfica/impressão
 congelar	Fisica/ciências_físicas/Física/física
-arte	arte
 reprodução	ciências_da_vida/biologia
 Al-Qaeda	terrorismo/Terrorismo
 Ilich_ramírez_sánchez	terrorismo/Terrorismo
@@ -3448,7 +3440,7 @@ Frey	Mitologia_Nórdica
 direito_administrativo	lei/jurisprudência/ciências_jurídicas
 Jötnar	Mitologia_Nórdica
 coarctação	ciências_da_vida/biologia
-contrato	Bíblia/Sagradas_Escrituras/lei/jurisprudência/ciências_jurídicas/contrato/acordo
+contrato	Bíblia/Sagradas_Escrituras/lei/jurisprudência/ciências_jurídicas/acordo
 evolução_das_espécies	ciências_da_vida/biologia
 plasmar	arte
 enxerto	cirurgia
@@ -3476,7 +3468,7 @@ Gestalt	holismo/psicologia/Psicólogos_por_nacionalidade
 erro	beisebol/basebol
 Registrador_de_Deslocamento	ciência_da_computação/informática
 graduação	máquina_de_guerra/exército/forças_armadas
-forças_armadas	máquina_de_guerra/exército/forças_armadas
+forças_armadas	máquina_de_guerra/exército
 Hermes	mitologia_grega/Mitologia_Grega
 mórmon	religião/Crença_religiosa/fé
 teleologia	filosofia

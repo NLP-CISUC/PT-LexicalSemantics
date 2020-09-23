@@ -6,9 +6,9 @@
 
 
 (defun clean-aux (target words)
-  (remove target
-	  (format nil "~{~a~^/~}" (remove-duplicates (cl-ppcre:split "/" words) :test #'equal))
-	  :test #'equal))
+  (format nil "~{~a~^/~}"
+	  (remove target (remove-duplicates (cl-ppcre:split "/" words) :test #'equal)
+		  :test #'equal)))
 
 (defun clean (data)
   (mapcar (lambda (tr)
@@ -20,8 +20,9 @@
 (defun collect ()
   (let ((tb (make-hash-table :test #'equal)))
     (dolist (trio (clean (cdr data)) tb)
-      (push (cons (car trio) (caddr trio))
-	    (gethash (cadr trio) tb)))))
+      (unless (equal "" (caddr trio))
+	(push (cons (car trio) (caddr trio))
+	      (gethash (cadr trio) tb))))))
 
 (defun filename (url)
   (multiple-value-bind (a b)

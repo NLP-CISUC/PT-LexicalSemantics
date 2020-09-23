@@ -2,7 +2,7 @@ sociedade_limitada	Reino_Unido_da_Grã-Bretanha_e_Irlanda_do_Norte/Reino_Unido/G
 Nammu	Suméria
 Brigadas_vermelhas	Itália/Italia/República_Italiana
 mestiço	EEUU/Estados_Unidos_da_América/América/Estados_Unidos/EUA/E.U.A.
-Babilónia	Babilónia/Babilonia/Babilônia/Mesopotâmia/Mesopotamia
+Babilónia	Babilonia/Babilônia/Mesopotâmia/Mesopotamia
 revolução_cultural	República_Popular_da_China/China
 Dia_dos_Presidentes	EEUU/Estados_Unidos_da_América/América/Estados_Unidos/EUA/E.U.A.
 ministro	Reino_Unido_da_Grã-Bretanha_e_Irlanda_do_Norte/Reino_Unido/Grã-Bretanha/Reino-Unido
@@ -244,7 +244,7 @@ Curling	Escocia/Escócia
 língua_galega	Espanha
 Mexicano-americanos	MEXICO/México/Estados_Unidos_Mexicanos/Mexico
 Budismo_no_Tibete	Tibete
-Babilônia	Babilónia/Babilonia/Babilônia/Mesopotâmia/Mesopotamia
+Babilônia	Babilónia/Babilonia/Mesopotâmia/Mesopotamia
 Frente_de_Libertação_Nacional_da_Córsega	República_Francesa/França
 peã	Grécia
 Guerra_do_Vietnã	Vietnã/Vietname
@@ -309,7 +309,7 @@ Guerra_Civil_Americana	EEUU/Estados_Unidos_da_América/América/Estados_Unidos/E
 New_people's_army	Filipinas
 Morrígan	Irlanda
 Seiji_Ozawa	Japão
-Atlanta	Atlanta/Georgia
+Atlanta	Georgia
 trapézio	EEUU/Estados_Unidos_da_América/América/Estados_Unidos/EUA/E.U.A.
 Revolução_de_Outubro	Rússia/União_das_Repúblicas_Socialistas_Soviéticas/URSS
 Batalha_de_little_bighorn	Montana
@@ -527,7 +527,7 @@ Corregidor	Filipinas
 Pita	Médio_Oriente/Oriente_Próximo/Médio-Oriente/Oriente_Médio/Oriente_próximo
 acadiano	Mesopotâmia/Mesopotamia
 Sayeret_Matkal	Israel/Estado_de_Israel
-Grã-Bretanha	Reino_Unido_da_Grã-Bretanha_e_Irlanda_do_Norte/Reino_Unido/Grã-Bretanha/Reino-Unido
+Grã-Bretanha	Reino_Unido_da_Grã-Bretanha_e_Irlanda_do_Norte/Reino_Unido/Reino-Unido
 Puebla	MEXICO/México/Estados_Unidos_Mexicanos/Mexico
 autoridades_locais	Reino_Unido_da_Grã-Bretanha_e_Irlanda_do_Norte/Reino_Unido/Grã-Bretanha/Reino-Unido
 futon	Japão

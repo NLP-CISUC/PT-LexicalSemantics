@@ -15,7 +15,7 @@ Lepidobotryaceae	Geraniales
 Juncus	Juncaceae
 baleia-sei	Balaenoptera
 tramagueira	Tamarix
-moa	moa/Dinornithidae
+moa	Dinornithidae
 Pimpinella	Apiaceae
 Domínica	Organização_dos_Estados_Americanos/Organização_dos_estados_americanos/OEA
 Sparganiaceae	Pandanales
@@ -32,7 +32,7 @@ Thyreophora	Ornitísquios
 csi	Alfabeto_grego/alfabeto_grego
 batata	Solanum
 Thalictrum	Ranunculaceae
-Cacatua	Papagaio/Psittacidae/Cacatua
+Cacatua	Papagaio/Psittacidae
 bezerro	vacum/gado/bovinos/gado_bovino/vaca
 Accipiter	Accipitridae
 Andorinhão	Apodiformes
@@ -139,7 +139,7 @@ Beta_Persei	Perseus/Constelação_de_Perseus
 Tigre_da_tasmânia	Thylacinus
 Ericales	Dilleniidae
 Nebelia	Colubridae
-polícia	polícia/lei
+polícia	lei
 Glaucium	Papaveraceae
 cacatua	Cacatua
 Magnoliopsida	Magnoliophyta/Angiosperma
@@ -380,7 +380,7 @@ Cestrum	Solanaceae
 Drósera	Droseraceae
 fénix	Arecaceae/palmeira
 tatu-veado	Dasypus
-primatas	Primatas/primatas/Placentários/placentários/Placentalia
+primatas	Primatas/Placentários/placentários/Placentalia
 Phasianidae	Galliformes
 Taxaceae	coníferas
 Piper_betle	Piper
@@ -390,10 +390,9 @@ Fatah	Organização_para_a_Libertação_da_Palestina/Organização_para_a_libert
 Ornithogalum	Liliaceae
 aciano	Centaurea
 Cloto	moiras
-locomotivas	trem/comboio/locomotivas/caminhos-de-ferro
+locomotivas	trem/comboio/caminhos-de-ferro
 jaguatirica	Felis
 Hyacinthaceae	Liliaceae
-família_tipográfica	família_tipográfica
 Pluvialis	Charadriidae
 Fabiana	Solanaceae
 Opistognathidae	Perciformes
@@ -506,7 +505,6 @@ Agavaceae	Liliales
 Cheiranthus	Brassicaceae
 Alcaçuz	Glycirrhiza
 Djibouti	Liga_árabe/Liga_Árabe
-Testemunhas_de_Jeová	Testemunhas_de_Jeová
 loureiro	Laurus
 Oceanites	Painhos/Hydrobatidae/Paínho/painho
 Elódea	Hydrocharitaceae
@@ -549,7 +547,7 @@ Ipomoea	Convolvulaceae
 Lobularia	Brassicaceae
 crisântemo	Asteraceae
 Faia-europeia	faia/Faia
-Oenanthe	Oenanthe/Apiaceae
+Oenanthe	Apiaceae
 Honduras	Organização_dos_Estados_Americanos/Organização_dos_estados_americanos/OEA
 Acrux	crux/Constelação_de_Crux
 Urano	sistema_solar
@@ -582,7 +580,7 @@ Bessera	Liliaceae
 Galium	Rubiaceae
 Thalassoma	Labridae
 Muflão	Ovis
-palmeira	Arecaceae/palmeira
+palmeira	Arecaceae
 pessoas	espécie_humana/povo/humanidade/homem/mundo
 Phalacrocoracidae	Pelecaniformes/pelecaniformes
 Polacos	Polónia/Polônia/Polonia
@@ -591,7 +589,7 @@ Salamandra_de_fogo	Salamandra
 procionídeos	Carnivora/Carnívoros/carnívoros
 peneireiro-vulgar	Falco/Falcão/Falcao
 chapim-azul	Parus
-joaninha	Coccinellidae/joaninha
+joaninha	Coccinellidae
 Oliver_hardy	Laurel_and_Hardy/Laurel_and_hardy
 danês	Reino_da_Dinamarca/Dinamarca
 PaísesBaixos	OTAN/Organização_do_tratado_do_atlântico_norte/NATO/Organização_do_Tratado_do_Atlântico_Norte/Benelux/BENELUX/UE/União_Européia
@@ -771,7 +769,7 @@ d	alfabeto_latino
 Pilea	Urticaceae
 divisão	organizações_empresariais/empresas/governo/regime
 anabatista	Denominações_anabatistas
-tarântula	Lycosa/Aranhas/aranha/tarântula/Theraphosidae
+tarântula	Lycosa/Aranhas/aranha/Theraphosidae
 iaque	Bos
 somali	Somalia/Somália
 Juniperus	Cupressaceae
@@ -779,7 +777,6 @@ Heteranthera	Pontederiaceae
 Poterium	Rosaceae
 Limonium	Plumbaginaceae
 Antigos_Romanos	Roma
-Macropodidae	Macropodidae
 Cucumis	Cucurbitaceae
 porquinho	seu/dela
 Spalacidae	Myomorpha
@@ -794,7 +791,7 @@ táxi	frota
 Universidade_yale	Ivy_League/Ivy_league
 Chrysosplenium	Saxifragaceae
 Lasiocampidae	Lepidoptera
-cetáceos	Placentários/placentários/Placentalia/cetáceos/Cetáceos
+cetáceos	Placentários/placentários/Placentalia/Cetáceos
 Hydrocharis	Hydrocharitaceae
 noitibó-da-europa	Caprimulgus
 Malacanthidae	Perciformes
@@ -834,7 +831,7 @@ Datura	Solanaceae
 Cordylus	Cordylidae
 Hamster_sírio	Mesocricetus
 Valerianaceae	Rubiales
-nogueira	Nogueira_comum/nogueira/Nogueira-comum/nogueira-comum
+nogueira	Nogueira_comum/Nogueira-comum/nogueira-comum
 Gnatostomados	Craniata
 equinodermos	Equinoderme/Equinodermes
 insecto	turma/enxame/Hemiptera
@@ -898,7 +895,7 @@ ouriço-terrestre	Erinaceus
 Anthemis	Asteraceae
 Arruda-caprária	Galega
 Dactyloctenium	Poaceae
-abeto	Pinaceae/abeto/Abies
+abeto	Pinaceae/Abies
 borragem	Borago
 Glechoma	Lamiaceae
 Angraecum	Orchidaceae/orquídea/Orquidea
@@ -951,12 +948,12 @@ Mergus	Merginae
 Reino_dos_Países_Baixos	OTAN/Organização_do_tratado_do_atlântico_norte/NATO/Organização_do_Tratado_do_Atlântico_Norte/Benelux/BENELUX/UE/União_Européia
 Polygonatum	Liliaceae
 Echinochloa	Poaceae
-ácaro	ácaro/Àcaro/Ácaros
+ácaro	Àcaro/Ácaros
 Matricária	Asteraceae
 Calla	Araceae
 Parkia	Mimosoideae
 Anthus	Motacillinae
-Anatidae	Anatidae/anseriformes/Anseriformes
+Anatidae	anseriformes/Anseriformes
 Nyctaginaceae	Caryophyllales
 Leporidae	Lagomorfos/lagomorfos
 Procnias	Cotingidae
@@ -969,7 +966,7 @@ Ballota	Lamiaceae
 Myanmar	Associação_de_Nações_do_Sudeste_Asiático/ASEAN
 Bareine	Liga_árabe/Liga_Árabe
 Oryzomys	Cricetidae
-bananeira	Musaceae/bananeira
+bananeira	Musaceae
 Balsaminaceae	Geraniales
 Salamandra	Salamandridae
 marido	casal/casamento
@@ -994,7 +991,7 @@ canguru	Macropodidae
 Carya	Juglandaceae
 aliado	coligação/coalizão/aliança
 peto_verde	Picus
-trem	trem/comboio/locomotivas/caminhos-de-ferro
+trem	comboio/locomotivas/caminhos-de-ferro
 Lagidium	Chinchillidae
 Argyranthemum	Asteraceae
 Gentianaceae	Gentianales
@@ -1023,7 +1020,7 @@ Palha_da_costa	Arecaceae/palmeira
 Mercúrio	sistema_solar
 Bromeliaceae	Commelinales
 Trapa	Trapaceae
-beterraba	Beta/beterraba
+beterraba	Beta
 Cephalochordata	cordados
 epsílon	alfabeto_grego/Alfabeto_grego
 Cebus	cebídeos
@@ -1092,7 +1089,7 @@ Cottus	Cottidae
 Lorisidae	Lemuroidea
 Cavia	Caviidae
 Allium	Liliaceae
-elenco	companhia/elenco/pessoal
+elenco	companhia/pessoal
 Psychotria	Rubiaceae
 Viburnum	Caprifoliaceae
 Alfa_centauri	Centaurus/Constelação_de_Centaurus
@@ -1129,7 +1126,7 @@ estrepeiro	Crataegus
 trácio	Trácia
 Colosso_de_rodes	Sete_Maravilhas_do_Mundo_Antigo
 Sulidae	pelecaniformes/Pelecaniformes
-chimpanzé	chimpanzé/Chimpanze
+chimpanzé	Chimpanze
 asfódelo	Liliaceae
 Lactuca	Asteraceae
 ouriço-do-mar	Echinoidea
@@ -1163,8 +1160,8 @@ corpo	exército/Exército/forças_armadas
 Dovyalis	Flacourtiaceae
 Festuca	Poaceae
 Rīga	Liga_Hanseática
-funcionário_público	funcionário_público/burocracia
-tamanduá	Xenarthra/tamanduá
+funcionário_público	burocracia
+tamanduá	Xenarthra
 Gymnadenia	Orchidaceae/orquídea/Orquidea
 nominal	declinação
 Senado_dos_Estados_Unidos_da_América	Congresso_dos_Estados_Unidos/Congresso_dos_estados_unidos/congresso
@@ -1217,11 +1214,11 @@ plantago	Plantago
 Abrocoma	Chinchillidae
 Myrcia	Myrtaceae
 Groenlandia	Potamogetonaceae
-faia	faia/Faia/Fagaceae/fagáceas
+faia	Faia/Fagaceae/fagáceas
 cachaço	dela/seu
 Helenium	Asteraceae
 Aplectrum	Orchidaceae/orquídea/Orquidea
-pinheiro	Pinus/pinheiro/Pinaceae/abeto/Abies
+pinheiro	Pinus/Pinaceae/abeto/Abies
 Iémen	Liga_árabe/Liga_Árabe
 Hypericum	Clusiaceae
 jumento	Equus
@@ -1306,7 +1303,7 @@ Myrsinaceae	Primulales
 Lagenaria	Cucurbitaceae
 Parus	Paridae
 Helix	Helicidae
-júri	júri/juizado/tribunal/tribunal_de_justiça/Júri
+júri	juizado/tribunal/tribunal_de_justiça/Júri
 cravo	Dianthus
 Mexicano	MEXICO/México/Estados_Unidos_Mexicanos/Mexico
 Quirguistão	Comunidade_dos_Estados_Independentes/CEI/Comunidade_de_Estados_Independentes
@@ -1369,7 +1366,6 @@ carro	trem/comboio/locomotivas/caminhos-de-ferro
 Laportea	Urticaceae
 Apodemus	Muridae
 Tajiquistão	Comunidade_de_Estados_Independentes/CEI/Comunidade_dos_Estados_Independentes
-trufa	trufa
 gimnofiono	Caeciliidae
 Megaderma	Megadermatidae
 Strix	Strigidae
@@ -1382,7 +1378,7 @@ Estado_da_Líbia	OPEP/Organização_dos_Países_Exportadores_de_Petróleo/Organi
 Neem	Azadirachta
 Sabal	Arecaceae/palmeira
 centeio	Secale
-nogueira-comum	Nogueira_comum/nogueira/Nogueira-comum/nogueira-comum
+nogueira-comum	Nogueira_comum/nogueira/Nogueira-comum
 Cintura_de_Kuiper	sistema_solar
 Agalinis	Scrophulariaceae
 berinjela	Solanum
@@ -1472,7 +1468,6 @@ Gobiidae	Perciformes
 anis	Pimpinella
 Becrux	Constelação_de_Crux/crux
 Sinapis	Brassicaceae
-inimigo	inimigo
 sândalo	Santalum
 Irvingia	Simaroubaceae
 plebeu	pessoal/povo/gente/vulgo/nação
@@ -1510,7 +1505,7 @@ Malásia	Associação_de_Nações_do_Sudeste_Asiático/ASEAN
 ulmo	Ulmeiro
 Fritillaria	Liliaceae
 Henrique_V_de_Inglaterra	Lancastre/Casa_de_Lancaster
-Nelumbonaceae	Nelumbonaceae/Nymphaeaceae
+Nelumbonaceae	Nymphaeaceae
 Amaranto	Amaranthaceae/Amarantaceae
 Bryopsida	Bryophyta_sensu_lato/Bryophyta
 Argélia	OPEP/Organização_dos_Países_Exportadores_de_Petróleo/Organização_dos_países_exportadores_de_petróleo/Liga_árabe/Liga_Árabe
@@ -1559,7 +1554,6 @@ Ave_limícola	Charadriiformes
 Geothlypis	Parulini
 Loxia	Fringillidae
 Momotidae	Coraciiformes
-Podicipedidae	Podicipedidae
 rooibos	Aspalathus
 cana_de_açúcar	Saccharum
 classe	ordem/filo/Filo
@@ -1672,7 +1666,7 @@ Attalea	Arecaceae/palmeira
 Dendroica	Parulini
 javardo	dela/seu
 Hymenaea	Fabaceae
-Flavivírus	Flaviviridae/Flavivírus/classe/família
+Flavivírus	Flaviviridae/classe/família
 Photinia	Rosaceae
 romena	Roménia/Romênia/Ruménia
 Canis	Canídeos/canídeos
@@ -1681,7 +1675,7 @@ Omã	Liga_árabe/Liga_Árabe
 pessegueiro	Prunus
 Ruscus	Liliaceae
 acípitre	Accipitridae
-coruja	Strigiformes/coruja
+coruja	Strigiformes
 policial	polícia/lei
 Canada	OTAN/Organização_do_tratado_do_atlântico_norte/NATO/Organização_do_Tratado_do_Atlântico_Norte/Império_britânico/Império_Britânico/Comunidade_das_Nações
 canguçu	Panthera
@@ -1756,8 +1750,8 @@ Scolopacidae	Ave_limícola
 República_da_Índia	Império_Britânico/Comunidade_das_Nações/Império_britânico/OPEP/Organização_dos_Países_Exportadores_de_Petróleo/Organização_dos_países_exportadores_de_petróleo
 Tútsis	Ruanda/Burundi/Burúndi
 cicuta	Conium
-batalhão	batalhão/regimento
-cão-da-pradaria	Cão_da_pradaria/cão-da-pradaria
+batalhão	regimento
+cão-da-pradaria	Cão_da_pradaria
 Açafrão-da-terra	Curcuma
 onça-parda	Felis
 mundo	sistema_solar
@@ -1815,7 +1809,7 @@ Kyphosidae	Perciformes
 taiwanesa	Taiwan/Formosa/República_da_China
 russo	Rússia
 insectívoros	Insectívoros
-comboio	trem/comboio/locomotivas/caminhos-de-ferro
+comboio	trem/locomotivas/caminhos-de-ferro
 argali	Ovis
 malva	Malvaceae
 trácios	Trácia
@@ -1919,7 +1913,6 @@ Psittacula	Papagaio/Psittacidae
 Caryophyllaceae	Caryophyllales
 Carangidae	Perciformes
 Osmundaceae	Polypodiales
-baralho	baralho
 Rana_catesbeiana	Rana
 Colosso_de_Rodes	Sete_Maravilhas_do_Mundo_Antigo
 Quirguizistão	Comunidade_dos_Estados_Independentes/CEI/Comunidade_de_Estados_Independentes
@@ -1957,7 +1950,7 @@ Cynara	Asteraceae
 Shorea	Dipterocarpaceae
 Chlorococcales	Chlorophyceae
 Anhingidae	pelecaniformes/Pelecaniformes
-orquídea	Orchidaceae/orquídea/Orquidea
+orquídea	Orchidaceae/Orquidea
 Pseudolarix	Pinaceae
 paquistanês	Paquistao/Paquistão/República_Islâmica_do_Paquistão
 alemã	Alemanha/República_Federal_da_Alemanha
@@ -1987,7 +1980,7 @@ Pogostemon	Lamiaceae
 Aesculus	Hippocastanaceae
 Armenia	Comunidade_dos_Estados_Independentes/CEI/Comunidade_de_Estados_Independentes
 Bucerotidae	Coraciiformes
-bovídeos	bovídeos/Ruminantia
+bovídeos	Ruminantia
 Collinsia	Scrophulariaceae
 alfarrobeira	Ceratonia
 Cycnoches	Orchidaceae/orquídea/Orquidea
@@ -2013,7 +2006,7 @@ pessoa	gente/povo/pessoas/população
 cotovia	Alauda
 Viscum	Viscaceae
 autocarro	frota
-vaga-lume	lumeeira/lampíride/vaga_lume/vaga-lume
+vaga-lume	lumeeira/lampíride/vaga_lume
 Melicytus	Violaceae
 Colchicum	Liliaceae
 embarcação	frota
@@ -2041,7 +2034,7 @@ colza	Brassica
 Shimeji_preto	Pleurotus
 Cazaquistão	Comunidade_dos_Estados_Independentes/CEI/Comunidade_de_Estados_Independentes
 Veratrum	Liliaceae
-sapo	Sapo/sapo/Bufonidae
+sapo	Sapo/Bufonidae
 Henrique_VI_de_Inglaterra	Lancastre/Casa_de_Lancaster
 caracter	alfabeto
 Leonotis	Lamiaceae
@@ -2063,7 +2056,7 @@ afegão	Afeganistão
 diabo-da-tasmânia	Sarcophilus
 Rafflesiaceae	Aristolochiales
 Anabantidae	Perciformes
-pterodáctilo	Pterodactilo/pterodáctilo
+pterodáctilo	Pterodactilo
 Urticaceae	Urticales
 Aroeira-brava	Schinus
 Teleostei	Osteichthyes
@@ -2100,7 +2093,7 @@ Picidae	Piciformes
 Artocarpus_incisa	Artocarpus
 Vixnu	Trimurti/trimúrti
 jesuíta	Companhia_de_Jesus/Companhia_de_jesus
-instituto	faculdade/universidade/instituto/escola
+instituto	faculdade/universidade/escola
 Agrostis	Poaceae
 Amanita_muscaria	Amanita
 Isabel_II	Casa_de_Windsor
@@ -2205,7 +2198,7 @@ epílobo	Epilobium
 ortópteros	Orthoptera
 Capsella	Brassicaceae
 Machaeranthera	Asteraceae
-escola	faculdade/universidade/instituto/escola
+escola	faculdade/universidade/instituto
 açafrão-bastardo	Carthamus
 Himantoglossum	Orchidaceae/orquídea/Orquidea
 Fagaceae	Fagales
@@ -2226,7 +2219,6 @@ cerejeira	Prunus
 tarrafa	Falco/Falcão/Falcao
 poder_executivo	regime/governo
 Pinguim-africano	Spheniscus
-cordados	cordados
 Mesocricetus	Cricetidae
 Cephalotaxus	Cephalotaxaceae
 Petroselinum	Apiaceae
@@ -2386,7 +2378,7 @@ Erigeron	Asteraceae
 Trinidad_e_Tobago	Organização_dos_Estados_Americanos/Organização_dos_estados_americanos/OEA
 Universidade_de_Princeton	Ivy_League/Ivy_league
 Rorippa_nasturtium-aquaticum	Brassicaceae
-povo	espécie_humana/povo/humanidade/homem/mundo
+povo	espécie_humana/humanidade/homem/mundo
 basílico	Ocimum
 equino	Equidae/Equídeos
 Vénus	sistema_solar
@@ -2446,12 +2438,12 @@ Meconopsis	Papaveraceae
 Podophyllum	Berberidaceae
 Haloragaceae	Myrtales
 Boswellia	Burseraceae
-aveia	aveia/Poaceae
+aveia	Poaceae
 fi	Alfabeto_grego/alfabeto_grego
 maruim	Nematocera
 Podocarpus_coriaceus	Podocarpus
 Cartas_de_jogar	baralho
-faculdade	colégio/faculdade/universidade/instituto/escola
+faculdade	colégio/universidade/instituto/escola
 bovinos	bovídeos/gado/manada/grei/rebanho/Bos
 Hoheria	Malvaceae
 amoreira	Morus
@@ -2488,7 +2480,7 @@ gato-do-mato	Felis
 Salmo_trutta	Salmo
 Astronium	Anacardiaceae
 Ostraceiro	Ave_limícola
-castor	castor/Rodízio/Castores/Castoridae
+castor	Rodízio/Castores/Castoridae
 lêmure	Lemuroidea
 Iêmen	Liga_árabe/Liga_Árabe
 Gérbera	Asteraceae
@@ -2505,7 +2497,7 @@ heleno	Grécia
 Chlamydera	Ptilonorhynchidae
 soror	sororidade
 gengibre	Zingiber
-tulipa	tulipa/Liliaceae/Tulipa
+tulipa	Liliaceae/Tulipa
 Irã	OPEP/Organização_dos_Países_Exportadores_de_Petróleo/Organização_dos_países_exportadores_de_petróleo
 colombiano	Colômbia/Colombia/Colómbia
 Teucrium	Lamiaceae
@@ -2541,9 +2533,9 @@ Guatemala	Organização_dos_Estados_Americanos/Organização_dos_estados_america
 couve-nabo	Brassica
 Temnospondyli	Labirintodonte
 Caesalpinia	Caesalpinioideae
-Strigiformes	Strigiformes/coruja
+Strigiformes	coruja
 Saxicola	turdídeos/Turdidae/Turdinae
-moluscos	moluscos/Moluscos/Molusco
+moluscos	Moluscos/Molusco
 Aedes_albopictus	Aedes
 legenda	Regimes_políticos
 Serenoa_repens	Arecaceae/palmeira
@@ -2596,7 +2588,7 @@ gato-mourisco	Felis
 Santalaceae	Santalales
 Digitaria	Poaceae
 Hypoxidaceae	Liliales
-amaranto	Amaranthaceae/Amarantaceae/amaranto/Amaranto
+amaranto	Amaranthaceae/Amarantaceae/Amaranto
 ouriço	Erinaceus
 Sphaeralcea	Malvaceae
 papagaio-do-mar	torda
@@ -2647,7 +2639,7 @@ Plumeria	Apocynaceae
 laverca	Alauda
 República_da_Bulgária	OTAN/Organização_do_tratado_do_atlântico_norte/NATO/Organização_do_Tratado_do_Atlântico_Norte
 Channidae	Craniata
-fungos	fungos/Fungi/Fungos
+fungos	Fungi/Fungos
 pantera	Felis
 pomba	Columbidae
 Musophagidae	Cuculiformes
@@ -2972,7 +2964,7 @@ Entoprocta	Ectoprocta
 Muntingia_calabura	Elaeocarpaceae
 Jatropha	Euphorbiaceae
 Pandanales	Arecidae
-rinoceronte	Rinocerontes/rinoceronte
+rinoceronte	Rinocerontes
 Corylus	Betulaceae
 Arctium	Asteraceae
 Dieffenbachia	Araceae
@@ -2988,7 +2980,7 @@ Peixe_boi	Sirenia
 Brunfelsia	Solanaceae
 proboscídeos	Proboscídeos/Proboscidea
 s	alfabeto_latino
-morangueiro	morangueiro/Morangueiro/Rosaceae
+morangueiro	Morangueiro/Rosaceae
 Capra	bovídeos
 Pomacanthus	Chaetodontidae
 Tamarilho	Cyphomandra
@@ -3033,7 +3025,7 @@ Blephilia	Lamiaceae
 Turquemenistão	Comunidade_dos_Estados_Independentes/CEI/Comunidade_de_Estados_Independentes
 Terópodes	Sauropodomorfos
 Phoradendron	Viscaceae
-bétula	bétula/Betulaceae
+bétula	Betulaceae
 Lysichiton	Araceae
 servidor_público	funcionário_público
 Echinoidea	Equinoderme/Equinodermes
@@ -3140,7 +3132,7 @@ espanhol	Espanha
 Sapindaceae	Sapindales
 Cucurbitaceae	Campanulales
 Conyza	Asteraceae
-paraquedista	paraquedistas/paraquedista
+paraquedista	paraquedistas
 Dactylorhiza	Orchidaceae/orquídea/Orquidea
 Grama_sto._agostinho	Stenotaphrum
 Ovis	bovídeos
@@ -3166,13 +3158,13 @@ Tropaeolum	Tropaeolaceae
 Fregatidae	pelecaniformes/Pelecaniformes
 Tragelaphus	bovídeos
 Polianthes	Agavaceae
-universidade	faculdade/universidade/instituto/escola
+universidade	faculdade/instituto/escola
 cardo-corredor	Eryngium
 alpaca	lama
 milícia	corpo
 Moldávia	Comunidade_dos_Estados_Independentes/CEI/Comunidade_de_Estados_Independentes
 Murta_comum	Myrtaceae
-gastrópodes	moluscos/Moluscos/Molusco/Gastrópodes/gastrópodes
+gastrópodes	moluscos/Moluscos/Molusco/Gastrópodes
 Rajiformes	Elasmobranchii
 guanaco	lama
 Hystricidae	Hystricomorpha
@@ -3234,7 +3226,7 @@ libanês	Libano/República_do_Líbano/Líbano
 Castanheiro_da_índia	Aesculus
 Lovoa	Meliaceae
 Haematoxylum	Caesalpinioideae
-protozoário	Protozoários/protozoário
+protozoário	Protozoários
 Armênia	Comunidade_dos_Estados_Independentes/CEI/Comunidade_de_Estados_Independentes
 anás	Anatidae
 Inglês	Inglaterra
@@ -3303,7 +3295,7 @@ bassarisco	Bassariscus
 Dipteryx	Fabaceae
 pimenta-longa	Piper
 Costa_Rica	Organização_dos_Estados_Americanos/Organização_dos_estados_americanos/OEA
-cavalo-marinho	Syngnathidae/cavalo-marinho/cavalo_marinho/Cavalo-marinho
+cavalo-marinho	Syngnathidae/cavalo_marinho/Cavalo-marinho
 Thylogale	Macropodidae
 Truta_arco_íris	Salmo
 Reino_Unido	OTAN/Organização_do_tratado_do_atlântico_norte/NATO/Organização_do_Tratado_do_Atlântico_Norte/UE/União_Européia
@@ -3368,7 +3360,7 @@ alcachofra_hortense	Cynara
 gavião	Accipitridae
 Xanthosoma_sagittifolium	Xanthosoma
 espruce	Picea/Pícea
-aranha	Aranhas/aranha
+aranha	Aranhas
 isópodos	Malacostraca
 Chlorophyceae	Chlorophyta/Algas_verdes
 Limax	Limacidae
@@ -3551,7 +3543,7 @@ Aglaonema	Araceae
 guard	Clube_de_futebol/Clubes_de_futebol
 m	alfabeto_latino
 jaguar	Panthera
-dente-de-leão	dente-de-leão/Dente_de_leão/Asteraceae
+dente-de-leão	Dente_de_leão/Asteraceae
 Uzbequistão	Comunidade_dos_Estados_Independentes/CEI/Comunidade_de_Estados_Independentes
 Rosa-do-deserto	Apocynaceae
 tentilhão	Fringilla/Fringillidae
@@ -3568,7 +3560,7 @@ Hazardia	Asteraceae
 Fulica	Rallidae
 Gentianella	Gentianaceae
 cevada	Hordeum
-mustelídeos	Mustelídeos/mustelídeos/carnívoros/Carnívoros/Carnivora
+mustelídeos	Mustelídeos/carnívoros/Carnívoros/Carnivora
 árabe	Arábia/Árabia
 Hulsea	Asteraceae
 lobo	Canis
@@ -3582,7 +3574,6 @@ Croata	Croácia/Croacia
 Suécia	Escandinávia/UE/União_Européia
 luso	Listas_de_Portugal/Portugal
 Leycesteria	Caprifoliaceae
-ninja	ninja
 inhame	Dioscorea
 Pirambeba	Characidae
 jerico	Equus
@@ -3610,7 +3601,7 @@ peixe-boi	Sirenia
 Sciaenidae	Perciformes
 Chrysolepis	Fagaceae/fagáceas
 Barata-americana	Periplaneta
-gado	gado/manada/grei/rebanho/Bos
+gado	manada/grei/rebanho/Bos
 poder_legislativo	governo/regime
 Secale	Poaceae
 Subularia	Brassicaceae
