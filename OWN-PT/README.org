@@ -14,7 +14,6 @@ select ?au ?rel (group_concat(?bu; separator = "/") AS ?values)
  ?s1 skos:inScheme <http://logics.emap.fgv.br/wn/> .
  BIND(replace(?b," ","_") AS ?bu)
  BIND(replace(?a," ","_") AS ?au)
- 
 
  ?s1en ?rel ?s2en .
  ?s1en owl:sameAs ?s1 .
