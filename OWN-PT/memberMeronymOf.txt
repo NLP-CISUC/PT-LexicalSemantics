@@ -856,7 +856,7 @@ Gendarmaria	gendarme
 Regimes_políticos	partido_político/partido/legenda
 concílio	vereador
 CEI	Bielorrussia/República_da/Ucrania/Azerbaijão/Moldávia/Ucránia/Bielorrússia/Belarus/Ucrânia/Azerbeijão/Tajiquistão/Tadjiquistão/Geórgia/Turcomenistão/Turquemenistao/Turquemenistão/Federação_Russa/Rússia/República_da_Armênia/República_da_Arménia/Arménia/Armenia/Armênia/Cazaquistão/Casaquistão/Cazaquistao/República_do_Cazaquistão/Usbequistão/Uzbekistan/Uzbequistao/Uzbequistão/Quirguistão/quirguiz/Quirguizistão/Quirguistao
-eleitorado	eleitor/votante/constituintes/eleitores/_votantes
+eleitorado	eleitor/votante/constituintes/eleitores/votantes
 Cedro_do_incenso	Cedro-do-incenso-da-califórnia/Cedro_do_incenso_da_Califórnia/Cedro_do_incenso_da_califórnia
 Actinidiaceae	Actinidia
 plâncton	fitoplâncton/zooplâncton
@@ -895,7 +895,7 @@ Estado_de_Israel	israelense
 Peromyscus	Peromyscus_maniculatus
 Cynara	alcachofra_de_comer/Alcachofra/alcachofra_hortense/alcachofra
 Coveite	kuwaiti
-_hora_marcada	acompanhante/ficante
+hora_marcada	acompanhante/ficante
 Península_da_Malásia	Malaios/malaio
 orquídea	Sarcochilus/Malaxis/Gymnadenia/Cephalanthera/Encyclia/Coryanthes/Goodyera/Phragmipedium/Brassia/Epidendrum/Corallorrhiza/Hexalectris/Cypripedium/Aplectrum/Psychopsis/Epipactis/Glossodia/Dryadella/Angraecum/Miltonia/Scaphosepalum/Calopogon/Habenaria/Spiranthes/Ophrys/Himantoglossum/Bletilla/Anoectochilus/Grammatophyllum/Listera/Schomburgkia/Cleistes/Phalaenopsis/Pterostylis/Selenipedium/Platanthera/Paphiopedilum/Cycnoches/Catasetum/Pleione/Dactylorhiza
 agregado	nécton/Plancton/plâncton

@@ -136,7 +136,7 @@ polivalente	valência
 temperança	moderado
 corrupto	corrupção/honestidade/Honestidade
 parcial	integridade
-_correto	honestidade/Honestidade
+correto	honestidade/Honestidade
 ávaro	generosidade
 pleno	plenitude
 árduo	dificuldade
@@ -219,13 +219,13 @@ criatividade	original/criativo/criador
 acromático	nuança/tonalidade/matiz/tom
 ineficaz	eficácia/potência/força/potencia
 cobarde	cobardia/covardia
-honestidade	imoral/corrupto/desonroso/_correto/honrado
+honestidade	imoral/corrupto/desonroso/correto/honrado
 coragem	bravo/valoroso/valente/afoito/arrojado/brava/corajoso
 fino	espessura/grossura/textura
 cromático	tom/matiz/tonalidade/nuança
 fama	mal_afamado
 heterossexual	sexo/transa
-Honestidade	corrupto/_correto
+Honestidade	corrupto/correto
 valência	bivalente/polivalente
 mediano	cronometragem
 humanidade	desumano/inumano/humanitário/humano

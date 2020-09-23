@@ -1265,7 +1265,7 @@ Açafrão_da_terra	Curcuma
 Hamburgo	Liga_Hanseática
 ruminante	Ruminantia
 Castor_gigante	Castores/Castoridae
-acompanhante	_hora_marcada/compromisso
+acompanhante	hora_marcada/compromisso
 Pingüim-africano	Spheniscus
 Armeria	Plumbaginaceae
 Dendrolagus	Macropodidae
@@ -3042,7 +3042,7 @@ Typhaceae	Pandanales
 eleitores	eleitorado
 pega	Pica
 Flacourtia	Flacourtiaceae
-_votantes	eleitorado
+votantes	eleitorado
 juror	júri/Júri
 Holanda	OTAN/Organização_do_tratado_do_atlântico_norte/NATO/Organização_do_Tratado_do_Atlântico_Norte/Benelux/BENELUX/UE/União_Européia
 Rodízio	Castores/Castoridae
@@ -3315,7 +3315,7 @@ r	alfabeto_latino
 Emirados_Árabes_Unidos	OPEP/Organização_dos_Países_Exportadores_de_Petróleo/Organização_dos_países_exportadores_de_petróleo/Liga_árabe/Liga_Árabe
 Sudão	Liga_árabe/Liga_Árabe
 sem-vergonha	Anoplura
-ficante	_hora_marcada/compromisso
+ficante	hora_marcada/compromisso
 Isatis	Brassicaceae
 Bouteloua	Poaceae
 Triturus	Salamandridae

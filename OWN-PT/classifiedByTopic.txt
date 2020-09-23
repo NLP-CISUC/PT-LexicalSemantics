@@ -129,7 +129,7 @@ sistema_operacional	ciência_da_computação/informática
 médio	Lingüistica/Estatística/estatística/estatísticas/Linguistica/linguística/Lingüística/lingüística
 guerra_suja	terrorismo/Terrorismo
 distribuição_de_Poisson	Estatística/estatística/estatísticas
-_signo_	Astrologia/astrologia
+signo	Astrologia/astrologia
 cara_de_pau	pôquer/póquer
 congressional	religião/Crença_religiosa/fé
 Fafnir	Mitologia_Nórdica
@@ -907,7 +907,7 @@ Aceleração_angular	Fisica/ciências_físicas/Física/física
 Maioria_relativa	eleição
 Rebeca	Antigo_Testamento/Antigo_testamento
 lise	Bioquimica/bioquímica
-_contagem	eleição
+contagem	eleição
 sistema_de_votação	lei/jurisprudência/ciências_jurídicas
 inválido	lei/jurisprudência/ciências_jurídicas
 hospital_de_campo	máquina_de_guerra/exército/forças_armadas
@@ -1110,7 +1110,7 @@ ortodoxia	religião/Crença_religiosa/fé
 Circumnavegação	avião/aeroplano/aeronaves
 invariância	ciências_exactas/Matematica/ciência_exacta/matemática
 antiterrorismo	terrorismo/Terrorismo
-_signo_do_zodíaco	Astrologia/astrologia
+signo_do_zodíaco	Astrologia/astrologia
 crismar	igreja/religião/igrejas
 racionalismo	filosofia
 Geometria_Projetiva	matemática/ciência_exacta/Matematica/ciências_exactas
@@ -1784,7 +1784,7 @@ Moises	Antigo_Testamento/Antigo_testamento
 fractal	ciências_exactas/Matematica/ciência_exacta/matemática
 Codicilo	lei/jurisprudência/ciências_jurídicas
 tirar_foto	fotografia
-diferenciar_	ciências_exactas/Matematica/ciência_exacta/matemática
+diferenciar	ciências_exactas/Matematica/ciência_exacta/matemática
 figurar	arte
 Gestapo	terrorismo/Terrorismo
 Bezerro_de_Ouro	Antigo_Testamento/Antigo_testamento
@@ -1946,7 +1946,7 @@ filiar	lei/jurisprudência/ciências_jurídicas
 Ajustamentos	Psicopatologias/psicopatologia/psiquiatria
 par	golfe
 segunda_vinda_de_Cristo	Teologia_Cristã
-_mestiço	Genética/Genetica/genética
+mestiço	Genética/Genetica/genética
 mudar	fonética/Fonética
 vigília	religião/Crença_religiosa/fé
 Plutão	mitologia_grega/Mitologia_Grega

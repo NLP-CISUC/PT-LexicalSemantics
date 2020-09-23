@@ -16,7 +16,7 @@ reduzir	murchar/contrair/encolher/contrair-se
 gelar	congelar
 agradar	gostar
 alentar	esperar/aguardar/esperançar
-mergulhar_	focar
+mergulhar	focar
 espalhar	circular
 colar	aderir/grudar
 estressar	ficar_tenso
@@ -105,7 +105,7 @@ puxar_descarga	correr/manar/fluir
 alterar	mudar
 transmitir	circular/espalhar
 atemorizar	recear/apavorar/ter_medo_de/temer
-_ressuscitar	acordar
+ressuscitar	acordar
 avelhentar	envelhecer
 prender	fixar/aferrolhar
 envenenar	ressentir
@@ -201,7 +201,7 @@ cravar	colar/aderir/grudar
 arder	carburar/queimar
 colapsar	desmoronar/desabar/quebrar/ruir
 entregar	ter
-_decidir_(se)	decidir/resolver
+decidir_(se)	decidir/resolver
 ferir	doer
 esquentar	aquecer
 alegrar	alegrar-se/animar-se/animar

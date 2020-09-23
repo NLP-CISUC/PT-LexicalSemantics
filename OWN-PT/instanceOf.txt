@@ -796,7 +796,7 @@ Morrígan	Divindades_celtas
 O_Messias	Oratórios/Oratório/oratório
 Edward_g._robinson	intérprete/artista/actor/ator
 Taiyuan	urbe/centro_urbano/município/metrópole/cidade
-Peixes	casa_astral/constelação/_signo_do_zodíaco/_signo_
+Peixes	casa_astral/constelação/signo_do_zodíaco/signo
 Montanhas_Verdes	serra/cordilheira/cadeia_de_montanhas/cadeia_montanhosa
 Gary_cooper	intérprete/artista/actor/ator
 Nikolai_gogol	autor/escritor
@@ -809,7 +809,7 @@ Suméria	região/área_geográfica/região_geográfica
 Edmund_Hillary	alpinista/montanhismo/Montanhismo
 California	vila/aldeia/povoado/arraial/burgo
 William_shakespeare	poeta/poetisa/Poetas/Dramaturgos/Dramaturgo/dramaturgo
-Aquário	casa_astral/_signo_do_zodíaco/_signo_
+Aquário	casa_astral/signo_do_zodíaco/signo
 Blaise_Pascal	filósofo/matemático
 Gilbert_Stuart	pintora/pintor
 Watertown	vila/aldeia/povoado/arraial/burgo
@@ -1440,7 +1440,7 @@ Cárpatos	serra/cordilheira/cadeia_de_montanhas/cadeia_montanhosa
 Golfo_da_biscaia	baías/baía
 William_Wordsworth	poeta/poetisa/Poetas
 Lago_erie	lago
-Sagitário	casa_astral/constelação/_signo_do_zodíaco/_signo_
+Sagitário	casa_astral/constelação/signo_do_zodíaco/signo
 Alfred_thayer_mahan	historiador/cronista
 James_boswell	autor/escritor
 mar_de_Okhotsk	mar/oceano
@@ -1517,7 +1517,7 @@ Alpes_australianos	serra/cordilheira/cadeia_de_montanhas/cadeia_montanhosa
 Gustav_klimt	pintora/pintor
 Cecil_frank_powell	físico
 Guaiaquil	urbe/centro_urbano/município/metrópole/cidade
-Virgem	casa_astral/constelação/_signo_do_zodíaco/_signo_
+Virgem	casa_astral/constelação/signo_do_zodíaco/signo
 Ordem_de_Orange	organização
 Epicuro	filósofo
 Antartica	continentes/Continente/continente
@@ -1709,7 +1709,7 @@ François_truffaut	Produtor_cinematográfico/cineasta/Produtores_de_cinema
 Canal_do_norte	estreito
 Árabia	península
 Beowulf	personagem/Personagem_fictícia/Personagem
-Balança	casa_astral/constelação/_signo_do_zodíaco/_signo_
+Balança	casa_astral/constelação/signo_do_zodíaco/signo
 Lesoto	Países_de_África
 Piter	urbe/centro_urbano/município/metrópole/cidade
 Cotopaxi	vulcão
@@ -2474,7 +2474,7 @@ Catedral_de_chartres	catedral
 Carl_yastrzemski	Beisebolistas/Jogadores_de_beisebol
 Rio_nilo	rio
 Ilha_Admiralty	ilha
-gêmeos	casa_astral/_signo_do_zodíaco/_signo_
+gêmeos	casa_astral/signo_do_zodíaco/signo
 Reino_Unido_da_Grã-Bretanha_e_Irlanda_do_Norte	reino
 André_Weil	matemático
 John_tyndall	físico
@@ -2991,7 +2991,7 @@ Maciço_Logan	cume/cimeira/cimo
 Pope	poeta/poetisa/Poetas
 Grã-Bretanha	reino/ilha
 Rio_chari	rio
-Pisces	constelação/casa_astral/_signo_do_zodíaco/_signo_
+Pisces	constelação/casa_astral/signo_do_zodíaco/signo
 Constelação_de_Cassiopeia	constelação
 Enid	vila/aldeia/povoado/arraial/burgo
 Antoine_Laurent_de_Jussieu	botânica/botanista/botânico
@@ -3019,7 +3019,7 @@ George_Boole	matemático
 Galway	urbe/centro_urbano/município/metrópole/cidade/Porto/porto
 Vale_do_Silício	região/área_geográfica/região_geográfica
 Bessie_smith	cantador/cantor/cantora/vocalista
-escorpião	casa_astral/_signo_do_zodíaco/_signo_
+escorpião	casa_astral/signo_do_zodíaco/signo
 Nicósia	capital_nacional
 Eva_braun	chefa/amante/directoria
 Jack_london	autor/escritor
@@ -3464,7 +3464,7 @@ Lech_Wałęsa	estadista
 Jacques_charles	físico
 Guiné	Países_de_África
 Júlio_Verne	autor/escritor
-Áries	casa_astral/constelação/_signo_do_zodíaco/_signo_
+Áries	casa_astral/constelação/signo_do_zodíaco/signo
 Júpiter	Planeta_gasoso
 Mossul	urbe/centro_urbano/município/metrópole/cidade
 Alfred_Binet	psicólogo
@@ -3533,7 +3533,7 @@ Cipião_africano	general
 Grande_canal_da_china	canal/Canal
 Lúxor	urbe/centro_urbano/município/metrópole/cidade
 Newport	urbe/centro_urbano/município/metrópole/cidade/Porto/porto
-câncer	casa_astral/_signo_do_zodíaco/_signo_
+câncer	casa_astral/signo_do_zodíaco/signo
 Lago_superior	lago
 Madonna	cantador/cantor/cantora/vocalista
 Golfo_de_bengala	baía/baías
@@ -3559,7 +3559,7 @@ Buckminster_Füller	arquiteto/designer/arquitecto/engenheiro
 Havaí	ilha
 Ânglia_Oriental	região/área_geográfica/região_geográfica
 Rodes	Ilhas_Egéias/Ilhas_Egeias/Ilhas_do_Egeu
-Touro	casa_astral/_signo_do_zodíaco/_signo_
+Touro	casa_astral/signo_do_zodíaco/signo
 Cataratas_do_Iguaçu	queda_de_água/cachoeira/queda_d'água/catarata/cascata
 Manhattan	ilha/Borough
 Kunlun	serra/cordilheira/cadeia_de_montanhas/cadeia_montanhosa
@@ -4045,7 +4045,7 @@ Anguila	ilha
 Gerard_Manley_Hopkins	poeta/poetisa/Poetas
 Netuno	Planeta_gasoso
 Uganda	Países_de_África
-Constelação_de_Taurus	casa_astral/_signo_do_zodíaco/_signo_
+Constelação_de_Taurus	casa_astral/signo_do_zodíaco/signo
 Tanganyika	lago
 Baía_de_fundy	baía/baías
 Ilich_Ramírez_Sánchez	terrorista
@@ -4205,7 +4205,7 @@ Toni_Morrison	autor/escritor
 Mick_jagger	estrela_do_rock
 Ludwig_boltzmann	físico
 Ilíria	região/área_geográfica/região_geográfica
-Gémeos	casa_astral/_signo_do_zodíaco/_signo_
+Gémeos	casa_astral/signo_do_zodíaco/signo
 Manágua	capital_nacional
 Floresta_negra	selva/arvoredo/floresta/mata/bosque/florestas
 Portland	urbe/centro_urbano/município/metrópole/cidade
@@ -4905,7 +4905,7 @@ Mohammed_Omar	político
 Judeia	região/área_geográfica/região_geográfica
 Rod_Laver	tenista/Tenista
 Rio_oder	rio
-Escorpião	casa_astral/constelação/_signo_do_zodíaco/_signo_
+Escorpião	casa_astral/constelação/signo_do_zodíaco/signo
 Heinrich_von_Kleist	Dramaturgos/Dramaturgo/dramaturgo
 Edward_Albee	Dramaturgos/Dramaturgo/dramaturgo
 Países_Baixos	região/área_geográfica/região_geográfica/Europa/país_europeu
@@ -5595,7 +5595,7 @@ J._R._Firth	linguista/lingüista
 W._c._handy	compositor
 Domingos_de_gusmão	padre/clérigo/presbítero/pastor/sacerdote/Santos/Ārya/Arya/santa/santo
 rio_Missouri	rio
-Taurus	casa_astral/_signo_do_zodíaco/_signo_/constelação
+Taurus	casa_astral/signo_do_zodíaco/signo/constelação
 Tarquínio_o_Soberbo	rei
 Albert_Einstein	físico
 Vitus_Bering	navegador
@@ -5949,7 +5949,7 @@ Iucatão	península
 Dido	princesa/príncipe/Princesa
 Yaoundé	capital_nacional
 Caledônia	região/área_geográfica/região_geográfica
-Leão	casa_astral/_signo_do_zodíaco/_signo_/constelação
+Leão	casa_astral/signo_do_zodíaco/signo/constelação
 Cassiopéia	constelação
 Howard_hughes	piloto-aviador/aeronauta/aviatriz/piloto/aviadora/aviador/industrialista/industrial/Produtor_cinematográfico/cineasta/Produtores_de_cinema
 Tomás_de_Aquino	doutor/Doutores_da_Igreja/Doutor_da_Igreja/Doutor_da_igreja/Santos/Ārya/Arya/santa/santo/teologista/teólogo/teologisto
@@ -6192,7 +6192,7 @@ Primeira_Epístola_de_Pedro	epístola/Epístola
 Punta_arenas	urbe/centro_urbano/município/metrópole/cidade
 Caso_watergate	escândalo
 Batalha_do_Alamo	sítio/Assassínio_em_massa/abate_de_animais/matança_do_porco/massacre/carnificina/assédio/cerco/assassinato_em_massa/assassínio_em_massa
-Gêmeos	casa_astral/_signo_do_zodíaco/_signo_/constelação
+Gêmeos	casa_astral/signo_do_zodíaco/signo/constelação
 Erik_axel_karlfeldt	poeta/poetisa/Poetas
 John_tuzo_wilson	geofísico
 São_Judas_Tadeu	Santos/Ārya/Arya/santa/santo/apóstolo/Apóstolos
@@ -6566,7 +6566,7 @@ Falha_de_Santo_André	falha
 Artie_shaw	clarinetista/clarineta
 John_lyly	autor/escritor
 Jesus_de_Nazaré	profeta/judia/hebraica/hebreu/hebreia/judeu/hebraico/Palavra/Palavra_Divina/o_Filho
-Câncer	constelação/casa_astral/_signo_do_zodíaco/_signo_
+Câncer	constelação/casa_astral/signo_do_zodíaco/signo
 Irving_berlin	compositor
 Saskatoon	urbe/centro_urbano/município/metrópole/cidade
 Alexandre	conquistador
@@ -7137,7 +7137,7 @@ Jean-François_Champollion	egiptólogo/Egiptólogos
 Yangon	capital_nacional
 Parque_nacional_de_yosemite	parque_nacional
 Tegucigalpa	capital_nacional
-Capricórnio	constelação/casa_astral/_signo_do_zodíaco/_signo_
+Capricórnio	constelação/casa_astral/signo_do_zodíaco/signo
 Percy_bysshe_shelley	poeta/poetisa/Poetas
 Bertram_neville_brockhouse	físico
 Palácio_de_latrão	Palácios/palácio/Palácio
@@ -7160,7 +7160,7 @@ Adriano	Imperador_Romano/Imperadores_romanos/imperador_romano
 Christchurch	urbe/centro_urbano/município/metrópole/cidade
 Ódin	Deuses_nórdicos/Panteão_nórdico
 Colosso_de_rodes	Estátua/estatua/estátua
-Libra	constelação/casa_astral/_signo_do_zodíaco/_signo_
+Libra	constelação/casa_astral/signo_do_zodíaco/signo
 Heitor_Villa-Lobos	compositor
 Ciudad_Victoria	urbe/centro_urbano/município/metrópole/cidade
 Trinidad	ilha

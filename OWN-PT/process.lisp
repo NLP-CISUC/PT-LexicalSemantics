@@ -7,8 +7,9 @@
 
 (defun clean-aux (target words)
   (format nil "~{~a~^/~}"
-	  (remove target (remove-duplicates (cl-ppcre:split "/" words) :test #'equal)
-		  :test #'equal)))
+	  (mapcar (lambda (w) (string-trim '(#\_ #\Space) w))
+		  (remove target (remove-duplicates (cl-ppcre:split "/" words) :test #'equal)
+			  :test #'equal))))
 
 (defun clean (data)
   (mapcar (lambda (tr)

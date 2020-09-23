@@ -659,7 +659,7 @@ arteiro	irónico/sapeca/traquinas/sarcástico/irônico/bagunceiro
 culpável	culpado
 ordinal	octagésimo/sexta/quadragésima/oitavo/zerésimo/décima/décimo_quarto/octagésimo_quinto/quadragésimo_quinto/centésimo_quadragésimo/setuagésima/centésimo_primeiro/vigésimo_primeiro/milionésima/vigésimo/qüinquagésima/centésimo_quadragésimo_quinto/décimo_terceiro/terciário/duodécimo/centésimo/1º/sétimo/nono/trigésimo/sexagésima/qüingentésima/segundo/décimo_primeiro/centésimo_quinto/quinto/milésima/nonagésimo/trigésima/milionésimo/quadragésimo/nonagésima/qüinquagésimo/setuagésimo/sexto/sexagésimo/qüingentésimo/milésimo/umsétimo/sétima/vigésima/enegésimo/centesimal/décimo_segundo/décimo/primeiro/terceiro/enésimo
 tenebroso	escuro
-atrapalhado	estranho/_esquisito
+atrapalhado	estranho/esquisito
 conseqüente	sem_remendos/subseqüente/subsequente/posterior/sem_emenda/ulterior/sem_improvisos
 subjetivo	pessoal/preconceituoso
 bonito	de_bom_aspecto/extraordinário/cênico/atraente/esplêndido/pitoresca/lindíssimo/pulcro/fantástico/bem_parecido/glorioso/pitoresco/precioso/magnífico/deslumbrante/maravilhoso/formoso/lindo/belo
@@ -989,7 +989,7 @@ morna	caloroso
 pérfido	infiel
 pior	péssimo/último
 interessante	colorido/atraente/decoroso/recreativo/fascinante/intrigante/absorvente/entretido/divertido/digno
-feliz	ditoso/afortunado/_animador/bendito/animado/contente
+feliz	ditoso/afortunado/animador/bendito/animado/contente
 mesmo	equivalente/sinótico/indistiguivel/correspondente/idêntico/que_não_pode_ser_distinguido/comparável
 inteira	integral/inteiro
 nefasto	terminal/fatal/mortal/letal
@@ -1056,7 +1056,7 @@ sobrecomum	maravilhoso/barroco/metafísico/mágico/estranho/esquisito/misterioso
 suplementar	secundário/aditivo
 chaminés_(indústria)	movente
 diminuto	fino/pequeno
-profano	secular/_laico
+profano	secular/laico
 anémico	débil
 abandonado	irrestrito/inabitado/desabitado
 rígida	inflexível
@@ -1702,7 +1702,7 @@ de_mau_gosto	húmido/molhado/úmido
 hesitante	perplexo
 inocente	irrepreensível/que_não_causa_danos/irreprochável/inócuo/sem_culpa/inofensivo
 antecipado	esperado
-contente	_animador/bendito/afortunado/ditoso/deleitado/cheio_de_si/alegre/saciado/sorridente/divertido/radiante/risonho/convencido/feliz/presunçoso/vaidoso/satisfeito/animado
+contente	animador/bendito/afortunado/ditoso/deleitado/cheio_de_si/alegre/saciado/sorridente/divertido/radiante/risonho/convencido/feliz/presunçoso/vaidoso/satisfeito/animado
 súbito	escarpado/explosivo/fulminante/repentino/abrupto/brusco
 económico	rendoso/parcimonioso/eficiente/lucrativo/proveitoso
 sortuda	afortunado
@@ -1712,7 +1712,7 @@ cento_e_sessenta	cardinal/cardeal
 erróneo	errado/incorreto
 sexto	ordinal
 inóspito	desolado/hostil/estéril/árido
-_laico	profano
+laico	profano
 cinza	acromático
 cinco	cardinal/cardeal
 divergente	diferente
@@ -2263,7 +2263,7 @@ estranho	inusual/sobrenatural/inconformista/atrapalhado/artificial/fantástico/e
 veemente	forte/intensivo/intenso
 parcimonioso	económico/frugal/econômico
 com_mal-estar	doente/enfermo
-risonho	_animador/animado/contente
+risonho	animador/animado/contente
 respeitoso	honorífico/deferente
 identificável	classificável/diagnosticável
 refrigerado_a_ar	frio/fresco
@@ -2318,7 +2318,7 @@ municipal	domesticada/domesticado/doméstica
 lamentável	inferior/infortunoso/desagradável/ruim/infeliz/miserável/arisco
 chaminés_indústria	movente
 esfomeada	faminta/faminto
-_animador	contente/alegre/sorridente/radiante/risonho/animado/feliz
+animador	contente/alegre/sorridente/radiante/risonho/animado/feliz
 famigerado	mal_afamado
 truncado	curto
 psicotrópico	alucinogênico/psicadélico
@@ -2820,7 +2820,7 @@ fero	silvestre/selvagem
 quantitativo	numérico/quantificável/decimal
 mensal	periódico/periodico
 errático	não_confiável
-artificial	_esquisito/f''/inconstante/afetado/artificioso/biónico/forçado/falsificado/falso/estranho/sintético
+artificial	esquisito/f''/inconstante/afetado/artificioso/biónico/forçado/falsificado/falso/estranho/sintético
 curado	bem
 180	cardinal/cardeal
 disfuncional	lesionado/atingido/deteriorado
@@ -2870,10 +2870,10 @@ angular	tricúspide/bicúspide/retangular/triangular/rectangular
 agorafóbico	receoso
 olivo	cromático
 aprimorado	perfeito/sem_erros/idílico/ideal/impecável
-_esquisito	atrapalhado/artificial/desajeitado
+esquisito	atrapalhado/artificial/desajeitado
 milionésimo	ordinal
 Reconstructor	construtivo
-sorridente	_animador/animado/contente
+sorridente	animador/animado/contente
 crespo	encaracolado/cacheado
 derelito	inabitado/desabitado
 análogo	equidistante/similar/equivalente/co-igual/eqüidistante
@@ -3167,7 +3167,7 @@ afinado	certo/justo/correto
 tremendo	extraordinário/grande
 operativa	significativo/significante/importante
 boa!	bom/boa
-animado	jeitoso/_animador/alegre/sorridente/engenhoso/radiante/risonho/astuto/genial/feliz/hábil/contente
+animado	jeitoso/animador/alegre/sorridente/engenhoso/radiante/risonho/astuto/genial/feliz/hábil/contente
 impermeável	hidrófugo
 arquetípico	primeiro
 dourado	metálico/cromático
@@ -3226,7 +3226,7 @@ dianteiro	frontal/avançado
 subaquático	aquática/aquático
 malcuidado	avariado/danificado
 linear	unidimensional
-radiante	contente/deslumbrante/reluzente/iridescente/prata/prateado/argênteo/refulgente/faiscante/argentino/animado/_animador/vivído/brilhante/luminoso/claro
+radiante	contente/deslumbrante/reluzente/iridescente/prata/prateado/argênteo/refulgente/faiscante/argentino/animado/animador/vivído/brilhante/luminoso/claro
 fora_de_serviço	lasso
 exuberante	liberal
 implícito	indutivo/perfeito/inerente/tácito/absoluto
@@ -3276,7 +3276,7 @@ importante	operativa/perceptível/influente/conspícuo/monumental/o_máximo/hist
 alto_nível	alto
 ritmado	métrico
 analfabeto	semi-analfabeto
-alegre	_animador/ditoso/optimista/otimista/animado/contente
+alegre	animador/ditoso/optimista/otimista/animado/contente
 deferente	respeitoso
 acromático	madrepérola/esbranquiçado/nevoso/saibro/prateado/acinzentado/cinza/cinzento/gris/cinzenta/sable
 arredondado	esférico/global
@@ -3452,7 +3452,7 @@ perecível	biodegradável
 bestial	inumano/desumano
 de_bom_aspecto	bonito/formoso/lindo/belo
 calúnia	malicioso/perverso/maldoso
-desajeitado	desengoçado/estranho/_esquisito
+desajeitado	desengoçado/estranho/esquisito
 atual	real/corrente/mais_recente/contemporâneo/ligado/em_curso/hodierno/último/moderno/em_linha/vigente/até_a_data/online/actual
 lastimável	triste
 aberto	público/escancarado/visível/entreaberto/entreaberta

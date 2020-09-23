@@ -96,7 +96,7 @@ desenrolar	separar/partir/dividir
 congelar	solidificar
 escoltar	defender/proteger
 carregar	mexer/mover/deslocar
-_saltar_de_paraquedas	descer/planar/cair/baixar
+saltar_de_paraquedas	descer/planar/cair/baixar
 eclodir	assentar-se/sentar/sentar-se
 escolher	apresentar/encenar/filmar/fazer/executar/desempenhar/comparar
 desfigurar	lesionar/lesar/machucar/ferir

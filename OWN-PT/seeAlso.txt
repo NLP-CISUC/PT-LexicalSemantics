@@ -130,7 +130,7 @@ cautelosa	judicioso/sensato/cauto/cauteloso/atento/prudente/diligente
 canhoto	esquerdo
 hesitante	perplexo
 inocente	reto/justo/eqüitativo/recto
-contente	satisfeito/_animador/animado/ditoso/eufórico/feliz/grato/alegre
+contente	satisfeito/animador/animado/ditoso/eufórico/feliz/grato/alegre
 súbito	rápido/rápida/veloz
 sortuda	afortunado
 exigente	Limpo/grácil/mimoso
@@ -163,7 +163,7 @@ sistémico	organizado/regular
 idêntico	comparável/mesmo/o_mesmo
 efetivo	útil/potente/eficaz/poderoso/eficiente
 elegível	qualificado
-lícito	_correto/legal
+lícito	correto/legal
 fio_de_prumo	reto/íngrime/íngreme
 acreditável	plausível
 impraticável	impossível
@@ -208,10 +208,10 @@ desinteressante	sem_cor/incolor
 protegido	invulnerável
 resistente	experiente/experimentado/forte
 religioso	virtuoso/digno/nobre/sagrado/devoto/piedoso
-honesta	legítimo/honrado/genuíno/autêntico/_correto/verdadeiro
+honesta	legítimo/honrado/genuíno/autêntico/correto/verdadeiro
 esbelto	digno/gracioso/grácil/mimoso/sofisticado/fino
 ampla	extenso/detalhado/amplo/abrangente/exaustivo/espesso/grosso
-_animador	alegre/grato/feliz/contente
+animador	alegre/grato/feliz/contente
 ocupado	diligente
 válido	razoável/legítimo
 oco	intrusivo/vazio
@@ -304,7 +304,7 @@ finito	mortal
 físico	concreto
 parelho	comparável/mesmo/o_mesmo
 desrespeitoso	ofensiva/ofensivo/sarcástico
-feio	estranho/_esquisito
+feio	estranho/esquisito
 adoentado	doente/enfermo/inapropriado
 energético	ativo/empreendedor/dinâmico/vívido
 grosso	experiente/experimentado/forte/largo/ampla/amplo/gordo
@@ -444,7 +444,7 @@ insano	irracional
 doentio	doente/enfermo/inapropriado
 angular	pontudo/quadrado
 aprimorado	utópico/exato/preciso/correcto/certo
-_esquisito	desajeitado/feio/feia
+esquisito	desajeitado/feio/feia
 análogo	comparável/mesmo/o_mesmo
 hábil	astuto
 piedoso	virtuoso/digno/nobre/sagrado/devoto/religioso
@@ -457,7 +457,7 @@ encontrado	salvado
 dispensável	desnecessário/desnecessária
 corrupto	imoral/ilegal/fora_da_lei/desonroso
 parcial	injusto/incompleto
-_correto	lícito/sincera/honesta/honesto/sincero
+correto	lícito/sincera/honesta/honesto/sincero
 habitual	comum
 árduo	prejudicial/nocivo/daninho/danoso/inumano/desumano
 impaciente	inquieto
@@ -554,13 +554,13 @@ fértil	potente/frutífero/proveitoso/fecundo/produtor/produtivo
 involuntária	desfalecido/esmaecido/desmaiado/inconsciente/incônscio/desacordado
 importante	precioso/valioso/significante/essencial/decisivo/crítico/significativo
 ritmado	regular
-alegre	_animador/animado/contente
+alegre	animador/animado/contente
 ineficaz	infértil/estéril/improdutivo/impotente
 falta_de_esperança	desencorajante/pessimista/impossível
 cobarde	timorato/receoso
 desperto	consciente/alerta/ciente/informado
 desmaiado	involuntária/adormecido
-sincera	legítimo/honrado/genuíno/autêntico/_correto/verdadeiro
+sincera	legítimo/honrado/genuíno/autêntico/correto/verdadeiro
 fino	liso/macio/tênue/esbelto/magro/estreita/estreito
 indistinto	confuso
 convergente	oblíquo
@@ -603,7 +603,7 @@ quieto	pacífico/suave
 impróprio	inútil/vão
 desumano	árduo/dolorido/doloroso/extenuante/doído
 perecível	destrutível
-desajeitado	estranho/_esquisito
+desajeitado	estranho/esquisito
 atual	contemporâneo/moderno/novo
 aberto	explícito/público
 rendoso	útil/produtor/produtivo/favorável/profícuo/vantajoso/propício
@@ -611,7 +611,7 @@ competente	eficiente/qualificado/talentoso/capaz/habilidoso
 definitivo	inconfundível/explícito
 justo	imparcial/virtuoso/nobre/decoroso/digno/inocente/moral/bom/boa/próprio/adequado/conveniente/verdadeiro/acurado/exacto/bem_acabado/precisa/exato/preciso/correcto/correto/certo
 construtivo	vantajoso/positivo
-feia	estranho/_esquisito
+feia	estranho/esquisito
 empenhado	queama/carinhoso/afectuoso/amoroso
 sistemático	organizado/regular
 moral	nobre/digno/virtuoso/reto/justo/eqüitativo/recto/bom/boa/casta/casto/honrado
@@ -635,7 +635,7 @@ tóxico	prejudicial/nocivo/daninho/danoso
 desacordado	involuntária/adormecido
 noticioso	informativo
 calmo	pacífico
-grato	_animador/animado/contente
+grato	animador/animado/contente
 que_pode_ser_dispensado	desnecessário/desnecessária
 prudente	sábio/cuidadosa/responsável/cautelosa/judicioso/sensato/cauto/cauteloso/atento/diligente
 emocional	passional/afetado/trasladado/comovente/cálido
@@ -711,7 +711,7 @@ diligente	ocupado/cuidadosa/cautelosa/prudente/atento
 comilão	indulgente
 existente	remanescente/autêntico/genuíno/legítimo/realístico/concreto
 futuro	prospectivo
-honesto	legítimo/honrado/genuíno/autêntico/_correto/verdadeiro
+honesto	legítimo/honrado/genuíno/autêntico/correto/verdadeiro
 repentino	rápido/rápida/veloz
 mutável	inconstante
 monótono	sem_cor/incolor
@@ -784,7 +784,7 @@ desatencioso	descuidado/negligente
 doce	saboroso
 valente	corajoso/sem_medo/destemido/bravo/audaz/audacioso/aventureiro
 largo	extenso/detalhado/amplo/abrangente/exaustivo/espesso/grosso
-feliz	_animador/animado/ditoso/eufórico/grato/alegre/contente
+feliz	animador/animado/ditoso/eufórico/grato/alegre/contente
 cauto	cuidadosa/cautelosa/prudente/atento
 retardado	estúpido/lerdo
 macho	varonil/viril/varão/masculino/masculina
@@ -883,7 +883,7 @@ a_termo	maturo/maduro
 pior	inferior/ruim
 interessante	emocionante/excitante
 mesmo	similar/semelhante/parelho/idêntico/igual/análogo
-sincero	legítimo/honrado/genuíno/autêntico/_correto/verdadeiro
+sincero	legítimo/honrado/genuíno/autêntico/correto/verdadeiro
 invulnerável	inconquistável/protegido/seguro
 síncrono	sincrônico
 limitado	mortal

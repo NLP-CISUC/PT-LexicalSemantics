@@ -202,7 +202,7 @@ abelha_doméstica	Abelha-italiana/Abelha_africana/Abelha-africana
 fosfato	fosfato_de_cálcio
 aba	braguilha/berma/acostamento/língua/margem/borda/bainha
 vias_rápidas	Autobahn/pedágio/estradas_principais/estrada/rodovia/autoestradas/auto-estrada/super-autopista/via_expressa/autoestrada
-regulamentos	_indicações/devaliação/indexação/guia/limitação/restrição
+regulamentos	indicações/devaliação/indexação/guia/limitação/restrição
 ursídeos	urso-negro-himalaio/Urso_negro/urso-negro-asiático/urso-lua/Urso-negro-asiático/urso-negro-tibetano/urso-negro/urso-pardo/Ursus_Maritimus/urso-branco/Thalarctos_maritimus/urso-polar
 akrobata	funâmbulo/equilibrista/contorcionista
 actualidade	neste_momento/hoje/agora/hoje_em_dia/nesta_noite/aqui_e_agora
@@ -295,7 +295,7 @@ Fluoresceina	Eosina/eosina
 o_que_não_se_adapta_bem	babaca
 eczema	Dermatite/dermatite
 programação	programação_orientada_à_objetos/figura/programação_lógica/regime/verba/programação_orientada_a_objetos/esquema/orçamento/ilustração/projeto/desenho/orientação_à_objetos/plano/cronograma/ordem_do_dia/horário/programa/codificação/encriptação/Decifração/descodificação
-convexidade	entasis/_pico/ponta
+convexidade	entasis/pico/ponta
 trovoadas	nevão/chuva_de_granizo/temporal/tempestade_de_neve/tormenta/nevasca/trovoada/granizo/tempestade/vendaval
 constituição	federação/fenótipo/genótipo/cariótipo/colonização/Fenotipo/arquitectura_do_computador/arquitectura/estrutura
 confidente	repositório
@@ -308,7 +308,7 @@ luzir	resplandecer/coriscar/opalescer/tremeluzir/refletir_fortemente/arder/brilh
 lema	mantra/grito_de_guerra/Bordão
 justiça	retidão/honra/corretude/Honestidade/honestidade/justeza/eqüidade/equanimidade
 subúrbio	cidade_dormitório
-comparar	fazer_uma_analogia/comparar_
+comparar	fazer_uma_analogia/comparar
 Ciconiidae	cegonha/jaburu/tuiuiú/jabiru
 escola_particular	Escola_charter
 dialeto	Patoá
@@ -361,7 +361,7 @@ descenso	queda/avalanche
 imaturidade	Infância/adolescência/prematuridade/primeira_infância/infância
 emoticon	smiley/Smiley
 alavanca	balanceiro/manche/pé-de-cabra/Pé_de_cabra/tecla/gatilho/pedal
-esqueça-se	_esquecer/reprimir/suprimir/apagar/desaprender
+esqueça-se	esquecer/reprimir/suprimir/apagar/desaprender
 rede	ratoeira/Guarda-fogo/Rede_de_longa_distância/gaze/vide/armadilha/intranet/World_Wide_Web/internet/mosquiteiro/tule/ciberespaço/redes_alargadas/rede_alargada/World_wide_web/WWW/Ciberespaço/rede_de_arame/LAN/rede_local/Rede_de_Computadores/rede_de_computadores/sistemas_de_alerta_(imediato)/alçapão/entrelaçamento/Pára-brisas/pára-brisas/pára-brisa/parabrisas/rede_de_pesca
 exibir	abrir/pavonear/brandir/mostrar/pavonear-se/empavonar/empavonar-se/ostentar/agitar/posar
 retribuição	olho_por_olho/Salário-mínimo/darbase/Salário_Mínimo/salário_mínimo/Salário_minimo/dente_por_dente/troco/revanche/vingança
@@ -379,7 +379,7 @@ reacções_nucleares	fissão/reação_em_cadeia/Reacção_em_cadeia/reacção_em
 liteira	palanquim/mais_baixo/maca
 blusa	camisa/marujo
 cerveja	chope/porter/ale/cerveja_inglesa
-computar	cobrar/integrar/recalcular/subtrair/dividir_proporcionalmente/fatorar/mapear/extrapolar/calcular_a_média/processar/orçar/subestimar/calcular_o_valor/diferenciar_/dividir/fazer_orçamento/interpolar/calcular/deduzir/resolver/chutar/estimar/multiplicar/adicionar/somar/quantizar/debitar/creditar
+computar	cobrar/integrar/recalcular/subtrair/dividir_proporcionalmente/fatorar/mapear/extrapolar/calcular_a_média/processar/orçar/subestimar/calcular_o_valor/diferenciar/dividir/fazer_orçamento/interpolar/calcular/deduzir/resolver/chutar/estimar/multiplicar/adicionar/somar/quantizar/debitar/creditar
 flora	vegetação/esporófito/jardim/Chaparral/Autotrofismo/arvoredo_(talhadia)/floresta/mata/bosque/Planta_ornamental/Plantas_ornamentais/Planta_Ornamental/fitoplâncton/embrião/criptogâmicas/Criptógamas/Criptógama/epífito/Epifitismo/Planta_vascular/traqueófitos/bienal/planta_de_dentro_de_casa/planta_decorativa/Planta_perene/gametófito
 argumentação	previsão/síntese/antecipação/política/política_pública/raciocínio/Inferência/inferência/dedução/Teorias_dedutivas/método_dedutivo/hipótese/análise
 alegoria	Fábulas_de_Esopo
@@ -559,7 +559,7 @@ acabrunhar	atribular/estressar/entristecer/esgotar
 manequim	supermodelo
 Papel_higienico	rolo
 passar_a_ferro	lacerar
-refrear	desanimar/mortificar/restringir/limitar/conter/suprimir/sufocar/conquistar/_reprimir
+refrear	desanimar/mortificar/restringir/limitar/conter/suprimir/sufocar/conquistar/reprimir
 filiar_se	inscrever/afiliar/organizar/penetrar/reingressar/associar-se/refiliar/infiltrar/afiliar-se/afiliar_se/reunir/unificar
 planeta_menor	asteróide
 Tinta_à_óleo	óleo/Óleos
@@ -594,7 +594,7 @@ potro	Potro
 paquímetro	Micrómetro/micrômetro/Micrômetro
 reorientar	alinhar
 deslizamento	Snowboard/derrapagem/snowboard
-petição	notificação/demanda/coleta/cortejamento/intercessão/facturação/ordem/coleção/_solicitação/faturação/galanteio/candidatura/Demagogia/demagogia/invitação/convite/apelo/súplica/inquérito/pergunta/questão/oração/reza/bênção
+petição	notificação/demanda/coleta/cortejamento/intercessão/facturação/ordem/coleção/solicitação/faturação/galanteio/candidatura/Demagogia/demagogia/invitação/convite/apelo/súplica/inquérito/pergunta/questão/oração/reza/bênção
 aeronauta	aviatrix/aviadora/aviatriz/piloto
 lodaçal	pântanos_de_água_salgada
 desinfectante	hipoclorito_de_sódio
@@ -626,7 +626,7 @@ servidor_público	vizir/notário/regulador/mandarim/meirinho/tabelião/Questor/f
 fossilizar	petrificar
 tolerância	neutralidade/leniência/liberalidade/indulgência
 desperdiçar	indulgir/esbanjar/gastar_em_demasia/paparicar_se
-controlar	bajular/girar/espiar/retransmitir/instigar/desanimar/exibir/pedalar/treinar/mortificar/provocar/restringir/limitar/conter/suprimir/sufocar/conquistar/_reprimir/conduzir/dirigir/discar/avionar/pilotar/viajar_de_avião/sincronizar
+controlar	bajular/girar/espiar/retransmitir/instigar/desanimar/exibir/pedalar/treinar/mortificar/provocar/restringir/limitar/conter/suprimir/sufocar/conquistar/reprimir/conduzir/dirigir/discar/avionar/pilotar/viajar_de_avião/sincronizar
 regime	Estado_fantoche/Estado/império/Estado-fantoche/palácio/corte/Cortes/Governo_local/papado
 suma	agregado/agregação/aglomeração
 motor_de_combustão_interna	ciclo_de_Otto/motores_a_gás/Motor_radial/motores_a_gasolina/óleo_diesel/diesel/motores_diesel/Motor_a_diesel/gasóleo
@@ -718,7 +718,7 @@ neologismo	Palavra-valise/palavra_entrecruzada
 negra	preto/crioulo/mano/negro/Tom
 oxirredutase	oxigenase
 Gesto	gesticulação/floresça/dar_de_ombros/gesto/afirmarcomacabeça/reverência/mesura
-malograr	fazer_besteira/falhar_/perder/cair/fazer_às_pressas/arruinar/ferrar/borrar/meter_os_pés_pelas_mãos/foder_tudo
+malograr	fazer_besteira/falhar/perder/cair/fazer_às_pressas/arruinar/ferrar/borrar/meter_os_pés_pelas_mãos/foder_tudo
 descolar	cair/cortar
 pinheiro_brasileiro	Araucaria_heterophylla/pinheirobrasileiro/Araucaria_columnaris/araucária/Araucaria_araucana/Araucaria_bidwillii
 necessidade	desejo/energia_psíquica/vida/energia_mental/motivo_racional/morais/moralidade/moral/ética/impulso/motivação_irracional/motivo_irracional/urgência/carência/falta/ausência/escassez/deficiência
@@ -734,7 +734,7 @@ asco	revulsão/abominação/execração/repugnância/repulsão/horror/repulsa/av
 juvenil	menino/jovem/criança/adolescente/rapariga/rapaz/moça/moço
 arrumar	sincronizar/organizar
 rapidez	velocidade_de_execução/pressa
-criatura	Pedigree/híbrido/insectívoros/parceiro/nativo/recombinante/gigante/omnívoro/adulto/Mirmecofilia/clone/pais/animal_de_estimação/anão/Mascote/sobrevivente/zooplâncton/Haplóide/anaeróbio/procariotas/bentos/mutantes/Eucariontes/presa/herbívoro/poiquilotérmico/Heterotrofismo/anfitrião/haploide/Eukaryota/Insetívoro/eucariota/hospedeiro/eucarionte/eukaryota/Procariontes/mutante/Mascotes/mutação/progenitor/procarionte/_mestiço/mascote/alma/ser_humano/alguém/fungos/fungo/comensalismo/parasita/indivíduo/pessoa/microorganismo/microrganismo/animal/bicho/ser/besta/flora/planta/vegetal/nécton/Plancton/plâncton/cordados/caça/Ave_de_caça/cria/prole/filhote/corredor/embrião/embriões/macho/animal_doméstico/detritívoro/invertebrado/invertebrados/fêmea/larva/predadores
+criatura	Pedigree/híbrido/insectívoros/parceiro/nativo/recombinante/gigante/omnívoro/adulto/Mirmecofilia/clone/pais/animal_de_estimação/anão/Mascote/sobrevivente/zooplâncton/Haplóide/anaeróbio/procariotas/bentos/mutantes/Eucariontes/presa/herbívoro/poiquilotérmico/Heterotrofismo/anfitrião/haploide/Eukaryota/Insetívoro/eucariota/hospedeiro/eucarionte/eukaryota/Procariontes/mutante/Mascotes/mutação/progenitor/procarionte/mestiço/mascote/alma/ser_humano/alguém/fungos/fungo/comensalismo/parasita/indivíduo/pessoa/microorganismo/microrganismo/animal/bicho/ser/besta/flora/planta/vegetal/nécton/Plancton/plâncton/cordados/caça/Ave_de_caça/cria/prole/filhote/corredor/embrião/embriões/macho/animal_doméstico/detritívoro/invertebrado/invertebrados/fêmea/larva/predadores
 inflexão	paradigma/estardecócoras/palpite/conjugação/declinação
 relógio_de_pulso	relógio_de_sol/Relógio_de_bolso/relógio_de_bolso/Relógio_atómico/relógio_atômico/ampulheta/pulso_de_disparo/relógio/Relógios
 compras	marketing
@@ -754,7 +754,7 @@ suspensão	moratória/remição/demora/lapso/descanso/cesura/intervalo/meio_temp
 ácer	Acer_saccharum/Acer_palmatum
 café_expresso	latte
 viatura	Hot_rod/jipe/viatura_policial/Utilitário_Esportivo/Taxi/cupê/monovolume/calhambeque/sedan/compacto/conversível/coupé/compartimento_de_vagão/carro_de_polícia/Hot_Rod/táxi/carro_compacto/SUV/patrulha/utilitário_esportivo/hospital_militar_móvel/Ambulancia/ambulância/carro/Limusina/limusine/rojão/Foguete_espacial/foguete/Foguetes/trenó/navio
-_parte_de_cima	craque
+parte_de_cima	craque
 leis	proibição/prescrição/Constituição/constituição/direito_público/Direito_público
 intervalo_de_tempo	constante_de_tempo/horário/tempo_de_busca/Eternidade/latência/tempo_de_rotação/intervalo/período/ausência/tempo_de_processamento/lead_time/eternidade/tempo_de_posicionamento/Lead_Time/fazerumapausa/interrupção/suspensão/pausa/tempo_de_acesso/intercalação/ciclo
 Epistemologia	metodologia/metodologias
@@ -799,7 +799,7 @@ súplica	cortejamento/galanteio/Demagogia/demagogia
 glóbulo	bolha/borbulha
 ortografia	ideografia/bustrofédon/Bustrofedon/Bustrofédon/escrita/Hieróglifos
 galinha	botadeira/capão/filhote_de_ave/pintainho/pinto/franguinha/pintinho/peru/galo/frango/galinha_d'angola
-balizar	escolher/passar/prejulgar/aceitar/pensar/declarar/julgar/ranquiar/classificar/aprovar/prever/prognosticar/achar/considerar/calcular/predizer/medir/estimar/avaliar/rejeitar/imputar/antecipar/desaprovar/passar_em_revista/ensaiar/tentar/posicionar_(se)_/associar/atribuir
+balizar	escolher/passar/prejulgar/aceitar/pensar/declarar/julgar/ranquiar/classificar/aprovar/prever/prognosticar/achar/considerar/calcular/predizer/medir/estimar/avaliar/rejeitar/imputar/antecipar/desaprovar/passar_em_revista/ensaiar/tentar/posicionar_(se)/associar/atribuir
 imaginação	quimera/evocação/fantasia/sonho/visão
 colite	Doença_de_crohn/Colite_ulcerosa/síndrome_do_cólon_irritável/Doença_de_Crohn
 salamandra	Pletodontídeos/Salamandra_de_fogo/Proteus_anguinus/Cryptobranchus_alleganiensis/Necturus_maculosus/Salamandra_atra/Plethodontidae/salamandra-de-fogo/Tritão
@@ -823,7 +823,7 @@ carboidrato	açúcar_de_cana/desoxirribose/Polissacarídeos/polissacarídeo/Mono
 consogro	nora/cunhada/genro/sogro/concunhado/cunhado/sogra
 convencer	desarmar/reassegurar/fazer_lavagem_cerebral/vender/adular/persuadir/seduzir/influenciar
 Nós	Volta_fiel/Nó_Simples/Nó_catau/nó_górdio/Nó_de_pescador/Nó_simples/Volta_Fiel
-falhar	perder_o_controle/fazer_besteira/falhar_/cair/fazer_às_pressas/arruinar/ferrar/borrar/perder_(se)/meter_os_pés_pelas_mãos/foder_tudo/perder/faltar
+falhar	perder_o_controle/fazer_besteira/falhar/cair/fazer_às_pressas/arruinar/ferrar/borrar/perder_(se)/meter_os_pés_pelas_mãos/foder_tudo/perder/faltar
 mercadologia	marketing_direto
 angélica	arcanjo
 mensageiro	carregador/arauto/detentor/portador
@@ -860,14 +860,14 @@ fascículo	nervo/Nervos/Nervo
 parafrasear	traduzir
 auditorias	auditoria_contábil
 globulina	Transferrina/miosina/Imunoglobina
-moldar	forjar/decidir/indexar_/cronometrar/influenciar_consideravelmente/cadenciar/fazer_mal_feito/reformar/ter_peso/remodelar/ritmar/controlar/predispor/inclinar/dispor/predeterminar/cortar/esculpir/plasmar/modelar/amoldar
+moldar	forjar/decidir/indexar/cronometrar/influenciar_consideravelmente/cadenciar/fazer_mal_feito/reformar/ter_peso/remodelar/ritmar/controlar/predispor/inclinar/dispor/predeterminar/cortar/esculpir/plasmar/modelar/amoldar
 dar_atenção	achar/ver/descobrir/detectar
 fixação	soldadura/soldagem/ligatura
 metalinguagem	linguagem_de_definição_de_sintaxe
 aerólito	micrometeorito
 vexar	inimizar/magoar/antagonizar/corroer/molestar/importunar/irritar/assediar/aborrecer/incomodar/provocar
 partido	Partido_da_Proibição/Kuomintang/Dixiecrat/Partido_Democrata-Republicano/oposição/Gironda
-conta	contagem_regressiva/contagem_de_esperma/Censo_demográfico/recontagem/cálculo/nota/censo_demográfico/censo/retrocontagem/recenseamento/Conta_capital/_contagem
+conta	contagem_regressiva/contagem_de_esperma/Censo_demográfico/recontagem/cálculo/nota/censo_demográfico/censo/retrocontagem/recenseamento/Conta_capital/contagem
 neurótico	claustrófoba/claustrófobo
 acumulação	existências/acúmulo/estoque/depósito/colocação
 bago_de_uva	Vitis_rotundifolia
@@ -887,7 +887,7 @@ cache	cache_do_disco/mesada/troco
 pupilo	Catecumenato/ouvinte/bolsista/estudante
 gargalhar	convulsionar/casquinar/gracejar/zurrar/cacarejar
 Armaduras	Escudos/escudo/broquel
-considerar	incluir/brincar/debater/equiparar/admitir/esperar/favorecer/indentificar-se/contemplar/capitalizar/receber/pensar_duas_vezes/chamar/abstrair/desrespeitar/entusiasmar_se/relativizar/premeditar/decidir_/planejar/gostar/levar_em_conta/fazer/reificar/coisificar/idealizar/reconsiderar/apreciar/valorizar/prezar/venerar/respeitar/julgar
+considerar	incluir/brincar/debater/equiparar/admitir/esperar/favorecer/indentificar-se/contemplar/capitalizar/receber/pensar_duas_vezes/chamar/abstrair/desrespeitar/entusiasmar_se/relativizar/premeditar/decidir/planejar/gostar/levar_em_conta/fazer/reificar/coisificar/idealizar/reconsiderar/apreciar/valorizar/prezar/venerar/respeitar/julgar
 electrónica	microelectrônica/microeletrónica/microelectrónica/microeletrônica
 homicídio	Homicidio/morte/asfixia/electrocussão/decapitação/sacrificio/genocídio/Assassinatos/fratricídio/Regicidas/linchamento/tiranicídio/Infanticidio/eutanásia/Genocídios/infanticídio/linchagem/eletrocução/sangue_coagulado/regicídio/sufocamento/Regicídio/infanticida/sacrifício/auto-destruição/suicídio/envenenamentos/envenenamento/assassínio/homicídio_doloso/assassinato/assassínio_em_massa/assassinato_em_massa/carnificina/massacre/matança_do_porco/abate_de_animais/Assassínio_em_massa
 interveniente	elogiador
@@ -1087,7 +1087,7 @@ esfriar	gelar/refrigerar
 célula	Célula_de_sertoli/célula_eletrolítica/Célula_Combustível/Blastômero/Blastema/Célula_solar_CIGS/Célula_de_Leydig/Célula_beta/Celula_combustivel/célula_beta/célula_combustível/blastómero/pilhas_solares/Célula_de_leydig/célula_de_Sertoli/fibra/fibras/zigoto/Gametócito/gametócito/célula_somática/Célula_somática/Célula_germinativa/recombinante/célula_vegetal/Célula_Vegetal/célula-tronco
 direito_ao_voto	sufrágio_universal
 ajuda	consolação/filantropia/mão/recurso/alojamento/facilitação/misericórdia/auto-ajuda/bolsa_de_estudo/consolo/Filantropia/piedade/conforto/bolsa_de_estudos/bolsa/ajuda_financeira/segurança_social/assistência_social/assistência/socorro/suporte/apoio/serviço
-observação	bujão/execução_da_lei/monitorização/comentário/_gracejo/execução/coacção/cortesia/realização/Implementação_de_software/xiste/_piada/chacota/cumprimento/reflexão/banalidade/vulgaridade/trivialidade/chavão/cliché/referência/alusão
+observação	bujão/execução_da_lei/monitorização/comentário/gracejo/execução/coacção/cortesia/realização/Implementação_de_software/xiste/piada/chacota/cumprimento/reflexão/banalidade/vulgaridade/trivialidade/chavão/cliché/referência/alusão
 adúltero	prostituta/meretriz
 sistemas_económicos	socialismo_estatal/economia_mista/Capitalismo_de_Estado/economia_de_mercado
 fruta	feijoa/Noz_de_cola/morango/pseudofruto/nectarina/caqui/manga/amoreira/aquênio/sapoti/quivi/passa_de_Corinto/derrube_por_acção_do_vento/acerola/azeitona/Asimina/café/Jujuba/Aquénio/amora/Amora_silvestre/dióspiro/aquénio/Pseudofrutos/framboeseira/Amora-silvestre/Mangifera/quiuí/noz-de-cola/groselha/uva-do-monte/oxicoco/mirtilo/arando/framboesa/espiga/vagem/semente/bolota/pomo/Drupa/noz/Noz/grão/cariopse/Cariopse/Cariópse/fruto/baga/maçã/pêssego/granada/romã/mangostão/ugli-fruit/tangelo/carambola/banana/bananeira/cereja/ginja/meloeiro/melão/pêra/maracujá/abacate/nêspera/figueira-da-Índia/damasco/abricó/pitaia/amêixoa/ameixa/mamão/papaia/mamoeiro/figo/ananás/abacaxi/marmelo/Litchi/lichia/Rambutão/rambotã/jaca/jaqueira/uva/bago_de_uva/fruta_seca/goiaba/citrino/Akee/tâmara
@@ -1186,7 +1186,7 @@ enfermidade	Doença_de_descompressão/saturnismo/amiloidose/indisposição/Amilo
 aneurisma	aneurisma_da_aorta/aneurisma_cerebral/Aneurisma_Cerebral
 posse	tesouro/possessão/propriedade/bens/ativos/ativo/recursos/activos/obrigação
 arrefecimento	condicionador_de_ar/torres_de_arrefecimento/Climatizador_evaporativo/condicionamento_de_ar/ar-condicionado/ar_condicionado
-fracassar	fazer_besteira/falhar_/perder/cair/fazer_às_pressas/arruinar/ferrar/borrar/meter_os_pés_pelas_mãos/foder_tudo
+fracassar	fazer_besteira/falhar/perder/cair/fazer_às_pressas/arruinar/ferrar/borrar/meter_os_pés_pelas_mãos/foder_tudo
 adversário	favorita/vice/Luddismo/finalista/segundo/favorito/colocado/opositor/campeão/inimigo
 certificado	ação/certidão_de_nascimento/comissão/diploma/comissão_militar/Certidão_de_nascimento/obrigação/Obrigação/Títulos_financeiros
 regar	puxar_descarga
@@ -1240,7 +1240,7 @@ Passatempos	Espeleologia/espeleologia
 deferir	aprovar/confirmar
 ajuda_financeira	subvenção/filantropia/bolsa_de_estudo/subsídio/Filantropia/bolsa_de_estudos/bolsa/segurança_social/assistência_social
 lisura	polimento
-abalo	reverência/terror/consternação/temor/medo/susto/afeição/amor/raiva/ira/cólera/zanga/humor/espírito/_estado_emocional/alegria/aversão/ódio/ânsia/ansiedade/preocupação
+abalo	reverência/terror/consternação/temor/medo/susto/afeição/amor/raiva/ira/cólera/zanga/humor/espírito/estado_emocional/alegria/aversão/ódio/ânsia/ansiedade/preocupação
 debruçar	declivar/inclinar
 contas	cálculo/nota/conta
 causar_impressão	impressionar_bem/impressionar
@@ -1426,8 +1426,8 @@ poema	elegia/Verso_branco/Haïku/Verso_livre/Hai_kai/xácara/lamento/haikai/Haik
 abordagens	entrada/boca
 ser_bem_sucedido	dar_sorte/alcançar/funcionar/conseguir/passar/negociar/realizar/obter/atingir/efetuar/chegar_a/efectuar
 encomendar	encarregar/desejar
-avaliar	admitir/subestimar/escolher/reavaliar/passar/padronizar/prejulgar/dar_nota/supervalorizar/planejar/superestimar/avaliar_novamente/valorizar/corrigir/levar_em_conta/taxar/censurar/elogiar/louvar/revalorizar/aceitar/pensar/declarar/julgar/ranquiar/classificar/aprovar/prever/prognosticar/achar/considerar/calcular/predizer/medir/estimar/rejeitar/imputar/antecipar/desaprovar/passar_em_revista/ensaiar/tentar/posicionar_(se)_/associar/atribuir
-limitar	classificar/controlar/margear/demarcar/desanimar/contentar/inibir/obstruir/delimitar/mortificar/satisfazer/estorvar/marcar/domar/impedir/conter_/constrangir/cercear/restringir/conter/suprimir/sufocar/conquistar/_reprimir
+avaliar	admitir/subestimar/escolher/reavaliar/passar/padronizar/prejulgar/dar_nota/supervalorizar/planejar/superestimar/avaliar_novamente/valorizar/corrigir/levar_em_conta/taxar/censurar/elogiar/louvar/revalorizar/aceitar/pensar/declarar/julgar/ranquiar/classificar/aprovar/prever/prognosticar/achar/considerar/calcular/predizer/medir/estimar/rejeitar/imputar/antecipar/desaprovar/passar_em_revista/ensaiar/tentar/posicionar_(se)/associar/atribuir
+limitar	classificar/controlar/margear/demarcar/desanimar/contentar/inibir/obstruir/delimitar/mortificar/satisfazer/estorvar/marcar/domar/impedir/conter/constrangir/cercear/restringir/conter/suprimir/sufocar/conquistar/reprimir
 quando	frente_fria
 traduzir	metrificar/glosar/latinizar/retraduzir
 açoitar	flagelar
@@ -1463,7 +1463,7 @@ pomares	Sapotizeiro/Guajuru/durião/seriguela/marmeleiro/Abricó-do-pará/Mamão
 ciências_jurídicas	legislação_fiscal/Direito_empresarial/lei/direito_administrativo/Direito_Canônico/direito_consuetudinário/Common-law/Leis/Common_Law/Direito_comercial/common_law/Direito_Canónico/Direito_internacional/charia/Chariá/lei_marcial/Lei_Marcial/Direito_civil/direito_romano-germânico/direito_civil
 organização_clandestina	maquis
 menear	agitar/sacudir
-modo_de_transporte	Teleféricos/Sidecar/navios_mercantes/marinha_mercante/Marinha_Mercante/side_car/teleférico/teleférico_/transporte_público/Transportes_públicos/Transporte_publico/transportes_públicos/maca/liteira/veículos/veículo/viatura
+modo_de_transporte	Teleféricos/Sidecar/navios_mercantes/marinha_mercante/Marinha_Mercante/side_car/teleférico/teleférico/transporte_público/Transportes_públicos/Transporte_publico/transportes_públicos/maca/liteira/veículos/veículo/viatura
 dança_de_salão	tango/minueto/samba/valsa/Charleston
 indispor	constipar/cansar-se/exaurir/exaurir-se/ferir/doer/aleijar/machucar
 exercício_fisico	alongamento/fisioculturismo/Fisiculturismo/culturismo/fisiculturismo/ioga/exercício_cardiopulmonar/exercício_cardiorespiratório
@@ -1479,7 +1479,7 @@ românica	língua_portuguesa/crioulo_haitiano/romeno/português/língua_romena/l
 transe	hipnose
 bode	Cabra-da-caxemira/cabrita/cabrito/cabra
 traçado	figura/regime/verba/esquema/orçamento/ilustração/projeto/desenho/plano/cronograma/ordem_do_dia/horário/programa
-julgamento	justiça/Ordália/_fogo/revogação/fatwa/adjudicação/juízo_de_valor/Tutela_Antecipada/arbitragem/Tutela_antecipada/Juizo_de_valor/Justiça/ataque/ditame/sentença/cálculo/avaliação/estimativa/corte_marcial
+julgamento	justiça/Ordália/fogo/revogação/fatwa/adjudicação/juízo_de_valor/Tutela_Antecipada/arbitragem/Tutela_antecipada/Juizo_de_valor/Justiça/ataque/ditame/sentença/cálculo/avaliação/estimativa/corte_marcial
 enlistar	recrutar
 separação	descontinuidade/separatismo/divergência/Divorcio/segregação/desconexão/divórcio/disjunção/falha/incomunicação/eliminação/remoção/secessão/rasgão/partição/segmentação/divisão/delimitação_de_zonas/isolamento/reclusão
 estrogénio	estrona/estriol/estradiol
@@ -1646,7 +1646,7 @@ pomo	maçã/pêra/marmelo
 política_de_apaziguamento	conciliação/pacificação
 Escala_diatónica	modo
 gavião	Falcão-do-tanoeiro/falcão/açor/águia-pesqueira/águia_de_asa_redonda/milhafre
-hostilidade	tensão/guerra/agressividade/guerra_fria/animosidade/ódio/_hostilidade_latente/suspeita/antagonismo/rancor/amargura/ressentimento/resentimento/violência/força/pilhagem/saque
+hostilidade	tensão/guerra/agressividade/guerra_fria/animosidade/ódio/hostilidade_latente/suspeita/antagonismo/rancor/amargura/ressentimento/resentimento/violência/força/pilhagem/saque
 garrafa	ânfora/tinteiro/cabaceiro/galheteiro/bilha/garrafão/Vaso_canopo/vaso/ampola/jarro/Jarro/cântaro/recipiente/cabaça_feita_com_a_abóbora/porongo/cabaça/decanter/Anfôra/cuieira/jarra/Frasco/cantil/Frasco_de_laboratório/frasco
 anúncio	programa/edital/necrológio/promulgação/nota/Relações_Públicas/infomercial/edito/Promoção_de_vendas/conversa_de_vendedor/filipeta/tititi/comunicado_de_imprensa/comercial/modismo/falatório/notificação/rótulo/relações_públicas/panfleto/comunicação/cartaz/obituário/Relações-públicas/papeleta/aviso_prévio/letreiro/aviso/publicidade/propaganda/reclamo/reclame
 Alarmes	sirene/sirena
@@ -1716,7 +1716,7 @@ historial	anamnese/Prontuário_médico
 florilégio	compilação/antologia/coroadeflores
 Deficiência	hipoestesia/amputação/disfasia/prolapso/surdez/Surdos/deficiência_auditiva
 restaurar	gentrificar/redimir
-seriedade	engajamento/sinceridade/solenidade/sobriedade/_gravidade
+seriedade	engajamento/sinceridade/solenidade/sobriedade/gravidade
 reger	presidir/ditar/esterçar/arregimentar/controlar/atrelar/enfeitiçar/monopolizar/açambarcar/reino/direcionar/encantar/dominar/submeter/guiar/lidar/conduzir/dirigir/canalizar/preocupar/ocupar/reinar/governar/gerir
 protocolar	registrar
 traje_de_banho	calção_de_banho/biquíni/maiô/Biquini/sunga
@@ -1773,7 +1773,7 @@ tomilho	Tomilho
 pasta_de_dente	creme_dental/Creme_Dental/dentífrico/dentifrício
 ecoar	papaguear/reproduzir/papagaiar/repetir/matraquear/recitar
 branqueamento	processo_de_branqueamento
-posicionar_(se)_	alinhar-se
+posicionar_(se)	alinhar-se
 link	hiperligação
 ansiolítico	Hidroxizina/buspirona/Flurazepam/Oxazepam/Benzodiazepinas/benzodiazepina
 lojas	boutique/livraria/monte_de_piedade/talho/salão_de_beleza/sapataria/loja_de_animais/lavanderia/banca/florista/pizzaria/Tabacaria/head_shop/pastelaria/cantina/padaria/loja_de_bebidas/estande/Livrarias/casa_de_penhores/loja/bancas/barbearia/Farmacia/drograria/farmácia/botica/drogaria
@@ -1852,10 +1852,10 @@ aleijar	lesionar/lesar/machucar/ferir
 maré	maré_baixa/baixamar/preamar/maré_alta
 Governo	Defense_Advanced_Research_Projects_Agency/Ballistic_missile_defense_organization/Escritórios_de_Patente/Exército_dos_Estados_Unidos_da_América/Centers_for_Disease_Control_and_Prevention/National_Oceanic_and_Atmospheric_Administration/Serviço_nacional_de_parques/órgão/United_States_Fish_and_Wildlife_Service/National_Institute_of_Standards_and_Technology/Agência_Nacional_de_Informação_Geoespacial/Serviço_Nacional_de_Meteorologia_dos_Estados_Unidos/Occupational_Safety_and_Health_Administration/autoridades_locais/National_Institutes_of_Health/Food_and_Drug_Administration/Serviço_Nacional_de_Parques/Food_and_drug_administration/Defense_advanced_research_projects_agency/Ballistic_Missile_Defense_Organization/National_institutes_of_health/secretaria/órgão_público/Marinha_dos_estados_unidos/Marinha_dos_Estados_Unidos/Marinha_dos_Estados_Unidos_da_América/Federal_Aviation_Administration/Federal_aviation_administration/Guarda_Costeira_dos_Estados_Unidos/Força_Aérea/Força_Aérea_dos_Estados_Unidos_da_América/agência_executiva
 antropologia_física	craniometria
-calcular	integrar/admitir/superestimar/recalcular/subtrair/dividir_proporcionalmente/fatorar/mapear/extrapolar/calcular_a_média/processar/orçar/subestimar/calcular_o_valor/diferenciar_/dividir/planejar/fazer_orçamento/interpolar/deduzir/levar_em_conta/resolver/chutar/estimar/multiplicar/adicionar/somar/quantizar
+calcular	integrar/admitir/superestimar/recalcular/subtrair/dividir_proporcionalmente/fatorar/mapear/extrapolar/calcular_a_média/processar/orçar/subestimar/calcular_o_valor/diferenciar/dividir/planejar/fazer_orçamento/interpolar/deduzir/levar_em_conta/resolver/chutar/estimar/multiplicar/adicionar/somar/quantizar
 partilha	generosidade/doação
 incorporação	anexação
-_fracassado	Underdog/mané
+fracassado	Underdog/mané
 omissão	exceção/desatenção/elisão/exclusão/excepção
 realismo	realidade
 albergue	caravançará/caravancerá/caravançarai/Caravançarai/hospedaria
@@ -1998,7 +1998,7 @@ buscador	caçador
 enrolar	encrespar/desmoralizar/desorientar/frisar/procrastinar/surpreender/desnortear/ater/pegar/atordoar
 aglomerado_estelar	topete
 aparato	Cinetoscópio/semáforo/telégrafo/botão/vaporizador/chupeta/válvula/Carregador_de_bateria/gerador/ventilador_pulmonar/roteador/catapulta/extintor/Trocador_de_calor/submarino/benjamim/triturador/controle_remoto/separador/etilômetro/Aparelho_de_Kipp/impressão/bombas_de_calor/Reator_químico/incubadora/Calçadeira/Roteador/circulador_de_ar/bafómetro/etilómetro/Controlo_remoto/bafômetro/router/exaustor/calçadeira/controlo_remoto/centrifuga/valva/adaptador/controle/pêndulo/Pêndulo_simples/reactores/reactor/reator_nuclear/reactores_nucleares/Reatores_nucleares/Condensador_de_superfície/depurador/apoio/suporte/encosto/palheta/Plectro/plectro/leque/ventilador/aquecedor/aquecedores/aerofólio/anticoncepcional/mecanismo/safira/agulha/gadget/engenhoca/objeto_da_interface_do_usuário_nas_interfaces_gráficas_de_usuário/troço/apetrecho/luz/lâmpada/torquês/alicate/tenaz/tecla/botão_de_accionamento/chave/maquinaria/máquina/conversor/alarme/cotonete/haste_flexível/condutor_elétrico/Piloto_Automático/piloto_automático/pente/pós-combustão/teclado/íman/ímã/magnete/instrumento/aparelho/ferramenta/instrumento_musical/isca/Ardil/isqueiro/encendedor/sensor/filtros/filtração/Filtros/indicadores/restrição/limitação/arapuca/armadilha/rede
-_sofrimento	infelicidade/sofrimento
+sofrimento	infelicidade/sofrimento
 médico	Medicina_de_família_e_comunidade/electrologista/aborteiro/médico-residente/curandeiro/estagiário/estagiária/clínico_geral/Medicina_de_Família_e_Comunidade/medicina_de_Família/residente/doutor/odontólogo/dentista/veterinário/vet/cirurgião/farmacêutico/Enfermeiros/enfermeiro/enfermeira/ama-seca/aia
 bravura	segurança
 zigoto	homozigoto/heterozigoto
@@ -2049,7 +2049,7 @@ acompanhar	reger/consorciar_se/escoltar/passear
 continuidade	valor_da_nota/reinado/prazo/duração/período
 contratar	arrendar/subcontratar/fretar/alugar/estipular/assinar/empregar
 celibatária	solteirona/solteira
-_aproximação	conjetura/Nota_de_risco
+aproximação	conjetura/Nota_de_risco
 Instrumentos_de_sopro	apito/ocarina/Kazoo/kazoo/órgão/Metais/metais/flauta/Madeiras
 carburante	combustível_nuclear/biomassa/combustível/coque/diesel/gasóleo/combustíveis_nucleares/combustível_fóssil/metanol/gasolina/benzina/petróleo/querosene/isqueiro/encendedor/mistura_gasolina-álcool/gás_de_cidade/butano/lenha/cozedura/propano/carvão/Carvão_Vegetal/carvão_vegetal/óleo_combustível/fuelóleo
 papoila	Eschscholzia_californica/Papoila-dormideira/papoula/Papoila/Papoila_dormideira
@@ -2111,7 +2111,7 @@ fofoca	diz-que-diz-que/fama/rumor/boato/renome/a_boca_pequena
 bem-estar	saúde
 chegar	silogizar/achar/acessar/alcançar/culminar/atracar/depreender/induzir/chegar_lá/suceder/inferir/ter_acesso/encontrar/deduzir/generalizar/concluir/aterrizar/pousar/aterrar/aterrissar
 talhar	cinzelar/trabalhar_a_pedra/estampar
-cogitar	preocupar_(se)_/considerar/importar_(se)_
+cogitar	preocupar_(se)/considerar/importar_(se)
 Antioxidantes	vitamina_E/Glutationa_peroxidase/Carotenóide/Carotenoides/Carotenoide/Selénio/selênio/Selenio/selénio/ácido_ascórbico/vitamina_C
 ventar	ventar_fortemente/ter_brisa/ventar_forte/soprar_levemente/soprar/ter_tempestade/chover_fortemente
 Hélice	dupla_hélice
@@ -2124,7 +2124,7 @@ opor	impugnar/contestar/protestar/vetar
 brita	balastro
 imputar	personificar/externalizar/reatribuir/internalizar/dar__crédito__a/culpar/antropomorfizar/sensualizar/atribuir/dar_credito/agradecer/projetar/interiorizar
 comunicado	contato/objeção/dissuasão/contacto/transmissão/canal/Dramaturgia/teatro/dramaturgia/expressão/exame/teste/discussão/discurso/correio/convencimento/persuasão
-sanção	Nihil_obstat/passaporte/aprovação/sinal_verde/consentimento/O.K./autorizações/autorização/OK/Ok/passe/_laissez-passer/visto
+sanção	Nihil_obstat/passaporte/aprovação/sinal_verde/consentimento/O.K./autorizações/autorização/OK/Ok/passe/laissez-passer/visto
 defecação	merda/Hematoquezia
 avistar	achar/ver/descobrir/detectar
 célula_vermelha	eritrócito/glóbulo_vermelho/hemácia/Leucócitos/leucócito/Leucocito/glóbulo_branco
@@ -2136,7 +2136,7 @@ companheiro	ficante/acompanhante
 antifungico	Terbinafina/Calda_bordalesa/griseofulvina/Miconazol/nistatina/Griseofulvina/violeta_de_genciana
 cache_da_memória	cache_do_disco
 documentação	papiro/direitos_autorais/patente/confissão/direito_de_cópia/copyright/direito_autoral/negócio_jurídico/formulário/certidão/certificado/escritura/instrumento/atestado/renúncia/boletim/cédula_eleitoral/cédula/resolução/Foro/fretamento/relato/relatório
-reordenar	contramarchar_/reorganizar/inverter/recodificar/reverter
+reordenar	contramarchar/reorganizar/inverter/recodificar/reverter
 Menstruação	Menorragia
 miocardiopatia	Cardiomiopatia_hipertrófica
 termo	partitivo/substantivo/charada/verbete/heterônimo/paroxítona/antónimo/sinônimo/hápax/anagrama/palavra_escrita/hipónimo/derivado/oxítona/proparoxítona/termo_mais_geral/cognato/palavrão/palavra_falada/palíndromo/derivação_regressiva/diminutivo/empréstimo/hiperônimo/hiperónimo/termos_mais_específicos/sinónimo/palavra_emprestada/heterónimo/antônimo/Empréstimo/ad_hoc/palavra-chave/nomenclatura/terminologia/neologismo/quantificador/homónimo/Homônimo/Homónimo/palavra/vocábulo/forma_flexionada
@@ -2187,7 +2187,7 @@ segunda-feira	segunda_de_Pentecostes
 aspirar	exceder
 ambigüidade	duplo_sentido/Duplo_sentido/brecha
 astigmatismo	ceratocone
-deliberar	debater/pensar_duas_vezes/premeditar/decidir_
+deliberar	debater/pensar_duas_vezes/premeditar/decidir
 acuidade_visual	20
 linfócito	linfócito_T/Linfoblasto/Linfócito_B/Linfócito_t/Linfócito_b/Linfocito_b/plasmócito
 ascendência	pedigree/origem/extração
@@ -2311,7 +2311,7 @@ degenerar	apodrecer/enlanguescer/fatigar
 gênero	feminino/masculinidade/androginia
 Usinas_de_energia	usina_eólica/parque_eólico/Parques_eólicos
 biberão	tinteiro/cabaceiro/galheteiro/garrafa/bilha/garrafão/ampola/jarro/Jarro/cântaro/cabaça_feita_com_a_abóbora/porongo/cabaça/decanter/cuieira/jarra/Frasco/cantil/Frasco_de_laboratório/frasco
-conter	reter/recusar/congelar/imobilizar/ter/acarretar/delimitar/circundar/inibir/obstruir/negar/abranger/proibir/denegar/abarcar/rejeitar/prender/aguentar/incluir/compreender/subordinar/segurar/subsumir/estorvar/englobar/marcar/domar/possuir/impedir/classificar/conter_/restringir/constrangir/privar/guardar/limitar/refrear/controlar
+conter	reter/recusar/congelar/imobilizar/ter/acarretar/delimitar/circundar/inibir/obstruir/negar/abranger/proibir/denegar/abarcar/rejeitar/prender/aguentar/incluir/compreender/subordinar/segurar/subsumir/estorvar/englobar/marcar/domar/possuir/impedir/classificar/conter/restringir/constrangir/privar/guardar/limitar/refrear/controlar
 equipe	tripulação/Clube_de_futebol/Clubes_de_futebol
 serelepe	Espermófilo/tâmia
 escadas	Escada_de_mão/escadademão/escada
@@ -2424,7 +2424,7 @@ parlamento	Knesset/Oireachtas
 sintetizar	recapitular
 molhar_com_líquido	ficar_de_molho/imergir
 porrada	batida/contragolpe/golpe/pontapé/chute/ponche/soco/murro/nocaute/tapa/bofetada
-autorização	O/passaporte/aprovação/sinal_verde/assinatura_em_branco/consentimento/O.K./domínio/autorizações/OK/carta_branca/Ok/passe/_laissez-passer/visto/delegação/sanção/licenciamento/habilitação/licença/permissão
+autorização	O/passaporte/aprovação/sinal_verde/assinatura_em_branco/consentimento/O.K./domínio/autorizações/OK/carta_branca/Ok/passe/laissez-passer/visto/delegação/sanção/licenciamento/habilitação/licença/permissão
 portão	hatchback/Roleta/porta_giratória/Porta_corta-fogo/poterna/grade_levadiça/grade/porta/catraca/Catraca
 renovar	gentrificar/refrescar/avivar/regenerar/restituir/substituir/restabelecer/restaurar/revisar
 querelar	porfiar
@@ -2542,7 +2542,7 @@ caminhos_de_ferro	Bitola_larga/metro/trem/Funiculares/monocarril/ele/Bitola_padr
 familiarizar	orientar
 endoscópio	artroscópio
 ré	acusado
-mau_tratamento	irritação/_descuido/negligência/abuso/injúria/exploração
+mau_tratamento	irritação/descuido/negligência/abuso/injúria/exploração
 crosta_terrestre	horst
 tuba	eufónio/eufônio
 Chapéus	turbante/mitra/Mitra/chapéu/sombreiro/quepe/boné/barrete/capucha/capuz/elmo/capacete/casco
@@ -2565,7 +2565,7 @@ Apneia_do_sono	síndrome_de_morte_súbita_infantil
 contratação	reserva
 Muçulmanos	mouros/Wahhabismo/muçulmano/Mulá/faquir/assassino/Islão_xiita/mouro/xiita/moiro/xiismo/Amarre/imame/califa
 contratador	empreiteiro/constructor/construtor
-capital	Caixa_Dois/caixa_dois/capital_nacional/capital_de_estado/meios/dotação/orçamento/depósito_/_depósito_bancário
+capital	Caixa_Dois/caixa_dois/capital_nacional/capital_de_estado/meios/dotação/orçamento/depósito/depósito_bancário
 vídeo_game	realidade_virtual
 leopardo	pantera/tigresa/tigre_de_Bengala/tigre-de-bengala
 corrente	ribeiro/Pneu_com_correntes/remoinho/Corrente_oceânica/correntes_oceânicas/Correntes_oceânicas/turbilhão/sorvedouro/espiral/funil/redemoinho/tufão/furacão/vórtice/voragem/Corrente_de_retorno/caminho
@@ -2626,7 +2626,7 @@ coerência	continuidade
 ápice	alcance/clímax/estado_da_arte/auge/padrão_de_vida
 sufrágio	sufrágio_universal
 Ácido_etanóico	ácido_tricloroacético/vinagre
-_entrada	registrar
+entrada	registrar
 Derivativos	Mercado_de_Opções/Mercado_de_opções/Mercado_Futuro/Mercado_futuro
 prolixidade	flatulência/Flatulência
 expirar	bufar/assoprar/soprar
@@ -2634,7 +2634,7 @@ Zoonoses	antraz/hidrofobia/doença_de_Lyme/raiva/Doença_de_lyme/leptospirose/tu
 relatório	anedota/historieta/piada/conto/narração/história/bisbilhotice/bisbolhetice/fofoca
 contrair	flexionar/franzir/pirar/asfixiar/estrangular/convulsionar
 empregar	usar/subcontratar/recrutar/usar_erradamente/sobrecarregar/reusar/desperdiçar/por/implementar/extenuar/exercer/desfrutar/utilizar/endereçar/recorrer/perder/reprocessar/reutilizar/usar_para_propósitos_errados/aplicar/tratar_erradamente/colocar/reciclar/gozar/usar_inapropriadamente/reaproveitar/exceder/aproveitar/explorar/dedicar/comprometer/compartilhar/partilhar/dividir/contratar
-disposição	perfeccionismo/iniciativa/empréstimo/pessimismo/otimismo/Boa_vontade/espírito_de_grupo/solidão/abandono/relutância/Disposição/hesitação/_espírito_de_equipe/amizade/tolerância/calma/equanimidade/aspiração/ambição/energia/agressividade
+disposição	perfeccionismo/iniciativa/empréstimo/pessimismo/otimismo/Boa_vontade/espírito_de_grupo/solidão/abandono/relutância/Disposição/hesitação/espírito_de_equipe/amizade/tolerância/calma/equanimidade/aspiração/ambição/energia/agressividade
 toalha_de_mesa	toalha/guardanapo
 jogador_de_futebol_americano	cornerback/beque/zagueiro
 estraçalhar	subverter/explodir/vandalizar/violar/pegar/devastar/assolar/depredar/destruir/arruinar/quebrar/arder
@@ -3057,7 +3057,7 @@ delito	injustiça/prevaricação/negligência/transgressão/mau_comportamento/vi
 cachimbo	cuia/stent/canudo/sifão/Tubo_de_torpedo/tubo_de_ensaio/zarabatana/narguilé/cânula/tubo/Narguile/Tubo_de_ensaio/ducto/tubulação/condutas/canal/duto/cateter/câmara_de_ar/capilar/mangueira/piteira
 riqueza	sumptuosidade/tesouro/luxo/opulência/suntuosidade/dinheiro/conforto
 deusificar	divinizar/glorificar
-enterrar	_esquecer/reprimir/suprimir/apagar/desaprender
+enterrar	esquecer/reprimir/suprimir/apagar/desaprender
 reclamar	pretender/falar_mal/murmurar/birra/protestar/pentelhar/ralhar/resmungar/dizer_coisas_xulas/gritar/incomodar/lamentar/queixar-se/lastimar
 ser_melhor_que	enganar/pesar_mais/superar
 equanimidade	desembaraço/aprumo/altivez/serenidade
@@ -3073,7 +3073,7 @@ cirurgia	artroscopia/castração/cateterismo/craniotomia/resecção/criocirurgia
 progenitor	painho/filicida/pai/papá/papai/progenitora/mãe/genitor
 mentira	Contos_de_fada/mentirinha/mentira_branca/conto/contos_de_fadas/engano/contradição/fingimento/invenção/ficção/invencionice/falsidade/história
 piche	Alcatrão_da_hulha/alcatrão_da_hulha
-compreensão	tentáculo/sentido/história/discernimento/episteme/léxico/equivalente/vocabulário/histórico/reconhecimento/senso/atitude/capacidade/talento/faculdade/habilidade/incapacidade/conhecimento/informação/objecto_mental/mente/cabeça/psique/_lampejo/epifania/_insight
+compreensão	tentáculo/sentido/história/discernimento/episteme/léxico/equivalente/vocabulário/histórico/reconhecimento/senso/atitude/capacidade/talento/faculdade/habilidade/incapacidade/conhecimento/informação/objecto_mental/mente/cabeça/psique/lampejo/epifania/insight
 fim_de_tarde	núpcias/noite_de_núpcias
 aderir	aglutinar/ligar
 turismo	eco-turismo/ecoturismo
@@ -3126,7 +3126,7 @@ nuvens	Stratus/Cirrocumulus/Contrail/nimbo/Cumulus/cúmulo/cumulus/cirrus/Cirrus
 bobagem	besteirol/espetáculo/fumble/gafe/tropeço/solecismo/besteira/folharada
 desconsideração	desprezo/esnobada
 legislação_sobre_a_natureza	princípio
-fundo	Zona_abissal/Caixa_Dois/leito/fundo_do_poço/zona_nerítica/pé/Batipelágico/plataforma_continental/Zona_Nerítica/caixa_dois/Zona_Abissal/leitos_de_rios/Relevo_oceânico/orçamento/depósito_/_depósito_bancário/planta_do_pé/sola/tacão/talão/salto/salto_de_sapato/base
+fundo	Zona_abissal/Caixa_Dois/leito/fundo_do_poço/zona_nerítica/pé/Batipelágico/plataforma_continental/Zona_Nerítica/caixa_dois/Zona_Abissal/leitos_de_rios/Relevo_oceânico/orçamento/depósito/depósito_bancário/planta_do_pé/sola/tacão/talão/salto/salto_de_sapato/base
 tristeza	contrição/Síndrome_do_coração_partido/luto/Solidao/solidão/melancolia/terpena/mágoa/amargura/desgosto/coração_partido/pesar/remorso/dor
 confraternizar	mesclar/combinar/misturar/agregar
 Psicólogos_por_nacionalidade	Psicologia_do_Desenvolvimento/psicologia_comparada/Psicometria/Psicologia_aplicada/psicofisiologia/Psicologia_do_desenvolvimento/psicometria/Psicologia_Comparada/Psicologia_Cognitiva/psicologia_experimental/Psicologia_Experimental/psicologia_social
@@ -3140,7 +3140,7 @@ funil	Caríbdis/Caribdis
 godos	visigodo/Ostrogodos/ostrogodos/ostrogodo
 marca	rastro/Marco_quilométrico/Marcas/carimbo/logotipo/gasto_de_recursos_do_sistema/autenticação/logo/logótipo/Logótipo/vestígio/comprovação/Carimbo/marca_a_fogo/ligatura/pegada/Marca_Registrada/marca_registrada/rótulo/etiqueta/risco/linha/traço/impressão_digital
 desejo_em_alto_grau	vício/gana/apetite/desfastio
-preocupar_(se)_	cuidar
+preocupar_(se)	cuidar
 pesca_à_linha	fundição
 matéria_orgânica	oxima/Acetal/hemiacetal/pirimidina/Uréia/fosfocreatina/nitrobenzeno/Éter/petroquímicos/zimógeno/xantina/creosoto/enol/diamina/éter/Eter/ureia/Pirimidinas/Éteres/Aldeídos/aldeído/Hidrocarbonetos/hidrocarboneto/hidrocarbonetos/Cetonas/Cetona/cetona/Composto_alifático/compostos_alifáticos/Nitrilas/cianeto/Nitrila/Furanos/furano/Haleto_de_ácido/Haletos_de_acila/esteróide/amida/Amidas/aminoácido/Aminoácidos/aminoácidos/Amino-ácido/hemolisina/Ésteres/éster/glicosídeo/Glicosídeo/macromolécula/Macromolécula/alcalóide/Resinas/resina/haloalcano/fenóis
 Hortaliças	beterraba/alcachofra/alcachofra_hortense/Alcachofra/alcachofra_de_comer/espinafre
@@ -3308,7 +3308,7 @@ Mineração	mineração_a_céu_aberto/extracção_de_minérios_a_céu_aberto
 destruição	desastre/desolação/demolição/auto-destruição/exterminação/erradicação/ruína/escombro/demolição_de_edifícios/Vandalismo/vandalismo/obliteração/neutralização/sabotagem/Sabotagem/depredação/devastação/aniquilamento/desintegração/aniquilação
 perseguidor	sombra/Sombra
 Polinômio	série
-achar	adquirir/suspeitar/sacar/desenterrar/sentir-se/admitir/silogizar/sequenciar/incluir/preocupar_(se)_/esperar/favorecer/indentificar-se/retificar/capitalizar/encontrar/receber/repensar/pegar/chamar/redeterminar/manter/abstrair/desrespeitar/relativizar/sentir/planejar/depreender/induzir/descobrir/inferir/entender/gostar/levar_em_conta/ver/importar_(se)_/deduzir/generalizar/concluir/localizar/situar/contar/enumerar/fazer/reificar/coisificar/idealizar/reconsiderar/apreciar/valorizar/prezar/venerar/respeitar/julgar/considerar/instanciar
+achar	adquirir/suspeitar/sacar/desenterrar/sentir-se/admitir/silogizar/sequenciar/incluir/preocupar_(se)/esperar/favorecer/indentificar-se/retificar/capitalizar/encontrar/receber/repensar/pegar/chamar/redeterminar/manter/abstrair/desrespeitar/relativizar/sentir/planejar/depreender/induzir/descobrir/inferir/entender/gostar/levar_em_conta/ver/importar_(se)/deduzir/generalizar/concluir/localizar/situar/contar/enumerar/fazer/reificar/coisificar/idealizar/reconsiderar/apreciar/valorizar/prezar/venerar/respeitar/julgar/considerar/instanciar
 Anticonvulsivo	Valproato
 Anfibios	Gymnophiona/gimnofiono/sapo/rãs/rã/râ/Anfíbios_anuros/Anura/salamandras/Anfíbios_caudados/salamandra/caudados
 ressoar	bater/ronronar/estalar/apitar/chapinar/chocalhar/tilintar/sussurrar/fazer_barulho/zunir/sair_pela_culatra/farfalhar/clicar/tinir/retinir/batucar/sibilar/zumbir/assobiar/zinir/assoviar/falar/uivar/rugir/crepitar/reverberar/ecoar/buzinar/soar/tocar
@@ -3373,7 +3373,7 @@ chiste	piada_interna
 número_complexo	conjugado/número_real/Número_real/Números_reais
 enumerar	censear/listar/adicionar/somar
 Trigonometria	Triangulação/triangulação/triângulo_esférico
-postulação	demanda/apelo/coleção/_solicitação/candidatura
+postulação	demanda/apelo/coleção/solicitação/candidatura
 acabar	fechar/retirar-se/culminar/arrematar/levar_a_cabo/executar/atingir/realizar/cumprir/efetuar/abandonar/interromper/terminar/esvair/desaparecer
 passaporte	salvaguarda
 bloco	bloco_de_notas/dominó/cunha/laje/porca/chapa/lousa/placa/lingote/Bigorna/bigorna
@@ -3392,7 +3392,7 @@ abobrinha	Abobrinha
 cómoda	cômoda
 hipertireoidismo	Doença_de_Graves/Doença_de_graves
 recusar_a_aceitar	abnegar
-entregar	vender/dispensar_/distribuir/lembrar/gratificar/brindar/engasgar/dotar/consignar/passar/doar/confiar_algo_a_alguém/comissionar/confiar/fazer_doação_de/ter_confiança_em/submeter-se/presentear/encarregar/incumbir/sucumbir/apresentar/transmitir/livrar/alienar/transferir/deixar/liberar/desobrigar/abandonar/render-se/ceder/legar/lotear/atribuir/cartear/aplicar/oferecer/retornar/depositar/pagar/provisionar/servir/contribuir/emprestar/prestar/arrendar/alugar/financiar/manter/lidar/suprir/fornecer/prover/abastecer/dar/permitir/outorgar/conceder
+entregar	vender/dispensar/distribuir/lembrar/gratificar/brindar/engasgar/dotar/consignar/passar/doar/confiar_algo_a_alguém/comissionar/confiar/fazer_doação_de/ter_confiança_em/submeter-se/presentear/encarregar/incumbir/sucumbir/apresentar/transmitir/livrar/alienar/transferir/deixar/liberar/desobrigar/abandonar/render-se/ceder/legar/lotear/atribuir/cartear/aplicar/oferecer/retornar/depositar/pagar/provisionar/servir/contribuir/emprestar/prestar/arrendar/alugar/financiar/manter/lidar/suprir/fornecer/prover/abastecer/dar/permitir/outorgar/conceder
 infra-estrutura	jardim_botânico/zôo/foro/origem/Drive_in/drive-in/newsgroup/jardim_zoológico/fonte/fórum/zoológico/pista/campo/posto/estação/aeródromo/aeroporto/instalação/fornecimento_de_água/redes_de_distribuição_de_água/sistemas_de_comunicações/carreiras_de_tiro
 Línguas_dárdicas	Língua_caxemira
 cegonha	jaburu/tuiuiú/jabiru
@@ -3432,7 +3432,7 @@ encabeçar	coroar/capitanear
 Igreja_Anglicana	Anglocatolicismo/Anglo-Catolicismo/Anglo-catolicismo
 oportunidade	audiência/Tábula_rasa/ouvinte/Tabula_rasa/Tabula_Rasa/vez/ocasião/chance
 resíduos_sólidos	águas_usadas/escombros/resíduos_tóxicos/restos_de_comida/esgoto/impureza/veículos_abandonados/águas_residuais/efluentes/negar-sea/entulho/detritos_residuais/cama_de_palha_para_animais/cama_de_feno_para_animais/ruínas/lixo/restos/destroços/resíduos/fezes/merda/excreção/excremento/poluentes/sucata_metálica
-_laissez-passer	cartão_de_embarque
+laissez-passer	cartão_de_embarque
 condutor_elétrico	para-raios/fio/linhas_eléctricas/cabos/linha_de_transmissão/Linha_de_transmissao/eletrodo/semicondutor/Semicondutores
 Diurético	furosemida/tiazida
 sistema_legal	fiança/sistemas_de_impostos/sistema_eleitoral/Sistemas_de_votação/sistema_de_votação
@@ -3446,7 +3446,7 @@ satélite_artificial	satélite_meteorológico/satélite_espião/Satélites_de_te
 caminhar	constitucionalizar/galopar/viagem/rodar/deambular/vir/desfilar/sulcar/cruzar/amassar/prosseguir/espalhar/mancar/tropeçar/mochilar/rastejar-se/descarrilhar/virar/dirigir/sonambular/pisar_com_força/flanquear/joeirar/passar_sobre/acompanhar/ganhar_terreno/ganir/propagar/fazer_saltar/ir_de_maneira_sorrateira/percorrer/correr_demais/apressar/devolver/flutuar/brincar/trocar/andar_na_ponta_dos_pés/voltar_atrás/continuar/gatinhar/passar_de_largo/afastar_se/esgueirar/rastejar/engatinhar/voar_sobre/tropicar/levantar-se/avançar/despachar-se/baldear/regressar/retroceder/progredir/ir_de_carro/dar_um_passo/apressar-se/acelerar/descarrilar/coxear/retornar/saltar/pisar/recuar/seguir/correr/peneirar/serpear/sobrevoar/adiantar-se/andar_a_galope/afastar-se/cavalgar/vadiar/transmigrar/vaguear/errar/vagabundear/perambular/correr_terras/ascender/subir/voar/circular/viajar/ir/baixar/cair/descer/boiar/passar/preceder/perseguir/vagar/nadar/ziguezaguear/passar_gradativamente_a/deslizar/escorregar/esquiar/embaralhar/andar/pisotear/marchar/passear/fazer_trilha/atravessar/vadear
 ingurgitar	devorar
 inchaço	petéquia/torcedura/lesão_cerebral/choque_elétrico/galo/olho_roxo/Lesão_Cerebral/torção/queimadura/fratura/fractura/picada/Ferida/ferimento/ferida/ferimentos/lesão/mágoa/sangramento/hemorragia/contusão/Contusão_muscular/hematoma
-taxa	comissão/_preço_de_entrada/portagem/pedágio/Imposto_de_Renda/imposto_de_renda/impostos_sobre_o_rendimento/imposto
+taxa	comissão/preço_de_entrada/portagem/pedágio/Imposto_de_Renda/imposto_de_renda/impostos_sobre_o_rendimento/imposto
 desordeiro	agitador/provocador/baderneiro/interferente
 cenografia	cenário
 sofrimento	tormento/Paixão/auto-tortura/agonia/transe/angústia/auto-tormento
@@ -3461,7 +3461,7 @@ compadecer-se	comiserar/prestar_condolências/compadecer_se
 chefe_de_Estado	primeiro_ministro/chanceler/primeiro-ministro/presidente_dos_Estados_Unidos_da_América/monarca/suserano/borboleta-monarca/presidenta/presidente
 solteira	solteirona
 atmosfera	Zeitgeist/vibrafone/espaço_aéreo/nevoeiro/ciclone/massa_de_ar/anticiclone/céu/Anti-ciclone/neblina/cara/tom/trevas
-inimizade	hostilidade/tensão/guerra/agressividade/guerra_fria/animosidade/ódio/_hostilidade_latente/suspeita/antagonismo/rancor/amargura/ressentimento/resentimento
+inimizade	hostilidade/tensão/guerra/agressividade/guerra_fria/animosidade/ódio/hostilidade_latente/suspeita/antagonismo/rancor/amargura/ressentimento/resentimento
 diferença	diferencial/variedade/flexão/distinção/desigualdade/alteridade/discordância/discrepância/saldo_(económico)
 comprimento_da_circunferência	circunferência
 picar	formigar
@@ -3524,7 +3524,7 @@ divergir	bifurcar/desdizer/dissentir/discordar/contradizer
 fórmula	heurística/algoritmo/Algoritmos/Algorítmo/algorítmo
 proteção	seguros/vedações/defesa_civil/insulação/acompanhamento/defesa/impermeabilizante/vedação/Defesa_Civil/seguro/escudo/isolamento/tutela/cuidado/imunização/conservação/preservação
 personificação	reencarnação/encarnação/imitação/mímica
-regra	heurística/_indicações/Princípio_de_le_châtelier/regulamento/Feng_Shui/navalha_de_Occam/algoritmo/regulamentos/estatuto/Algoritmos/Feng_shui/Algorítmo/Princípio_de_Le_Châtelier/algorítmo/Navalha_de_occam/Princípio_de_Le_Chatelier/guia/preceito/princípio/cerimonial/etiqueta/Regras_de_etiqueta/ordenamento/protocolo/Lei_de_Gresham/Lei_de_gresham/limitação/restrição
+regra	heurística/indicações/Princípio_de_le_châtelier/regulamento/Feng_Shui/navalha_de_Occam/algoritmo/regulamentos/estatuto/Algoritmos/Feng_shui/Algorítmo/Princípio_de_Le_Châtelier/algorítmo/Navalha_de_occam/Princípio_de_Le_Chatelier/guia/preceito/princípio/cerimonial/etiqueta/Regras_de_etiqueta/ordenamento/protocolo/Lei_de_Gresham/Lei_de_gresham/limitação/restrição
 Tradições	costumes/costume/tradição/hábito/Hadith
 plumagem	escapulário/pluma/marabou/pena
 candidato	Running_mate/apresentante/pretendente
@@ -3583,7 +3583,7 @@ diminuir	subtrair/transcorrer/despovoar/desaparecer/desprover/redimensionar/supr
 coma	Coma_diabético
 trave	lintel/Cantilever/Lintel/quilha/barrote/biga/cumeeira/viga
 eclipse	Eclipses_solares/eclipse_lunar/Eclipses_lunares/Eclipse_Lunar/Eclipse_Solar/eclipse_solar
-lugar	observatório/meia-haste/Foco/premissa/Terra/Epitopo/aqui/base/frente/ocidente/Ponto_de_mcburney/canto/necrópole/casa/anomalia/ponto_quente/poste_estaca/descargas_descontroladas_de_resíduos/norte/Ground_zero/Catering/locus/campismo/agricultura/epítopo/Cemitérios/paradeiro/cemitério/pole_position/terra_zero/ponto_de_McBurney/foco/parques_de_campismo/cá/depósito_de_lixo/monturo/acampamento/fronte/_vértice/tê/escavação/monumentos/monumento/fronteira/floresta/selva/Passo_de_montanha/Passos_de_montanha/zona_sul/sul/espaço/regiões/espaço_extra-atmosférico/situação/direita/esquerda/fonte/procedência/nascente/manancial/raiz/prosedensia/local/área/região/ponto_médio/umbigo/centro/posposição/trabalho/biscate/emprego/vocação/ocupação/fotografia/posto/cargo/posição/arte/ofício/profissão/contabilidade_(execução)/Contabilidade/contabilidade
+lugar	observatório/meia-haste/Foco/premissa/Terra/Epitopo/aqui/base/frente/ocidente/Ponto_de_mcburney/canto/necrópole/casa/anomalia/ponto_quente/poste_estaca/descargas_descontroladas_de_resíduos/norte/Ground_zero/Catering/locus/campismo/agricultura/epítopo/Cemitérios/paradeiro/cemitério/pole_position/terra_zero/ponto_de_McBurney/foco/parques_de_campismo/cá/depósito_de_lixo/monturo/acampamento/fronte/vértice/tê/escavação/monumentos/monumento/fronteira/floresta/selva/Passo_de_montanha/Passos_de_montanha/zona_sul/sul/espaço/regiões/espaço_extra-atmosférico/situação/direita/esquerda/fonte/procedência/nascente/manancial/raiz/prosedensia/local/área/região/ponto_médio/umbigo/centro/posposição/trabalho/biscate/emprego/vocação/ocupação/fotografia/posto/cargo/posição/arte/ofício/profissão/contabilidade_(execução)/Contabilidade/contabilidade
 Língua_quíchua	Império_Inca/Império_inca
 prodigio	prodígio
 fluorocarbono	Perfluorcarboneto/clorofluorcarbonetos/clorofluorcarboneto/Clorofluorcarboneto
@@ -3620,7 +3620,7 @@ racionalizar	paliar/pleitar/mitigar/remediar/atenuar
 Diagrama	zodíaco/Diagrama_de_bloco/Diagrama_de_venn/Zodiaco/diagrama_de_Venn/Diagrama_de_Bloco/esquematismo
 imunologia	Imunoquímica
 cardiopatia	insuficiência_cardíaca/arritmia/Miocardiopatia/Aterosclerose_coronariana/Valvulopatia/angina/Insuficiência_cardíaca/miocardiopatia/angina_pectoris/angina_do_peito/cardiomiopatia/doença_arterial_coronariana
-equivocar	lembrar_incorretamente/_enganar-se/_tropeçar/mal_julgar
+equivocar	lembrar_incorretamente/enganar-se/tropeçar/mal_julgar
 correia_transportadora	carrossel
 déficit	déficit_comercial
 Movimentos_sociais	Sionismo/Movimento_dos_Direitos_Civis/sionismo/Movimento_cultural/Movimentos_políticos/Movimentos_de_reforma/Reformismo
@@ -3701,7 +3701,7 @@ humilhar	esmagar/degradar/aviltar/rebaixar
 bule	chaleira
 vocação	especialização/Especialidades_médicas/especialidade
 restrição	jaula/estipulação/açaime/coleira/focinheira/trela/açaimo/Mordaça/gaiola/especificação/mordaça/travão/freio/Travão/algema/grilhão/cadeia/airbag/sapata/cinto/cinto_de_segurança
-estar	montar/aparecer/discordar/dar_por_empréstimo/objetar/abundar_em/sentir-se_bem/ficar_junto/manter_distância/figurar/superar_/delimitar/enfurecer-se/gravitar/consistir/valer_a_pena/ter/subjazer/estar_de_cócoras/grudar/cobrir/fulgir/fazer_parte/escancarar/sentar-se/reconhecer/nadar/explicar/boiar/fazer_sentido/esticar-se/estar_com_o_cio/sujar/bagunçar/refulgir/ser_rico/ser_melhor/desencontrar/estar_agachado/espreguiçar-se/abundar/fulgurar/pertencer/estabelecer/pagar/ser_abundante/afastar/abrilhantar/vir/brilhar/entrar/sobrar/estar_bem/levar/ir/encarar/defrontar/ir_a/participar_em/estar_presente_em/ir_ver/povoar/viver/morar/habitar/restar/jazer/ocupar/encher/estender-se/alcançar/encostar/estender/provar/demostrar/resultar/fazer_prova_de/medir/inter-relacionar/relacionar/custar/iniciar/principiar/posicionar-se/quedar/representar/ser_conveniente/agradar/embalar/aparentar/enrolar/perplexar/confundir/começar/precisar/requerer/necessitar/dever/cair/depender/doer/inclinar_se/inclinar-se/tender/estar_inclinado_a/padecer/sofrer/lavar_se/lavar/lavar-se/valer/merecer/parecer/ter_aparência_de/estar_enraivecido/estar_furioso/findar/finalizar/acabar/especificar/aparar/equilibrar-se/conter/adornar/ornamentar/decorar/embelezar/comparar/importar/pesar/contar/permanecer/manter/continuar/adicionar/capitanear/caber/servir/ficar
+estar	montar/aparecer/discordar/dar_por_empréstimo/objetar/abundar_em/sentir-se_bem/ficar_junto/manter_distância/figurar/superar/delimitar/enfurecer-se/gravitar/consistir/valer_a_pena/ter/subjazer/estar_de_cócoras/grudar/cobrir/fulgir/fazer_parte/escancarar/sentar-se/reconhecer/nadar/explicar/boiar/fazer_sentido/esticar-se/estar_com_o_cio/sujar/bagunçar/refulgir/ser_rico/ser_melhor/desencontrar/estar_agachado/espreguiçar-se/abundar/fulgurar/pertencer/estabelecer/pagar/ser_abundante/afastar/abrilhantar/vir/brilhar/entrar/sobrar/estar_bem/levar/ir/encarar/defrontar/ir_a/participar_em/estar_presente_em/ir_ver/povoar/viver/morar/habitar/restar/jazer/ocupar/encher/estender-se/alcançar/encostar/estender/provar/demostrar/resultar/fazer_prova_de/medir/inter-relacionar/relacionar/custar/iniciar/principiar/posicionar-se/quedar/representar/ser_conveniente/agradar/embalar/aparentar/enrolar/perplexar/confundir/começar/precisar/requerer/necessitar/dever/cair/depender/doer/inclinar_se/inclinar-se/tender/estar_inclinado_a/padecer/sofrer/lavar_se/lavar/lavar-se/valer/merecer/parecer/ter_aparência_de/estar_enraivecido/estar_furioso/findar/finalizar/acabar/especificar/aparar/equilibrar-se/conter/adornar/ornamentar/decorar/embelezar/comparar/importar/pesar/contar/permanecer/manter/continuar/adicionar/capitanear/caber/servir/ficar
 vantagem	preferência/especialidade/privilégio/favor/liderança/operacionalidade/valor/ponto_forte/forte/handicap/utilidade/recurso/proveito/bem/lucro/benefício
 completar	estofar/lotar/electrificar/inundar/carregar/preencher/transbordar/reencher/desbordar/abarrotar/concluir/eletrizar/alagar/eletrificar/encher_desordenadamente/inteirar/povoar/fazer_barulho_ou_algazarra/encher/electrizar/encharcar/impregnar
 bens_de_consumo	mantimento/vestido/traje/vestimenta/vestuário/roupa/bens_duradouros
@@ -3831,7 +3831,7 @@ chegarterra	planalto/colina/outeiro
 instrumento_de_cordas	balalaica/saltério/sitar/koto/Sangen/balalaika/dulcimer/harpa/Bandolim/bandolim/alaúde/clavicórdio/Clavicórdio/cítara/Instrumentos_de_cordas/banjo/Banjo/violão/Guitarra/guitarra/Piano/piano
 apresentador	almuadem/almoadem/muezim/almuédão
 composição	recapitulação/fenótipo/genótipo/cariótipo/Fenotipo/transcrição/arranjo/arquitectura_do_computador/arquitectura/estrutura
-cobertura	camuflagem/abafador/vestido/traje/vestimenta/vestuário/roupa/coifa/aba/fronha/calçado/Calçados/diretório/invólucro/embalagens/dorso_de_meia/dorso_de_calçado/peito_do_pé/dorso_de_sapato/dorso_do_pé/canopo/tampa/tapete/_envólucro/capa/cobertor/máscara
+cobertura	camuflagem/abafador/vestido/traje/vestimenta/vestuário/roupa/coifa/aba/fronha/calçado/Calçados/diretório/invólucro/embalagens/dorso_de_meia/dorso_de_calçado/peito_do_pé/dorso_de_sapato/dorso_do_pé/canopo/tampa/tapete/envólucro/capa/cobertor/máscara
 adivinhão	astrólogo/cartomante/áugure/profeta
 lebrão	Lepus_americanus/lebroto/Lebre_comum/Lebre-comum/Lebre_ártica/lebre-ártica
 desaguar	vazar/fazer_jorrar/saraivar/salpicar/espalhar
@@ -3904,7 +3904,7 @@ embrião	mórula/blástula/gástrula
 hotel	caravançará/caravancerá/caravançarai/Caravançarai/resort/Estâncias_termais/pousada/hospedaria/albergaria/albergue
 corredor_ecológico	galeria/saguão/salão
 arco	arco_tipo_besta/gancho/crescente/sinuosidade/arco_longo/catenária/arco_Tudor/espiral/besta/volta/Arcos_triunfais/arco_do_triunfo/meandro/quádrica/Quádricas/hélice/Hélice/Arco_íris/arco-íris/Arco-iris/pneu
-_insight	revelação/achado/descoberta
+insight	revelação/achado/descoberta
 porosidade	permeabilidade
 questionar	ponderar/perguntar-se/perguntar_se/perguntar/interrogar/pedir
 sextante	astrolábio
@@ -4024,7 +4024,7 @@ métodos_de_ensino	Método_Socrático
 re-escrever	Parafrase/paráfrase
 asteroide	asteróide
 pongo	bonobo
-estipêndio	comissão/_preço_de_entrada/portagem/pedágio
+estipêndio	comissão/preço_de_entrada/portagem/pedágio
 fúrcula	espoleta
 recurso	apoio/especialidade/manutenção/recurso_natural/assistência/ajuda/pão/ponto_forte/forte/handicap/benefício/lucro/utilidade/vantagem/refúgio
 lavrar	estorrar/gradar/arar/estevar
@@ -4051,7 +4051,7 @@ averiguar	espiar
 filatelia	aerofilatelia
 linguagem_orientada_à_objetos	Linguagem_de_programação_Java/Java/Linguagem_de_programação_java
 curiosidade	Coleção/quinquilharias/interesse
-esquecer	_esquecer/reprimir/suprimir/apagar/desaprender
+esquecer	esquecer/reprimir/suprimir/apagar/desaprender
 fazer_sermão	evangelizar
 fenda	diastema/rachadura/boca/crevasse/Diastema/rasgo/rasgão/brecha/falha/racha/fissura/fresta/greta/Nódulo_de_ranvier/Nódulo_de_Ranvier/pélago/fundão/boqueirão/sorvedouro/abismo/precipício/caçapa/buraco/forame/ranhura
 inferência	corolário/dedução/analogia/derivação/símile/relação_analógica/acarretamento
@@ -4191,7 +4191,7 @@ ovelha	Rambouillet/ovelha_negra/aríete/carneiro
 corpo_de_água	polynia/raso/rasa/Polínia/baixio/bebida/vau/Hidrovia/hidrovia/canal/Hidrovias/vias_navegáveis/queda_de_água/cachoeira/queda_d'água/catarata/cascata/estuário/Estuários/estuários/charco/poça/oceanos/mar_alto/alto-mar/Alto_mar/córrego/baías/golfo_estreito/desfiladeiro/enseada/fiorde/baia_pequena/baía/mar/oceano/golfo/mar_territorial/lago
 coesão	continuidade
 elidir	comer
-restringir	classificar/controlar/tolher/demarcar/contentar/inibir/obstruir/delimitar/satisfazer/estorvar/marcar/domar/impedir/conter_/constrangir/cercear/limitar
+restringir	classificar/controlar/tolher/demarcar/contentar/inibir/obstruir/delimitar/satisfazer/estorvar/marcar/domar/impedir/conter/constrangir/cercear/limitar
 incapacidade	estupidez/hipoestesia/amputação/disfasia/incompetência/analfabetismo/insensibilidade/prolapso/surdez/Surdos/deficiência_auditiva
 regozijar	exultar/alegrar/animar/animar-se/alegrar-se
 ás	ás_de_copas
@@ -4302,7 +4302,7 @@ poluentes	óxidos_de_nitrogênio/óxido_de_azoto/clorofluorcarbonetos/clorofluor
 carcinoma	Carcinoma_in_situ/câncer_colorretal/mesotelioma/hepatocarcinoma/câncer_de_pulmão/Câncer_endometrial/seminoma/Câncer_de_mama/câncer_pancreático/câncer_de_boca/Câncer_de_Boca/Hepatocarcinoma/Câncer_de_pulmão/câncer_de_mama/cancro_da_mama/cancer_de_mama/adenocarcinoma/câncer_de_pele/Câncer_de_fígado
 Ataxia	Ataxia_de_Friedreich
 chapa_de_radiografia	Artrografia/raio_X/radiografia
-festa	jantar/gala/iniciação/_hora_marcada/festa_de_aniversário/reunião/baile_de_máscaras/recepção/cocktail/Noite_do_pijama/formalidade/inauguração/comemoração/despedida_de_solteiro/despedida_de_solteira/Luau/Boda/rotulagem/dança/boda/casamento/baile/banquete/reveillon/balada/night/cerimónia/cerimônia/Funeral/funeral/enterro/compromisso/Jogos_Seculares/celebração/festival/agon
+festa	jantar/gala/iniciação/hora_marcada/festa_de_aniversário/reunião/baile_de_máscaras/recepção/cocktail/Noite_do_pijama/formalidade/inauguração/comemoração/despedida_de_solteiro/despedida_de_solteira/Luau/Boda/rotulagem/dança/boda/casamento/baile/banquete/reveillon/balada/night/cerimónia/cerimônia/Funeral/funeral/enterro/compromisso/Jogos_Seculares/celebração/festival/agon
 aplauso	aclamação/conspiração/tributo/consenso/ovação/reconhecimento/crédito/autorização/sanção/consentimento/Imprimatur/loa/louvor/glória/elogio/aprovação
 privada	retrete/sanita/vaso_sanitário/casa_de_banho/banheiro/Banheiro_público
 turbina	aerogerador/Turbina_a_vapor/Turbina_a_gás/turbina_a_gás
@@ -4450,7 +4450,7 @@ alienar	ratear/separar/compensar/desabituar/liquidar
 meter	fornicar
 Dicionários	Gazetteer/dicionário_etimológico/dicionário_bilíngüe
 Harmónica	sobretom/Frequência_fundamental/Freqüência_fundamental
-consentimento	consentimento_informado/concessão/aprovação/passaporte/sinal_verde/sanção/O.K./autorizações/autorização/OK/Ok/passe/_laissez-passer/visto
+consentimento	consentimento_informado/concessão/aprovação/passaporte/sinal_verde/sanção/O.K./autorizações/autorização/OK/Ok/passe/laissez-passer/visto
 Maldade	erro/perversão/vice/falcatrua/maldade/malícia
 caminho-de-ferro	metro/trem/Funiculares/monocarril/ele/metropolitano/metrô/funicular/comboio
 terceira_idade	pessoa_idosa/figura/caseiro/profissional_de_saúde/pacifista/liberal/partido/ex-cônjuge/anciã/senior/ancião/personagem/mulher/idoso/velho/cosmopolita/homem_do_mundo/hospedeiro/anfitrião/varão/macho/homem/conservador
@@ -4459,7 +4459,7 @@ faisăo	pavão
 recender	cheirar/tresandar/feder
 dor_de_cabeça	hemorróidas/enxaqueca/dor_torácica/martírio/espadas/Mialgia/tremida/fotofobia/Artralgia/Cefaleia_em_salvas/artralgia/hemorróida/Fotofobia/mialgia/tortura/cefaléia_em_salvas/cólica/nevralgia/dor/agonia/sofrimento/passamento/dismenorréia/Dismenorreia/Dismenorréia
 microscopia	microscópio_eletrônico
-_batida_(policial)	ataque_aéreo
+batida_(policial)	ataque_aéreo
 Grappling	luta_greco-romana/Wrestling_profissional/wrestling/sumô
 filosofia	irredentismo/etiologia/Niilismo/pluralismo/autocracia/internacionalismo/humanitarismo/Abolicionismo/imitação/dialética/direito_divino_dos_reis/feminismo/epicurismo/humanismo/utilitarismo/fenomenologia/individualismo/milênio/expansionismo/multiculturalismo/amoralismo/democracia/Transcendentalismo/Animismo/Populismo/monismo/formalismo/nacionalismo/axiologia/acto_de_fé/dualismo/dogma/igualitarismo/secularismo/populismo/Igualitarismo/Humanismo_Secular/dialéctica/abolicionismo/niilismo/humanitarianismo/Direito_Divino_dos_Reis/Dialetica/laicismo/Etiologia/Humanismo_secular/criacionismo/Criacionismo/preceito/descritivismo/evangelho/credo/Teorias_filosóficas/Etica/Conceitos_de_ética/ética/metafísica/Metafísica/lógica/Estética/estética/Epistemologia/epistemologia/jurisprudência/Direito
 enxame	infestação
@@ -4508,7 +4508,7 @@ meios	recursos
 Navios_de_guerra	encouraçado/navio_de_linha/navio_corsário/corveta/Corvetas/Corsários/corsário/submarino/transportador/porta-aviões/Porta-aviões/Barco_torpedeiro/torpedeiro/Couraçados/couraçado/contratorpedeiro/Contra-torpedeiro/Contratorpedeiros/destróier/Fragatas/Fragata/fragata/cruzador/Cruzadores
 compra_e_venda	Insider_trading
 noticiar	orientar
-política_externa	brinkmanship/Doutrina_monroe/isolacionismo/política_comercial/_interferência/Doutrina_truman/imperialismo/intervenção/Doutrina_Truman/Doutrina_Monroe
+política_externa	brinkmanship/Doutrina_monroe/isolacionismo/política_comercial/interferência/Doutrina_truman/imperialismo/intervenção/Doutrina_Truman/Doutrina_Monroe
 engenheiro	engenheiro_aeroespacial/engenheiro_automotivo/engenheiro_de_minas/topógrafo/Engenheiro_Civil/engenheiro_mecânico/programador/programadora/engenheiro_naval
 representante	protecionista/ideologista/vereador/constitucionalista/chefe_de_Estado/democrata/federalista/secessionista/maoísta/intermediária/embaixador/emissário/delegado/delegada/agente/dirigente_sindical/dirigente/seguidor/libertário/porta-voz/fanático/xiita/separatista
 vestuário	uniforme/cueiro/roupas/fatodebanho/burca/fraque/colete_de_forças/malha/disfarce/acessório/lavandaria/chapéu/prêt-à-porter/calçado/farda/traje_de_banho/vestimenta/Chapéus/roupadebanho/roupa_de_banho/fralda/lavanderia/roupa_suja/fardamento/sapato/collant/camisa_de_força/roupa/hábito/peruca/véu/camisa/roupa_de_baixo/echarpe/cachecol/camisola/suéter/pulôver/agasalho/luto/veste/colete/calça/saia/terno/fato/traje/vestido
@@ -4635,7 +4635,7 @@ solstício	21_de_junho/Solstício_de_inverno/Solstício_de_Inverno
 empurrar_com_a_barriga	procrastinar
 vagarosidade	morosidade
 divertir	entreter/hospedar/receber
-operário	mais_cheio/mercenário/palafreneiro/coveiro/pulverizador/jardineiro/estivador/redator/empilhadora/peão/portaria/escriba/fogueiro/mais_completo/carregador/pegureiro/pastor/abelha-operária/abelha_operária/datilógrafo/ferroviário/balconista/caixeiro/vendedor/entregador/barman/empregado/bárman/mineiro/cigana/_carregador/madeireiro/lenhador/obreiro/trabalhador
+operário	mais_cheio/mercenário/palafreneiro/coveiro/pulverizador/jardineiro/estivador/redator/empilhadora/peão/portaria/escriba/fogueiro/mais_completo/carregador/pegureiro/pastor/abelha-operária/abelha_operária/datilógrafo/ferroviário/balconista/caixeiro/vendedor/entregador/barman/empregado/bárman/mineiro/cigana/carregador/madeireiro/lenhador/obreiro/trabalhador
 horticultura	horticultura_de_mercado/jardinagem/floricultura
 cedê	Cd-r/Cd_rom/Cdrom/CD-R/Cd-rom/CD-ROMs/CD-ROM
 Estátua	esfinge
@@ -4722,7 +4722,7 @@ IECA	captopril/trandolapril/enalapril/Lisinopril/ramipril
 fumar	tragar/inalar
 Baladas	Eddas/Edda
 aromatizantes	sal_de_cozinha/Glutamato_monossódico/cardamomo/feno-grego/açafrão/gergelim/coentro/funcho/sal/Sal-de-cozinha/sais/semente_de_mostarda/sinapis/cúrcuma/semente_do_anis/erva-doce/anis/erva/espechiaria/especiaria/tempero/páprica/condimento/gengibre/baunilha/adoçante/adoçantes/alho/pimenta
-invasão	ataque_surpresa/_batida_(policial)
+invasão	ataque_surpresa/batida_(policial)
 peliça	visom
 adicionar_algo	salgar/condimentar/temperar
 dançarino	bailarina/bailarino
@@ -4752,7 +4752,7 @@ jogador	cabeça_de_chave/goleiro/agenciador/ex-jogador/agenciador_de_apostas/gua
 comprometer	envolver/consagrar/rededicar
 língua_de_sinais	dactilologia/Língua_de_Sinais_Americana/Língua_de_sinais_americana/Língua_Gestual_Estadunidense
 contrato	contrato_de_trabalho/aluguel/apólice_de_seguro/contratodetrabalho/sociedade/apólice/concessão
-norma	regulamento/_indicações/regulamentos/estatuto/guia/preceito/princípio/cerimonial/etiqueta/Regras_de_etiqueta/ordenamento/protocolo/limitação/restrição
+norma	regulamento/indicações/regulamentos/estatuto/guia/preceito/princípio/cerimonial/etiqueta/Regras_de_etiqueta/ordenamento/protocolo/limitação/restrição
 utensílio	aplicação_servidora/lousa/calceteiro/fureca/tijolos/criação/extra/botão/bola/ornato/anacronismo/Piso/cone/Funil/caminho/via/decoração/adorno/chapa/placa/equipamento/ornamento/funil/estrada/casquinha/esfera/Cone/bloco/pano/têxteis/tecido_têxtil/produto/objecto_posto_à_venda/Bens/mercadoria/fazenda/bem/abertura/edifício/tecido/estrutura/objeto_fixo/artigo/instalação/infra-estrutura/serviço/Brinquedos/brinquedo/materiais_de_construção/Materiais_de_construção/fio/linha/corda/banda/superfície/cobertura/capa/buracos_escavados/cerâmica
 parir	aguardar/esperar/dar_à_luz/ter
 Direito_civil	jurisprudência/Jurisprudência/Jurisprudencia/common_law/direito_consuetudinário/legislação
@@ -4770,7 +4770,7 @@ excreção	incontinência/vômito/guano/pipi/xixi/micção/urina/Micção/defeca
 celta	gaélico
 letreiro	outdoor/placar_eletrônico/Placar_eletrónico
 efeito	usurpação/Efeito_Borboleta/produtos/mossa/mesmerismo/efeito_secundário_(química)/repercussão/hipnotismo/produto/efeito_secundário/efeito_borboleta/impacto/mudança/subprodutos/força_de_Coriolis/Força_de_coriolis/efeito_dominó/efeitos/influência/resultado/Pertubação/manipulação/tentação/exposição
-lado	_parte_de_cima/topo/traseiro/rabo/parte_traseira/dianteira/frente/parte_inferior/fundo/parte_de_baixo
+lado	parte_de_cima/topo/traseiro/rabo/parte_traseira/dianteira/frente/parte_inferior/fundo/parte_de_baixo
 edificação	desilusão/Rústico/erecção/construção/nivelação/construção_de_estradas/fabricação/desencantamento/construção_naval
 adivinhadeiro	vidente/necromante/profeta
 amparar	acolher/sediar
@@ -4845,7 +4845,7 @@ férias	picnic/lua-de-mel/passeio_ao_ar_livre/dia_ao_ar_livre/lua_de_mel/licenç
 abelharuco	chapim-azul
 batismo	baptismo/Efusão/aspersão/imersão
 olhadela	olhar_de_soslaio
-encontro	_hora_marcada/sessão/inspeção/conjunção/ponto_de_encontro/Conjunção/rendez-vous/hora_combinada/rendezvous/local_combinado/vistoria/visita/compromisso
+encontro	hora_marcada/sessão/inspeção/conjunção/ponto_de_encontro/Conjunção/rendez-vous/hora_combinada/rendezvous/local_combinado/vistoria/visita/compromisso
 munição	schrapnell/Cartucho/munição_de_guerra/ferragens/sistema_de_defesa/Metralha/armamento/pente/quinquilharia/circuitaria/cartucho/estilhaço/arma/bomba/Bombas
 tempo_cósmico	equinócio/solstício/período_sideral
 dominó	cinco/seis
@@ -5105,7 +5105,7 @@ reduzir	desacelerar/subtrair/despovoar/desprover/redimensionar/suprimir/tornar_m
 contrato_de_seguro	resseguro
 islamismo	salafismo
 empenhar	lutar/ralar/esforçar_se
-_encantamento	encantamento/azaração/feitiço/maldição
+encantamento	encantamento/azaração/feitiço/maldição
 penalizar	corrigir/vitimizar/vingar/castigar/desagravar/desforrar/revidar/disciplinar/retaliar/executar
 declaração	voto/alegação/descrição/fórmula/verdade/estimativa/pergunta_retórica/edito/cotação/palavra/emenda/reservas/denúncia/declaracão/promulgação/anunciação/orçamento/nota/resultado/pregão/anotação/vocábulo/proclamação/promessa/compromisso/oferta/licitação/acordo/pacto/solução/resposta/explanação/explicação/comunicação/aviso/anúncio/condição/termo/mentira/falsidade/proposição/Fórmulas_químicas/Fórmula_Química/Formula_química/fórmula_química/eufemismo/resumo/sumário/prognóstico/previsão/predição/comentário/observação/caução/garantia/Garantia/ameaça/asserção/manifesto/pronunciamento
 Cardiopatia_congênita	Tetralogia_de_fallot/tetralogia_de_Fallot
@@ -5130,7 +5130,7 @@ Macropodidae	Wallabee/Wallaby/Macropus_giganteus
 caçador	caçadora/nestoriana/freudiano/satélite/Caçador_de_recompensas/Vassalagem/parasita/rastreador/vassalo/nestoriano/sanguessuga/estudante/adepto/discípulo/seguidor/aluno/apóstolo/amante
 porquinho	leitão
 Aldohexose	Glicose/glicose/glucose
-oposição	contraste/reação/Lockout/antípoda/inversão_térmica/antagonismo/antítese/contrário/contraposição/oposto/_reverso/Antitese/resistência/contradição
+oposição	contraste/reação/Lockout/antípoda/inversão_térmica/antagonismo/antítese/contrário/contraposição/oposto/reverso/Antitese/resistência/contradição
 franco	Franco_guineense/franco_francês/Franco_belga/Franco_luxemburguês/Franco_Suiço/franco_suíço/Franco_suiço
 comida	gérmen_de_trigo/quimo/puré/micronutriente/fast_food/cortarempedaçospequenos/fast-food/vitamina/jantar/repasto/refeição/prato/guloseima/leite/Maná/maná/dieta/água/água_(substância)/delegacia/alimentos/produtos_alimentares/pão/nutrientes/alimentação/nutrição/alimento/rações_para_animais/bebida/gema/gema_de_ovo
 sistemática	taxonomia
@@ -5157,7 +5157,7 @@ Composição_musical	moteto/solo/adágio/Pout-pourri/suíte/Quartetos_musicais/q
 Cyperaceae	Cyperus
 pára-quedista	paraquedista
 combustível	combustível_nuclear/biomassa/coque/diesel/gasóleo/combustíveis_nucleares/combustível_fóssil/metanol/gasolina/benzina/petróleo/querosene/isqueiro/encendedor/mistura_gasolina-álcool/gás_de_cidade/butano/lenha/cozedura/propano/carvão/Carvão_Vegetal/carvão_vegetal/óleo_combustível/fuelóleo
-comentário	midrash/bujão/_gracejo/cortesia/xiste/_piada/chacota/apontamento/anotação/nota/reflexão/observação/banalidade/vulgaridade/trivialidade/chavão/cliché/referência/alusão
+comentário	midrash/bujão/gracejo/cortesia/xiste/piada/chacota/apontamento/anotação/nota/reflexão/observação/banalidade/vulgaridade/trivialidade/chavão/cliché/referência/alusão
 Obras_de_referência	Livros_de_cozinha/enciclopédia/anuário/enciclopédias/livro_de_receitas/Livro_de_cozinha/livro_de_cozinha/livro_de_bolso/Vade-mécum/vademécum/Vademecum/manual/Vade_mecum/diretório/lista_telefónica/atlas/Atlas/vocabulário
 complexidade	forro/complicação/elaboração
 almejar	exceder
@@ -5198,7 +5198,7 @@ ataxia	Ataxia_de_Friedreich
 Povo_nômade	bosquímano/huno/citas/Hunos/Bosquímano/boximane/Citas/Sarracenos/beduíno
 Revolucionário	rebelde/girondino
 velocidade	taxa_de_mortalidade/km/h/velocidade_de_escape/taxa_de_criminalidade/velocidade_terminal/palavras_por_minuto/hipervelocidade/constante_solar/taxa_de_cancelamento/taxa_de_natalidade/espaçamento/velocidade_angular/velocidade_radial/taxa_de_transferência_de_dados/velocidade_da_luz/gigahertz/Milha_por_hora/velocidade_de_hemossedimentação/mortalidade/quilômetros_por_hora/ppm/taxas/aceleração/desaceleração/taxa_de_crescimento/MHz/megahertz/quilohertz/bits_por_segundo/ritmo/taxa_de_amostragem/Retorno_sobre_investimento/hertz/Frequencia/frequência/freqüência/Freqüência_cardíaca/Freqüência_cardiaca/Frequência_cardíaca/caudal/fluxo/velocidade_de_execução/pressa
-influenciar	encantar/matizar/decidir/indexar_/cronometrar/influenciar_consideravelmente/cadenciar/fazer_mal_feito/chantagear/dominar/prejulgar/reformar/militar/ter_peso/colorir/ritmar/enfeitiçar/pressionar/controlar/persuadir/convencer/predispor/inclinar/dispor/predeterminar
+influenciar	encantar/matizar/decidir/indexar/cronometrar/influenciar_consideravelmente/cadenciar/fazer_mal_feito/chantagear/dominar/prejulgar/reformar/militar/ter_peso/colorir/ritmar/enfeitiçar/pressionar/controlar/persuadir/convencer/predispor/inclinar/dispor/predeterminar
 Horário_padrão	tempo_standard_das_montanhas/MST
 hebreia	tribo_de_Levi/Judeu_Errante/saduceus/sionista/Essénios/Judeu_errante/essênios/judia/fariseus/judeu
 resultado	reação/Efeito_Borboleta/auto-alimentação/final/produtos/impacto/continuação/mossa/ômega/efeito_secundário_(química)/repercussão/retorno/parecer/fim/produto/ómega/efeito_secundário/efeito_borboleta/omêga/vencimento/perda/derrota/desolação/destruição/demolição/placar/vitória/mudança/subprodutos/força_de_Coriolis/Força_de_coriolis/efeito_dominó/efeito/efeitos/influência/conseqüência
@@ -5292,7 +5292,7 @@ balcão	lanchonete/bar/mezanino/Mezzanino
 endívia	almeirão
 dono	proprietário/armador/livreiro/locador/sócio/poupador/detentor/patrão
 simultaneidade	coincidência/conjunção
-pensar_em	preocupar_(se)_/considerar/importar_(se)_
+pensar_em	preocupar_(se)/considerar/importar_(se)
 equinodermos	estrela-do-mar/ouriço-do-mar
 agenda	programa/horário
 ajustagem	vocalização/sincronização/alinhamento
@@ -5412,7 +5412,7 @@ dissidência	objetor_de_consciência/Nimby/NIMBY
 sintagma	constituinte/Bordão/frase_preposicional
 calculista	quipo/Abaco/ábaco/Ossos_de_Napier/máquina_de_somar
 impedir	interferir/excluir/frustrar/parar/travar/obviar/contrariar/tolher/obstaculizar/bloquear/defender/estorvar/atrapalhar/evitar/entravar/reter/inibir/tapar/entupir/trancar/obstruir/barrar/ocluir
-julgar	entoar/formalizar/equiparar/admitir/escolher/propagandear/passar/certificar/abastardar/prejulgar/beatificar/confessar/oficializar/reconhecer/revogar/anular/cancelar/canonizar/pronunciar/rotular/qualificar/absolver/inocentar/provar_a_culpa/condenar/desqualificar/aceitar/pensar/declarar/ranquiar/classificar/aprovar/prever/prognosticar/achar/considerar/calcular/predizer/medir/estimar/avaliar/rejeitar/imputar/antecipar/desaprovar/passar_em_revista/ensaiar/tentar/posicionar_(se)_/associar/atribuir
+julgar	entoar/formalizar/equiparar/admitir/escolher/propagandear/passar/certificar/abastardar/prejulgar/beatificar/confessar/oficializar/reconhecer/revogar/anular/cancelar/canonizar/pronunciar/rotular/qualificar/absolver/inocentar/provar_a_culpa/condenar/desqualificar/aceitar/pensar/declarar/ranquiar/classificar/aprovar/prever/prognosticar/achar/considerar/calcular/predizer/medir/estimar/avaliar/rejeitar/imputar/antecipar/desaprovar/passar_em_revista/ensaiar/tentar/posicionar_(se)/associar/atribuir
 flauta	flautim/Pifaro/pífano/Pífaro/flauta_doce/Gaitas-de-fole/gaita-de-fole/gaita_de_fole
 Astrónomos	astrofísico
 universo	Natureza
@@ -5477,7 +5477,7 @@ protestante	Testemunhas_de_Jeóva/anabatista/Batistas/anglicano/Pentecostais/fun
 absentista	expatriado
 discontentamento	Disforia
 reação_química	equilíbrio_químico/reação_fotoquímica/neutralização/oxidação/saponificação/Reação_exotérmica/reacção_em_cadeia/hidrólise/reação_aldólica/oxidantes/redução/eliminação/redução_(química)/reação_de_adição/equilíbrio/Salificação/Equilibrio_quimico/reação_redox/reação_em_cadeia/Equilíbrio_Químico/reacções_fotoquímicas
-desventurado	Jó/agourento/sobrevivente/vítima/carpideira/perdedor/_fracassado/refém/preso/prisioneiro_de_guerra/cativo/prisioneiro
+desventurado	Jó/agourento/sobrevivente/vítima/carpideira/perdedor/fracassado/refém/preso/prisioneiro_de_guerra/cativo/prisioneiro
 caverna	furna/gruta/algar/grutas/Algar
 galeria_de_arte	saladevisitas/galeria
 aeronáutica	Aviônica/Aviónica/Avionica/aviónica
@@ -5599,7 +5599,7 @@ espada	sabre/florete/rapieira
 aniões	superóxido/Superóxidos
 desconfiar	duvidar
 independência	autarquia/autonomia/liberalismo
-índole	_temperamento/disposição
+índole	temperamento/disposição
 asiano	tailandês/vietnamita/libanês/afegão/Arménios/cingalês/armênios/coreana/Coreanos/coreano/coolie/indiano/chinês/chinesa/troiana/troiano/Persa/iraniano/nepali/singapuriano/singapurense/maldivo/taiwanês/taiwanesa/indonésio/Tribos_de_israel/Tribos_de_Israel/israelita/bizantino/japonês/laosiano/paquistanês/hindu/iraquiano/malaio/Malaios/israelense/kuwaiti/xerpas/jordaniano/khmer
 acobertar	sepultar/espreitar/ocultar/cobrir/cobrir_com_véu/enterrar/soterrar/tapar/esconder/encobrir/mascarar/disfarçar
 Nervos_cranianos	nervo_hipoglosso/Nervo_troclear/nervo_óptico/Nervo_óculomotor/nervo_trigêmeo/Nervo_acessório/nervo_glossofaríngeo/Nervo_vestibulococlear/Nervo_vago/Nervo_abducente/Nervo_olfatório/nervo_facial/nervo_olfatório/oculomotor/nervo_oculomotor
@@ -5646,7 +5646,7 @@ focar	chamar_de_volta/pensar/escutar
 desprezar	repelir/menosprezar/desdenhar
 centro_urbano	capital_nacional/capital_de_estado
 frisador	Cabeleireiros/barbeiro/Cabeleireiro/cabeleireiro
-importar_(se)_	cuidar
+importar_(se)	cuidar
 sexo	masculinidade/heterossexualidade/procriação/engravidamento/zoossexualidade/acoplamento/homossexualidade/estimulação/bissexualidade/Relação_sexual_humana/promiscuidade/autoerotismo/Bondage/androginia/Sexo_seguro/cópula/Cópula/coito/Acasalamento/acasalamento/bestialidade/Promiscuidade/preliminares/zoofilia/concepção/reprodução/relação_sexual
 rabanete	rábano
 Orgão_sexual	genitália/bico_de_mamadeira/bico_do_seio/chupeta/chupadouro/mama/mamilo/teta/sexo
@@ -5660,7 +5660,7 @@ Orientação	Horizontal
 andamento	accelerando/diplomacia/rubato/accel/tempo_rubato
 depressão	dolina/melancolia/cratera/leito/fundo/vale/baixada/buraco/oco
 expedir	reenviar/repassar/despachar/noticiar_por_despacho/enviar/aviar
-quebrar_a_cara	fazer_besteira/falhar_/perder/cair/fazer_às_pressas/arruinar/ferrar/borrar/meter_os_pés_pelas_mãos/foder_tudo
+quebrar_a_cara	fazer_besteira/falhar/perder/cair/fazer_às_pressas/arruinar/ferrar/borrar/meter_os_pés_pelas_mãos/foder_tudo
 roedor	paca/capivara/cutia/Ratão_do_banhado/nútria/Ratão-do-banhado/castor/Hamsters/hamster/Hamster/chinchila/esquilo/serelepe/Rattus/viscacha/rato-do-deserto/Gerbillinae/gerbilo/Abrocomidae/lêmingue/Lemingue/Lêmingue/Neofiber_alleni/mara/marmota/rato-almiscarado/rato_almiscareiro/porco-espinho/Porco_espinho/cão-da-pradaria/lirăo/arganaz/rato/rato_do_computador/camundongo/mouse/Mus/ratazana
 soluto	Solução_de_fehling/Soluçao_tampão/Enxaguante_bucal/eletrólito/Solução_aquosa/salmoura/solução_tampão/Solução_de_Fehling/Solução_tampão
 intercessor	diplomata/moderador/conciliador/pacificador/tradutor/intérprete/intéprete
@@ -5726,7 +5726,7 @@ Electricidade	Corrente_Alternada/sinal/corrente_contínua/corrente_alternada/cor
 implemento	torno/batedor/estilo/paleolito/diapasão/mangual/suabe/Stylus/estilete/gancho/vara/pau/bastão/utensílio/remo/pá/Instrumentos_de_escrita/brocha/escova_de_dentes/pincel/escova/borracha/safa/goma/lança/arpão/instrumento/instrumento_musical/agulha/barra/enxada/forcado/Arada/arado/furadeira/ferramenta/ancinho/rastelo/rastel/restelo/Macaco
 Dicionario	Gazetteer/dicionário_etimológico/dicionário_bilíngüe
 madeira	pomar/teixo/cerejeira/madeira_de_lei/larice/nogueira/sândalo/ácer/oliveira/amieiro/aveleiro/pau-brasil/tilia/choupo/mogno/cornus/serradura/vime/acácia/tora/farpa/eucalipto/taquara/brasil/lárix/cana-brava/serragem/nogueira-comum/bambu/pau-rosado/ibirapitá/pernambuco/pau-pernambuco/ibirapiranga/pau-de-tinta/álamo/taboca/ulmeiro/olmo/ébano/pinho/pinheiro/bétula/carvalho/hicória/bosque_de_coníferas/cedro/tábua/prancha
-capa	pluvial/camuflagem/albornoz/viveiros_de_plantas_de_jardim/envoltório/camada_protectora_do_solo/abafador/poncho/folha_de_prova/folheado/Albornoz/telhado/teto/cortina/coberta/capô/capuz/abrigo/asilo/refúgio/armadura/Armaduras/escudo/protecção/amparo/tela/rede/vestido/traje/vestimenta/vestuário/roupa/coifa/aba/fronha/calçado/Calçados/diretório/invólucro/embalagens/dorso_de_meia/dorso_de_calçado/peito_do_pé/dorso_de_sapato/dorso_do_pé/canopo/tampa/tapete/_envólucro/cobertura/cobertor/máscara/chale/xale/xaile/túnica/toga/dominó/revestimentos_metálicos/zinabre/pátina/lacas/laca/cor/tinta/pintura/verniz/vernizes/esmalte/emulsão
+capa	pluvial/camuflagem/albornoz/viveiros_de_plantas_de_jardim/envoltório/camada_protectora_do_solo/abafador/poncho/folha_de_prova/folheado/Albornoz/telhado/teto/cortina/coberta/capô/capuz/abrigo/asilo/refúgio/armadura/Armaduras/escudo/protecção/amparo/tela/rede/vestido/traje/vestimenta/vestuário/roupa/coifa/aba/fronha/calçado/Calçados/diretório/invólucro/embalagens/dorso_de_meia/dorso_de_calçado/peito_do_pé/dorso_de_sapato/dorso_do_pé/canopo/tampa/tapete/envólucro/cobertura/cobertor/máscara/chale/xale/xaile/túnica/toga/dominó/revestimentos_metálicos/zinabre/pátina/lacas/laca/cor/tinta/pintura/verniz/vernizes/esmalte/emulsão
 pilha	pira/pilha_de_Volta/monte_de_lenha/estoque/sambaqui/reserva/montão/montão_de_feno
 quem_pratica_uma_profissão	homeopata
 Línguas_anatólias	hitita/lício/lídio/língua_hitita
@@ -5763,7 +5763,7 @@ condimentar	salgar/temperar/apimentar
 vila	cidade_fantasma/aldeia/vilarejo/Moshav/moshav
 negar	invalidar/abnegar/repudiar/enjeitar/desassociar__se/conter/reter
 rato-do-deserto	gerbo
-afectar	registrar_/tensionar/embriagar/atacar/ulcerar/estressar/sedar/tranquilizar/relaxar/espairecer/excitar/animar/energizar/estimular
+afectar	registrar/tensionar/embriagar/atacar/ulcerar/estressar/sedar/tranquilizar/relaxar/espairecer/excitar/animar/energizar/estimular
 Barion	híperon/nucleão/Núcleon/Nucleons/nucleon
 sabedoria	prudência/diplomacia
 vértice	copa
@@ -5961,7 +5961,7 @@ física	biofísica/reologia/criogenia/Mecânica_Estatística/eletrostática/Fís
 terreno	santuário/arrozal/relevo/numerologia/chocadeira/prospecção/Genealogia/ocultismo/grafologia/área/zonas_industriais/genealogia/futurologia/relva/Parque_industrial/Futurologia/prados/grama/clareira/viveiros_de_plantas/Numerologia/especialização/campus/câmpus/quintal/jardim/pátio/cercado/campos/prados_naturais/prado/pradaria/gramado/locação/lugar/sítio/campo/tapera/deserto/espaços_verdes/parque/paisagens_protegidas/parque_público/parque_natural/diamante/lote/campo_de_guerra/campo_de_batalha/oásis/praça/Teoria_da_comunicação/Teoria_da_Comunicação/Ciência_militar/arquitectura/arquitetura/Ciências_aplicadas/ciência_aplicada/engenharia/tecnologia/ciências_aplicadas/teologia/ciência/ciências_humanas/Artes_Liberais/artes_liberais
 Sistemas_de_classificação	indexação/tipologia/taxonomia/estratificação
 morte	extinção/morte_cerebral/martírio/zumbi/asfixia/electrocussão/decapitação/sacrificio/genocídio/síndrome_de_morte_súbita_infantil/eutanásia/Genocídios/eletrocução/Morte_Cerebral/sufocamento/sacrifício/homicídio/auto-destruição/suicídio/envenenamentos/envenenamento/Necrose/gangrena/necrose/expiração/fatalidade
-consenso	passaporte/sinal_verde/assinatura/concórdia/sanção/ratificação/Unanimidade/aceite/concordância/ajuste/acordo/harmonia/unanimidade/autorizações/autorização/convenção/contratos_administrativos/subscrição/passe/_laissez-passer/conformidade/assentimento/aquiescência/consentimento/aprovação/concessão/conspiração
+consenso	passaporte/sinal_verde/assinatura/concórdia/sanção/ratificação/Unanimidade/aceite/concordância/ajuste/acordo/harmonia/unanimidade/autorizações/autorização/convenção/contratos_administrativos/subscrição/passe/laissez-passer/conformidade/assentimento/aquiescência/consentimento/aprovação/concessão/conspiração
 erro	fantasia/erro_de_digitação/Acto_falho/omissão/quebra/defeito/mácula/distorção/falacia/estupidez/miragem/impedimento/confusão/inadimplência/Erro_tipográfico/falha_em_um_sistema_ou_máquina/falácia/erro_de_escrita_ou_impressão/Falácias_lógicas/ilusão/negligência/ato_falho/descuido/mancha/burrice/mal-entendido/Recidiva/perda/derrota/bobagem/gafe/fiasco
 designação	guarda/delegação/nomeação/vigia/missão/Ordenação/Ordenação_religiosa
 paleontologia	micropaleontologia/Micropaleontologia/Paleobiologia
@@ -6055,7 +6055,7 @@ Via_Láctea	Via_Lactea/ViaLáctea/Via_lactéa/Via-Láctea/Galáxias_espirais/Gal
 postular	assertar/insistir
 especulação	generalização/meditação/ideologia/Generalização/introspecção
 toca-toca	autocarro_escolar/Microônibus/Microonibus/Micro-onibus/Micro-ônibus/ônibus_escolar/Trolebus/trólebus
-desordem	discórdia/instabilidade/_zona/bagunça/confusão/comoção/turbulência/anarquia
+desordem	discórdia/instabilidade/zona/bagunça/confusão/comoção/turbulência/anarquia
 Carotenóide	licopeno/Xantofila/caroteno/zeaxantina
 acoplamento	acasalamento_preferencial/endogamia/embraiagem/embreagem/junta_universal/miscigenação/hibridização
 Persa_médio	Língua_Pahlavi/Língua_pahlavi
@@ -6100,7 +6100,7 @@ calcedónia	ônix/cornalina/Heliotropo/Cornalina/ágata/crisoprase
 radiofreqüência	Frequência_Ultra_Alta/UHF
 arguir	discutir_sobre_bobagens/repreender/julgar/suportar/bicar_reciprocamente/defender/apoiar/opor_se/opor/opor-se/indispor-se/porfiar/altercar/querelar/disputar
 ânimo	heroísmo/covardia/nervo/cobardia/denodo/coragem
-vir_depois_de_	substituir/sobrepor/suplantar/aceder
+vir_depois_de	substituir/sobrepor/suplantar/aceder
 refazer	remodelar
 datum	leitura/dado/estatística
 amizade	acessibilidade/fé/outro_eu/colega_de_classe/familiaridade/colocatário/doçura/cordialidade/conexão/hospitalidade/companherismo/Alterego/Alter-ego/amabilidade/afabilidade/Alter_ego/coabitante/Acessibilidade/colega_de_quarto/paz/irmão/amiga/amigo/camarada/colega/companheiro/confidente
@@ -6170,7 +6170,7 @@ instrumentista	acólito/trombone/flautista/clarineta/cravista/violoncelista/saxo
 isolante	lã_mineral
 gordura	Gordura_poli-insaturada/gordura_animal/Gordura_poliinsaturada/Triacilglicerol/óleo/tecido_adiposo/lípidos/cera/fosfolípido/Fosfolipido/gorduras_e_óleos_alimentares/mielina
 apetite	tentação/comichão/caprichoso/fantasia/capricho/impertinência/pretensão/ambição/aspiração/desejo_veemente/desejo_imoderado/desejo_intenso/desejo_ardente/desejo_forte/desejo_em_alto_grau/concupiscência/cio/Eros/afã/anseio/anelo/suspiro/saudade/desejo
-Compreensão	discernimento/compreensão/reconhecimento/_lampejo/epifania/_insight
+Compreensão	discernimento/compreensão/reconhecimento/lampejo/epifania/insight
 capa_de_chuva	casaco_de_trincheira/Macintosh
 cansaço	Jetlag/jet_lag/Jet_lag/exaustão/Exaustão
 roubar	Roubo_de_carro/piratear/saltear/pilhar/muambar/plagiar/afanar/ensacar/larapiar/embolsar/surrupiar/furtar/extorquir
@@ -6312,7 +6312,7 @@ espasmo	mioclonia/Trismo/trismo/broncospasmo/broncoespasmo
 depleção	consumo
 ameixoeira	Prunus_salicina
 opção	padrão/possibilidade/preferência/default
-determinar	sequenciar/filiar/decidir/quantificar/indexar_/cronometrar/influenciar_consideravelmente/retificar/cadenciar/fazer_mal_feito/cobrar/inicializar/definir/identificar/redeterminar/formatar/reformar/ter_peso/reconhecer/ritmar/precisar/controlar/localizar/situar/achar/contar/enumerar/especificar/cotar/valorizar/aprazar/datar/avaliar/taxar/predispor/inclinar/dispor/predeterminar
+determinar	sequenciar/filiar/decidir/quantificar/indexar/cronometrar/influenciar_consideravelmente/retificar/cadenciar/fazer_mal_feito/cobrar/inicializar/definir/identificar/redeterminar/formatar/reformar/ter_peso/reconhecer/ritmar/precisar/controlar/localizar/situar/achar/contar/enumerar/especificar/cotar/valorizar/aprazar/datar/avaliar/taxar/predispor/inclinar/dispor/predeterminar
 inquietar	comer/encher_o_saco/consumir/incomodar
 assembleia	Assembléia/câmara/capítulo/Assembleia/assembléia_legislatíva/legislatura/poder_legislativo/Areópago/Coven/coven/juizado/tribunal/tribunal_de_justiça/concílio
 empilhar	enfardar/colecionar/incorrer/recolher/reunir/coletar
@@ -6323,7 +6323,7 @@ somar	por_leite/acrescentar/modificar/qualificar/pontuar/marcar_ponto/unir/combi
 tabela	conteúdo/tabela_periódica/Tabela_periodica/Tabela_de_conteúdo/índice/Tabela_Periódica/calendário
 mito	Gotterdammerung/Götterdämmerung
 monastério	abadia
-discernimento	compreensão/reconhecimento/_lampejo/epifania/_insight
+discernimento	compreensão/reconhecimento/lampejo/epifania/insight
 excitar	eletrificar/seduzir/enervar/perturbar/bronha/mamar/punheta/cinco-contra-um/tentar/incomodar/masturbar-se/masturbar/agitar/electrificar/repugnar/afastar/vivificar/reanimar/reavivar/renascer/reviver/envigorar/animar
 sável	Sável
 Armas_de_destruição_em_massa	bomba_nuclear/arma_nuclear/Armas_nucleares/armas_nucleares/arma_química/armas_químicas/armas_biológicas
@@ -6338,7 +6338,7 @@ joquei	Postilhão/Jóqueis/jóquei
 cigarra	Magicicada_septendecim
 leucócito	Mieloblasto/eosinófilo/Granulócito/Mielócito/Granulócitos/granulócito/linfócito/Linfócitos/monócito
 Queijos_azuis	roquefort/gorgonzola/Roquefort
-compreender	apreciar/interpretar/alegorizar/reter/aprofundar/_reinterpretar/perceber/entender_mal/digerir/ler_nas_entrelinhas/mitificar/espiritualizar/_intuir/extrair/sentir/literalizar/traduzir/compreender_mal/escanear/ler/pegar/entender/comprender/solucionar/resolver/perceber_
+compreender	apreciar/interpretar/alegorizar/reter/aprofundar/reinterpretar/perceber/entender_mal/digerir/ler_nas_entrelinhas/mitificar/espiritualizar/intuir/extrair/sentir/literalizar/traduzir/compreender_mal/escanear/ler/pegar/entender/comprender/solucionar/resolver/perceber
 recolher	reagrupar/arquivar/convocar/juntar/mobilizar/reunir/arrecadar/respigar/catar/apanhar/colher
 comemoração	epitáfio
 lontra	Lontra-europeia/Lontra-européia/Lontra_européia/Lontra_europeia/Lutra_lutra
@@ -6379,7 +6379,7 @@ obesidade	esteatopigia/sobrepeso/Esteatopigia/que_está_acima_do_peso_normal/cor
 tranquilidade	silêncio/quietude/paz
 denúncia	danação/acusação/diatribe/Maldição/maldição/alegação/imputação
 cumprimento_(legal)	execução_da_lei/execução/coacção/realização/Implementação_de_software/cumprimento
-pensar	racionalizar/idealizar/lembrar/equiparar/sentir-se/preocupar_(se)_/visionar/suspeitar/fazer_um_brainstorm/manter_presente/filosofar/encafifar/repensar/manter/fantasiar/reter/meditar/prever/sonhar/desejar/devanear/antever/considerar/ponderar/importar_(se)_/inventar/caraterizar/qualificar/caracterizar/focar/concentrar/centrar/deduzir/chegar/concluir/inferir/decidir/planejar/associar/relacionar/conectar/pensar_sobre/cogitar/pensar_em/prestar/achar/raciocinar/refletir/contemplar/balizar/julgar/avaliar/envisionar/ver/figurar/afigurar/visualizar
+pensar	racionalizar/idealizar/lembrar/equiparar/sentir-se/preocupar_(se)/visionar/suspeitar/fazer_um_brainstorm/manter_presente/filosofar/encafifar/repensar/manter/fantasiar/reter/meditar/prever/sonhar/desejar/devanear/antever/considerar/ponderar/importar_(se)/inventar/caraterizar/qualificar/caracterizar/focar/concentrar/centrar/deduzir/chegar/concluir/inferir/decidir/planejar/associar/relacionar/conectar/pensar_sobre/cogitar/pensar_em/prestar/achar/raciocinar/refletir/contemplar/balizar/julgar/avaliar/envisionar/ver/figurar/afigurar/visualizar
 arredar	atrair/aduzir/puxar_bruscamente/esticar/arrastar/tirar/puxar
 Peróxidos	peróxido_de_benzoíla
 centrifugar	ultracentrifugar
@@ -6401,7 +6401,7 @@ esmalte	verniz_de_unha/Verniz_de_unha/verniz_para_as_unhas/esmalte_para_as_unhas
 Cegueira	cegueira
 biscoito	fadinha
 Moda	Culto_da_personalidade/alta-costura/moda/Alta-costura/Alta_costura/voga
-exibição	feira/cabaré/circo/Artes_circenses/cabaret/exposição/quermesse/_carnaval/apresentação/demonstração
+exibição	feira/cabaré/circo/Artes_circenses/cabaret/exposição/quermesse/carnaval/apresentação/demonstração
 poliedro	icosaedro/hexaedro/Piramide/dodecaedro/tetraedro/octaedro/trapezoedro/Pirâmide/pirâmide/Sólido_platónico/Sólido_platônico/Sólidos_platônicos/Sólidos_platónicos/Sólidos_Platónicos/prisma
 assediar	importunar/enfadar/incomodar/crucificar/tormentar/retalhar
 agave	sisal/Agave_americana/agave-azul
@@ -6425,7 +6425,7 @@ léxico	Gazetteer/dicionário_etimológico/dicionário_bilíngüe
 supor	dizer/pressupor/suspeitar/formular/reconstruir/retraçar/predizer/prognosticar/adivinhar/pressentir/prever
 Camas	rede/cama_de_casal/Rede_de_descanso/beliche/liteira/camarote
 conquista	expediente/andada/obra-prima/recrutamento/andar_até_a_primeira_base/obra_prima/proeza/façanha/feito/emancipação/chegar_la-metaforicamente/obtenção/realização
-refletir	espelhar/resplandecer/racionalizar/fazer_um_brainstorm/perguntar-se/opalescer/filosofar/encafifar/cintilar/premeditar/refletir_fortemente/teologizar/meditar/_introspectar/reflectir_fortemente/perguntar_se/focar/concentrar/centrar/deduzir/chegar/concluir/inferir/decidir/planejar/associar/relacionar/conectar/pensar_sobre/cogitar/pensar_em/prestar/achar/raciocinar/contemplar/balizar/avaliar/questionar/ponderar/perguntar/considerar/julgar/pensar
+refletir	espelhar/resplandecer/racionalizar/fazer_um_brainstorm/perguntar-se/opalescer/filosofar/encafifar/cintilar/premeditar/refletir_fortemente/teologizar/meditar/introspectar/reflectir_fortemente/perguntar_se/focar/concentrar/centrar/deduzir/chegar/concluir/inferir/decidir/planejar/associar/relacionar/conectar/pensar_sobre/cogitar/pensar_em/prestar/achar/raciocinar/contemplar/balizar/avaliar/questionar/ponderar/perguntar/considerar/julgar/pensar
 discordo	enfrentamento/discussão/querela/controvérsia/disputa/discórdia/discordância
 revóvel	ack-ack-ack/arma_de_fogo
 ter_confiança_em	encarregar/consignar
@@ -6444,7 +6444,7 @@ decolagem	alfa/kickoff/início/abertura/madrugada/começo/investida
 diabo	íncubo/Sucubo/Íncubo/súcubo/Incubo
 Aldose	Aldohexose/Aldohexoses/aldo-hexose
 desvalorizar	rebaixar/aviltar/baixar
-remunerações	comissão/_preço_de_entrada/portagem/pedágio
+remunerações	comissão/preço_de_entrada/portagem/pedágio
 margarida-vulgar	Bellis_perennis
 conservantes	especiaria/espechiaria
 tamanho	comprimento_da_circunferência/extensão/circunferência/perímetro/distância
@@ -6578,7 +6578,7 @@ matarruano	parvo/débil_mental/burro/retardado/pateta/boboca/cretino/agrião-mou
 latitude	círculo_polar/trópico
 conjunção	anastomose/sobreposição/concomitância/tangência
 serra	serra_tico-tico/motosserra/serra_de_cadeia/serra_de_arco/serrote
-apresentação	feira/reintrodução/tabela_de_Snellen/truque/canção_do_cisne/bis/malabarismo/exibição/cabaré/Improvisação/circo/ilusão/Artes_circenses/magia/cabaret/quermesse/_carnaval/interpretação/exposição/demonstração/Espetáculo/espetáculo/produção
+apresentação	feira/reintrodução/tabela_de_Snellen/truque/canção_do_cisne/bis/malabarismo/exibição/cabaré/Improvisação/circo/ilusão/Artes_circenses/magia/cabaret/quermesse/carnaval/interpretação/exposição/demonstração/Espetáculo/espetáculo/produção
 palco	proscênio/cenografia
 pegureiro	cabreiro/pastora/pastor/Pastor_de_rebanho
 selecção	preferido/favorita/favorito/preferida/banda/amostragem/técnicas_de_amostragem/eleição/votação/voto/vontade/escolha/decisão/resolução
@@ -6725,7 +6725,7 @@ Ciências_Sociais	proxêmica/ciência_política/política/Sociologia/sociologia/
 Maldição	maldição/anátema/imprecação
 ataque_de_nervos	neurastenia
 gerador	oscilação/oscilador/alternador/dínamo/Dinamo/Dínamo
-_lampejo	revelação/achado/descoberta
+lampejo	revelação/achado/descoberta
 explicar	descrever/paliar/esclarecer/pleitar/mitigar/remediar/atenuar/elucidar/interpretar/comentar/expor/elaborar/elocubrar/expandir
 trincheira	valo/vala/ameia/rego/calha
 divisar	achar/ver/descobrir/detectar
@@ -6949,7 +6949,7 @@ linguagem_orientada_a_objectos	Linguagem_de_programação_Java/Java/Linguagem_de
 consolo	lado_bom
 criminologia	Penologia
 divisor_de_tensão	potenciômetro/Potenciómetro
-face	rosto/fisionomia/Fisiognomia/_parte_de_cima/topo/traseiro/rabo/parte_traseira/dianteira/frente/parte_inferior/fundo/parte_de_baixo
+face	rosto/fisionomia/Fisiognomia/parte_de_cima/topo/traseiro/rabo/parte_traseira/dianteira/frente/parte_inferior/fundo/parte_de_baixo
 corrosão	ferrugem/oxidação
 robustez	pressão/sangue_vital
 Tintura	iodo
@@ -6969,7 +6969,7 @@ rodela	filé/costeleta/escalope/costoleta
 alcatrão	Alcatrão_da_hulha/alcatrão_da_hulha
 linha	rota_aérea/linha_de_scrimmage/rodada/trilha/circuito/rota_de_comércio/Rotas_de_comércio/curso/rumo/direcção/direção/órbita/meta/filaúnica/umapósooutro/fila/bicha/toa/corda/brandái/Amarra/encabeçamento
 oscilação	Oscilador_de_cristal/ressonância/Batimentos/Ressonancia/Libração/Ripple/transiente
-reunião	centralização/par/congregação/_hora_marcada/recolha/acampamento/aglomeração/Quorum/congresso/conclave/compilação/Conquiliologia/contingente/arrecadação/foro/sessão/inspeção/octeto/caucus/quinteto/quadrilha/mobilização/prédio/sexteto/ponto_de_encontro/concentração/convenção/Ordem_alfabética/acampamentos/malta/cúpula/quórum/súcia/rendez-vous/convocação/dupla/hora_combinada/Congresso/rendezvous/local_combinado/ano/congressos/gangue/cáfila/fórum/cimeira/Cimeira/bando/vistoria/visita/encontro/conferência/concílio/comitiva/séquito/povo/massa/público/audiências/ouvintes/curso/aula/classe/quarteto/município/municipalidade/feira/grande_reunião_popular/Reunião/assembléia/assembleia/manifestação/turba/montão/multidão/trio/trindade/tríade/comunidade/Comunidade/elenco/compromisso/filatelia/Designers_de_selos/colheita
+reunião	centralização/par/congregação/hora_marcada/recolha/acampamento/aglomeração/Quorum/congresso/conclave/compilação/Conquiliologia/contingente/arrecadação/foro/sessão/inspeção/octeto/caucus/quinteto/quadrilha/mobilização/prédio/sexteto/ponto_de_encontro/concentração/convenção/Ordem_alfabética/acampamentos/malta/cúpula/quórum/súcia/rendez-vous/convocação/dupla/hora_combinada/Congresso/rendezvous/local_combinado/ano/congressos/gangue/cáfila/fórum/cimeira/Cimeira/bando/vistoria/visita/encontro/conferência/concílio/comitiva/séquito/povo/massa/público/audiências/ouvintes/curso/aula/classe/quarteto/município/municipalidade/feira/grande_reunião_popular/Reunião/assembléia/assembleia/manifestação/turba/montão/multidão/trio/trindade/tríade/comunidade/Comunidade/elenco/compromisso/filatelia/Designers_de_selos/colheita
 jogo_de_cartas	Dominó_de_baralho/bacará/póquer/blackjack/paciência/Uíste/pôquer/Paciência/vinte-e-um
 Gravitação	queda
 mentor	sábio
@@ -6980,7 +6980,7 @@ Céu	Valhala/Cidade_de_Deus/Jardim_do_eden/Jardim_do_Éden/Éden/Cidade_de_deus/
 elefante	elefante-africano/Elefante_Africano/Elefante_africano/mamute
 preservar	economizar/desidratar/prosseguir/mumificar/refrigerar/prolongar/poupar/continuar/alongar/sustentar/enlatar/pôr_em_conserva/salgar/registrar/registar/perseverar/persistir/perpetuar
 jogo	Jogo_Amistoso/par/brigadegalo/quíntuplo/Conjunto_unitario/produto_cartesiano/unitário/Jogo_amistoso/Conjunto_unitário/rinha_de_galo/Rinha_de_galo/singleto/quíntupla/parelha/conjunto/passatempo/Passa-tempo/hobby/Passatempos/luta/partida/combate/torneio/corrida/boliche/Boliche/jogo_de_cartas/jogo_de_fortuna_e_azar/esporte/Curling/jogo_de_salão/união/mobiliário/suíte/Suítes/classe/dentadura/dentama/dentição/tríade/Rodada_dupla/dobradinha/jogada/ataque/inning/entrada
-_envólucro	camuflagem
+envólucro	camuflagem
 xadrez	casa_de_detenção/grades/cárcere/cana/xilindró/Shogi/presídio/cadeia/prisão
 roqueiro	estrela_do_rock
 incorporação_(processos_industriais)	anexação
@@ -7036,7 +7036,7 @@ Particula_elementar	quark/lépton/Léptons/antipartícula/Anti-partícula/Hádro
 cartomante	sibila
 recolhedor	condutor
 toada	motivo/charanga/sintonia/fanfarra/tema/glissando
-emoção	entusiasmo/langor/admiração/desespero/camaradagem/sensibilidade/calma/sentimento/humildade/pesar/dor/bravura/afeto/ingratidão/gratidão/indiferença/paixão/desejo/transa/vergonha/orgulho/solenidade/ambivalência/apego/piedade/pretensão/comoção/espanto/afete/apetite/cruzes/apatia/seriedade/abalo/surpresa/auto-estima/tristeza/compaixão/simpatia/Dor/valentia/anseio/reverência/angústia/ardor/carinho/sex/afecção/felicidade/sexo/tranquilidade/afetividade/esperança/prazer/terror/consternação/temor/medo/susto/afeição/amor/raiva/ira/cólera/zanga/humor/espírito/_estado_emocional/alegria/aversão/ódio/ânsia/ansiedade/preocupação
+emoção	entusiasmo/langor/admiração/desespero/camaradagem/sensibilidade/calma/sentimento/humildade/pesar/dor/bravura/afeto/ingratidão/gratidão/indiferença/paixão/desejo/transa/vergonha/orgulho/solenidade/ambivalência/apego/piedade/pretensão/comoção/espanto/afete/apetite/cruzes/apatia/seriedade/abalo/surpresa/auto-estima/tristeza/compaixão/simpatia/Dor/valentia/anseio/reverência/angústia/ardor/carinho/sex/afecção/felicidade/sexo/tranquilidade/afetividade/esperança/prazer/terror/consternação/temor/medo/susto/afeição/amor/raiva/ira/cólera/zanga/humor/espírito/estado_emocional/alegria/aversão/ódio/ânsia/ansiedade/preocupação
 Hidroaviões	hidroavião/hidravião
 derrotar	sobreviver/trapacear/superar_pela_força/conquistar/sacanear/roubar/triunfar/apresentar_melhor_que/ser_melhor_que/dar_xeque-mate/subjugar/bater/vencer/superar/ultrapassar/demolir/destruir
 cromossomo	Autossomo
@@ -7059,7 +7059,7 @@ Bode	cabrita/cabrito/cabra/bode
 fazer_alusão_a	insinuar/reportar-se/aludir/fazer_alusã_oa
 tecido_têxtil	pelúcia/raiom/veludo_cotelê/quilting/elastano/musselina/feltro/veludo/Cretone/Camurça/Organza/tartan/lã/linho/caxemira/seda/brokat/Tafetá/Percal/velcro/Flanela/Mohair/fibra/lona/crepe/cetim/Cambraia/algodão/malha/Cetim/damasco/Denim/sarja/tweed/crinolina/renda/baeta/denáilon/poliéster/batik/lã_penteada/fibras/tafetá/estambre/Musselina/lanígero/lã_cardada/peluche/rede/flanela/Sarja/cambraia/batista/Poliester/brocado/trama/náilon/tecido_de_linho/pano
 beca	veste_litúrgica
-contemplar	perguntar-se/cogitar/premeditar/teologizar/_introspectar/refletir/entreter/perguntar_se/questionar/ponderar/perguntar/considerar/julgar/pensar
+contemplar	perguntar-se/cogitar/premeditar/teologizar/introspectar/refletir/entreter/perguntar_se/questionar/ponderar/perguntar/considerar/julgar/pensar
 esbulhar	conquistar/apropriar-se/capturar
 quantia	probabilidade/volume/quantum/octanagem/valor/jogo/turno/rodada/momento/instante/unidade_de_tempo/Unidades_de_tempo/tempo/intervalo/intervalo_de_tempo
 desenhar	pautar/redesenhar/engendrar/projetar/traçar/conceber/bosquejar/rascunhar/diagramar/plotar/delinear/sombrear
@@ -7165,7 +7165,7 @@ Fenómeno_óptico	incidência/polarização/banda_de_absorção/efeito_Tyndall/d
 arma_de_fogo	ack-ack-ack/pistola/Pistolas/refle/rifle/Espingardas/fuzil/escopeta/Caçadeira/espingarda/caçadeira
 bem	lucratividade/bens_esportivos/especialidade/tesouro/importação/exportação/aquele_que_entra/rentabilidade/saqué/comando_exportar/ponto_forte/forte/produto/mercadorias/fazenda/mercadoria/artigo/bens_de_consumo/futuro/handicap/lucro/utilidade/vantagem/recurso/dinheiro/benefício/possessão/propriedade/bens/ativos/ativo/recursos/activos/obrigação
 travessia	migrações_diárias/peregrinação/circum-navegação/Circumnavegação/jornada/viagem/vagabundagem/vagear/parada/etapa/aviação/passeio/caminhada/andada/condução
-dar	distribuir/frutificar/dispensar_/lembrar/vender/abrir/agregar/gratificar/brindar/infectar/engasgar/dotar/passar/doar/confiar_algo_a_alguém/comissionar/confiar/fazer_doação_de/ter_confiança_em/submeter-se/presentear/encarregar/encomendar/incumbir/sucumbir/adjudicar/frutar/contagiar/apresentar/livrar/alienar/transferir/liberar/desobrigar/abandonar/transmitir/render-se/ceder/legar/deixar/proporcionar/cotar/oferecer/retornar/depositar/pagar/provisionar/servir/contribuir/emprestar/prestar/arrendar/alugar/financiar/manter/lidar/suprir/fornecer/prover/abastecer/permitir/outorgar/entregar/conceder
+dar	distribuir/frutificar/dispensar/lembrar/vender/abrir/agregar/gratificar/brindar/infectar/engasgar/dotar/passar/doar/confiar_algo_a_alguém/comissionar/confiar/fazer_doação_de/ter_confiança_em/submeter-se/presentear/encarregar/encomendar/incumbir/sucumbir/adjudicar/frutar/contagiar/apresentar/livrar/alienar/transferir/liberar/desobrigar/abandonar/transmitir/render-se/ceder/legar/deixar/proporcionar/cotar/oferecer/retornar/depositar/pagar/provisionar/servir/contribuir/emprestar/prestar/arrendar/alugar/financiar/manter/lidar/suprir/fornecer/prover/abastecer/permitir/outorgar/entregar/conceder
 enriquecimento_(nutrientes)	fortificação/fecundação/fertilização/Fecundaçao/fertilização_do_solo
 putout	escolha_do_defensor
 aproximação	acesso
@@ -7374,7 +7374,7 @@ Esportes_de_corrida	Automobilismo/automobilismo/Turfe
 gnosticismo	Mandeísmo
 unidade_linguística	lexema/colocação/sílaba/antenome/nome/nome_próprio/nome_de_batismo/primeiro_nome/prenome/verbo/palavra/termo/vocábulo/morfema/fonema/fone
 vasilhame	incensário/Forno_cadinho/almofariz/tina/cadinho/cuba/mamadeira/crisol/tonel/morteiro/banho/gral/turíbulo/barril/Barril/pote/tanque/cisterna/botelha/frasco/biberão/Garrafa/caldeiras/caldeira/caldeira_de_vapor/cubeta/caçamba/balde/bacia/tigela/vasilha/garrafa/assadeira/autoclave/banheira/concha/ostensório/Ostensório/custódia
-requerimento	notificação/demanda/facturação/ordem/coleção/_solicitação/faturação/candidatura/invitação/convite/apelo/súplica/inquérito/pergunta/questão/petição/oração/reza
+requerimento	notificação/demanda/facturação/ordem/coleção/solicitação/faturação/candidatura/invitação/convite/apelo/súplica/inquérito/pergunta/questão/petição/oração/reza
 autoestrada	rodovia/estrada/vias_rápidas/Autobahn/pedágio
 uma_comunicação	contato/objeção/dissuasão/contacto/transmissão/canal/Dramaturgia/teatro/dramaturgia/expressão/exame/teste/discussão/discurso/correio/convencimento/persuasão
 mobília	pia/bufete/prateleiras/Guardarroupas/guarda-roupas/Estante/lâmpada/Lâmpadas/assento/cadeira/gaveteiro/aparelhador/cômoda/cômodas/cómoda/armário/estante/mesa/reposteiro/cortina/tapeçaria/carpete/tapete/alcatifa/alfaia/mobiliário/movéis/móvel/aparelhagem
@@ -7598,13 +7598,13 @@ número_puramente_imaginário	conjugado/número_real/Número_real/Números_reais
 chover_fortemente	jorrar/chover
 monarquia	reino/império
 conciliador	pacificador
-chutar	subestimar/considerar/avaliar/quantizar/menosprezar/fazer_pouco/contar_/estimar
+chutar	subestimar/considerar/avaliar/quantizar/menosprezar/fazer_pouco/contar/estimar
 Relação_sexual_humana	metida/sexo/trepada/foda
 Celulose	carboximetilcelulose/Carboximetilcelulose/pectina
 descobridor	patenteador
 conceito	conceito_lexicalizado/cogitação/teorema/preocupação/caprichoso/mal-entendido/erro/sentido/significado/plano/intenção/projecto/planos/programa/programação/traçado/projeto/opinião/impressão/crença/inspiração/generalização/generalidade/concepção/tema/motivo/totalidade/ideia/idéia/noção/quantidade/número/soma/componente/atributo/propriedade/qualidade/carácter_distintivo/teoria/possibilidade/hipótese/suposição/formulação/abstracção/classe/família/categoria/lei/regra/norma/regulamento/regulamentos/direito_natural/Direito_Natural/legislação_sobre_a_natureza
 recriar	contrafazer/reencenar/modelar/regenerar/falsificar/simular/figurar/encenar/fazer/desempenhar/apresentar/atuar/representar/renovar/tocar/retocar/executar
-organismo	híbrido/protobionte/nativo/recombinante/Mirmecofilia/clone/pais/anão/Mascote/Haplóide/anaeróbio/procariotas/bentos/mutantes/Eucariontes/Heterotrofismo/anfitrião/haploide/Eukaryota/eucariota/hospedeiro/eucarionte/eukaryota/Procariontes/bionte/mutante/Mascotes/mutação/progenitor/procarionte/_mestiço/mascote/alma/ser_humano/alguém/fungos/fungo/comensalismo/parasita/indivíduo/pessoa/microorganismo/microrganismo/animal/bicho/besta/flora/planta/vegetal/nécton/Plancton/plâncton/criatura/ser/vida/célula
+organismo	híbrido/protobionte/nativo/recombinante/Mirmecofilia/clone/pais/anão/Mascote/Haplóide/anaeróbio/procariotas/bentos/mutantes/Eucariontes/Heterotrofismo/anfitrião/haploide/Eukaryota/eucariota/hospedeiro/eucarionte/eukaryota/Procariontes/bionte/mutante/Mascotes/mutação/progenitor/procarionte/mestiço/mascote/alma/ser_humano/alguém/fungos/fungo/comensalismo/parasita/indivíduo/pessoa/microorganismo/microrganismo/animal/bicho/besta/flora/planta/vegetal/nécton/Plancton/plâncton/criatura/ser/vida/célula
 Nutrientes	água/água_(substância)
 tubo	stent/canudo/sifão/Tubo_de_torpedo/tubo_de_ensaio/zarabatana/cânula/Tubo_de_ensaio/ducto/tubulação/condutas/canal/duto/cateter/câmara_de_ar/capilar/cachimbo/mangueira/piteira/vaso/Cóclea/caracol/cóclea
 morro	planalto/colina/outeiro
@@ -7652,7 +7652,7 @@ deglutir	devorar
 dedicar	consagrar/rededicar
 troca	dilema/compromisso
 medo	pessimismo/histeria/pânico/intimidação/medo_de_palco/ataque_de_pânico/pavor/tremura/pressentimento/Arrepio/temor/tremedeira/terror/arrepio/dor/calafrio/estupefação/consternação
-habilidade	equitação/fluência/bilinguismo/instinto/Abilidade/eficiência/coordenação/Totipotência/liderança/penetracão/originalidade/náutica/proficiência/aptidão/controle/faculdade/criatividade/Criatividade/ciência/inteligência/meta/talento/método/métodos/metodo/Método/sapiência/sabedoria/arte/alfabetismo/alfabetização/técnica/facilidade/_competência/conhecimento/especialidade/perícia/especializado/competência/capacidade/potencialidade/Interoperabilidade/interoperabilidade/adaptabilidade/sensibilidade
+habilidade	equitação/fluência/bilinguismo/instinto/Abilidade/eficiência/coordenação/Totipotência/liderança/penetracão/originalidade/náutica/proficiência/aptidão/controle/faculdade/criatividade/Criatividade/ciência/inteligência/meta/talento/método/métodos/metodo/Método/sapiência/sabedoria/arte/alfabetismo/alfabetização/técnica/facilidade/competência/conhecimento/especialidade/perícia/especializado/competência/capacidade/potencialidade/Interoperabilidade/interoperabilidade/adaptabilidade/sensibilidade
 redacção	exérese/copidesque
 passar_por	ter/contrair/sofrer
 progressão	carriera/progresso/empurrão/carniça/eixo-badeixo/marcha/progressão_geométrica/progressão_aritmética
@@ -7737,7 +7737,7 @@ sensibilidade	sensibilização/sentimentos/Hipersensibilidade/excitabilidade/di�
 sentir_o_gosto	degustar
 aeroporto	pista/heliporto/aeródromo
 doutorado	Cirurgião-dentista/Dentistas/Cirurgião_dentista
-requisição	notificação/demanda/facturação/ordem/coleção/_solicitação/faturação/candidatura/invitação/convite/apelo/súplica/inquérito/pergunta/questão/petição/oração/reza
+requisição	notificação/demanda/facturação/ordem/coleção/solicitação/faturação/candidatura/invitação/convite/apelo/súplica/inquérito/pergunta/questão/petição/oração/reza
 deitar-se	prostar
 telescópio_refractor	luneta
 colorizar	manchar/dourar/pigmentar/rosear/pratear/riscar/enfatizar/tingir/avermelhar/vermelhar
@@ -7869,7 +7869,7 @@ electrão	Electrão_de_valência
 póquer	Pôquer_fechado/strip_pôquer/Pôquer_aberto
 televisão	Circuito_fechado_de_televisão/televisão_de_alta_definição/televisão_a_cabo/Televisão_em_cores/televisão_à_cores
 directoria	cortesã/odalisca/concubina
-solicitação	demanda/notificação/facturação/ordem/coleção/_solicitação/faturação/candidatura/invitação/convite/apelo/súplica/inquérito/pergunta/questão/petição/oração/reza
+solicitação	demanda/notificação/facturação/ordem/coleção/solicitação/faturação/candidatura/invitação/convite/apelo/súplica/inquérito/pergunta/questão/petição/oração/reza
 veracidade	verdade/sinceridade
 lavar-se	gargarejar/esfregar/enxaguar/bochechar
 controvérsia	desavença/rixa/contestação/altercação/polémica/polêmica/discussão/disputa
@@ -7911,10 +7911,10 @@ falésia	precipício
 debater-se	aguerrir/esgrimir/duelar/conduzir/pugnar/guerrear/batalhar_uns_contra_os_outros/boxear/boxar/opor_se/resistir/opor-se/brigar/assaltar/atacar/lutar/batalhar/combater
 veículos_abandonados	escombros/entulho/ruínas/restos/destroços/sucata_metálica
 orientação	reorientação/visar/Horizontal/apontar/heterodoxia/heresia/ideologia/visão/posição/perspectiva/condução/navegação/pilotagem
-mergulhar	pular_de_paraquedas/_saltar_de_paraquedas
+mergulhar	pular_de_paraquedas/saltar_de_paraquedas
 açucena	Lilium_columbianum/Lilium_philadelphicum/Lilium_canadense/Lilium_martagon/Lilium_auratum
 tafeiro	comissária_de_voo/hospedeira/comissária_de_bordo/aeromoça
-_estimativa	conjetura/Nota_de_risco
+estimativa	conjetura/Nota_de_risco
 fator	Fator_intrínseco/parâmetro/parâmetros/ponto
 Peptideo	endorfina
 Flavivírus	vírus_do_Oeste_do_Nilo
@@ -8004,7 +8004,7 @@ apressar-se	esvoaçar/borboletear/correr
 água-marinha	esmeralda
 tolo	asno/otário/idiota/estúpido/bufão
 paciente	paciente_internado/Paciente_zero/paciente_ambulatorial/Paciente_Zero/paciente_externo/paciente_não_internado
-desafortunado	Jó/agourento/sobrevivente/vítima/carpideira/perdedor/_fracassado/refém/preso/prisioneiro_de_guerra/cativo/prisioneiro
+desafortunado	Jó/agourento/sobrevivente/vítima/carpideira/perdedor/fracassado/refém/preso/prisioneiro_de_guerra/cativo/prisioneiro
 partido_político	Partido_da_Proibição/Kuomintang/Dixiecrat/Partido_Democrata-Republicano/oposição/Gironda
 Doutorado	Cirurgião-dentista/Dentistas/Cirurgião_dentista
 assimilação	americanização/ocidentalização/anabolismo
@@ -8015,7 +8015,7 @@ realizar	bastar/encarnar/furar/fazer_o_seu_melhor/consumar/dinamitar/fazer_camin
 projecto	figura/regime/verba/esquema/orçamento/ilustração/projeto/desenho/plano/cronograma/ordem_do_dia/horário/programa
 começo	casus_belli/germinação/alfa/incipiência/instalação/kickoff/retomada/abertura/activação/madrugada/inauguração/investida/ativação/prestação/posse/nascimento/causa/procissão/constituição/organização/estabelecimento/iniciativa/lançamento/apresentação/pedra_fundamental/Pedra_Fundamental/introdução/instituição/fundação/emergência/crescimento/gênese/iniciação/origem/princípio/decolagem/início/criação/concepção
 câmera_fotográfica	câmara/Câmeras_digitais/Câmera_digital/Camera_digital/câmera
-comunidade	bioma/imigração/paróquia/público/colégio_eleitoral/vila/horda/povoado/aldeia/Freguesias/Bioma/Biomas/paroquianos/Umma/vizinhança/bairro/associação/constituintes/eleitores/_votantes/corpo/cristandade/cristianismo/assentamento/colônia/Ulema/ulemá/júri/Júri/corpo_docente/grupo_profissional/administração/organização/universidade/instituição_de_ensino_superior/faculdade/instituto/IES/escola/Colégio_Cardinalício/Colégio_dos_Cardeais/Colégio_dos_cardeais
+comunidade	bioma/imigração/paróquia/público/colégio_eleitoral/vila/horda/povoado/aldeia/Freguesias/Bioma/Biomas/paroquianos/Umma/vizinhança/bairro/associação/constituintes/eleitores/votantes/corpo/cristandade/cristianismo/assentamento/colônia/Ulema/ulemá/júri/Júri/corpo_docente/grupo_profissional/administração/organização/universidade/instituição_de_ensino_superior/faculdade/instituto/IES/escola/Colégio_Cardinalício/Colégio_dos_Cardeais/Colégio_dos_cardeais
 chegar_la-metaforicamente	chegada/conseguimento/vinda/advento
 ravina	desfiladeiro/canhão/garganta
 ritmo	taxa_de_mortalidade/tempo_duplo/síncope/lentidão/km/h/taxa_de_criminalidade/palavras_por_minuto/constante_solar/taxa_de_cancelamento/taxa_de_natalidade/espaçamento/caminhada_fitness/taxa_de_transferência_de_dados/gigahertz/Milha_por_hora/velocidade_de_hemossedimentação/vagarosidade/mortalidade/quilômetros_por_hora/ppm/celeridade/rapidez/velocidade/taxas/aceleração/desaceleração/taxa_de_crescimento/MHz/megahertz/quilohertz/bits_por_segundo/taxa_de_amostragem/Retorno_sobre_investimento/hertz/Frequencia/frequência/freqüência/Freqüência_cardíaca/Freqüência_cardiaca/Frequência_cardíaca/caudal/fluxo
@@ -8096,7 +8096,7 @@ aferrar	acomodar
 príncipe	marajá/arquiduquesa/arquiduque/grão-duque/Grão-duque/Príncipe_consorte/Príncipe_de_Gales
 abster	jejuar
 curso	trilha/propedêutica/sul/moda/norte/educação_de_jovens_e_adultos/seminário/Propedêutica/educação_de_adultos/tendência/oposição/orientação/Orientação/caminho
-conter_	tolher
+conter	tolher
 câmera	câmara/camcorder/Câmeras_digitais/Câmera_digital/Camera_digital/câmera_filmadora
 psicodinâmica	dinâmica_de_grupo
 veículos_motorizados	kart/4x4/anfíbio/carrinho_de_golfe/rabecão/carro_fúnebre/veículo/auto/viatura/automóvel/máquina/carro/camiões/camião/Camiões/caminhão/motocicletas/Motos/motocicleta/mota/moto
@@ -8196,7 +8196,7 @@ contestar	apelar/desafiar/disputar
 sandália	alpargata
 ser_suficiente	qualificar/qualificar-se/servir
 embolia	embolia_pulmonar/aeroembolismo/Embolia_gordurosa/embolia_gordurosa
-pensar_sobre	preocupar_(se)_/considerar/importar_(se)_
+pensar_sobre	preocupar_(se)/considerar/importar_(se)
 operação_cirúrgica	artroscopia/castração/cateterismo/craniotomia/resecção/criocirurgia/Neurocirurgia/desbridamento/osteotomia/Miringotomia/amputação/angioplastia/gastrostomia/rizotomia/vasovasostomia/curetagem/gastrectomia/vivissecção/vivisecção/Gastrostomia/traqueostomia/ablação/extirpação/cirurgia_plástica/Esterilização/esterilização/cauterização/transplante/transplantação_de_órgãos
 poeta	bardo/poetisa
 embutir	ninhar/envasar/aninhar/nidificar
@@ -8378,7 +8378,7 @@ Lipoproteína	Lipoproteína_de_baixa_densidade
 assinalar	significar/ler/cadastrar/registrar/mostrar
 equalizador	equação
 criada_de_quarto	empregada/donzela
-instruir	clarificar/retreinar/introduzir/tirar_a_fralda_(de_uma_criança)_/reforçar/esclarecer/edificar/educar/desfraldar/ensinar_por_repetição/indoutrinar/falar/palestrar/praticar/treinar
+instruir	clarificar/retreinar/introduzir/tirar_a_fralda_(de_uma_criança)/reforçar/esclarecer/edificar/educar/desfraldar/ensinar_por_repetição/indoutrinar/falar/palestrar/praticar/treinar
 besoiro	Caruncho/Cicindela/Gyrinidae/joaninha/coccinela/vaga-lume/pirilampo
 induzir_em_tentação	atrair/desencaminhar/engodar/seduzir
 computador_pessoal	computador_de_mesa/Computador_portátil/computador_portátil
@@ -8402,13 +8402,13 @@ Jack	contramestre/piloto/baleeiro
 sentir	arrepender-se/sustentar/recalcar/inclinar/orgulhar-se/orgulhar/desencantar/irritar-se/morrer/brilhar/arder/recapturar/simpatizar/congratular/enervar-se/considerar/lamentar/arrepender/radiar/sofrer/entristecer/alegrar/regozijar/alegrar-se/regozijar-se/enraivecer/irritar/zangar_se/entender/pegar
 homem_livre	liberto
 maquilar	pintar/enfatizar/empoar/realçar
-grupo	grupo_abeliano/Marching_band/Actinídeo/imigração/par/escultura/Coagulação_sangüínea/pira/Declinação/coorte/Asia/farpa/comboio/quíntuplo/Europa/herbário/banda_militar/fornada/biblioteca_de_rotinas/repertório/Terceiro_mundo/Família_dos_violinos/tesouro/América_do_Sul/universo/monte_de_lenha/estoque/pacote/público/sambaqui/Conjunto_unitario/produto_cartesiano/Camada_eletrónica/biologia/colégio_eleitoral/edição/sexo/informação/jet_set/colagem/Nuvem_de_oort/América_Central/actinídeo/Coagulação/Coagulação_sanguínea/coágulo/grumo/unitário/biota/Banda_militar/Conjunto_unitário/multidão/Camada_eletrônica/declinação/Jet-set/Banda_marcial/Coagulação_Sanguínea/singleto/lote/quíntupla/dados/parelha/nuvem_de_Oort/Banda_Marcial/Nível_eletrônico/conjunto/actinídeos/trombo/reserva/Terceiro_Mundo/Ásia/camarilha/categoria_gramatical/farmacopéia/trânsito/tráfego/Tránsito/circulação/Transito/Trânsito/nebulosa/galáxia/Via_Láctea/mão/guarda-roupa/Mitologia/mitologia/mistura/encepamento/família/categoria/cúmulo/monte/Fauna/fauna/vegetação/flora/jogo/combinação/romaria/procissão/suma/frota/Exposições/exposição/lei/jurisprudência/ciências_jurídicas/biblioteca/pilha/união/mobiliário/suíte/Suítes/classe/dentadura/dentama/dentição/tríade/turma/enxame/Halogénio/halogênio/comunidade/arranjo/espécie_humana/humanidade/homem/mundo/lantanídio/Terras_raras/Lantanídeo/lantanídeo/casta_social/montão/colecção/ruma/chusma/coleção/acúmulo/aglomeração/linhagem/raças_humanas/cidadania/pessoas/população/povo/gente/massa/reino/Grupo_étnico/grupo_étnico/raça/Etnicidade/etnia/grupos_sociais/sistema/subgrupo/associação/constituintes/eleitores/_votantes/corpo/cristandade/cristianismo/assentamento/colônia/Ulema/ulemá/júri/Júri/corpo_docente/grupo_profissional/administração/organização/universidade/instituição_de_ensino_superior/faculdade/instituto/IES/escola/Colégio_Cardinalício/Colégio_dos_Cardeais/Colégio_dos_cardeais
+grupo	grupo_abeliano/Marching_band/Actinídeo/imigração/par/escultura/Coagulação_sangüínea/pira/Declinação/coorte/Asia/farpa/comboio/quíntuplo/Europa/herbário/banda_militar/fornada/biblioteca_de_rotinas/repertório/Terceiro_mundo/Família_dos_violinos/tesouro/América_do_Sul/universo/monte_de_lenha/estoque/pacote/público/sambaqui/Conjunto_unitario/produto_cartesiano/Camada_eletrónica/biologia/colégio_eleitoral/edição/sexo/informação/jet_set/colagem/Nuvem_de_oort/América_Central/actinídeo/Coagulação/Coagulação_sanguínea/coágulo/grumo/unitário/biota/Banda_militar/Conjunto_unitário/multidão/Camada_eletrônica/declinação/Jet-set/Banda_marcial/Coagulação_Sanguínea/singleto/lote/quíntupla/dados/parelha/nuvem_de_Oort/Banda_Marcial/Nível_eletrônico/conjunto/actinídeos/trombo/reserva/Terceiro_Mundo/Ásia/camarilha/categoria_gramatical/farmacopéia/trânsito/tráfego/Tránsito/circulação/Transito/Trânsito/nebulosa/galáxia/Via_Láctea/mão/guarda-roupa/Mitologia/mitologia/mistura/encepamento/família/categoria/cúmulo/monte/Fauna/fauna/vegetação/flora/jogo/combinação/romaria/procissão/suma/frota/Exposições/exposição/lei/jurisprudência/ciências_jurídicas/biblioteca/pilha/união/mobiliário/suíte/Suítes/classe/dentadura/dentama/dentição/tríade/turma/enxame/Halogénio/halogênio/comunidade/arranjo/espécie_humana/humanidade/homem/mundo/lantanídio/Terras_raras/Lantanídeo/lantanídeo/casta_social/montão/colecção/ruma/chusma/coleção/acúmulo/aglomeração/linhagem/raças_humanas/cidadania/pessoas/população/povo/gente/massa/reino/Grupo_étnico/grupo_étnico/raça/Etnicidade/etnia/grupos_sociais/sistema/subgrupo/associação/constituintes/eleitores/votantes/corpo/cristandade/cristianismo/assentamento/colônia/Ulema/ulemá/júri/Júri/corpo_docente/grupo_profissional/administração/organização/universidade/instituição_de_ensino_superior/faculdade/instituto/IES/escola/Colégio_Cardinalício/Colégio_dos_Cardeais/Colégio_dos_cardeais
 Dólar_Americano	eurodólar
 Hormônios	corticotrofina/catecolamina/Glucágon/melatonina/vasopressina/ocitocina/Hormônio_da_paratireóide/glucagon/oxitocina/corticotropina/Hormônio_da_paratireoide/esteróide/Hormônios_esteroides/Hormona_esteroide/esteróides/Hormona_esteróide/insulina/hormônio_do_crescimento/Hormonas_de_crescimento/Glicocorticoide/Glicocorticóide/Glicocorticoides/gonadotrofina/adranalina/adrenalina/epinefrina
 operador	elemento_neutro/maquinista/operador_de_rádio/identidade/chofer/condutor/motorista/conductor
 fazer_sexo	fornicar
 gozação	trote
-bagunça	transtorno_mental/discórdia/disfagia/Hiperatividade/acloridria/Distúrbio_da_fala/doença/instabilidade/incidente/dificuldades_de_aprendizagem/hidrocele_testicular/disúria/doença_cardiovascular/Colestase/engasgo/disfunção_alimentar/hidrocele/hiperatividade/colestase/transtorno_alimentar/Transtornos_de_aprendizagem/disordem_psicológica/Distúrbios_do_sono/distúrbios_do_sono/ninho_de_rato/zona/_zona/confusão/comoção/turbulência/anarquia
+bagunça	transtorno_mental/discórdia/disfagia/Hiperatividade/acloridria/Distúrbio_da_fala/doença/instabilidade/incidente/dificuldades_de_aprendizagem/hidrocele_testicular/disúria/doença_cardiovascular/Colestase/engasgo/disfunção_alimentar/hidrocele/hiperatividade/colestase/transtorno_alimentar/Transtornos_de_aprendizagem/disordem_psicológica/Distúrbios_do_sono/distúrbios_do_sono/ninho_de_rato/zona/zona/confusão/comoção/turbulência/anarquia
 adversidade	nadir/catástrofes_naturais/desastre/catástrofe/catástrofes
 Festa_móvel	Pascoa/Pessach/Páscoa/Páscoa_judaica
 mineiro	garimpeiro
@@ -8434,7 +8434,7 @@ agrimônia	Agrimonia_eupatoria
 Países_da_América_do_Norte	Países_da_América_Central
 crocodilo	crocodilo-do-nilo/crocodilo-de-água-salgada/Crocodilo_de_água_salgada
 refugiados	exilado/refugiados_políticos
-ataque	blitzkrieg/erupção/difamação/contra-ataque/Blitzkrieg/_paroxismo/calúnia/guerra_relâmpago/crise/bombardeio/tiro/invasão/acidente_vascular_cerebral/AVC/apoplexia/derrame/oclusão/enfarte_agudo_do_miocárdio/infarto_agudo_do_miocárdio/ataque_cardíaco/convulsão/assalto
+ataque	blitzkrieg/erupção/difamação/contra-ataque/Blitzkrieg/paroxismo/calúnia/guerra_relâmpago/crise/bombardeio/tiro/invasão/acidente_vascular_cerebral/AVC/apoplexia/derrame/oclusão/enfarte_agudo_do_miocárdio/infarto_agudo_do_miocárdio/ataque_cardíaco/convulsão/assalto
 electricidade	galvanismo/Corrente_Alternada/corrente/Termoeletricidade/Usina_Hidrelétrica/piezoeletricidade/sinal/corrente_contínua/Energia_hidrelétrica/corrente_alternada/Piezoelectricidade/Piezoeletricidade/corrente_alterna/usina_hidrelétrica
 biólogo	zoólogo/citologista/naturalista/Microbiologistas/ecologista/zoologista/ecólogo/Geneticistas/geneticista/botânica/botanista/botânico
 pagamento	retribuição/crédito/miséria/seguro/parcela/amortização/realeza/remessa/numerário/tributo/Amortização/multa/suborno/dinheiro_de_suborno/auxílio/assistência/entrada/sinal/reembolso/bônus/incentivo/abono/recompensa
@@ -8561,7 +8561,7 @@ Pobreza	destituição/privação/pobreza/indigência/miséria
 Biologia_Molecular	biotecnologia
 gráficos	computação_gráfica
 idealizar	romantizar/deificar/deusificar/idolatrar
-descartar	debochar/enterrar/desabonar/esnobar/jogar_no_lixo/jogar_fora/desprestigiar/desacreditar/livrar-se_de_/desfazer-se/desaprender/abandonar
+descartar	debochar/enterrar/desabonar/esnobar/jogar_no_lixo/jogar_fora/desprestigiar/desacreditar/livrar-se_de/desfazer-se/desaprender/abandonar
 modificação	aceleração/Acomodação/Mutação/nascimento/revolução/dispersão/flutuação/desaceleração/surpresa/transmutação/aumento/abatimento/prejuízo/deformação/transição/variação/transformação/crescimento/estrago/dano/decréscimo/mutação/mudança/avaria/morte/personalização/adaptação
 línguas_esquimó-aleútes	Língua_aleúte/esquimó-aleútes/esquimó
 perfeição	refinamento
@@ -8682,7 +8682,7 @@ espingarda	carabina/Carabina/Winchester/fuzil_de_precisão
 croqui	design/esboço/desenho
 adequação	idoneidade/habitabilidade/qualificação
 lotear	reservar/separar/alocar
-lei	Lei_de_Avogadro/_indicações/Scotland_yard/Lei_de_charles/Lei_de_Hubble-Homason/Lei_de_Planck_da_Radiação/Lei_de_coulomb/Europol/Princípio_de_Exclusão_de_Pauli/lei_de_ação_das_massas/Estatística_de_Bose-Einstein/legislação_fiscal/Direito_empresarial/Lei_de_Boyle-Mariotte/direito_administrativo/Lei_de_Ohm/Principio_de_Pascal/Direito_Canônico/Lei_de_Proust/Estatística_de_fermi-dirac/direito_consuetudinário/Lei_da_partição_de_Nernst/Lei_de_henry/lei_de_Dalton/Estatística_de_Fermi-Dirac/Lei_de_dalton/lei_de_Henry/Common-law/Lei_de_proust/Leis/Common_Law/Direito_comercial/Princípio_de_Pascal/Lei_de_hubble-homason/Lei_de_ohm/Lei_de_Charles/Lei_de_avogadro/common_law/Princípio_de_pascal/lei_de_Coulomb/Direito_Canónico/Scotland_Yard/guia/regra/princípio/Real_polícia_montada_do_canadá/Real_Polícia_Montada_do_Canadá/gendarmaria/Gendarmaria/polícia_secreta/Schutzstaffel/SS/Schutz-staffel/Schutz-Staffel/limitação/restrição/Direito_internacional/charia/Chariá/lei_marcial/Lei_Marcial/Direito_civil/direito_romano-germânico/direito_civil/proibição/prescrição/Constituição/constituição/direito_público/Direito_público
+lei	Lei_de_Avogadro/indicações/Scotland_yard/Lei_de_charles/Lei_de_Hubble-Homason/Lei_de_Planck_da_Radiação/Lei_de_coulomb/Europol/Princípio_de_Exclusão_de_Pauli/lei_de_ação_das_massas/Estatística_de_Bose-Einstein/legislação_fiscal/Direito_empresarial/Lei_de_Boyle-Mariotte/direito_administrativo/Lei_de_Ohm/Principio_de_Pascal/Direito_Canônico/Lei_de_Proust/Estatística_de_fermi-dirac/direito_consuetudinário/Lei_da_partição_de_Nernst/Lei_de_henry/lei_de_Dalton/Estatística_de_Fermi-Dirac/Lei_de_dalton/lei_de_Henry/Common-law/Lei_de_proust/Leis/Common_Law/Direito_comercial/Princípio_de_Pascal/Lei_de_hubble-homason/Lei_de_ohm/Lei_de_Charles/Lei_de_avogadro/common_law/Princípio_de_pascal/lei_de_Coulomb/Direito_Canónico/Scotland_Yard/guia/regra/princípio/Real_polícia_montada_do_canadá/Real_Polícia_Montada_do_Canadá/gendarmaria/Gendarmaria/polícia_secreta/Schutzstaffel/SS/Schutz-staffel/Schutz-Staffel/limitação/restrição/Direito_internacional/charia/Chariá/lei_marcial/Lei_Marcial/Direito_civil/direito_romano-germânico/direito_civil/proibição/prescrição/Constituição/constituição/direito_público/Direito_público
 chefia	paxá/distribuidor/abrogador/mandatário/alocador/autoridade_civil
 corte	redução_de_custos/lombo/Sublime_Porta/bifsteque/Peito_bovino/bife/filé/carne_de_vaca/Sublime_porta/incisão
 catalisador	Enzimas/enzimas/enzima
@@ -8857,7 +8857,7 @@ plástico	teflon/baquelite/freio_ABS/poliéster/Polipropileno/Termoplastico/term
 forma_geométrica	triângulo/coluna/sólida/sólido/plano/Plano/figura/ligação/forma_redonda/reta
 promulgar	redecretar/declarar/trombetear/legislar
 Senado	Senado_dos_Estados_Unidos/Senado_dos_estados_unidos/Senado_dos_Estados_Unidos_da_América
-_hora_marcada	encontro
+hora_marcada	encontro
 nojo	asco/revulsão/abominação/execração/repugnância/repulsão/horror/repulsa/aversão/detestação/ódio
 estenose	estenose_pilórica/estenose_mitral
 consumir	tocar/drenar/enxugar/sorver/queimar/aproveitar_em_demasia/malhar/exaurir/esgotar/experimentar/sentir_o_gosto/provar/fumar/drogar_(se)/satisfazer/locupletar/saciar/fartar/encher/usar/alimentar-se/alimentar_se/ingurgitar/deglutir/engolir/comer/hospedar/tomar/beber
@@ -8936,7 +8936,7 @@ pinípedes	foca/morsa
 raíz	raiz_quadrada/cenoura/raiz_cúbica/rabanete/Raiz_Quadrada/rábano/ginseng/ácoro/rábanodecavalo/rábano-silvestre/chicória/mandioca/Mandragora/mandrágora
 assassínio	Assassinatos/fratricídio/Regicidas/linchamento/tiranicídio/Infanticidio/infanticídio/linchagem/sangue_coagulado/regicídio/assassinato/Regicídio/infanticida/assassínio_em_massa/assassinato_em_massa/carnificina/massacre/matança_do_porco/abate_de_animais/Assassínio_em_massa
 identificação	identidade/diagnose/diagnóstico
-abaixo-assinado	demanda/apelo/coleção/_solicitação/candidatura
+abaixo-assinado	demanda/apelo/coleção/solicitação/candidatura
 chamar	mobilizar/bipar/referir/denominar/nomear/mudar_de_nome/baptizar/apelidar/rebaptizar/rebatizar/alcunhar/batizar/intitular/renomear/convocar
 comarca	Protetorado/enclave/Protectorado/protetorado/Antigos_protetorados/áreas_residenciais/possessão/jurisdição/divisão_administrativa/divisão_territorial/distrito_administrativo/vizinhança/bairro/África_Oriental_Britânica
 psiquiatria	psicoterapia
@@ -8998,7 +8998,7 @@ plenitude	saciedade/total/totalidade
 prazer	encantamento/agradabilidade/deleite/alegria/volúpia
 trânsito	narcotráfico/tráfego_domicílio-trabalho/tráfego_aéreo/simonia
 célula_somática	Célula-tronco/Célula_de_schwann/célula_de_Schwann/célula-tronco/Célula_tronco/neurônio/neurónio/Célula_da_glia/Células_da_glia/Neuróglia/célula_vermelha/Célula_sanguínea/hemácia/glóbulo_vermelho/corpúsculo/hematócito/eritrócito/Células_sanguíneas/fagócito/Fagócitos/mastócito
-idioma	Bem-aventuranças/idioleto/metalinguagem/Língua_elamita/linguagem_objecto/pronúncia/palavras/vasconço/feitiço/Língua_chukoto/Ditado_popular/barragem/emprego/decalque/monólogo/língua_nativa/língua_morta/línguas_esquimó-aleútes/lingua_franca/Língua_hmong/Língua_indígena/língua_basca/Provérbios/metalanguage_scheme/pronunciação/Meta-linguagem/Línguas_esquimó-aleútes/Língua_Chukoto/Monólogo/prolação/Lingua_Franca/Língua_basca/Pronuncia/Bem-Aventuranças/língua_materna/Línguas_esquimo-aleútes/basco/Ditado_Popular/fórmula_mágica/_encantamento/linguagem_de_sinais/língua_de_sinais/linguagem_dos_sinais/mímica/língua_artificial/linguagem_artificial/língua_natural/linguagem/Lingua_natural/linguagem_natural/língua/Língua_Natural/debate/discussão/expressão/locução/conversa/conversação/eufemismo/expressão_idiomática/máxima/provérbio/adágio/ditado/aforismo/axioma/disfemismo/mote/cambial/lema/Lemas/ambiguidade/ambigüidade/Patoá/línguas_sino-tibetanas/Línguas_sino-tibetanas/Línguas_austronésias/Línguas_Khoisan/Línguas_khoisans/línguas_khoisan/afro-asiático/línguas_afro-asiáticas/Línguas_nilo-saarianas/línguas_indo-europeias/Línguas_indo-européias/línguas_austro-asiáticas/Línguas_austro-asiáticas/Línguas_caucasianas/Línguas_dravídicas/dravidianas/Língua_tonal/Línguas_tonais
+idioma	Bem-aventuranças/idioleto/metalinguagem/Língua_elamita/linguagem_objecto/pronúncia/palavras/vasconço/feitiço/Língua_chukoto/Ditado_popular/barragem/emprego/decalque/monólogo/língua_nativa/língua_morta/línguas_esquimó-aleútes/lingua_franca/Língua_hmong/Língua_indígena/língua_basca/Provérbios/metalanguage_scheme/pronunciação/Meta-linguagem/Línguas_esquimó-aleútes/Língua_Chukoto/Monólogo/prolação/Lingua_Franca/Língua_basca/Pronuncia/Bem-Aventuranças/língua_materna/Línguas_esquimo-aleútes/basco/Ditado_Popular/fórmula_mágica/encantamento/linguagem_de_sinais/língua_de_sinais/linguagem_dos_sinais/mímica/língua_artificial/linguagem_artificial/língua_natural/linguagem/Lingua_natural/linguagem_natural/língua/Língua_Natural/debate/discussão/expressão/locução/conversa/conversação/eufemismo/expressão_idiomática/máxima/provérbio/adágio/ditado/aforismo/axioma/disfemismo/mote/cambial/lema/Lemas/ambiguidade/ambigüidade/Patoá/línguas_sino-tibetanas/Línguas_sino-tibetanas/Línguas_austronésias/Línguas_Khoisan/Línguas_khoisans/línguas_khoisan/afro-asiático/línguas_afro-asiáticas/Línguas_nilo-saarianas/línguas_indo-europeias/Línguas_indo-européias/línguas_austro-asiáticas/Línguas_austro-asiáticas/Línguas_caucasianas/Línguas_dravídicas/dravidianas/Língua_tonal/Línguas_tonais
 vogal	ditongo/Schwa
 arqueólogo	Egiptólogos/egiptólogo
 história	mentirinha/conto_de_fadas/Lenda_urbana/Contos_de_fada/Parábola/boletim/boletim_informativo/furo_jornalístico/Cantiga_de_roda/despacho/mentira_branca/novela/estória/conto/mentira/newsletter/Lendas_urbanas/contos_de_fadas/alegoria/Apólogo/parábola/enredo/argumento/apólogo/mito/lenda/folclore
@@ -9052,7 +9052,7 @@ capacete	bacinete/morrião/Morrião/elmo/armet/Armet
 maleta	adido_de_embaixada/attaché/adido
 dispersão	rompimento
 sigilo	caráter_confidencial/confidencialidade
-sentimento	entusiasmo/langor/admiração/desespero/camaradagem/sensibilidade/calma/humildade/pesar/dor/bravura/afeto/ingratidão/gratidão/indiferença/paixão/desejo/transa/vergonha/orgulho/solenidade/ambivalência/apego/piedade/pretensão/comoção/espanto/afete/apetite/cruzes/apatia/seriedade/abalo/surpresa/auto-estima/tristeza/compaixão/simpatia/Dor/valentia/anseio/reverência/angústia/ardor/carinho/sex/afecção/felicidade/sexo/emoção/tranquilidade/afetividade/esperança/prazer/terror/consternação/temor/medo/susto/afeição/amor/raiva/ira/cólera/zanga/humor/espírito/_estado_emocional/alegria/aversão/ódio/ânsia/ansiedade/preocupação
+sentimento	entusiasmo/langor/admiração/desespero/camaradagem/sensibilidade/calma/humildade/pesar/dor/bravura/afeto/ingratidão/gratidão/indiferença/paixão/desejo/transa/vergonha/orgulho/solenidade/ambivalência/apego/piedade/pretensão/comoção/espanto/afete/apetite/cruzes/apatia/seriedade/abalo/surpresa/auto-estima/tristeza/compaixão/simpatia/Dor/valentia/anseio/reverência/angústia/ardor/carinho/sex/afecção/felicidade/sexo/emoção/tranquilidade/afetividade/esperança/prazer/terror/consternação/temor/medo/susto/afeição/amor/raiva/ira/cólera/zanga/humor/espírito/estado_emocional/alegria/aversão/ódio/ânsia/ansiedade/preocupação
 línguas_mon-khmer	Língua_Khmer/vietnamita/Língua_vietnamita/Língua_Vietnamita/Língua_khmer
 orla_marítima	costa/litoral
 Cacau	grão_de_cacau/cacau
@@ -9073,7 +9073,7 @@ ignorante	analfabeto
 fitoplâncton	diatomáceas/diatomácea
 intestino_grosso	cólon
 faiença	oveira/prato/louça/xícara/taça
-custo	contribuição/porte/comissão/roubalheira/custo_marginal/custo_de_vida/resgate/Capex/cifra/_preço_de_entrada/pagamento_adiantado/portagem/cobertura_de_seguros/custos_de_substituição/ágio/CAPEX/pedágio/número/porte_postal/despesa/custo_de_oportunidade/preço/preços/pagamento/recompensa/serviço/tarifa/sobrecarga/despesa_incidental/despesa_de_viagem/lucro/ganho/retorno/faturamento/rendimento/vermelho/prejuízo/perda
+custo	contribuição/porte/comissão/roubalheira/custo_marginal/custo_de_vida/resgate/Capex/cifra/preço_de_entrada/pagamento_adiantado/portagem/cobertura_de_seguros/custos_de_substituição/ágio/CAPEX/pedágio/número/porte_postal/despesa/custo_de_oportunidade/preço/preços/pagamento/recompensa/serviço/tarifa/sobrecarga/despesa_incidental/despesa_de_viagem/lucro/ganho/retorno/faturamento/rendimento/vermelho/prejuízo/perda
 encadenar	concatenar
 escorregar	serpentear/resvalar/derrapar/deslizar/surfar/patinar/planar
 Campanário	campanário
@@ -9103,7 +9103,7 @@ ama	empregada/donzela
 Acidose	acidose_respiratória/cetoacidose/acidose_metabólica
 constante	constante_de_Avogadro/constante_cosmológica/Constante_de_avogadro/velocidade_da_luz/Constante_universal_dos_gases_perfeitos/coeficiente/Constante_gravitacional_universal
 galardão	recompensa/Prêmio_Nobel/Oscar/prêmio/selo/Prémio_de_Roma/Óscar/Prix_de_Rome/bolsa_de_estudos/bolsa_de_estudo/Grau_acadêmico/Grau_académico/Graus_académicos/troféu/prémio/medalha/condecoração
-natureza	Corpo_Negro/Natureza/mecanismo/Casulo/tapete/casulo/corpo_negro/asterismo/parte/componentes_das_plantas/fragmento/restos_mortais/morto/defunto/constelação/fazerseuninho/ninho/mundo/cosmo/universo/criação/Universo/rocha/pedra/corpo_humano/corpo/cadáver/estrela/astro/corpo_celeste/_temperamento/disposição
+natureza	Corpo_Negro/Natureza/mecanismo/Casulo/tapete/casulo/corpo_negro/asterismo/parte/componentes_das_plantas/fragmento/restos_mortais/morto/defunto/constelação/fazerseuninho/ninho/mundo/cosmo/universo/criação/Universo/rocha/pedra/corpo_humano/corpo/cadáver/estrela/astro/corpo_celeste/temperamento/disposição
 ato	nulidade/mitzvá/coisa/bruxismo/exumação/busque/vampirismo/legitimação/forfeit/consulta/causalidade/uso/perda/recuperação/disposição/eliminação/contato/toque/parto/distribuição/ociosidade/insucesso/falha/habitação/ocupação/equalizador/equalização/escape/escapatória/fuga/implementação/aquisição/permanência/juízo/critica/julgamento/rejeição/partida/uma_comunicação/comunicação/comunicado/produção/actividades_de_produção/emergência/impedimento/interferência/propulsão/impulsão/descobrimento/descoberta/acto_de_fala/Atos_da_fala/paralização/ação/atividade/ação_em_grupo/estatuto/estatuo/decreto/acta/oposição/mudança/interação/bondade/amabilidade/delicadeza/gentileza/desempenho/execução/selecção/escolha/seleção/civilidade/esgrima/feito/conquista/consumação/façanha/realização/economia/contratação/agressão/hostilidade/curso/caminho/corrente/conduta/vinda/chegada
 anfitrião	anfitriã/anfitrioa
 Transtorno_de_personalidade	Transtorno_de_personalidade_anti-social/Transtorno_de_personalidade_antissocial
@@ -9126,7 +9126,7 @@ qualidade	inflamabilidade/inferioridade/PIB/passaporte/invariância/probabilidad
 Obra_de_Arte	pastiche
 plastídeo	cromoplasto/cloroplasto
 vetor	produto_vetorial/produto_externo/produto_vectorial/raio
-treinar	instruir/retreinar/fazer_marchar/trabalhar_como_aprendiz/tirar_a_fralda_(de_uma_criança)_/desfraldar
+treinar	instruir/retreinar/fazer_marchar/trabalhar_como_aprendiz/tirar_a_fralda_(de_uma_criança)/desfraldar
 pendão	bandeira/bandeira_branca/estandarte/cores/tricolor/Jolly_Roger/Jolly_roger/Bandeira_nacional/Bandeira_Nacional
 duração	Anicca/valor_da_nota/Limiar_de_atenção/continuação/prolongamento/permanência/reinado/prazo/período
 desacato	contempt_of_court
@@ -9168,7 +9168,7 @@ agrupamento	Pontuação/pontuação/categorização/Sistemas_de_classificação/
 inseticida	paration/diclorodifeniltricloretano/Rotenona/Lindano/DDT/rotenona/Ddt/Organofosfatos/organofosforados/Verde_de_Paris
 sintaxe	gramática_gerativa
 jazida	meio-campo/centro/centro_da_cidade/centro_médico/Inner_city/centro_da_cidade_(degradado)
-enumeração	contagem_regressiva/Censo_demográfico/recontagem/censo_demográfico/censo/retrocontagem/recenseamento/_contagem
+enumeração	contagem_regressiva/Censo_demográfico/recontagem/censo_demográfico/censo/retrocontagem/recenseamento/contagem
 dilema	Double_bind
 magia_negra	feitiço/Satanismo/satanismo/bruxaria
 surrar	socar/bater/açoitar/vergastar/flagelar/chibatar/chicotear
@@ -9225,7 +9225,7 @@ esfera	domínio/pelota/globo/glóbulo/esférula/bola_de_cristal/globo_terrestre/
 ranhura	andada/estria
 defensor	monitor/protecionista/ideologista/constitucionalista/democrata/federalista/secessionista/maoísta/observando/paladino/guerreiro/herói/seguidor/libertário/porta-voz/representante/fanático/xiita/separatista/guarda/tutor/guardião/bombeira/Bombeiro/Bombeiros/bombeiro/guarda-costas/padroeiro/patrono/orago
 cintilar	piscar/pestanejar
-região	buraco_negro/local_de_nascimento/terra_desconhecida/culturas_hidropónicas/relevo/quarteirão/atmosfera/sul/altura/Cintura_de_kuiper/ionosfera/ponto_final/quina/arena/vizinhança/área_urbana/área_central/zodíaco/Papua/meio_ambiente/mato/esfera_de_influência/extremidade/aeroespaço/norte/Sombra_de_chuva/lugar_sagrado/quadrante/distância/interior/bacia_hidrográfica/Países_Bálticos/laboratório/hemisfério/antípoda/mirante/clareira/cabo_de_frigideira/Zona_térmica/ponto_quente/meca/inferno/zonas_industriais/Colônia/vácuo/céu/heliosfera/albufeira/bacia/Paraíso/região_urbana/Parque_industrial/ar/santuário/Buraco-negro/Países_bálticos/terra_incógnita/área/áreas_urbanas/terra_natal/meio/vila/colônia/olimpo/colónia/paraíso/coração/entorno/lugar_de_nascimento/Cintura_de_Kuiper/cerque/Buraco_Negro/zona_urbana/Buracos_negros/alturas/parada/quadra/bloco/Zona_Rural/áreas_rurais/Zona_rural/extensão/traseiro/fundo/Condados_do_Reino_Unido/biosfera/casa_astral/_signo_do_zodíaco/_signo_/estrato/camada/junção/zona/sepultura/túmulo/tumba/cima/topo/pico/cume/esconderijo/localidade/cena/áreas_de_recreio/refúgios_(ecologia)/refúgios/refúgio/lugar_predileto/jazida/ancoradouro/região_de_espaço/terreno/campos/prados_naturais/prado/pradaria/gramado/locação/lugar/sítio/tapera/deserto/espaços_verdes/parque/paisagens_protegidas/parque_público/parque_natural/diamante/lote/campo_de_guerra/campo_de_batalha/oásis/praça/área_geográfica/região_geográfica/Teatro_de_Operações/campo/Teatro_de_operações/teatro/ambiente/districto/terra/território/circunscrição/país/distrito/circunscrição_administrativa/condado/comarca/regiões_biogeográficas/domínio
+região	buraco_negro/local_de_nascimento/terra_desconhecida/culturas_hidropónicas/relevo/quarteirão/atmosfera/sul/altura/Cintura_de_kuiper/ionosfera/ponto_final/quina/arena/vizinhança/área_urbana/área_central/zodíaco/Papua/meio_ambiente/mato/esfera_de_influência/extremidade/aeroespaço/norte/Sombra_de_chuva/lugar_sagrado/quadrante/distância/interior/bacia_hidrográfica/Países_Bálticos/laboratório/hemisfério/antípoda/mirante/clareira/cabo_de_frigideira/Zona_térmica/ponto_quente/meca/inferno/zonas_industriais/Colônia/vácuo/céu/heliosfera/albufeira/bacia/Paraíso/região_urbana/Parque_industrial/ar/santuário/Buraco-negro/Países_bálticos/terra_incógnita/área/áreas_urbanas/terra_natal/meio/vila/colônia/olimpo/colónia/paraíso/coração/entorno/lugar_de_nascimento/Cintura_de_Kuiper/cerque/Buraco_Negro/zona_urbana/Buracos_negros/alturas/parada/quadra/bloco/Zona_Rural/áreas_rurais/Zona_rural/extensão/traseiro/fundo/Condados_do_Reino_Unido/biosfera/casa_astral/signo_do_zodíaco/signo/estrato/camada/junção/zona/sepultura/túmulo/tumba/cima/topo/pico/cume/esconderijo/localidade/cena/áreas_de_recreio/refúgios_(ecologia)/refúgios/refúgio/lugar_predileto/jazida/ancoradouro/região_de_espaço/terreno/campos/prados_naturais/prado/pradaria/gramado/locação/lugar/sítio/tapera/deserto/espaços_verdes/parque/paisagens_protegidas/parque_público/parque_natural/diamante/lote/campo_de_guerra/campo_de_batalha/oásis/praça/área_geográfica/região_geográfica/Teatro_de_Operações/campo/Teatro_de_operações/teatro/ambiente/districto/terra/território/circunscrição/país/distrito/circunscrição_administrativa/condado/comarca/regiões_biogeográficas/domínio
 migalha_de_pão	Navegação_estrutural/migalha/farelo
 Amplificadores	Maser
 convicção	pacifismo/confiança/opinião_pública/crendice/superstição/Pacifismo/espiritismo/teoria/certeza/doutrina_(direito)/doutrina/filosofia/idéia/ideia/perspicácia/opinião/pensamento/expetativa/expectativa/individualismo/Individualismo/religião/Crença_religiosa/fé
@@ -9369,7 +9369,7 @@ arremessar	dardejar/quebrar
 contrapor-se	contrabalancear/contrapesar
 quebrar	descascar/despedaçar/implodir/infringir/fazer_uma_fissura/amaciar/pisar_na_bola/desfilar/afundar/fissurar/fracturar/cascar/trincar/pecar
 menção	referência_cruzada
-veículo	Teleféricos/Hot_rod/jipe/viatura_policial/Utilitário_Esportivo/Taxi/cupê/monovolume/calhambeque/sedan/compacto/Sidecar/navios_mercantes/conversível/coupé/compartimento_de_vagão/carro_de_polícia/marinha_mercante/Marinha_Mercante/side_car/Hot_Rod/teleférico/táxi/carro_compacto/SUV/patrulha/utilitário_esportivo/hospital_militar_móvel/Ambulancia/ambulância/carro/Limusina/limusine/teleférico_/transporte_público/Transportes_públicos/Transporte_publico/transportes_públicos/maca/liteira/veículos/viatura/rojão/Foguete_espacial/foguete/Foguetes/trenó/navio
+veículo	Teleféricos/Hot_rod/jipe/viatura_policial/Utilitário_Esportivo/Taxi/cupê/monovolume/calhambeque/sedan/compacto/Sidecar/navios_mercantes/conversível/coupé/compartimento_de_vagão/carro_de_polícia/marinha_mercante/Marinha_Mercante/side_car/Hot_Rod/teleférico/táxi/carro_compacto/SUV/patrulha/utilitário_esportivo/hospital_militar_móvel/Ambulancia/ambulância/carro/Limusina/limusine/teleférico/transporte_público/Transportes_públicos/Transporte_publico/transportes_públicos/maca/liteira/veículos/viatura/rojão/Foguete_espacial/foguete/Foguetes/trenó/navio
 caçada	stalking/rastreamento/rastreio
 injúria	insolência/abuso_infantil/indignidade/vitupério/ofensa/afronta/insulto/invectiva/desconsideração/perseguição/crueldade
 resíduo	sobra
@@ -9390,11 +9390,11 @@ basear	construir
 crepúsculo	noite
 descensão	paraquedismo
 Força_Aérea	Força_Aérea_Real/Luftwaffe/Força_aérea_real
-obstáculo	lombada/Barricada/barreira_linguística/artifício/_pegadinha/barricada/molhe/grade/carril/guarda-lama/corrimão/balaustrada/estacada/paliçada/cerca/barragem/dique/barragens/quebra-mar/diques/represa/Barragem/rolha/Ferrolho/barra/barreira/problema/impedimento/dificuldade/dissuasor
+obstáculo	lombada/Barricada/barreira_linguística/artifício/pegadinha/barricada/molhe/grade/carril/guarda-lama/corrimão/balaustrada/estacada/paliçada/cerca/barragem/dique/barragens/quebra-mar/diques/represa/Barragem/rolha/Ferrolho/barra/barreira/problema/impedimento/dificuldade/dissuasor
 Medida	grau/quilate/Dioptria/dioptria/peso/bit/bite/unidade_de_memória_do_computador
 forma_de_vida	existência/coexistência/eternidade/animação/vida/presença/realidade/possibilidade/chance
 Running_back	fullback
-jogar_fora	depenar/enterrar/descartar/jogar_no_lixo/desplumar/trocar/mudar/livrar-se_de_/desfazer-se/desaprender/abandonar
+jogar_fora	depenar/enterrar/descartar/jogar_no_lixo/desplumar/trocar/mudar/livrar-se_de/desfazer-se/desaprender/abandonar
 heleno	Jônicos/tebano/eólico/dóricos/Jónicos/Dórios/ateniense
 Membranofones	Caixa/pandeiro/bombo/bongô/bumbo/tamborim/pandeireta/caixa
 vindouro	amanhã/futuro
@@ -9568,7 +9568,7 @@ bolhadear	ferver/espumejar/espumar
 liberdade	impunidade/autarquia/anistia/indulto_geral/independência/licença/autonomia/liberalismo
 Boliche	boliche__na_grama/bolão
 actor	ator/mímico/comparsa/mímica/fantasiado/ator_principal/atriz/actriz
-Política_Externa	brinkmanship/Doutrina_monroe/isolacionismo/política_comercial/_interferência/Doutrina_truman/imperialismo/intervenção/Doutrina_Truman/Doutrina_Monroe
+Política_Externa	brinkmanship/Doutrina_monroe/isolacionismo/política_comercial/interferência/Doutrina_truman/imperialismo/intervenção/Doutrina_Truman/Doutrina_Monroe
 dinâmica	Balística/balística
 marginalizar	boicotar
 auroque	bisăo_europeu/Bisonte_europeu/bisão-europeu/bisonte-europeu/bisonte_americano/búfalo/bisonte/bisão/Bisão-americano/bisão-americano
@@ -9618,7 +9618,7 @@ texugo	Texugo-europeu/Texugo-americano/Texugo_europeu/Texugo_americano
 chulo	proxeneta/cafetão/safado
 estremecer	tiritar/vibrar/tremer/tremelicar
 copiar	clonar/imitar/traçar/emular/macaquear/simular
-meios_de_transporte	Teleféricos/Sidecar/navios_mercantes/marinha_mercante/Marinha_Mercante/side_car/teleférico/teleférico_/transporte_público/Transportes_públicos/Transporte_publico/transportes_públicos/maca/liteira/veículos/veículo/viatura
+meios_de_transporte	Teleféricos/Sidecar/navios_mercantes/marinha_mercante/Marinha_Mercante/side_car/teleférico/teleférico/transporte_público/Transportes_públicos/Transporte_publico/transportes_públicos/maca/liteira/veículos/veículo/viatura
 consideração	exploração/justificação/ponderação/pesada/justificativa/especulação/contemplação/pensamento/reflexão/meditação/tato/andamento/tino
 tantalizar	zombar/bulir/caçoar/vaiar
 tarja	Fita_azul/insígnia/bilhete_de_identidade/carteira_de_identidade/identificação
@@ -9765,7 +9765,7 @@ fita_magnética	videocassette/fita_de_vídeo/videoteipe
 vórtice	Caríbdis/Caribdis
 aterrissagem	aterragem
 fermento	levedura_de_cerveja/Saccharomyces_cerevisiae
-apelo	demanda/notificação/cortejamento/facturação/ordem/coleção/_solicitação/faturação/galanteio/candidatura/Demagogia/demagogia/invitação/convite/súplica/inquérito/pergunta/questão/petição/oração/reza
+apelo	demanda/notificação/cortejamento/facturação/ordem/coleção/solicitação/faturação/galanteio/candidatura/Demagogia/demagogia/invitação/convite/súplica/inquérito/pergunta/questão/petição/oração/reza
 bantos	shona/Hutus/Hútus/Tútsis/Tutsis/hererós/Hereros
 enxotar	excomungar
 predisposição	preferência
@@ -9784,7 +9784,7 @@ oprimir	recalcar/defazer/subjugar/reprimir
 formulário	questionário
 atacante	violador/fera/besta/estuprador/bigorrilha/rufião
 espinhaço	Corda_dorsal
-barra	traste/vareta/varinha/bordão/pau/vara_de_pesca/vara_de_pescar/Hastes_de_controle/vara/_haste/cabo/biela/alavanca/pé-de-cabra/trilho/manilha/guidão/guidom
+barra	traste/vareta/varinha/bordão/pau/vara_de_pesca/vara_de_pescar/Hastes_de_controle/vara/haste/cabo/biela/alavanca/pé-de-cabra/trilho/manilha/guidão/guidom
 data	data_de_referência/aniversário/prazo/data_de_nascimento
 Ordem	leitor/acólito/sacerdote/pastor/presbítero/clérigo/padre
 promulgação	edito
@@ -9813,12 +9813,12 @@ planificar	programar
 rejeitar	repelir/desobedecer/desaprovar/lamentar/renunciar/desanimar/depreciar/repudiar/desacatar/descartar/ignorar/deixar_de_lado/desconsiderar/menosprezar/desacreditar/descrer/recusar/desprezar/objectar
 vergonha	xingamento/corrupção/infâmia/perplexidade/estorvo/óbice/confusão/descrédito/ignomínia/desgraça
 ferro	ferro_forjado/ferro_fundido/gusa
-pressuposto	premissa/pré-condição/tese/_roteiro/estipulação/condição/cenário
+pressuposto	premissa/pré-condição/tese/roteiro/estipulação/condição/cenário
 árvore_de_café	Coffea_canephora/Coffea_liberica/Coffea_arabica
 quarço	Quartzo_fumado/ametista/calcedónia/Calcedónia/calcedônia
 Drogas_psicoativas	tetraidrocanabinol/tetrahidrocanabinol/Droga_psicodélica
 subsistir	respirar
-desvantagem	artifício/carência/privação/_pegadinha/defeito/perda/prejuízo/limitação/obstáculo/deficiência
+desvantagem	artifício/carência/privação/pegadinha/defeito/perda/prejuízo/limitação/obstáculo/deficiência
 feijão	Vagem/soja/semente_de_soja
 Línguas_iranianas	curdo/pastó/Língua_tadjique/Língua_dari/avéstico/Língua_osseta/osseto/afegane/Língua_pachto/tadjique/Língua_curda/afegão/língua_curda/persa/Língua_Persa/Língua_persa/Persa_Médio/Persa_médio
 bit	bit_de_paridade/paridade
@@ -9906,7 +9906,7 @@ chuva	monção/aguaceiro/garoa/temporal/chuvisco
 dançarina	bailarina/bailarino
 asserção	testemunha/negação/depoimento/testemunho/afirmacão/acusação/afirmação/ameaça/manifesto/pronunciamento
 passageiro	carona/caroneiro
-obreiro	coveiro/mais_cheio/pulverizador/estivador/empilhadora/peão/fogueiro/mais_completo/carregador/mineiro/cigana/_carregador/madeireiro/lenhador/trabalhador/operário
+obreiro	coveiro/mais_cheio/pulverizador/estivador/empilhadora/peão/fogueiro/mais_completo/carregador/mineiro/cigana/carregador/madeireiro/lenhador/trabalhador/operário
 cético	pessimista
 objeto	lua/alucinação/afeição/vizinho/Paixão/amor/paixão/coisas/casca/formação_geológica/formação/amuleto/talismã/resto/porção/parte/recordação/suvenir/minúcia/bagatela/ninharia/solos/lugar/ponto/localização/filme/curiosidade/raridade/teia_de_aranha/todo/unidade/terra/chão/solo/relevo/relevo_(geografia)/terra_firme/parede/paredes
 epifania	revelação/achado/descoberta
@@ -10142,7 +10142,7 @@ designar	reeleger/classificar/propor/dedicar/intencionar/numerar/rotular/apresen
 coletar	arquivar/reagrupar/convocar/juntar/mobilizar/reunir/arrecadar/respigar/catar/apanhar/colher
 barreira	eclusa/barreira_linguística/barreira_hemato-encefálica/Barricada/obstáculo/sebe/sebes/barricada/cerca_viva/molhe/grade/carril/guarda-lama/corrimão/balaustrada/estacada/paliçada/cerca/barragem/dique/barragens/quebra-mar/diques/represa/Barragem
 arrendamento_de_terras	quota/cota/atribuição
-instância	demanda/apelo/coleção/_solicitação/candidatura
+instância	demanda/apelo/coleção/solicitação/candidatura
 córtex	Córtex_adrenal
 Oratória	recital/debate/disputa/leitura
 listra	estria
@@ -10151,7 +10151,7 @@ afetividade	afeição/apego
 Haletos_de_acila	cloreto_de_acetila
 odor	odor_corporal/fragrância/aroma/fragância/Bromidrose/cheiro/perfume/fedor/pejo
 roque	arranha-céus/farol/campanário/atalaia/silos/pilão/topo/barbacã/minarete/flecha/silo/Atalaia/coruchéu/agulha/Campanário/torre_de_controle/Torre_de_Controle
-perceber_	sentir
+perceber	sentir
 polinômio	série
 população	ferido/superpopulação/eólio/aqueu/freguesia/inimigo/eólios/concentração_de_massas/aqueia/clientela/sobrepopulação/eleitorado/pobreza/pobres/estrato/classe_social/classe/ricos/rico/desempregado/pessoal/vulgo/nação/povos/coorte/gente/mundo/povo/geração
 Planadores	asa-delta
@@ -10342,7 +10342,7 @@ mutação	esdrúxulo/Deleção/Mutação_pontual/Deleção_genética/monstro
 Nó	Volta_fiel/Nó_Simples/Nó_catau/nó_górdio/Nó_de_pescador/Nó_simples/Volta_Fiel
 contribuição	contribuição__política/oferenda
 esquivar	chicanear/fuxicar/atazanar/aperrear
-_haste	eixo/veio
+haste	eixo/veio
 Palavra_de_baixo_calão	blasfémia/expletivo/blasfêmia/Blasfêmia/vulgaridade/palavrão/indecência/obscenidade
 desavantajar	dificultar/prejudicar
 pneu_de_carros	recauchutagem
@@ -10622,7 +10622,7 @@ contenda	agressão
 desinfetar	esterilizar/antisepticizar
 fala	elocução/Prosódia/prosódia/tom/murmúrio/sussurro/cochicho
 perspicácia	pensamento/view/ideia/opinião/juízo
-contagem	contagem_regressiva/contagem_de_esperma/Censo_demográfico/recontagem/censo_demográfico/censo/retrocontagem/recenseamento/_contagem
+contagem	contagem_regressiva/contagem_de_esperma/Censo_demográfico/recontagem/censo_demográfico/censo/retrocontagem/recenseamento/contagem
 declínio	diminuição/descente/deterioração/abatimento
 charuto	Cigarrilha
 Nucleons	antinêutron/antipróton/próton/nêutron/Neutron/antiprotão/neutrão/protão/Nêutron
@@ -10640,7 +10640,7 @@ astronave	nave_espacial/ônibus_espacial/aterrissador/espaçonave/Nave_estelar
 astúcia	acume/fraude/hoax/trote
 sangrar	menstruar
 sólida	cubo/pó/vitrificação/Gelo_seco/Gelo-seco/bloco/plástico/Plásticos/Plastico/cristal/vidro/Tronco_de_bases_paralelas/Poliedros/poliedro/convexidade/cilindro/concavidade
-confundir	desmoralizar/distrair/enlamear/lembrar_incorretamente/embaraçar/_enganar-se/desorientar/desmoronar/desconcertar/envergonhar/descombobular/inferiorizar/descompor/_tropeçar/atabalhoar/constrangir/desviar_a_atenção/desintegrar/turvar/mal_julgar/acabrunhar/afligir/machucar/angustiar/doer/perturbar/descontrolar/surpreender/desnortear/ater/pegar/atordoar/irritar/incomodar
+confundir	desmoralizar/distrair/enlamear/lembrar_incorretamente/embaraçar/enganar-se/desorientar/desmoronar/desconcertar/envergonhar/descombobular/inferiorizar/descompor/tropeçar/atabalhoar/constrangir/desviar_a_atenção/desintegrar/turvar/mal_julgar/acabrunhar/afligir/machucar/angustiar/doer/perturbar/descontrolar/surpreender/desnortear/ater/pegar/atordoar/irritar/incomodar
 denominação	sobrenome/alcunha/cognome/apelido/título
 Profecia	oráculo
 embriagar	entontecer
@@ -10685,7 +10685,7 @@ reminiscência	reconstrução/memória
 doença_arterial_coronariana	artéria_que_irriga_o_coração/coronária
 materiais	contaminação/lanugem/elastômero/Materiais_compostos/Detrito_geológico/Placa_bimetal/Objetos_de_cama/balastro/lastro/estiva/Elastômero/Elastómero/compósito/Placa_Bimetal/espuma/átomo/partícula/empreiteira/detergentes/constructora/isolante/Isolante_elétrico/isolador/materiais_de_isolamento/Resíduos/resíduos/Resíduo/resíduos_sólidos/algodão_carvado_e_comprido_em_camadas_moles/matéria-prima/emissão/papel/Papel/carta/solo/cimento/materiais_aderentes/fibra/fibras/thread/Química/substância_química/substância/substâncias_químicas/material_particulado/minérios/matéria_mineral/minerais/mineral/corantes_têxteis/colorante/tintas/cor/tinta/rocha/pedra/abrasivo/condutor
 lipoproteína	Lipoproteína_de_baixa_densidade
-aprovação	mecenato/passaporte/sinal_verde/assinatura/concórdia/ratificação/aclamação/aceite/tributo/concordância/ajuste/acordo/O.K./harmonia/consenso/proteção/autorizações/convenção/contratos_administrativos/OK/subscrição/Ok/ovação/reconhecimento/crédito/autorização/sanção/Imprimatur/loa/louvor/glória/elogio/aplauso/passe/_laissez-passer/visto/conformidade/assentimento/aquiescência/consentimento/concessão/conspiração/adoção/adopção/aceitação/admiração
+aprovação	mecenato/passaporte/sinal_verde/assinatura/concórdia/ratificação/aclamação/aceite/tributo/concordância/ajuste/acordo/O.K./harmonia/consenso/proteção/autorizações/convenção/contratos_administrativos/OK/subscrição/Ok/ovação/reconhecimento/crédito/autorização/sanção/Imprimatur/loa/louvor/glória/elogio/aplauso/passe/laissez-passer/visto/conformidade/assentimento/aquiescência/consentimento/concessão/conspiração/adoção/adopção/aceitação/admiração
 fotógrafa	paparazzo/diretor_de_fotografia/cameraman/operador/operador_de_câmera
 vestir	calçar/experimentar/vestido
 moluscos	Polyplacophora/Cefalópodes/cefalópodes/Cefalopodes/gastrópodes
@@ -10698,7 +10698,7 @@ morto	carniça/Múmias/defunto/enchido/múmia/corpo/cadáver/restos_mortais
 legenda	Partido_da_Proibição/Kuomintang/Dixiecrat/Partido_Democrata-Republicano/oposição/Gironda
 astrônomo_.	astrofísico
 Antidepressivos	reboxetina/Antidepressivo_triciclico/Antidepressivo_tricíclico
-cálculo	conversão/cálculo_de_variações/extrapolação/integral/cálculo_integral/interpolação/derivada/Cálculo_das_variações/_estimativa/ideia/_aproximação/análise/análise_matemática/operação/cáculo/capitalização
+cálculo	conversão/cálculo_de_variações/extrapolação/integral/cálculo_integral/interpolação/derivada/Cálculo_das_variações/estimativa/ideia/aproximação/análise/análise_matemática/operação/cáculo/capitalização
 Doença_congénita	anencefalia/fissura_palatina/Epispádia/Espinha_bífida/fissura_labial/hermafroditismo/Encefalocele/Doenças_cardíacas_congênitas/pseudo-hermafroditismo/Cardiopatia_congênita/lábio_leporino/daltonismo/Daltonismo/plagiocefalia/albinismo/Síndrome_de_Down/síndrome_de_Down/Sindrome_de_down/polidactilia/sindactilia
 gosto	salinidade/doçura/sabor/Sabor
 lidar	aguentar/processar/pressionar/gerenciar_mal/coordenar/improvisar/dirigir/fazer_frente/cuidar/dispor_de/organizar/administrar/lidar_bem/esforçar-se/conduzir/esforçar/tratar/gerir/tomar_conta/gerenciar/discutir/discursar/discorrer/falar/lotear/atribuir/cartear/aplicar/dar
@@ -10791,7 +10791,7 @@ contar	cobrar/reiterar/relatar/censear/propagandear/indicar/prever/transmitir/de
 vegetarianismo	Macrobiótica
 satifazer	alimentar_se/saciar/satisfazer/aplacar/aliviar/matar_a_sede/acalmar/alimentar-se
 reescrever	rever/decifrar/transliterar/descodificar
-_ressuscitar	ressuscitar/iniciar/inicializar
+ressuscitar	ressuscitar/iniciar/inicializar
 tontura	hipnose
 camarote	mais_baixo
 sexo_oral	meia-nove/felação/cunilíngua/chupa/sessenta_e_nove
@@ -10835,7 +10835,7 @@ casa	Família_Real/família_nuclear/casa_de_campo/Condominio/refúgios_na_montan
 progresso	recuperação/fluxo_de_trabalho/conservação/revivalismo/revitalização/ressurreição/ressurgência/ajustamento
 Fibrose	fibrose_cística/Mielofibrose_idiopática/Fibrose_Cística
 artrópodes	Pycnogonida/ínstar/Tardigrada/Onychophora/Trilobita/centopéia/trilobita/lacraia/Aranha-do-mar/Instar/Aranha_do_mar/Diplópode/Merostomata/insecto/insetos/hemípteros/inseto/Insectos/aracnídeo/Aracnideos/aracnídeos/crustáceo/crustáceos/centípede/quilópode/centopeia
-estimar	subestimar/invejar/considerar/reavaliar/avaliar/padronizar/dar_nota/quantizar/menosprezar/avaliar_novamente/fazer_pouco/contar_/valorizar/corrigir/taxar/censurar/elogiar/louvar
+estimar	subestimar/invejar/considerar/reavaliar/avaliar/padronizar/dar_nota/quantizar/menosprezar/avaliar_novamente/fazer_pouco/contar/valorizar/corrigir/taxar/censurar/elogiar/louvar
 maquinaria	agrafador/bate_estaca/decodificador/máquina/calendário/caixa_automático/batoneira/máquina_do_tempo/gim/betoneira/grampeador/Bate-estaca/equipamento_agrícola/maquinaria_agrícola/máquina_ferramenta/impressor/tipógrafo/impressora/Escavadeira/escavadora/motores/motor/Slot_machine/Prensa_móvel/gramofone/fonógrafo/toca-discos/calculador/computador/calculista/Calculadoras/calculadora/simulador/prensa/imprensa/moinho/moinhos
 recreaçao	escapismo/jogo_de_azar/aposta/trote/gozação/travessura/sacanagem/esporte/jogo/baile/dança/festividade/celebração/festa/passatempo/hobby/diversão/divertimento/entreterimento/entretenimento/brincadeira
 programa_de_computador	self_adapting_program/programa_de_monitorização/tradutor/ciclo/intérprete/job_control/processo_do_sistema/programa_de_tradução/folha_de_cálculo/programa_de_verificação/programa_de_biblioteca/programa-objecto/Web_map_service/programa-fonte/Depuradores/interpretador/Web_Map_Service/planilha_eletrônica/depurador/interface_do_utilizador/Interface_do_utilizador/máquina_de_busca/motor_de_busca/aplicação/aplicativo/programa_aplicativo/utilitário/compilador
@@ -10985,7 +10985,7 @@ báscula	escala/válvula/balança/prato
 pecar	infringir/pisar_na_bola
 lembrar-se	rever/conhecer/reconhecer
 efetividade	incisividade/eficácia/Eficácia
-ser	agregar/híbrido/habitar/discordar/Pedigree/existência/protobionte/coisa/dar_por_empréstimo/objetar/abundar_em/insectívoros/parceiro/nativo/recombinante/sentir-se_bem/ficar_junto/gigante/figurar/omnívoro/superar_/delimitar/adulto/enfurecer-se/coexistência/gravitar/consistir/valer_a_pena/ter/subjazer/estar_de_cócoras/grudar/cobrir/Mirmecofilia/clone/pais/fulgir/fazer_parte/escancarar/animal_de_estimação/anão/Mascote/sobrevivente/zooplâncton/reconhecer/nadar/estar/Haplóide/prevalecer/anaeróbio/ameaçar/procariotas/bentos/mutantes/Eucariontes/explicar/presa/boiar/fazer_sentido/herbívoro/poiquilotérmico/estar_com_o_cio/existir/Heterotrofismo/anfitrião/sujar/eternidade/haploide/Eukaryota/bagunçar/Insetívoro/perigar/eucariota/hospedeiro/refulgir/ser_rico/jazer/ser_melhor/desencontrar/eucarionte/eukaryota/Procariontes/estar_agachado/arriscar/bionte/mutante/Mascotes/mutação/abundar/fulgurar/progenitor/procarionte/obter/_mestiço/pertencer/estabelecer/pagar/imperilar/ser_abundante/primar/mascote/abrilhantar/vir/brilhar/entrar/sobrar/estar_bem/alma/ser_humano/alguém/fungos/fungo/comensalismo/parasita/indivíduo/pessoa/microorganismo/microrganismo/animal/bicho/besta/flora/planta/vegetal/nécton/Plancton/plâncton/animação/presença/realidade/possibilidade/chance/abstração/entidade_abstrata/idéia_abstrata/entidade_física/coexistir/cordados/caça/Ave_de_caça/cria/prole/filhote/corredor/embrião/embriões/macho/animal_doméstico/detritívoro/invertebrado/invertebrados/fêmea/larva/predadores/provar/demostrar/resultar/fazer_prova_de/medir/inter-relacionar/relacionar/custar/iniciar/principiar/posicionar-se/quedar/representar/ser_conveniente/agradar/embalar/aparentar/enrolar/perplexar/confundir/começar/precisar/requerer/necessitar/dever/cair/depender/doer/inclinar_se/inclinar-se/tender/estar_inclinado_a/padecer/sofrer/lavar_se/lavar/lavar-se/valer/merecer/parecer/ter_aparência_de/estar_enraivecido/estar_furioso/findar/finalizar/acabar/especificar/aparar/equilibrar-se/conter/adornar/ornamentar/decorar/embelezar/comparar/importar/pesar/contar/permanecer/manter/continuar/adicionar/capitanear/caber/servir/ficar/criatura/organismo/vida/célula
+ser	agregar/híbrido/habitar/discordar/Pedigree/existência/protobionte/coisa/dar_por_empréstimo/objetar/abundar_em/insectívoros/parceiro/nativo/recombinante/sentir-se_bem/ficar_junto/gigante/figurar/omnívoro/superar/delimitar/adulto/enfurecer-se/coexistência/gravitar/consistir/valer_a_pena/ter/subjazer/estar_de_cócoras/grudar/cobrir/Mirmecofilia/clone/pais/fulgir/fazer_parte/escancarar/animal_de_estimação/anão/Mascote/sobrevivente/zooplâncton/reconhecer/nadar/estar/Haplóide/prevalecer/anaeróbio/ameaçar/procariotas/bentos/mutantes/Eucariontes/explicar/presa/boiar/fazer_sentido/herbívoro/poiquilotérmico/estar_com_o_cio/existir/Heterotrofismo/anfitrião/sujar/eternidade/haploide/Eukaryota/bagunçar/Insetívoro/perigar/eucariota/hospedeiro/refulgir/ser_rico/jazer/ser_melhor/desencontrar/eucarionte/eukaryota/Procariontes/estar_agachado/arriscar/bionte/mutante/Mascotes/mutação/abundar/fulgurar/progenitor/procarionte/obter/mestiço/pertencer/estabelecer/pagar/imperilar/ser_abundante/primar/mascote/abrilhantar/vir/brilhar/entrar/sobrar/estar_bem/alma/ser_humano/alguém/fungos/fungo/comensalismo/parasita/indivíduo/pessoa/microorganismo/microrganismo/animal/bicho/besta/flora/planta/vegetal/nécton/Plancton/plâncton/animação/presença/realidade/possibilidade/chance/abstração/entidade_abstrata/idéia_abstrata/entidade_física/coexistir/cordados/caça/Ave_de_caça/cria/prole/filhote/corredor/embrião/embriões/macho/animal_doméstico/detritívoro/invertebrado/invertebrados/fêmea/larva/predadores/provar/demostrar/resultar/fazer_prova_de/medir/inter-relacionar/relacionar/custar/iniciar/principiar/posicionar-se/quedar/representar/ser_conveniente/agradar/embalar/aparentar/enrolar/perplexar/confundir/começar/precisar/requerer/necessitar/dever/cair/depender/doer/inclinar_se/inclinar-se/tender/estar_inclinado_a/padecer/sofrer/lavar_se/lavar/lavar-se/valer/merecer/parecer/ter_aparência_de/estar_enraivecido/estar_furioso/findar/finalizar/acabar/especificar/aparar/equilibrar-se/conter/adornar/ornamentar/decorar/embelezar/comparar/importar/pesar/contar/permanecer/manter/continuar/adicionar/capitanear/caber/servir/ficar/criatura/organismo/vida/célula
 lâmpadas	lâmpada_de_néon/Lâmpada_Fluorescente/iluminação_pública/luz/lâmpada_fluorescente/Lâmpada_de_neon/vela/Vela/lâmpada/flash/lanterna/lâmpada_a_óleo/Luminária_Drummond/luz_de_cálcio/notoriedade
 prédio	ministério/matadouro/avaria/ruína/necrotério/pavilhão/observatório/rotunda/dormitório/planetário/refúgios_ornitológicos/aviário/edifícios_ministeriais/abatedouro/edifício_ministerial/coreto/arranha-céu/arranha-céus/presbitério/lupanar/casa_de_prostituição/alcoice/prostíbulo/bordel/edifícios_rurais/teatro/estufa/plantel/viveiro/arquitectura/arquitetura/edifício_residencial/habitação/vivenda/restaurante/edifícios_governamentais/igreja/Lugares_de_prática_religiosa/casadeoração/Salão_da_Fama/Salão_da_fama/hotel/biblioteca/centro/colégio/departamento/escolas/escola/casa/taberna/taverna/boteco/clube/hall/centro_de_convenções/templo
 inferno	fogo_do_inferno/Tártaro/Tartaro
@@ -11053,7 +11053,7 @@ retinite	corioretinite/Corioretinite
 Flores	crisântemo/inflorescência/inflorescéncia
 evento	contágio/revés/substituto/Acidentes/bom_tratamento/dádiva/eventualidade/infecção/spillover/maravilha/acção/ação/ato/feito/acontecimento/milagre/ação_em_grupo/fado/sorte/destino/mudança/alteração/variação/modificação/som/ruído/colapso/desmoronamento/desabamento/vitória/coincidência/acidente/caso/ocasião/exemplo/ocorrência/pausa/interrupção/erupção/deflagração/surto/Surto/epidemia/explosão/experiência/conclusão/fim/resultado/chegada/incidente/movimento/episódio/problema/princípio/início/começo/incêndio/fogo/toque/convergência
 Pelos_faciais	patilhas/bigodes/bigode/barba
-_curativo	atadura/penso/esparadrapo/ligadura/compressa/emplastro
+curativo	atadura/penso/esparadrapo/ligadura/compressa/emplastro
 empunhadura	punho
 caucasiana	ariano/arianos/White_trash/branco/homem_branco/cara-pálida
 adicto	toxicómano/toxicômano/viciado_em_drogas/drogado
@@ -11111,7 +11111,7 @@ discapacidade	hipoestesia/amputação/disfasia/prolapso/surdez/Surdos/deficiênc
 divisa	libra_estrelina/medalhão/ducado/xelim/guinéu/moeda_de_25_centavos/águia/níquel/grana/moedas/cobre/massa/guito/moeda/dinheiro/em_espécie/cache/numerário/dólar/centavo/moeda_de_um_centavo/cêntimo/capital/fundo
 acidente	coincidência/soco/colisión/lástima/adversidade/infortúnio/loteria/chance/pena/bomba/colisão/ferimentos/naufrágio/catástrofe/calamidade/cataclismo/flagelo/tragédia/desastre/catástrofes/azar/crache/Travamento
 ebulição	pranto
-criticismo	_fogo/ataque
+criticismo	fogo/ataque
 dança_da_chuva	Hula
 Neerlandeses	frísios
 endereço	domicílio/residência/casa
@@ -11138,11 +11138,11 @@ Peridotito	kimberlito/Kimberlito
 Infecção_do_trato_urinário	Cistite/pielonefrite/cistite/uretrite
 acontecimento	revés/substituto/Acidentes/Noite_do_pijama/bom_tratamento/dádiva/eventualidade/maravilha/celebração/rotulagem/banquete/reveillon/balada/night/cerimónia/festa/cerimônia/acção/ação/ato/feito/milagre/ação_em_grupo/fado/sorte/destino/mudança/alteração/variação/modificação/som/ruído/colapso/desmoronamento/desabamento/vitória/coincidência/acidente/caso/ocasião/exemplo/ocorrência/pausa/interrupção/erupção/deflagração/surto/Surto/epidemia/explosão/experiência/conclusão/fim/resultado/chegada/incidente/evento/movimento/episódio/problema/princípio/início/começo/incêndio/fogo/toque/convergência
 lata	folha/lámina_de_metal/folha_de_lata
-entender	apreciar/interpretar/sonhar/alegorizar/alucinar/aprofundar/_reinterpretar/perceber/entender_mal/digerir/ler_nas_entrelinhas/mitificar/espiritualizar/_intuir/extrair/literalizar/traduzir/delirar/compreender_mal/escanear/ler/compreender/comprender/solucionar/resolver/perceber_/saborear/avistar/divisar/prestar_atenção/dar_atenção/doer/causar_dor/apalpar/sentir/ouvir_dizer/adivinhar/cheirar/recender/enxergar/ver/olhar/captar/pegar/escutar/dar_atenção_a/ouvir
+entender	apreciar/interpretar/sonhar/alegorizar/alucinar/aprofundar/reinterpretar/perceber/entender_mal/digerir/ler_nas_entrelinhas/mitificar/espiritualizar/intuir/extrair/literalizar/traduzir/delirar/compreender_mal/escanear/ler/compreender/comprender/solucionar/resolver/perceber/saborear/avistar/divisar/prestar_atenção/dar_atenção/doer/causar_dor/apalpar/sentir/ouvir_dizer/adivinhar/cheirar/recender/enxergar/ver/olhar/captar/pegar/escutar/dar_atenção_a/ouvir
 profissão	pirotecnia/Jornalismo/sapateiro/Vinificação/arquitectura/curtume/Catering/literatura/especialização/agricultura/Arquitetura/Pirotecnia/Especialidades_médicas/Arquitectura/pirotécnica/especialidade/sapataria/pedagogia/tecnologia/engenharia/política/artesanato/encanamento/pintura/alvenaria/carpintaria/marcenaria/Carpintaria/trabalho/biscate/emprego/vocação/ocupação/fotografia/posto/cargo/posição/arte/ofício/contabilidade_(execução)/Contabilidade/contabilidade
 Excreção	incontinência/micção/urina/Micção/merda/defecação
 proibição	processo_cautelar/Processo_Cautelar/injunção/interdição
-_estado_emocional	satisfação/estado/êxtase/embevecimento/enlevo/alegria/felicidade/aventurança
+estado_emocional	satisfação/estado/êxtase/embevecimento/enlevo/alegria/felicidade/aventurança
 nome_próprio	nomedebaptismo/patronímico/Hipocorístico/assinatura/nome_fantasia/Matronímico/praenomen/domínio/nome_do_meio/topônimo/Epônimos/último_nome/Dominio/denominação/epônimo/alcunha/sobrenome/alias/Epônimo/hipocorístico/Nome/nome_de_batismo/cognome/prenome/nome_de_família/apelido/nome_falso/primeiro_nome/Epónimo/antenome/nome/pseudônimo/Pseudónimo/Pseudónimos/pseudónimo/nome_comercial/título
 Voz_humana	voz
 dupla	casamento_homossexual/casal/casamento_entre_pessoas_do_mesmo_sexo/casamento_gay/casamento_do_mesmo_sexo
@@ -11244,7 +11244,7 @@ propriedades_químicas	Volatilidade/volatilidade
 Anguilliformes	enguia/congro/Moréia/Muraenidae/moreia
 alcantilado	precipício
 Exposições_de_arte	Retrospectiva/retrospectiva
-intuição	sexto_sentido/coração/inspiração/Gnose/gnose/_intuição/sentimento
+intuição	sexto_sentido/coração/inspiração/Gnose/gnose/intuição/sentimento
 advogada	advogado_de_defesa/Defensoria_Pública/procurador/barrister/advogado/Advogados_do_Reino_Unido/promotor_público/promotor_de_justiça/promotor
 inventar	idealizar/confabular
 Curral	cavalariça/pocilga/chiqueiro/aprisco/pocilgas
@@ -11257,7 +11257,7 @@ infante	moço/O_Pequeno_Lord/catamita/Gandula/rapaz/menino/filho/garoto
 ponte	ponte_coberta/passarela/ponte_levadiça/ponte_suspensa/viaduto/ponte_pênsil/Ponte_Coberta
 base	Purinas/piridina/melamina/imidazol/purina/suporte/pedestal/pé/alicerce/contraforte/Arquitrave
 stötön	gaguejar/voltear/fraquejar/vacilar/esmorecer
-_reprimir	amortecer/piscar_os_olhos/recalcar/debelar/abafar/piscar_de_olhos/reprimir/silenciar
+reprimir	amortecer/piscar_os_olhos/recalcar/debelar/abafar/piscar_de_olhos/reprimir/silenciar
 rapariga	escolar/Lolita/mulheres_de_conforto/mina/puta/maria-rapaz/acompanhante/brasa/gata/mulher/prostituta/franguinha/estudante/mod/Punk/donzela/garota/senhorita/menina/moça/funcionária/trabalhadora
 cultivador	viticultor/vinicultor/ancinho/grade
 quitar	exonerar-se/demitir-se/resignar/renunciar/aposentar-se/se_aposentar
@@ -11438,7 +11438,7 @@ trigonometria	Triangulação/triangulação/triângulo_esférico
 radiologia	fluoroscopia/Fluoroscopia
 rocha_sedimentar	calcário/xisto/ardósia/folhelho
 diretora	chanceler/reitor
-_zona	incidente
+zona	incidente
 centro_de_massas	Centróide/Centroide
 Rochas_metamórficas	Anfibolito/gneisse/Xisto/xisto/gnaisse
 empobrecer	arruinar/falir/quebrar
@@ -11491,7 +11491,7 @@ contributo	esmola
 união_aduaneira	BENELUX/Benelux
 cargueiro	Navio_porta-contentores/carga/petroleiros/navios-tanques/petroleiro/camiões-cisterna
 prever	apostar/ameaçar/admitir/ler/profetizar/planejar/predizer/calcular/prenunciar/prognosticar/levar_em_conta/adivinhar
-Percepção	toque/audição_(sentidos)/sensação/detecção/tato/_sensação/Percepção_Visual/percepção_visual/Visão
+Percepção	toque/audição_(sentidos)/sensação/detecção/tato/sensação/Percepção_Visual/percepção_visual/Visão
 flores	crisântemo/inflorescência/inflorescéncia
 reverso	popa/Empenagem/rabo/traseiro
 equídeo	pantufo/mu/babucha/mulo/zebra/Zebra/bardoto/Bardoto/mula/cavalo/cavalo_de_pau/égua/equídeos/cavalos
@@ -11522,7 +11522,7 @@ rum	grogue
 mitigação	extenuação
 hipotireoidismo	Cretinismo/mixedema/Mixedema
 banho	chuveiro
-regulamento	_indicações/guia/limitação/restrição
+regulamento	indicações/guia/limitação/restrição
 barraca	banca_de_revistas/choupana/Barracão_Nissen/pavilhão/Tipi
 didáctica	ensino_superior/ensino_básico/ensino_secundário/aula/curso
 marasmo	Hemiplegia/Paralisia_de_Erb/paraplegia/Diplegia/tetraplegia/hemiplegia/paresia
@@ -11538,11 +11538,11 @@ cutucar	acotovelar
 homemdenegócios	magnata/dono/proprietário/industrialista/industrial
 ideograma	logossilabário/Escritas_ideográficas
 conductor	Camionista/motorista_de_ônibus/taxista/motorista_de_táxi/motorista/automobilista/condutor/caminhoneiro/chofer/velocista
-trabalhador	lavador/mais_cheio/coveiro/pulverizador/escrava/estivador/trabalhadora/empilhadora/freelancer/fura-greve/peão/fogueiro/sindicalista/carvoeiro/escravo/mais_completo/Free-lancer/Fura-greve/carregador/servo/funcionária/cobrador/coletor/recolhedor/voluntário/servente/ajudante/assistente/adjunto/criado/assalariado/empregado/empregado_doméstico/servidor/mineiro/cigana/_carregador/madeireiro/lenhador/obreiro/operário
+trabalhador	lavador/mais_cheio/coveiro/pulverizador/escrava/estivador/trabalhadora/empilhadora/freelancer/fura-greve/peão/fogueiro/sindicalista/carvoeiro/escravo/mais_completo/Free-lancer/Fura-greve/carregador/servo/funcionária/cobrador/coletor/recolhedor/voluntário/servente/ajudante/assistente/adjunto/criado/assalariado/empregado/empregado_doméstico/servidor/mineiro/cigana/carregador/madeireiro/lenhador/obreiro/operário
 continuação	fermata/perseverança/prolongamento/persistência/repetição/teste
 recompensa	crédito/miséria/seguro/parcela/realeza/remessa/numerário/multa/suborno/dinheiro_de_suborno/auxílio/assistência/entrada/sinal/reembolso/bônus/incentivo/abono/compensação_por_danos/compensação/Compensação/remuneração
 alçar	levitar/aumentar/bombear/levantar/erguer/içar
-afetar	registrar_/apaixonar/repercutir/envolver/tensionar/alhear/emudecer/deprimir/embriagar/colorir/gravar/conquistar/comover/penetrar/ulcerar/infectar/chegar_lá/estressar/alienar/sedar/tranquilizar/relaxar/espairecer/excitar/animar/energizar/influir/influenciar/sujeitar/atingir/atacar/incomodar/desconfortar/estimular/arriscar/comprometer/tocar/entristecer/surpreender/assombrar/sobressaltar/impressionar/causar_impressão/perturbar/disturbar
+afetar	registrar/apaixonar/repercutir/envolver/tensionar/alhear/emudecer/deprimir/embriagar/colorir/gravar/conquistar/comover/penetrar/ulcerar/infectar/chegar_lá/estressar/alienar/sedar/tranquilizar/relaxar/espairecer/excitar/animar/energizar/influir/influenciar/sujeitar/atingir/atacar/incomodar/desconfortar/estimular/arriscar/comprometer/tocar/entristecer/surpreender/assombrar/sobressaltar/impressionar/causar_impressão/perturbar/disturbar
 Línguas_caucasianas	Língua_ubykh/checheno/Língua_georgiana/língua_chechena
 meio_ambiente	partes/ambiente/cenário/habitat
 ser_humano	opositor/perseguidor/matarruano/potentado/menino/ocultista/macaquice/tirano/ser/utente/vizinho/persona_non_grata/criador/hebraico/vida/abridor/ruivo/loira/plebeu/buscador/homem-de-neandertal/pessoa_extrovertida/precursor/solicitante/procrastinador/Homo_rhodesiensis/homossexual/artista/sex_symbol/estrábico/rosto/optimista/autóctone/hetero/intérprete/baby_boomer/blogueira/terror/negra/Homo_habilis/máquina/dorminhoco/planejador/radical/demandante/colega/pagão/sósia/Povo_jat/manda-chuva/travesti/Testemunho/sobrevivente/dissidente/cobaia/mundo/cara-metade/homem-bomba/xará/coxo/tigre/esfinge/amada/agnóstico/morena/esperança/Filósofos/mestiço/poliglota/nativo/suspeito/sobrevivencialista/algo_repugnante/juvenil/pessoa/credor/pansexual/mulher/vítima/Gêmeos/destro/habitante/camaleão/adoptado/convertido/Homo_sapiens/eslavo/autodidata/escravo/nomeador/vitoriano/possuidor/amador/estrangeiro/personificação/árbitro/culturista/latino/odiador/matador/agregador/aficionado/dorminhoca/judeu/vizinha/Cabelo_loiro/criança/adjudicator/humanidade/sapatão/preparador/simplório/consumidor/negro/utilizador/bicha/candidato/hebreia/amadora/criatura/menina/menor/pretendente/pupilo/aluno/emulador/estúpido/otimista/escrava/creador/moroso/hebreu/inimigo/ruiva/homo/heterossexual/Homem_de_Neandertal/hebraica/dissidência/veado/sócio/homônimo/povo/assassino/simplória/proprietário/idiota/juiz/conhecida/bruna/adversário/atrasador/dono/coletor/amo/bloguista/adoptada/fêmea/parceiro/espécie_humana/agnóstica/concorrente/antagonista/morador/lésbica/gay/acadêmico/blogueiro/estudante/judia/face/cara/jovem/comunicador/vencedor/ganhador/cidadão/explorador/exploradora/parente/contendor/combatente/lutador/lutadora/terceira_idade/adulto/de_maior/capitalista/desafortunado/desventurado/intelectual/intelecto/macho/varão/homem/agente/realizador/trabalhador/fazedor/toureiro/Indígenas_dos_Estados_Unidos_da_América/Indígenas_dos_Estados_Unidos/Povos_ameríndios/Povos_Ameríndios/usuário/fiduciário/advogado/representante/defensor/proponente/morte/falecido/africano/caçador/seguidor/turista/viajante/guerreira/guerreiro/Devedor/devedora/devedor/líder/chefe/jogador/apostador/amado/amante/governador/governante/camarada/amigo/conhecido/amiga/amizade/espectador/observador/medricas/covarde/chefia/autoridade/engenheiro/caucasiano/caucasiana/branco/igual/pário/par/cientista/Homo_Erectus/Homo_erectus
@@ -11600,7 +11600,7 @@ sanduíche	hamburger/sanduíche_de_frango/gyros/hambúrguer/cachorro-quente
 Anorexia	Anorexia_Nervosa/anorexia_nervosa
 cavaleiro	bacharel/Postilhão/Jóqueis/jóquei/ginete/joquei
 tecer	trançar/entrançar
-atribuição	pensão/esmola/porção/parte/quota/cota/tranche/_mesada/ração/quinhão/arrendamento_de_terras/alocação/participação_nos_lucros
+atribuição	pensão/esmola/porção/parte/quota/cota/tranche/mesada/ração/quinhão/arrendamento_de_terras/alocação/participação_nos_lucros
 afiguração	presépio/Audiograma/projecção/nomograma/documentos/cosmografia/documento/projeção/Ícone/ícone/cópia/reprodução/fotografia_(imagem)/retrato/fotografia/foto/apresentação/modelo/esquema/pintura/cenografia/desenho/efígie/imagem/figura/ilustração/mapa
 inquérito	pesquisa_de_opinião/desafio/sindicância/interrogação/investigação/perguntar/pergunta/enquête/sondagens_de_opinião_pública/pesquisa/questão/indagação/teste/Experiências_científicas/experiência_científica/experimento/experiência/heráldica/interrogatório
 Cratera_vulcânica	Caldeira_vulcânica
@@ -11616,9 +11616,9 @@ tempestades	nevão/chuva_de_granizo/temporal/tempestade_de_neve/tormenta/nevasca
 parque_público	parque_nacional
 ignição	combustão_espontânea
 reportar-se	insinuar/aludir/fazer_alusã_oa
-induzir	fazer_decidir/deixar/encorajar/fazer/instigar/impelir/incitar/_decidir_(se)/obrigar/constranger/compelir/forçar/convencer/persuadir
+induzir	fazer_decidir/deixar/encorajar/fazer/instigar/impelir/incitar/decidir_(se)/obrigar/constranger/compelir/forçar/convencer/persuadir
 pedraria	Aparelho
-comoção	incidente/reverência/terror/consternação/temor/medo/susto/afeição/amor/raiva/ira/cólera/zanga/humor/espírito/_estado_emocional/alegria/aversão/ódio/ânsia/ansiedade/preocupação
+comoção	incidente/reverência/terror/consternação/temor/medo/susto/afeição/amor/raiva/ira/cólera/zanga/humor/espírito/estado_emocional/alegria/aversão/ódio/ânsia/ansiedade/preocupação
 sebenta	introdução/cartilha
 menta	Hortelã-verde/Hortelã-brava/mentha_piperita/Poejo/poejo/Mentha_piperita
 dentina	Marfim/marfim
@@ -11626,7 +11626,7 @@ gula	ganância/avareza
 obrigar	aterrorizar/envergonhar/cacetear/impor/compelir/aplicar/implementar/forçar
 ataúde	sarcófago
 Gavião	Falcão-do-tanoeiro/falcão/açor/águia-pesqueira/águia_de_asa_redonda/milhafre
-percepção	paladar/comentário/toque/leitura_labial/exalarcheiro/audição_(sentidos)/sensação/detecção/escuta/observação/dar_ouvidos/tato/_sensação/Percepção_Visual/percepção_visual/Visão/olhar/olhada
+percepção	paladar/comentário/toque/leitura_labial/exalarcheiro/audição_(sentidos)/sensação/detecção/escuta/observação/dar_ouvidos/tato/sensação/Percepção_Visual/percepção_visual/Visão/olhar/olhada
 adorno	bronze/Espanta-espíritos/grafite/arabesco/laço/árvore_de_Natal/gárgula/florão/laço_de_fita/pichação/Grafite_arte/Florão/Gargula/decoração/ornamento
 vagão	carro/não-fumante/carrinho_de_mão/vagão_de_frenagem/carruagem/carroça
 Propriedade_química	Volatilidade/volatilidade
@@ -11641,6 +11641,6 @@ relação	maternidade/Romance/aplicabilidade/função/afiliação/conexão/inter
 trama	Rede_de_bravais/gaze/rede/tule/rede_de_Bravais
 conservas	compota/Doce_de_fruta/atolamento/gelatina/geléia/geleia
 prefeito	prefeita/presidente_da_câmara/ex-prefeito/alcaide/Alcaide
-_temperamento	perfeccionismo/pessimismo/otimismo/Boa_vontade/espírito_de_grupo/solidão/relutância/Disposição/hesitação/disposição/_espírito_de_equipe/amizade/tolerância/calma/equanimidade
+temperamento	perfeccionismo/pessimismo/otimismo/Boa_vontade/espírito_de_grupo/solidão/relutância/Disposição/hesitação/disposição/espírito_de_equipe/amizade/tolerância/calma/equanimidade
 Psicopatia	megalomania/psicose/loucura/insanidade
 lagarto	Xantusiidae/osga/lagartixa/camaleão/Chamaeleonidae/Varanidae

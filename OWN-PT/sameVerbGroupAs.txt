@@ -14,7 +14,7 @@ aconchegar	acomodar
 forrar	revestir
 contar	supor
 amassar	cultivar
-_ressuscitar	acordar
+ressuscitar	acordar
 querer	procurar
 separar-se	decepar/cortar/dividir/separar
 indeferir	recusar/desprezar/rejeitar
@@ -124,7 +124,7 @@ reclinar	estar_deitado/jazer/estar_situado
 despir-se	despojar/desnudar/despir
 avançar	preservar/manter/continuar
 vestir_formalmente	vestir
-acordar	renascer/reavivar/reanimar/vivificar/animar/_ressuscitar/reviver
+acordar	renascer/reavivar/reanimar/vivificar/animar/ressuscitar/reviver
 pastar	deixar_pastar
 incorrer	adquirir/receber/obter/comprar/atingir
 transportar	carregar/trazer/pegar/transmitir
@@ -156,7 +156,7 @@ vender	trair/atraiçoar
 bater_repetidamente	bater
 remover	esvaziar/despejar/limpar/desalojar
 detectar	achar/descobrir
-registrar_	perceber/registrar
+registrar	perceber/registrar
 abarcar	endereçar/cobrir/falar/tratar/lidar
 ter_certeza	afiançar
 vadiar	vagar/errar
@@ -454,7 +454,7 @@ ter	atingir/adquirir/obter/aguardar/esperar/apresenta/dispõe/contrair/sofrer/co
 segurar	capturar/apanhar/conter
 convocar	chamar/convidar
 disconcertar	enrolar/perplexar/confundir
-mergulhar_	focar
+mergulhar	focar
 calcinar	queimar/incinerar
 levitar	pairar
 aconchegar-se	acomodar
@@ -484,7 +484,7 @@ sufocar	asfixiar/estrangular
 empurrar	forçar/tocar/desvanecer/afastar/afugentar/rechaçar
 deparar	confrontar/defrontar/enfrentar/deparar_se
 falar	supor/falar_demais/dedurar/verbalizar/ler/englobar/compreender/conter/abarcar/circundar/tratar
-focar	mergulhar_/fascinar/interessar
+focar	mergulhar/fascinar/interessar
 desprezar	indeferir/recusar/rejeitar/declinar
 obscurecer	confundir
 reduzir_a_cinzas	queimar/incinerar
@@ -632,7 +632,7 @@ precisar	custar
 fazer_uma_moção	mover
 agastar	enervar-se/irritar-se
 fascinar	focar/concentrar/centrar
-registrar	registrar_/demonstrar/perceber
+registrar	registrar/demonstrar/perceber
 realizar	atingir/cumprir/efetuar/executar/levar_a_cabo
 pulverizar	esmiuçar
 casar	esposar/juntar/casar-se
@@ -717,7 +717,7 @@ equilibrar-se	equilibrar/compensar
 experimentar	provar
 incentivar	impressionar/comover/afetar
 comover	atingir/atacar/provocar/propulsar/motivar/estimular/incentivar
-perceber	registrar_/registrar/demonstrar
+perceber	registrar/registrar/demonstrar
 provocar	prover/dar/impressionar/comover/afetar
 martelar	fincar
 desabar	colapsar/largar_mão/desistir/abandonar

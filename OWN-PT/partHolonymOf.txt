@@ -16,7 +16,7 @@ Ryūkyū	Japão
 Bulbo_olfactório	Rinencéfalo
 Celebes	Indonésia/Indonesia/República_da_Indonésia
 Campania	Itália/Italia/República_Italiana
-_linha_de_produção	casademoinho/usina/fábrica/manufatura
+linha_de_produção	casademoinho/usina/fábrica/manufatura
 Rio_Lena	Siberia/Sibéria
 Sussex	Inglaterra
 Corno_de_áfrica	Africa/África
@@ -808,7 +808,7 @@ Auschwitz-birkenau	Polónia/Polônia/Polonia
 Sede_de_condado	Condados_do_Reino_Unido/condado
 República_da_Coreia	Ásia/Coréia/Coreia
 melancieira	melancia
-_signo_do_zodíaco	zodíaco
+signo_do_zodíaco	zodíaco
 Endolinfa	labirinto/ouvido_interno
 Etiopia	Corno_de_áfrica/Corno_de_África/Africa/África
 bomba_de_combustível	sistema_de_refrigeração
@@ -3655,7 +3655,7 @@ Brunei	Bornéu/Borneu
 Onça	libra/gill/brânquia/guelra
 Batata_doce	batata-doce/batata-da-terra/batatadoce
 noitada	dia
-correia_transportadora	_linha_de_produção/linha_de_montagem
+correia_transportadora	linha_de_produção/linha_de_montagem
 Rio_Trent	Inglaterra
 Hull	Inglaterra
 Ilhas_Aleutas	Alasca/Pacífico/Oceano_Pacífico
@@ -5164,7 +5164,7 @@ palato	boca
 osciloscópio	monitor/radar
 Colômbia	América_do_Sul
 Órgão_de_Corti	cóclea/caracol/Cóclea
-_signo_	zodíaco
+signo	zodíaco
 lua_cheia	mês
 Cabo_canaveral	Flórida/Florida
 Chang_Jiang	República_Popular_da_China/China
@@ -5247,7 +5247,7 @@ Chennai	India/República_da_Índia/Índia
 Vaso_linfático	sistema_linfático
 semente_do_anis	anis
 Alemanha	Europa
-esteira_transportadora	_linha_de_produção/linha_de_montagem
+esteira_transportadora	linha_de_produção/linha_de_montagem
 ene	eme/paica
 National_Reconnaissance_Office	Departamento_de_Defesa_dos_Estados_Unidos_da_América
 baite	palavra
@@ -5819,7 +5819,7 @@ Academia_da_Força_Aérea_dos_Estados_Unidos	Força_Aérea_dos_Estados_Unidos_da
 República_Popular_da_China	Ásia
 Livro_de_daniel	hagiógrafo/Antigo_Testamento/Antigo_testamento
 Manama	Barém/Bareine/Bahrein/Bahrain
-_pico	ponta_de_flecha/ponta_de_seta/Espadas/gládio/espada/cone/faca/coitelo/lápis/Lápis
+pico	ponta_de_flecha/ponta_de_seta/Espadas/gládio/espada/cone/faca/coitelo/lápis/Lápis
 Padua	Véneto/Veneto/Vêneto
 Eau_Claire	Wisconsin
 Kremlin	Moscou/Moscovo

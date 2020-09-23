@@ -65,7 +65,7 @@ Ann_arbor	Universidade_de_Michigan/Universidade_do_Michigan
 Sete_Colinas_de_Roma	Palatino
 Chipre	Nicósia
 Navegacão	governo
-zodíaco	Constelação_de_Pisces/Constelação_de_Virgo/Sagitário/León/touro/Cancer/Constelação_de_Aries/Gêmeos/_signo_/Capricórnio/Scorpius/Balança/Constelação_de_Aquarius/Virgo/Áries/Pisces/Leo/Virgem/Taurus/Leão/Aquarius/Ânfora/Gemini/Constelação_de_Leo/Constelação_de_Scorpius/Sagittarius/Constelação_de_Libra/Câncer/_signo_do_zodíaco/Libra/Capricornus/Carneiro/casa_astral/Escorpião/Constelação_de_Cancer/Aries/Peixes
+zodíaco	Constelação_de_Pisces/Constelação_de_Virgo/Sagitário/León/touro/Cancer/Constelação_de_Aries/Gêmeos/signo/Capricórnio/Scorpius/Balança/Constelação_de_Aquarius/Virgo/Áries/Pisces/Leo/Virgem/Taurus/Leão/Aquarius/Ânfora/Gemini/Constelação_de_Leo/Constelação_de_Scorpius/Sagittarius/Constelação_de_Libra/Câncer/signo_do_zodíaco/Libra/Capricornus/Carneiro/casa_astral/Escorpião/Constelação_de_Cancer/Aries/Peixes
 unha	Lúnula
 colina	declive/encosta/vertente/ladeira/rampa
 disfarce	dominó
@@ -97,7 +97,7 @@ Hectômetro	Múltiplos_e_submúltiplos/Múltiplos_e_sub-múltiplos/decâmetro
 precipitação_atmosférica	Pó_de_diamante
 primeira_infância	estágio_oral/fase_oral
 condrito	côndrulo
-casademoinho	_linha_de_produção/linha_de_montagem
+casademoinho	linha_de_produção/linha_de_montagem
 cristandade	cristianismo
 Michigan	Monroe/Parque_Nacional_Isle_Royal/Isle_Royal/Parque_Isle_Royal/Ann_arbor/Ann_Arbor/Lansing/Flint/Grand_Rapids/Grand_rapids/Marquette/Lago_Saint_Clair/Detroit
 coxa	veia_femoral/quadril/Fémur/fêmur/fémur
@@ -388,7 +388,7 @@ março	2_de_março/2_de_Março/Anunciação/19_de_março/19_de_Março
 Maurícia	Port_louis/Port_Louis
 Via_lactéa	heliosfera
 Ilhas_do_Havaí	Atol_Midway/Atol_midway/Maui/Oahu/Molokai/Kauai/Kahoolawe/Havaí/Havai/Lanai
-coitelo	_pico/ponta
+coitelo	pico/ponta
 Mar_de_barents	Mar_Branco/Mar_branco
 lavagem	enxaguadura/enxaguadelas
 Glândula_suprarrenal	Córtex_adrenal/medula_adrenal
@@ -510,7 +510,7 @@ shopping	produto/mercadorias/fazenda/mercadoria/artigo
 Costa_do_marfim	Abidjan/Abijã/Abijão
 personalidade	índole/caráter/natureza/peculiaridade/feição/integridade/responsabilidade
 furadeira	broca/pua/verruma
-espada	Lâmina/lâmina/empunhadura/punho/cabo/_pico/ponta
+espada	Lâmina/lâmina/empunhadura/punho/cabo/pico/ponta
 Críquete	entrada/inning
 circuito_integrado	Circuito_Integrado/Circuitos_integrados
 Pele	sulco/ruga/Terminação_livre/epiderme/cútis/Derme/derme/crosta/Glândula_sudoripara/Glândula_sudorípara/poro/lentigem/sarda/sardas/Corpúsculo_de_Pacini
@@ -619,7 +619,7 @@ televisão_a_cabo	linhas_eléctricas/cabos/linha_de_transmissão/Linha_de_transm
 Rive_Gauche	Quai_d'orsay/Quai_d'Orsay
 túmulo	Lápide/estela/lápide
 Pequenas_Antilhas	Antilhas_Holandesas/Antilhas_holandesas/Antilhas_Neerlandesas/Barbados/Ilhas_de_Sotavento
-faca	lâmina/Lâmina/_pico/ponta
+faca	lâmina/Lâmina/pico/ponta
 Beócia	Platéias/Plateias/Tebas
 Kyūshū	Kitakyushu/Fukuoka/Nagasaki
 Arquipélago_de_Alexandre	Ilha_Admiralty
@@ -714,7 +714,7 @@ esqueleto_apendicular	perna/membro/Pelve/alguidar/pélvis/pelve/bacia/tijela/cin
 florada	pistilo/ovário/estame
 corpo	Aparelho_digestivo/sistema_digestório/aparelho_digestivo/Sistema_digestivo/braço/sistema_nervoso/sistema_linfático/sistema_respiratório/Sistema_circulatorio/sistema_cardiovascular/sistema_circulatório/cabeça/Cabeça_e_pescoço/Sistema_sensorial/virilha/entreperna/pescoço/Sistema_endócrino/sistema_endócrino/perna/torso/Tronco/membrana/diafragma/peito/seio/nalgas/nádegas/cu/rabo/ânus/popô/bumbum/costas/coluna_vertebral/lombo/quadril/pança/talhe/cintura/tronco/abdome/barriga/abdómen/ventre/estômago/abdômen/Ombro/ombro/traseiro/bunda/anca/banda/fundilhos/nalga/nádega
 comércio	atividade_comercial/transportação/expedição/transporte
-usina	_linha_de_produção/linha_de_montagem
+usina	linha_de_produção/linha_de_montagem
 Iowa	Cedar_Rapids/Ottumwa/Des_Moines/Mason_City/Dubuque/Des_moines
 atlas	Gazetteer
 reactores	Hastes_de_controle
@@ -758,7 +758,7 @@ saguão	assoalho/chão/piso/pavimento/muro/parede/muralha/teto
 léxico	verbete
 missiva	destino/melodia/linha
 São_Francisco	Baía_de_são_francisco/Golden_gate_bridge/Baía_de_São_Francisco/Golden_Gate_Bridge
-Lápis	borracha/_pico/ponta
+Lápis	borracha/pico/ponta
 Mesquita	mihrab/minarete
 palato	Palato_duro/Palato_mole/Papila_gustativa
 Câmera	objectiva/para-sol/Parasol/Pára-sol
@@ -1018,7 +1018,7 @@ farol	lente_de_Fresnel
 Andaluzia	Granada
 tangerineira	mandarina/bergamota/mexerica/mexeriqueira/tangerina/bergamoteira
 Bloco_do_motor	cilindro
-manufatura	_linha_de_produção/linha_de_montagem
+manufatura	linha_de_produção/linha_de_montagem
 bombagem	cilindro
 poltrona	braço
 pimenta-do-reino	pimenta
@@ -1146,7 +1146,7 @@ Submarinos	periscópio/Sonar/sonar
 correio	missiva/carta
 Vietnã	Vietname_do_sul/Vietname_do_Sul/Haiphong/Hai_Phong/Ha_Noi/Hanoi/Hanói/Vietname_do_norte/Vietname_do_Norte/Cidade_de_Ho_Chi_Minh/Cidade_de_ho_chi_minh
 Arcansas	Little_Rock/Parque_Nacional_de_Hot_Springs/Pine_Bluff/Pine_bluff/Rio_Arkansas
-Espadas	Lâmina/lâmina/empunhadura/punho/cabo/_pico/ponta
+Espadas	Lâmina/lâmina/empunhadura/punho/cabo/pico/ponta
 joule	erg
 bombas_de_água	cilindro
 infarto_agudo_do_miocárdio	artéria_que_irriga_o_coração/coronária
@@ -1250,7 +1250,7 @@ elefante	Proboscide/colmilho/probóscide/tromba
 telescópio	Prisma/prisma/Prismas/visor/mira/apertura/orificio
 xadrez	tabuleiro_de_xadrez/movimento
 Campania	Capri/Ischia/Ísquia/Isquia/Nápoles
-_linha_de_produção	correia_transportadora/esteira_transportadora
+linha_de_produção	correia_transportadora/esteira_transportadora
 Corno_de_áfrica	Djibouti/Eritréia/Abissínia/Somália/Etiópia/República_de_Djibuti/Djibuti/Etiopia/Eritreia/Somalia/Jibuti
 mão	metacarpo/palma/palma_da_mão/dedo_da_mão/Dedo_da_mão/dedo
 livros	capa
@@ -1258,7 +1258,7 @@ San_Francisco	Baía_de_são_francisco/Golden_gate_bridge/Baía_de_São_Francisco
 Azerbeijão	Baku/Bacu
 Quénia	Nairóbi/Nairobi/Mombaça
 corpo_humano	Aparelho_digestivo/sistema_digestório/aparelho_digestivo/Sistema_digestivo/braço/sistema_nervoso/sistema_linfático/sistema_respiratório/Sistema_circulatorio/sistema_cardiovascular/sistema_circulatório/cabeça/Cabeça_e_pescoço/Sistema_sensorial/virilha/entreperna/pescoço/Sistema_endócrino/sistema_endócrino/perna/corpo/torso/Tronco/tronco
-ponta_de_seta	ponta/_pico
+ponta_de_seta	ponta/pico
 sepultura	Lápide/estela/lápide
 Fim_de_Semana	sábado/Sabado/domingo
 embolia	êmbolo
@@ -1398,7 +1398,7 @@ Chade	N'Djamena/N'djamena
 Timor	Timor_Leste/República_Democrática_de_Timor-Leste/Timor-Leste
 nefrónio	corpúsculo_renal
 lâmpada_a_óleo	mecha
-lápis	borracha/_pico/ponta
+lápis	borracha/pico/ponta
 cervídeos	chifre/galhada/corno
 País_de_Gales	Estreito_de_Menai/Sealyham/Cardiff/Estreito_de_menai/Swansea/Rio_Severn/Aberdare/Newport/Anglesey
 tebibyte	gibibyte
@@ -1618,7 +1618,7 @@ tintura	cromóforo
 Sri-Lanka	Kandy/Pico_de_Adão/Tamil_Eelam/Tamil_eelam/Colombo
 nanômetro	ångström/angström/angstrom
 quilovolt-ampère	Volt-ampere/voltampere/Volt-ampère
-fábrica	_linha_de_produção/linha_de_montagem
+fábrica	linha_de_produção/linha_de_montagem
 República_Árabe_Síria	Alepo/Rio_eufrates/Rio_Eufrates/Eufrates/Lataquia/Damasco/Rio_Tigre/Rio_tigre/Tigre
 Baamas	Nassau
 Brooklyn	Coney_Island/Coney_island
@@ -1633,7 +1633,7 @@ computador_pessoal	microprocessador/Microprocessadores
 Programa_de_Computador	instrução/Instrução/subrotina/sub-rotina/Sub-rotina/função
 República_de_São_Marino	Cidade_de_São_Marinho/São_Marinho/São_Marino/San_Marino
 Microssegundo	nanosegundo
-ponta_de_flecha	ponta/_pico
+ponta_de_flecha	ponta/pico
 Telescópio	Prisma/prisma/Prismas/visor/mira/apertura/orificio
 Ohio	rio_Wabash/Mansfield/Youngstown/Cleveland/Columbus/Cincinnati/Universidade_do_Estado_de_Ohio
 verbo	sílaba/afixo
@@ -1954,7 +1954,7 @@ Ilhas_marianas	Ilhas_Marianas_do_Norte/Marianas_do_Norte/Marianas_Setentrionais/
 Noroeste	Cordilheira_das_cascatas/Cordilheira_das_Cascatas
 mímica	gesto
 furador	ponta
-gládio	Lâmina/lâmina/empunhadura/punho/cabo/_pico/ponta
+gládio	Lâmina/lâmina/empunhadura/punho/cabo/pico/ponta
 Banana-da-terra	plátano
 República_da_Armênia	erevan/Erevan
 Coluna	pedestal/suporte/base/entasis/capitel
@@ -2702,7 +2702,7 @@ repolho	vegetal/couve
 ensinamento	lição/dever_de_casa/trabalho_escolar/lição_de_casa/tarefa_de_casa/tarefa
 pacto	termo/condição
 saraiva	glóbulodegranizo
-cone	_pico/ponta
+cone	pico/ponta
 Hejaz	Medina/Meca/Makkah
 ananás	abacaxi
 barriga_da_perna	Músculo_sóleo/tendão_de_Aquiles/Músculo_gastrocnêmio
