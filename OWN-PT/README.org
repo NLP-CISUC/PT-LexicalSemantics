@@ -1,0 +1,28 @@
+
+The following query was executed in the endpoint:
+
+http://wnpt.sl.res.ibm.com:10035/#/repositories/wn30/query/s/bats
+
+#+BEGIN_SRC sparql
+select ?au ?rel (group_concat(?bu; separator = "/") AS ?values)
+{
+ ?s1 wn30:containsWordSense ?ss1 .
+ ?s1 skos:inScheme <http://logics.emap.fgv.br/wn/> .
+ ?ss1 wn30:word/wn30:lexicalForm ?a .
+ ?s2 wn30:containsWordSense ?ss2 .
+ ?ss2 wn30:word/wn30:lexicalForm ?b .
+ ?s1 skos:inScheme <http://logics.emap.fgv.br/wn/> .
+ BIND(replace(?b," ","_") AS ?bu)
+ BIND(replace(?a," ","_") AS ?au)
+
+ ?s1en ?rel ?s2en .
+ ?s1en owl:sameAs ?s1 .
+ ?s2en owl:sameAs ?s2 .
+}
+group by ?au ?rel
+#+END_SRC
+
+
+Execute `process.lisp` in SBCL:
+
+: sbcl --load process.lisp --eval '(save)' --eval '(sb-ext:quit)'
