@@ -149,7 +149,7 @@ duro	pobre/granítico
 evidente	definitivo/axiomático/franco/transparente/patente/demonstrável/óbvio/manifesto
 acima	alto
 elevado	nobre/alto
-específico	especificado/circunstancial/nominal/mero/especial/particular/avulso/ad-hoc/próprio/peculiar
+específico	especificado/circunstancial/ad_hoc/nominal/mero/especial/particular/avulso/ad-hoc/próprio/peculiar
 produtor	fértil/cultivável/fecundo/prolífico/arável
 colectivo	socialista
 excelente	superior
@@ -428,6 +428,7 @@ explosivo	súbito/abrupto/repentino
 imaginário	irreal
 contraditório	inconsistente/antônimo/incompatível
 devido	pagável
+dez_mil	cardinal/cardeal
 simpático	agradecido/agradável/idílico/ameno/aprazível
 leve	translúcido
 anônimo	incógnito/anónimo
@@ -521,6 +522,7 @@ precário	inseguro/desassossegado/sísmico/temporário/vulcânico
 convencional	ortodoxo/recebido/tradicional/habitual/formal
 triplo	múltiplo
 confortável	suficiente/aliviar/acolhedor/íntimo/bastante
+cem_mil	cardinal/cardeal
 etnia	social
 implícito	indutivo/perfeito/inerente/tácito/absoluto
 informativo	consultivo/consultor
@@ -568,7 +570,7 @@ periódico	raro/mensal/cíclico/semanal/diário/anual/trienal/quinzenal/trianual
 fino	transparente/superior/laminado/diminuto/tênue/filiforme/diáfano/esbelto/magro/amolgado
 cinzento	acromático
 sujo	antipático/injusto/sórdido/encardido/obsceno/piolhoso/ranhoso/gordo/impudico/verde/horrível
-cardeal	c/160/500/bilhão/quarenta/mil/trilhão/5/uno/dois/duzentos/trezentos/quatrocentos/onze/milhar/190/180/quinhentos/1000/2/v/cinco
+cardeal	c/160/500/cem_mil/dez_mil/bilhão/quarenta/mil/trilhão/5/uno/dois/duzentos/cento_e_oitenta/trezentos/noventa_e_nove/quatrocentos/onze/cento_e_sessenta/milhar/190/180/quinhentos/um_mil/1000/2/v/cinco
 ilícito	ilegal/extraconjugal
 viável	vivo/possível
 irreversível	permanente
@@ -1546,6 +1548,7 @@ estendido	longo
 formoso	extraordinário/cênico/atraente/esplêndido/lindíssimo/fantástico/glorioso/pitoresco/bonito/precioso/magnífico/deslumbrante/maravilhoso/lindo/belo
 opcional	facultativo
 negligente	malfeito/desleixado
+ad_hoc	específico
 prestigioso	influente/emocionante/excitante
 microscópico	pequeno/visível
 estonteante	surpreendente/extraordinário
@@ -2239,6 +2242,7 @@ curvilíneo	tortuoso/circunflexo
 gelatinoso	espesso
 espumoso	doente/efervescente/adoentado/doentio/insalubre
 separável	divisível
+noventa_e_nove	cardinal/cardeal
 comunicável	comunicativo
 alternante	cíclico
 habituado	costumado/usual/geral/comum/habitual/genérico/costumeiro/ordinário
@@ -2284,6 +2288,8 @@ correto	exacto/perfeito/preciso/afinado/certo/exato
 congruente	idêntico/coincidente
 semicircular	tortuoso/circunflexo
 tíbio	caloroso
+cento_e_oitenta	cardinal/cardeal
+décimo_segundo	ordinal
 realístico	gráfico/pragmático/vivo/virtual/vivaz/vivente/prático
 constatável	determinável
 ominoso	alarmante/inquietante
@@ -2342,15 +2348,19 @@ animoso	bravo/valoroso/valente/afoito/arrojado/corajoso
 descortês	indelicado
 cobiçoso	voraz/predatório/possessivo/cumulativo/avaro/ávido/ganancioso/acumulativo/predador
 rufo	colorido
+décimo_primeiro	ordinal
 categorizado	classificado
 corruptível	corrupto
 massudo	grande
 solto	friável/folgado
 filiforme	fino
+décimo_terceiro	ordinal
 circunflexo	semicircular/sinusoidal/sinuoso/curvilíneo
 proficiente	importante
 amaro	arisco/desagradável
+décimo_quarto	ordinal
 antropóide	humano
+cento_e_sessenta	cardinal/cardeal
 manejável	possível
 confederativo	unido
 glamouroso	emocionante/excitante
@@ -2367,7 +2377,7 @@ caipira	provincial
 semi-analfabeto	analfabeto
 obsequioso	prestável
 pluvioso	húmido/molhado
-cardinal	c/160/500/bilhão/quarenta/mil/trilhão/5/uno/dois/duzentos/trezentos/quatrocentos/onze/milhar/190/180/quinhentos/1000/2/v/cinco
+cardinal	c/160/500/cem_mil/dez_mil/bilhão/quarenta/mil/trilhão/5/uno/dois/duzentos/cento_e_oitenta/trezentos/noventa_e_nove/quatrocentos/onze/cento_e_sessenta/milhar/190/180/quinhentos/um_mil/1000/2/v/cinco
 discriminativo	discriminatório/crítico
 adquirível	disponível
 assertivo	enérgico/enfático
@@ -2457,7 +2467,9 @@ vacante	vazio
 lutuoso	triste/pesaroso
 fusiforme	pontudo
 vigésima	ordinal
+vigésimo_primeiro	ordinal
 saturnino	sarcástico
+um_mil	cardinal/cardeal
 minimum	simbólico/marginal
 covardemente	pusilânime
 gris	acromático
@@ -2484,7 +2496,7 @@ cafona	húmido/molhado
 respetivo	individual
 sinusoidal	tortuoso/circunflexo
 litorâneo	marítimo
-ordinal	octagésimo/sexta/oitavo/décima/vigésimo/terciário/duodécimo/centésimo/1º/sétimo/nono/trigésimo/sexagésima/segundo/quinto/nonagésimo/trigésima/milionésimo/quadragésimo/qüinquagésimo/sexto/sexagésimo/milésimo/sétima/vigésima/décimo/primeiro/terceiro/enésimo
+ordinal	octagésimo/sexta/oitavo/décima/décimo_quarto/vigésimo_primeiro/vigésimo/décimo_terceiro/terciário/duodécimo/centésimo/1º/sétimo/nono/trigésimo/sexagésima/segundo/décimo_primeiro/quinto/nonagésimo/trigésima/milionésimo/quadragésimo/qüinquagésimo/sexto/sexagésimo/milésimo/sétima/vigésima/décimo_segundo/décimo/primeiro/terceiro/enésimo
 adulterino	infiel
 antediluviano	antigo/velho
 oblíqua	inclinado

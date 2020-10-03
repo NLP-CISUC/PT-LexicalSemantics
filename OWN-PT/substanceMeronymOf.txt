@@ -147,6 +147,7 @@ goma-laca	laca
 cutícula	casca
 zircão	zircónio
 duralumínio	alumínio
+tijolo_cru	adobe
 formigão	cimento/areia
 malaquita	cobre
 berilo	berílio

@@ -79,6 +79,7 @@ esposa	rebeca
 guitarrista	king
 guitarrista	king
 ditador	franco/hitler
+hino	dies_irae
 península	catar/coréia/coreia/arábia
 filósofo	epiteto
 oração	ave-maria/litania

@@ -180,6 +180,7 @@ fufa	calão/gíria/jargão
 pyrex	marca
 scrabble	marca
 umma	plural
+white_trash	calão/gíria/jargão
 cagalhão	vulgaridade/palavrão/indecência/obscenidade
 torquês	plural
 lavanderia	plural

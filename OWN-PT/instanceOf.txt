@@ -240,6 +240,8 @@ java	ilha
 kremlin	bastião/baluarte/cidadela
 maurício	terra/nação/país
 guzerate	província/estado
+dies_irae	hino
+dies_irae	hino
 sevilha	urbe/município/metrópole/cidade/porto
 eslovénia	europa
 califórnia	urbe/município/metrópole/cidade

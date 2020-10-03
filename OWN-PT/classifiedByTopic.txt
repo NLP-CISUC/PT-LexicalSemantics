@@ -287,7 +287,7 @@ onda	física
 travar	condução
 testemunha	lei/jurisprudência
 operar	remédio/incisão/medicina
-facilitar	fisiologia
+facilitar	ciência_natural/fisiologia
 inimigo	exército
 dramático	música
 capítulo	música
@@ -956,7 +956,7 @@ fatwa	charia
 prontidão	exército
 retrógrado	astronomia
 homogeneidade	biologia
-altista	bolsa
+altista	bolsa_de_valores/bolsa
 meteoro	astronomia
 subdesenvolvimento	fotografia
 exorcizar	igreja/religião
@@ -1165,6 +1165,7 @@ transistor	electrónica/eletronica
 realejo	música
 interrogativo	gramática
 canonizar	igreja/religião
+placa_de_som	música
 fungível	lei/jurisprudência
 anal	psicanálise
 salmo	música
@@ -1182,6 +1183,7 @@ caril	cozinha/culinária/preparação
 determinismo	filosofia
 apelação	lei/jurisprudência
 pleito	lei/jurisprudência
+habeas_corpus	lei/jurisprudência
 axioma	lógica
 galopar	equitação
 ribanceira	oceano/mar/rio/lago
@@ -1432,6 +1434,7 @@ blitzkrieg	exército
 blitzkrieg	exército
 remir	ofensa/crime
 filo	biologia
+liberdade_de_reunião	lei/jurisprudência
 internalizar	psicologia
 filo	biologia
 interpolação	matemática
@@ -1480,6 +1483,7 @@ acusativo	gramática
 ostomia	cirurgia
 ditirambo	antiguidade
 segundo-tenente	exército
+marechal_de_campo	exército
 atractor	física
 inespecífico	patologia
 convecção	meteorologia
@@ -1610,6 +1614,7 @@ metrificar	poesia/verso
 fitoterapia	flora/planta/vegetal
 transiente	física
 caaba	islamismo
+en_passant	xadrez
 liquidificar	física
 carboxílico	química
 enfarinhar	cozinha/culinária/preparação

@@ -16,7 +16,7 @@ ele	caminho-de-ferro/ferrovia
 ir	excursionar/desaparecer/adiantar-se/ocorrer/estar/passar/suceder/acontecer/sumir/andar/seguir/progredir/avançar/continuar/prosseguir/caminhar/viajar
 dois	dígito/baralho/carta/número/algarismo
 dois	dígito/número/algarismo
-dizer	supor/sugerir/indicar/registrar/inferir/cadastrar/ler/propor/mostrar/contar/falar/provar/atestar/significar/expressar/proferir/transmitir/comunicar
+dizer	supor/sugerir/indicar/registrar/inferir/cadastrar/ler/propor/mostrar/contar/falar/provar/atestar/significar/querer_dizer/expressar/proferir/transmitir/comunicar
 entre	interior
 sobre	continente/contentor/caixa/jarro/vaso/vasilha
 dia	etapa/tempo/época/período/momento/era
@@ -246,7 +246,7 @@ clube	prédio/edifício/associação/união/ordem/sociedade/organização
 interesse	atração/saqué/preocupação/lucro/curiosidade
 socialista	político
 fundo	superfície/panorama/face/região/depressão/leito/dinheiro/divisa/moeda/lado/vista
-representar	fazer/atuar/personificar/igualar/exercer/simbolizar/equivaler/estar/indicar/significar/ser/incorporar/encarnar/expressar/proferir/recriar/desempenhar/apresentar/servir/figurar
+representar	fazer/atuar/personificar/igualar/exercer/simbolizar/equivaler/estar/indicar/significar/querer_dizer/ser/incorporar/encarnar/expressar/proferir/recriar/desempenhar/apresentar/servir/figurar
 televisão	radiorreceptor/receptor/broadcast
 aceitar	experimentar/aturar/avaliar/julgar/balizar/suportar/tolerar/aguentar/responder/sofrer/reagir/adquirir/receber/obter/comprar/atingir
 ninguém	plebeu
@@ -400,7 +400,7 @@ oposição	curso/resistência/ação/ato/atividade/relação/conexão/partido/le
 participação	relação/ligação/estado/situação/condição
 chefe	empregador/supervisor/líder/alma/indivíduo/alguém/pessoa
 morrer	desesperar/experimentar/desaparecer/sofrer/parar/desmoronar/sentir/sumir/mudar/alterar/perecer/falecer/tornar/revoltar-se/revoltar
-apontar	mostrar/direcionar/orientação/deformar/situar/posicionar/mirar/significar/informar/indicar
+apontar	mostrar/direcionar/orientação/deformar/situar/posicionar/mirar/significar/querer_dizer/informar/indicar
 dúvida	precariedade/incerteza
 dirigir	adiantar-se/provocar/operar/andar/direcionar/transmitir/ordenar/controlar/comunicar/mirar/apontar/caminhar/viajar/mandar/intimar/criar/realizar/construir/causar/reger/seguir/progredir/avançar/ir/continuar/prosseguir/guiar/lidar/governar/conduzir
 debate	oratória/conversa/idioma/discussão/conversação
@@ -591,7 +591,7 @@ figura	ideia/manobra/gráfico/arte/adulto/pintura/plano/intenção/projecto/prog
 vontade	intento/faculdade/finalidade/objectivo/intenção/propósito/objetivo/talento/selecção/escolha/seleção
 recusar	conter/escapar/responder/reagir/rejeitar/reter
 autarca	político
-indicar	contar/apresentar/remarcar/mostrar/notar/mencionar/comentar/reparar/cadastrar/ler/registrar/registar/significar/transmitir/informar
+indicar	contar/apresentar/remarcar/mostrar/notar/mencionar/comentar/reparar/cadastrar/ler/registrar/registar/significar/querer_dizer/transmitir/informar
 liberdade	condição/estado/situação/imunidade
 sequência	ordenação/ordem/série/post-scriptum
 existência	condição/estado/situação
@@ -660,7 +660,7 @@ presidência	titularidade/legislatura/posto/cargo/posição
 festa	jantar/banquete/reveillon/balada/night/acontecimento/diversão
 bater	fazer/empurrar/cerrar/perturbar/ler/lavar/surrar/fechar/superar/derrotar/vencer/agitar/propulsionar/mexer/impulsionar/propulsar/cadastrar/registrar/mostrar/acertar/golpear/tocar/mover/deslocar/ressoar/soar
 recordar	relembrar/lembrar
-significar	assinalar/indicar/transmitir
+significar	assinalar/indicar/querer_dizer/transmitir
 justiça	juízo/julgamento/moralidade/moral/virtude/justeza/honestidade
 justiça	juízo/julgamento
 impor	obrigar/constranger/compelir/forçar/transmitir/comunicar
@@ -976,7 +976,7 @@ marco	referência
 despesa	preço/custo
 alemã	europeu
 tecnologia	terreno/campo/disciplina/domínio/profissão/utilização/aplicação
-sugerir	indicar/contar/mostrar/expressar/significar/declarar/transmitir/informar
+sugerir	indicar/contar/mostrar/expressar/significar/querer_dizer/declarar/transmitir/informar
 fornecer	suprir/prover/abastecer/entregar/dar
 som	ocorrência/evento/acontecimento/sensação
 ceder	esticar/transferir/aceitar/acordar/concordar/consentir/aprovar/entregar/oferecer/regalar/dar
@@ -1352,6 +1352,7 @@ alertar	advertir/avisar/informar
 avisar	advertir/alertar/discutir/opinar/assessorar/aconselhar/informar
 aliança	coalizão/união/convênio/joalharia/joalheria/jóia/anel/fusão/coligação/convenção/tratado/acordo/pacto/organização
 residir	povoar/viver/morar/habitar
+jazz	dance_music
 publicidade	comércio/empresa/negócio/promoção/propaganda/reclamo/reclame/anúncio
 radical	átomo/alma/indivíduo/alguém/pessoa
 motor	maquinaria/causador/máquina
@@ -1787,7 +1788,7 @@ propina	suborno
 conferir	discutir/examinar/verificar/presentear/outorgar/premiar/assegurar/analizar
 aproximação	cálculo
 aproximação	ligação/versão/semelhança/deslocamento/movimento/traslado
-introdução	parte/começo/sebenta/texto/compêndio/movimento/capítulo/início
+introdução	parte/começo/sebenta/texto/livro_de_texto/compêndio/movimento/capítulo/início
 destruição	condição/conclusão/fim/resultado/chegada/estado/situação
 buraco	espaço/abertura/furo/vão/fenda/depressão/oco
 antena	tentáculo
@@ -1863,7 +1864,7 @@ consórcio	associação/união/ordem/sociedade/organização
 violar	tocar/violentar/destroçar/arruinar/destruir/estraçalhar/detonar/assaltar/agredir/atacar/desrespeitar/mexer
 ferro	líder/chefe/electrodoméstico/metal
 ferro	metal
-rapariga	jovem/moça/cortesã/puta/prostituta/quenga/meretriz/rameira/devassa/menor/juvenil/fêmea/amado/amante/garota/mulher/senhorita
+rapariga	jovem/moça/cortesã/mulher_pública/puta/prostituta/quenga/meretriz/rameira/devassa/menor/juvenil/fêmea/amado/amante/garota/mulher/senhorita
 seio	anatomia
 cessar-fogo	paz
 evoluir	progredir/desenvolver
@@ -2886,6 +2887,7 @@ discordar	estar/diferir/ser/divergir
 nova	estrela
 insegurança	ânsia/ansiedade/preocupação/perigo
 alusão	referência/comentário/observação
+querer_dizer	indicar/significar/transmitir
 incentivar	estimular/provocar/promover/encorajar/alentar/causar/fazer
 ecologista	biólogo/biologista
 acolhimento	ingresso/entrada
@@ -3177,6 +3179,7 @@ estrago	mudança/alteração/variação/modificação
 paraíso	região
 paraíso	região
 citação	mandato/entrega/intimação/apontamento/anotação/nota/excerto/extrato/passagem/trecho/mandado
+banda_desenhada	caricatura/cartoon
 substituto	fato/dobro/agente/acontecimento/evento/servente/ajudante/servidor/assistente/adjunto/criado/equivalente
 periódico	publicação/edição
 espantar	tocar/surpreender/assombrar/sobressaltar/desvanecer/afastar/afugentar/rechaçar
@@ -3514,7 +3517,7 @@ armador	amo/dono/proprietário/possuidor
 ribeira	córrego
 bombardear	assaltar/atacar
 congressista	legislador
-prostituta	adúltero/cortesã/puta/rapariga/quenga/meretriz/rameira/devassa/mulher
+prostituta	adúltero/cortesã/mulher_pública/puta/rapariga/quenga/meretriz/rameira/devassa/mulher
 magia	interpretação/apresentação
 estímulo	conhecimento/informação/estimulante
 óptica	física
@@ -3848,7 +3851,7 @@ admirador	amado/amante
 chantagem	extorsão
 gay	alma/indivíduo/alguém/pessoa
 interferência	acção/ação/ato/feito
-simbolizar	indicar/significar
+simbolizar	indicar/significar/querer_dizer
 cumprimentar	saudar/vir
 percussão	detonação/auscultação
 refúgio	ambiente/recurso/região/território/capa/fronha/asilo/edifício/tecido/estrutura
@@ -4794,7 +4797,7 @@ interacção	interação
 pontuação	agrupamento
 rendição	derrota/render-se/perda
 pontuação	agrupamento
-acompanhante	amigo/turista/tocador/viajante/cortesã/puta/prostituta/rapariga/quenga/meretriz/rameira/devassa/instrumentista/instrumentalista/músico/camarada/colega/companheiro
+acompanhante	amigo/turista/tocador/viajante/cortesã/mulher_pública/puta/prostituta/rapariga/quenga/meretriz/rameira/devassa/instrumentista/instrumentalista/músico/camarada/colega/companheiro
 nazismo	socialismo/fascismo
 nazismo	socialismo/fascismo
 logotipo	marca
@@ -4836,6 +4839,7 @@ envenenar	viciar/alterar/matar/dopar/narcotizar/drogar/mudar/modificar/depravar/
 recompensar	atuar/pagar/agir/fazer
 agregar	surgir/dividir/misturar/partilhar/compartilhar/confraternizar/acontecer/dar/vir/ser
 adicionar	enumerar/constituir/alterar/computar/dizer/contar/falar/somar/acrescentar/crescer/aumentar/enquadrar/estabelecer/compor/calcular/mudar/modificar/estar/ser
+produto_interno_bruto	qualidade/preço
 zulu	africano
 punhado	aglomeração/fragmento/pedaço
 bode	bovídeos
@@ -5102,9 +5106,12 @@ ecoar	fazer/ressoar/soar/emitir/soltar
 saudação	reconhecimento
 dote	dom/dádiva/presente/brinde/doação
 mel	adoçante
+samba	dance_music
 laborar	trabalhar
+tango	dance_music
 arrefecer	tornar/revoltar-se/revoltar
 timbre	som
+tango	dance_music
 algodão	lã/pano/fio/arbusto/moita/mato/fazenda/tecido
 institucionalizar	transmitir/transferir/trazer
 anexar	reunir/ligar/unir/juntar
@@ -5663,6 +5670,7 @@ confeccionar	compor/provocar/criar/realizar/construir/causar/montar/reunir
 sofisticação	qualidade
 gangster	criminoso
 incriminar	evocar/acusar/sugerir
+pole_position	posição/local/lugar
 lente	órgão
 escrúpulo	vacilar
 leme	liderança
@@ -5838,7 +5846,7 @@ pertinência	ligação/relação
 referencial	sistema
 escandalizar	repulsar/revoltar/indignar/nausear/repugnar
 devedor	alma/indivíduo/alguém/pessoa
-presa	vítima/animal/criatura/bicho/ser/besta
+presa	vítima/animal/dente_canino/criatura/bicho/ser/besta
 devedor	alma/indivíduo/alguém/pessoa
 indulto	clemência/perdão/misericórdia
 veemência	intensidade
@@ -6273,6 +6281,8 @@ reintegrar	pagar
 explorador	alma/indivíduo/alguém/pessoa
 pergaminho	manuscrito
 fantoche	boneco/boneca
+techno	dance_music
+techno	dance_music
 maldade	desobediência/mal/ódio/aversão/transgressão/imoralidade/qualidade/estado/situação/condição
 terceira	marcha/engrenagem
 deslumbrar	estontear/admirar/assombrar/surpreender/espantar
@@ -6473,7 +6483,7 @@ lombardo	europeu
 nicotina	alcalóide
 resvalar	deslizar/escorregar
 compaixão	misericórdia/sentimento/emoção/impressão/humanidade/simpatia/piedade/camaradagem
-puta	porco/cortesã/prostituta/rapariga/quenga/meretriz/rameira/devassa/mulher
+puta	porco/cortesã/mulher_pública/prostituta/rapariga/quenga/meretriz/rameira/devassa/mulher
 revolver	buscar/deslocar/mover/procurar
 ditado	princípio/expressão/locução/provérbio/idioma
 uniformizar	alterar/mudar/modificar
@@ -6706,6 +6716,7 @@ envenenamento	homicídio/assassinato/morte
 antagonismo	impedimento/oposição/aversão/ressentimento/repulsa/inimizade/hostilidade/interferência
 soco	infortúnio/porrada/golpe/azar/acidente
 parafrasear	redizer/reapresentar/repetir/reiterar
+valsa	dance_music
 mercúrio	metal
 mercúrio	metal/calor/temperatura
 mirar	conferir/direcionar/ver/checar/apontar/situar/posicionar/olhar/observar
@@ -6895,7 +6906,7 @@ meteorito	meteoróide/meteoro
 permissão	autorização
 estandarte	pendão/bandeira/pavilhão/naipe/emblema
 espiar	apurar/ver/policiar/controlar/monitorar/olhar/observar/mirar/averiguar/investigar
-fundição	pesca/usina/fábrica
+fundição	pesca/pesca_à_linha/usina/fábrica
 esmagamento	pele/couro/pressão/compressão
 chaga	infecção
 ornamentar	estar/embelezar/decorar/adornar/alterar/mudar/modificar/ser
@@ -6956,6 +6967,7 @@ lavandaria	vestuário/roupa
 tira	secção/polícia/porção/pedaço/tomo/parte/agente/policial/guarda
 arrecadação	reunião
 plebiscito	votação
+meia_noite	hora
 clímax	nível/grau/ápice/fase
 coloração	tingimento
 habitáculo	habitat
@@ -7462,7 +7474,7 @@ contendor	alma/indivíduo/alguém/pessoa
 desordenar	comer
 tocador	intérprete
 termómetro	metro
-cartilha	sebenta/texto/compêndio
+cartilha	sebenta/texto/livro_de_texto/compêndio
 coligar	reunir/unificar
 iemenita	árabe/arábico
 cálice	xícara/taça
@@ -7678,6 +7690,7 @@ alface	erva/maconha
 hangar	edifício/tecido/estrutura
 sapateiro	fazedor/arte/ofício/profissão
 hangar	edifício/tecido/estrutura
+ad_hoc	verbo/palavra/termo/vocábulo
 obstinação	firmeza
 equitação	técnica/meta/talento/habilidade
 gratificação	satisfação
@@ -7883,8 +7896,10 @@ vitral	vidro
 codificação	programação/criptografia
 crucifixo	cruz
 narcótico	sonífero/medicamento/entorpecente/remédio/droga/agente
+bolero	dance_music
 crucifixo	cruz
 dilúvio	montão/multidão/montanha/bocado/massa/quantidade
+bolero	dance_music
 víscera	órgão
 codificação	código
 remendo	pano
@@ -7955,6 +7970,7 @@ paternalismo	atitude
 megalomania	psicopatia/psicopata
 cria	animal/criatura/bicho/ser/besta
 palavra-chave	chave/verbo/palavra/termo/vocábulo
+canino	dente_canino
 cataclismo	acidente/azar/infortúnio
 grega	europeu
 argila	solo/terra
@@ -8573,6 +8589,7 @@ quadruplicar	multiplicar
 amassar	ir/preguear/torcer/dobrar/lesionar/enrugar/manipular/manejar/manusear/lesar/machucar/ferir/caminhar/andar
 urinar	expelir
 tory	estado-unidense/norte-americano
+sine_qua_non	pré-requisito
 suplicar	solicitar/requisitar/requerer/pedir/invocar/rogar
 hambúrguer	sanduíche/bife/carne
 parelha	jogo/grupo
@@ -8583,6 +8600,7 @@ peculiaridade	propriedade/característica/predicado/atributo
 abadia	templo/mosteiro/jurisdição/monastério/igreja/convento
 esvoaçar	passar/acelerar/apressar-se/despachar-se/apressar
 inquietude	ânsia/ansiedade/preocupação
+persona_non_grata	alma/indivíduo/alguém/pessoa
 transgredir	passar/desrespeitar/atravessar
 ilusionista	intérprete
 empalidecer	colorir/descolorir
@@ -8632,6 +8650,7 @@ procuradora	agente
 fermento	levedura/fungo
 necrópole	locação/lugar/sítio
 chauvinismo	nacionalismo/patriotismo/sexismo
+alter_ego	camarada/amigo/conhecido/amiga/amizade
 cu	anatomia
 embriagar	afetar/envenenar/tomar/beber
 saciedade	plenitude
@@ -8714,6 +8733,7 @@ detonar	mudar
 maxilar	mandíbula
 legionário	soldado/militar
 maxilar	mandíbula
+desordeiro	persona_non_grata
 milionésimo	classe/hierarquia/posição/posto
 demorar-se	parar
 delirar	aperceber-se/entender/aperceber/perceber
@@ -9511,8 +9531,10 @@ tripé	prateleira
 guerrear	brigar/lutar/debater-se/procurar/tentar
 lítio	metal
 toscano	italiano/italiana
+ressonância_magnética	tomografia
 maquinar	planejar
 espiritismo	convicção/religião/opinião/fé/crença
+ressonância_magnética	tomografia
 valão	francês
 sapiência	feição/habilidade/peculiaridade
 lítio	metal
@@ -9659,7 +9681,7 @@ videocassete	cassete/gaveta/video/vídeo/gravador
 clarabóia	janela
 prensa	maquinaria/máquina
 conector	equipamento
-joystick	controlador
+joystick	dispositivo_de_entrada/controlador
 apodrecimento	atividade
 supervisar	gerir/administrar
 normando	francês
@@ -9815,6 +9837,7 @@ sebe	estacada/paliçada/cerca/barreira
 lavadeira	lavador
 diagrama	pintura/figura/desenho/imagem/ilustração
 oxidação	corrosão/erosão
+pista_de_dança	chão/piso/pavimento
 madame	mulher
 anarquismo	ideologia
 bananeira	erva/fruta/maconha
@@ -9851,6 +9874,7 @@ maestria	posto/cargo/posição
 queijada	bolo
 cacofonia	dissonância
 relicário	continente/contentor/caixa/jarro/vaso/vasilha
+blue_chip	ficha
 mitra	chapéu
 desamparar	abandonar
 descolonizar	liberar/emancipar
@@ -10091,7 +10115,7 @@ escotilha	nascimento
 desfolhar	desnudar
 sexismo	discriminação
 contrair-se	convergir/desabar/minguar/diminuir/decrescer
-heavy-metal	rock
+heavy-metal	rock_and_roll/rock
 triturador	ferramenta/aparelho/aparato/mecanismo/instrumento/dispositivo/equipamento
 paginar	numerar
 transcorrer	minguar/diminuir
@@ -10281,6 +10305,7 @@ pré-conceber	conceber
 açucarar	adoçar/dulcificar
 mímico	intérprete/artista/actor/ator
 mijar	expelir
+commedia_dell'arte	comédia
 estivar	dormir/encaixotar/capotar
 coice	estimulante/movimento/estímulo
 cientologia	igreja/religião
@@ -10865,6 +10890,7 @@ interoperabilidade	habilidade/capacidade
 tâmara	fruta
 agenciar	discutir
 mineração	produção
+ragtime	dance_music
 fuligem	carbono
 bocal	olfato/nariz
 superintendência	gestão/administração
@@ -10883,6 +10909,7 @@ comutador	chave/interruptor
 ftp	protocolo
 sépia	castanho/marron/marrom
 realinhar	alinhar
+big_brother	ditador
 bule	pote
 vice-chanceler	administrador
 comutador	chave/interruptor
@@ -10900,6 +10927,7 @@ aprumo	certeza/equanimidade/segurança/calma
 estabilizar-se	mudar/alterar
 charcutaria	vianda/carne
 apicultura	cultivo
+dance_music	música
 hamster	roedor
 abeto	conífera
 espumar	borbulhar
@@ -10940,6 +10968,7 @@ pedigree	ascendência/raça/origem/estirpe
 prestidigitador	intérprete
 gengibre	erva/especiaria/condimento/tempero/maconha
 ruiva	alma/indivíduo/alguém/pessoa
+conga	dance_music
 empada	pastel
 malga	tigela
 hipersensibilidade	sensibilidade
@@ -11130,6 +11159,8 @@ exorcista	mago/feiticeiro/bruxo/taumaturgo/mágico/sortílego
 ronronar	fazer/ressoar/soar
 chacal	cão/canídeo
 europeizar	alterar/mudar/modificar
+panela_de_pressão	autoclave
+flower_power	contracultura
 galé	embarcação/navio/barco
 trilha	evidência/percurso/itinerário/rota/linha/estrada/via/caminho/curso
 entrincheirar-se	prender/fixar
@@ -11500,6 +11531,7 @@ mortificar	limitar/refrear/controlar/magoar/ofender/provocar
 desintoxicar	remover/tratar/retirar/tirar
 piroga	canoa
 prosódia	fala
+pesca_à_linha	pesca
 anagrama	verbo/palavra/termo/vocábulo
 bifurcar	divergir
 anti-depressivo	remédio/medicamento
@@ -11513,7 +11545,7 @@ desarranjo	insanidade/loucura
 almofariz	vaso/vasilha/vasilhame
 liteira	veículo/cama/leito
 macerar	separar/dividir
-pífaro	flauta
+pífaro	flauta/flauta_transversa
 desestruturar	destruir
 grossura	consistência/dimensão/magnitude/amplidão/extensão/viscosidade
 asterisco	letra/grafema
@@ -11650,6 +11682,7 @@ desamarrar	desfazer/alterar/mudar/modificar
 cominho	erva/maconha
 orografia	geologia
 ancinho	implemento/cultivador/ferramenta/instrumento
+polca	dance_music
 adulação	lisonja/bajulador/elogio/bajulação/vénia/admiração
 agrilhoar	confinar/reter
 inanição	fome/sede
@@ -11689,6 +11722,7 @@ alcachofra	vegetal/legume/hortaliça
 ex-namorado	varão/macho/homem
 pivete	menino/jovem/criança
 alcachofra	legume/verdura/hortaliça/vegetal
+polca	dance_music
 electrocussão	homicídio/assassinato/morte
 garfar	levantar
 incomunicação	separação
@@ -11873,6 +11907,7 @@ rom	indiano/hindu
 chaleira	bule/pote
 charrete	carruagem
 valete	figurinha
+final_de_semana	período/etapa/tempo
 saguão	quarto/corredor/passagem/câmara/aposento/sala
 concupiscência	anseio/apetite/pretensão/desejo
 egiptólogo	arqueólogo
@@ -12023,6 +12058,7 @@ priorizar	classificar
 agnosticismo	descrença
 imago	insecto/inseto
 dedal	continente/contentor/caixa/jarro/vaso/vasilha
+baby_boom	geração
 ecoturismo	turismo
 alabastro	branco/brancura/cândido/alvo/gesso
 infração	ofensa/crime
@@ -12035,6 +12071,7 @@ churrascaria	restaurante
 zurrar	emitir/rir/gargalhar/soltar
 dedal	continente/contentor/caixa/jarro/vaso/vasilha
 superpopulação	população
+insider_trading	comércio
 altímetro	metro
 furão	toirão
 esmolar	pedir/captar/mendigar
@@ -12170,6 +12207,7 @@ pertence	felicidade/alegria
 vanádio	metal
 rebite	alfinete
 caruncho	besouro/escaravelho
+livro_de_texto	livro
 simbolo	sinal
 embotar	reduzir/diminuir
 lambuzar	sujar/esfregar/macular/contaminar/manchar
@@ -12331,6 +12369,7 @@ sombrero	chapéu/sombreiro
 telemarketing	venda
 bergantim	veleiro
 circumnavegação	travessia/viagem
+distância_focal	distância
 correção	força/melhoramento/melhoria/qualidade
 poliuretano	polímero
 fogo-fátuo	ilusão/fantasia
@@ -12396,11 +12435,13 @@ headbanger	amante
 tafetá	pano/fazenda/tecido
 colorizar	alterar/mudar/modificar
 frontispício	frente
+jet_lag	fadiga/esgotamento/estafa/cansaço
 winchester	espingarda/rifle/fuzil
 subwoofer	altifalante/alto-falante
 lacrimejar	chorar/choramingar
 marmota	roedor
 rabo-de-cavalo	penteado
+jet_lag	fadiga/esgotamento/estafa/cansaço
 tesão	excitação
 ecologismo	conservação/preservação
 carmim	vermelhidão/vermelho/rubro/escarlate/encarnado
@@ -12446,6 +12487,7 @@ prancheta	placa/lousa/chapa/laje
 informante	trapaceiro
 arear	alisar
 tório	metal
+caça_grossa	caça
 iaque	boi
 estirar	lesionar/lesar/machucar/ferir
 endemia	doença
@@ -12456,6 +12498,7 @@ varal	corda
 bodega	destilaria
 pedra-pomes	rocha/pedra
 desencaminhar	desafiar/concitar/provocar/estimular/incitar/engodar/seduzir
+giga	dance_music
 abracadabra	algaravia
 afiliação	relação/ligação
 musselina	pano/fazenda/tecido
@@ -12575,8 +12618,9 @@ míldio	fungo
 ondear	marcar
 croché	bordado
 sêmola	farinha
-flautim	flauta
+flautim	flauta/flauta_transversa
 adequabilidade	qualidade
+anã_branca	estrela
 hematócrito	proporção/razão/taxa
 cachaço	porco/suíno
 fura-greve	trabalhador
@@ -12871,6 +12915,7 @@ tântalo	metal
 desflorar	copular/acasalar
 atriz	intérprete/artista/actor/ator
 latrocínio	roubo/assalto
+heavy_metal	rock_and_roll/rock
 balconista	assalariado/empregado/operário
 alta-tecnologia	tecnologia/engenharia
 kimono	veste/vestido
@@ -12917,6 +12962,7 @@ furúnculo	acne
 odalisca	concubina/cortesã/directoria/amante/chefa
 lustrar	aperfeiçoar/polir/embelezar/embonecar/melhorar
 desfastio	anseio
+heavy_metal	rock_and_roll/rock
 hipercolesterolemia	sintoma
 tremelicar	tremer/tiritar/estremecer
 inflamabilidade	qualidade
@@ -12961,6 +13007,7 @@ camomila	erva/chá/maconha
 calvinismo	protestantismo
 resfriar	tornar/mudar/modificar/revoltar-se/revoltar/alterar
 encorajar-se	empolgar/incentivar/encorajar/alentar
+décimo_quinto	classe/hierarquia/posição/posto
 sapatão	alma/lésbica/indivíduo/alguém/pessoa
 adenocarcinoma	carcinoma
 motosserra	serra
@@ -13052,6 +13099,7 @@ extirpação	puxão/cirurgia/operação/tração
 armaria	fundição
 corça	desova/cervo/veado
 esfacelamento	retirada
+minueto	dance_music
 futon	colchão
 alavancar	abrir
 judaismo	igreja/religião
@@ -13151,6 +13199,7 @@ ostomia	orifício
 maxila	mandíbula
 tetraciclina	bactericida
 pas	passo
+videocassette	fita_magnética
 colite	inflamação
 abdômen	anatomia
 underdog	perdedor
@@ -13294,6 +13343,7 @@ descompactar	ajustar/corrigir/acertar
 transar	dançar/copular/acasalar
 cimitarra	sabre
 sociobiologia	biologia
+slot_machine	maquinaria/máquina
 gato-bravo	gato
 evangelismo	pregação/prédica/sermão
 coprólito	cocô/porcaria/excremento/merda/esterco/bosta
@@ -13675,6 +13725,7 @@ desabonar	descartar/minimizar/ignorar/desconsiderar/menosprezar
 axiologia	filosofia
 karma	fado/sorte/destino
 amargor	amargura
+help_desk	serviço
 imaterializar	alterar/mudar/modificar
 varietal	vinho
 aleta	membro
@@ -13716,6 +13767,7 @@ zigoto	célula
 clara	ingrediente
 prostatectomia	ablação/extirpação
 fulgurar	estar/ser
+décimo_oitavo	classe/hierarquia/posição/posto
 esfíncter	músculo
 boqueirão	vão/fenda
 ábside	nicho
@@ -13757,6 +13809,7 @@ parabenizar	elogiar/louvar
 pastis	licor
 bioma	comunidade
 beluga	delfim/boto/golfinho
+help_desk	serviço
 cliffhanger	episódio
 bioma	comunidade
 espondilite	inflamação
@@ -13832,6 +13885,7 @@ tebano	heleno/egípcio/grega/grego
 dessensibilização	abatimento/diminuição
 octaedro	poliedro
 ilhar	discriminar
+estrela_fixa	estrela
 extroverter	encorajar/alentar
 maser	amplificador
 furador	ferramenta
@@ -13899,6 +13953,7 @@ madrigalista	cantador/cantor/cantora/vocalista
 metodismo	protestantismo
 pecíolo	caule/tronco
 perno	parafuso/tarraxa
+tarantella	dance_music
 mulo	ungulados/equídeo
 endotélio	epitélio
 absurdidade	tolice/insensatez/disparate/besteira
@@ -13926,6 +13981,7 @@ scriptorium	quarto/câmara/aposento/sala
 sensualizar	imputar/atribuir
 nadir	adversidade
 prolapso	deficiencia/incapacidade/deficiência/deficiente/inabilidade
+mulher_pública	mulher
 iglu	choça/choupana/cabana/casebre/barraco
 asbestose	pneumoconiose
 gumbo	sopa
@@ -13942,6 +13998,7 @@ geoquímica	química
 bidê	bacia/tigela
 engulir	acreditar/crer
 cauterização	cirurgia/operação
+dispositivo_de_entrada	periférico
 petúnia	flor
 salsaparrilha	soda/refresco/refrigerante
 bondage	sexo/transa
@@ -13983,6 +14040,7 @@ flexionar	amenizar/contrair-se/encolher/contrair/murchar
 exonerar-se	demitir-se/resignar/quitar/abandonar/renunciar
 tarrafa	falcão
 papoula	flor/papoila/dormideira
+inner_city	jazida
 tálio	metal
 quitanda	feira/mercado
 estorricar	secar/enxugar
@@ -14079,6 +14137,7 @@ molenga	vadio/vagabundo
 umma	comunidade
 criptografar	codificar
 gurkha	soldado/militar
+ácido_clorídico	ácido
 citrato	sal/éster
 peneireiro-vulgar	falcão
 cocho	continente/contentor/caixa/jarro/vaso/vasilha
@@ -14115,6 +14174,7 @@ perna-de-pau	prótese
 baldeação	transferência/transporte
 emulsionar	alterar/tornar/mudar/modificar/revoltar-se/revoltar
 sucuri	jibóia
+ovo_quente	prato
 enxaguar	molhar/limpar/lavar-se
 grânulo	joalharia/joalheria/jóia
 polónio	metal
@@ -14145,6 +14205,8 @@ xale	manto/capa
 menonitas	protestantismo
 piazza	praça
 dissentir	diferir/discordar/divergir
+mínimo_múltiplo_comum	múltiplo
+dente_canino	dente
 cd-rom	cd/cedê
 macaréu	onda/vaga
 accountability	responsabilidade
@@ -14179,6 +14241,7 @@ enebriar	intoxicar/elevar
 marrom	castanho/marron
 risotto	prato
 esfriar-se	tornar/revoltar-se/revoltar
+dique_seco	doca
 stupa	relicário/santuário
 pimenta-da-jamaica	tempero/condimento/especiaria
 fração	porção/parte
@@ -14304,6 +14367,7 @@ raposo	trapaceiro
 desarranjar	enlouquecer
 arrecife	cume/aresta
 eletrólito	solução/soluto
+verbo_auxiliar	verbo
 arrecife	cume/aresta
 banshee	alma/espírito/fantasma
 nimbo	nuvem/nuvens
@@ -14341,6 +14405,7 @@ satirismo	concupiscência/cio/eros
 jurisdicção	jurisdição
 enquête	pesquisa/inquérito/investigação
 nazificar	alterar/mudar/modificar
+rocha_ígnea	rocha/pedra
 escargot	vianda/carne
 artroscópio	endoscópio
 cosmografia	representação/imagem/desenho/ilustração/figura
@@ -14355,6 +14420,7 @@ tag	rótulo/etiqueta
 tremonha	sargeta
 tremolo	vibrato
 primogenitura	patrimônio/herança/legado
+metal_alcalino	metal
 revidar	castigar/penalizar/punir
 holismo	teoria
 jacó	patriarca/tripulante/marujo/marinheiro
@@ -14369,6 +14435,7 @@ sesquicentenário	aniversário
 pansexual	alma/indivíduo/alguém/pessoa
 voltímetro	metro/contador
 transa	sentimento/emoção/impressão
+white_trash	caucasiano/caucasiana/branco
 cagalhão	merda
 lintel	viga/trave
 focinheira	limitação/restrição
@@ -14451,6 +14518,7 @@ hipertrofiar	aumentar/crescer
 chamejar	intensificar
 tróica	carruagem
 trombetear	veicular/exclamar/promulgar/proclamar
+exército_de_salvação	ong
 leishmania	flagelado
 fitopatologia	doença
 ataraxia	serenidade
@@ -14535,6 +14603,7 @@ cinemática	mecânica
 caçoada	humor
 embreagem	acoplamento
 insurgência	rebelião/insurreição/revolta
+tijolo_cru	tijolo
 sacarina	adoçante
 abotoadura	joalharia/joalheria/jóia
 grifar	acentuar/marcar/pontuar/enfatizar
@@ -14655,6 +14724,7 @@ triazolam	benzodiazepinas
 guito	dinheiro/divisa/moeda
 glicerol	álcool
 autocratismo	ideologia
+diorito	rocha_ígnea
 espirar	pausar/parar/interromper
 constructor	contratador
 mixagem	combinação/mistura
@@ -14708,6 +14778,7 @@ fraudar	trapacear/defraudar
 loteria	coincidência/acidente
 suchi	prato
 salinar	mudar/alterar
+beguina	dance_music
 cetonúria	sintoma
 plagiário	gatuno/ladra/ladrão
 frisbee	brinquedo/disco
@@ -14766,6 +14837,7 @@ macaxeira	amido/fécula
 trompetear	emitir/tocar/soltar
 broto	vegetal/departamento/divisão
 azorrague	chicote/chibata
+oração_subordinada	cláusula/oração
 ciborgue	máquina
 salgueiro-chorão	salgueiro/vimeiro
 eufónio	tuba
@@ -14887,10 +14959,12 @@ terpeno	hidrocarboneto
 atopia	alergia
 coaching	ocupação/trabalho/biscate/emprego
 nártex	sala/saguão/antecâmara/átrio/vestíbulo
+porfiróide	rocha_ígnea
 traslado	mudança
 imame	muçulmano/líder/chefe
 ciborgue	máquina
 inegibilidade	qualificação
+oração_subordinada	cláusula/oração
 endotoxina	toxina
 sigmóide	cólon
 transubstanciar	alterar/mudar/modificar

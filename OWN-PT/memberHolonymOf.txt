@@ -237,6 +237,7 @@ nebulosa	criação/natureza/universo/cosmo/mundo
 bufo	coruja
 pontífice	papado
 bretão	grã-bretanha
+bolsa_de_valores	mercado
 mocho	coruja
 legionário	exército
 lady	nobreza

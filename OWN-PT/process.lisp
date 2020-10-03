@@ -1,5 +1,5 @@
 
-(ql:quickload '(:cl-ppcre))
+(ql:quickload '(:cl-ppcre :yason))
 
 
 (defun filename (url)
@@ -31,7 +31,7 @@
       (loop for line = (read-line in nil nil)
 	    while line
 	    do (let ((r (cl-ppcre:split "\\t" line)))
-		 (if (cadr r) (setf (gethash (cadr r) tb)
+		 (if (cadr r) (setf (gethash (substitute #\_ #\= (cadr r)) tb)
 				    (parse-integer (car r)))))
 	    finally (return tb)))))
 

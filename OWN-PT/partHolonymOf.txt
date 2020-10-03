@@ -68,7 +68,7 @@ sala	enfermaria/hospital/mansão/solar/prédio/edifício/casa/lar/aposento/morad
 responsabilidade	personalidade/caráter
 porta	acesso/portão/pórtico/entrada/muro/parede/muralha/veículo/auto/viatura/automóvel/máquina/carro
 corpo	alma/indivíduo/alguém/pessoa/homem/anatomia/cadáver
-domingo	fim-de-semana
+domingo	fim-de-semana/final_de_semana
 carta	correspondência/comunicação/correio
 abertura	olho/óculo
 teatro	casa
@@ -76,7 +76,7 @@ luta	guerra
 arte	publicação/edição
 norte	américa
 quarto	galão/prédio/edifício/casa/lar/aposento/moradia/habitação/residência/morada/domicílio
-sábado	fim-de-semana
+sábado	fim-de-semana/final_de_semana
 pena	asa/ala/ave/pássaro
 notícia	folha/jornal
 intenção	programa
@@ -99,6 +99,7 @@ rio	brasil
 pé	mesa/felino/tripé/assento/cadeira/homem/perna/cão/canídeo/calça/jarda/ovelha/carneiro/porco/sus/suíno/edifício/tecido/estrutura
 margem	lauda/escudeiro/página
 metade	basquete/basquetebol/jogo/turno/rodada/futebol
+ponte	tronco_cerebral
 rádio	antebraço
 olho	rosto/cara/face
 memória	computador/calculadora
@@ -270,7 +271,7 @@ cérebro	cabeça/pescoço
 quinta	granja/sítio/fazenda
 vela	partida/ignição/veleiro
 ala	avião/aeroplano/morcego/anjo/insecto/inseto/ave/pássaro
-barra	gol
+barra	barra_fixa/gol
 pão	sanduíche
 hierarquia	sistema/administração/organização
 grelha	gelosia
@@ -311,6 +312,7 @@ pedaço	unidade
 processador	computador/calculadora
 chapéu	fungo
 órbita	caveira/crâneo/crânio
+banda_desenhada	folha/jornal
 pilar	templo/muro/parede/muralha
 joelho	calça/perna
 mala	veículo/auto/viatura/automóvel/máquina/carro
@@ -597,6 +599,7 @@ cartucho	caneta
 cartucho	arma
 síndroma	doença
 tira	bagagem/mala/embrulho
+meia_noite	noite/noitada/tarde
 galão	barril
 tv	televisão/tevê
 adjectivo	adjetivo
@@ -775,6 +778,7 @@ pálpebra	olho/óculo
 baloiço	playground/parque
 grelo	vulva/cona
 estratosfera	atmosfera/ar
+placa_de_som	piano
 puberdade	adolescência
 minarete	mesquita
 nuvens	céu
@@ -930,6 +934,7 @@ guarda-lama	veículo/auto/viatura/automóvel/máquina/carro
 catar	arábia
 balaustrada	varanda/sacada/balcão
 ene	eme
+tronco_cerebral	encéfalo/cérebro
 porro	alho
 microchip	computador/calculadora
 diafragma	corpo/torso/tronco/câmara/câmera
@@ -974,6 +979,7 @@ alho-porro	alho
 alho-porro	alho
 rotor	turbina/gerador
 bunda	corpo/torso/tronco
+final_de_semana	semana
 saguão	prédio/edifício
 sena	frança
 anho	ovelha
@@ -1027,6 +1033,7 @@ encéfalo	cabeça/pescoço
 lacrimal	órbita
 púbis	alguidar/pélvis/bacia/tijela
 citoplasma	célula
+fossa_nasal	olfato/nariz
 abacaxi	ananás
 púbis	alguidar/pélvis/bacia/tijela
 cóclea	labirinto
@@ -1131,6 +1138,8 @@ sura	alcorão
 guzerate	índia
 ilíaco	alguidar/pélvis/bacia/tijela
 decímetro	metro/m
+dique_seco	estaleiro
+inner_city	urbe/município/metrópole/cidade
 borgonha	frança
 dendrite	neurônio/neurónio
 ísquio	tijela/bacia/pélvis/alguidar/quadril

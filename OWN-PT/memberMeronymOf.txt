@@ -4,7 +4,7 @@ país	província/estado
 governo	legislatura/burocracia/administração/divisão/departamento
 grupo	livro
 jogo	livro
-mercado	bolsa
+mercado	bolsa/bolsa_de_valores
 homem	gente/povo/população
 mundo	gente/espectador/povo/população/nebulosa/galáxia/audiência
 lei	polícia/agente/policial/guarda

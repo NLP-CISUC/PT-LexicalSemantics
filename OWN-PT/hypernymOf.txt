@@ -24,13 +24,13 @@ ficar	aparecer/espreitar/permanecer/estar/caber
 governo	órgão/secretaria
 governo	estado/império/estado-fantoche/palácio/corte/papado/legislação
 caso	nominativo/vez/mínimo/menor
-tempo	síncope/primavera/bimestre/horário/geração/latência/juventude/ocupação/colheita/validade/quinzena/encarnação/intervalo/sesta/ausência/dificuldade/flor/festividade/lua-de-mel/páscoa/reinado/degelo/noviciado/auge/permanência/semivida/quaresma/olimpíada/seca/arrendamento/fim-de-semana/floração/clima/sono/lustro/advento/natal/interrupção/suspensão/pausa/intercalação/ciclo/outono/verão/estio/inverno/minuto/pouquinho/segundo/instante/quando/tacto/futuro/porvir/vindouro/contínuo/hoje/actualidade/passado/eternidade/hora/prazo/prorrogação/vida/mês/fase/momento/era/jornada/século/centúria/dia/ano/madrugada/manhã/decênio/década/milênio/milénio/trimestre/canícula/noite/noitada/tarde/idade/semana/temporada/estação/pré-história/duração/continuidade/época/período/precipitação/atmosfera/ambiente/vento
+tempo	síncope/primavera/bimestre/horário/geração/latência/juventude/ocupação/colheita/validade/quinzena/encarnação/intervalo/sesta/ausência/dificuldade/flor/festividade/lua-de-mel/páscoa/reinado/degelo/noviciado/auge/permanência/semivida/quaresma/olimpíada/final_de_semana/seca/arrendamento/fim-de-semana/floração/clima/sono/lustro/advento/natal/interrupção/suspensão/pausa/intercalação/ciclo/outono/verão/estio/inverno/minuto/pouquinho/segundo/instante/quando/tacto/futuro/porvir/vindouro/contínuo/hoje/actualidade/passado/eternidade/hora/prazo/prorrogação/vida/mês/fase/momento/era/jornada/século/centúria/dia/ano/madrugada/manhã/decênio/década/milênio/milénio/trimestre/canícula/noite/noitada/tarde/idade/semana/temporada/estação/pré-história/duração/continuidade/época/período/precipitação/atmosfera/ambiente/vento
 parte	excedente/fatia/capítulo/botão/talo/unidade/fracção/membro/episódio/gargalo/gavinha/chapéu/mundo/prensagem/subdivisão/sobra/resto/resíduo/fração/jante/restante/órgão/tálamo/apêndice/traseiro/cintura/peça/sura/passagem/artigo/cláusula/conclusão/introdução/elemento/substância/item/tira/segmento/ponta/toco/anatomia/pedaço/naco/corpo/fragmento/ponto/curva/adição/melhoria/acessório/cristal/módulo/pixel/componente/ingrediente/hardware
 vir	emanar/cair/agregar/atracar/cumprimentar/descer/acercar/avizinhar/chegar/pousar/aterrar
 empresa	gigante/aventura/turismo/comércio/agricultura/pesca/agro-indústria/publicidade/finança/construção/edifício/transportação/expedição/transporte/indústria/publicação/publicitação
 hoje	agora
 querer	agradar/ambicionar/suspirar/pretender/ansiar/procurar/perseguir/desejar/invejar/esperançar/aguardar/esperar
-pessoa	opositor/perseguidor/potentado/menino/ocultista/macaquice/tirano/ser/utente/vizinho/criador/hebraico/vida/abridor/ruivo/loira/plebeu/buscador/precursor/solicitante/homossexual/artista/estrábico/rosto/optimista/autóctone/hetero/intérprete/terror/negra/máquina/dorminhoco/planejador/radical/demandante/colega/pagão/sósia/manda-chuva/travesti/testemunho/sobrevivente/dissidente/cobaia/cara-metade/homem-bomba/xará/coxo/tigre/esfinge/amada/agnóstico/morena/esperança/mestiço/poliglota/nativo/suspeito/juvenil/credor/pansexual/mulher/vítima/gêmeos/destro/habitante/camaleão/eslavo/autodidata/escravo/nomeador/vitoriano/possuidor/amador/estrangeiro/personificação/árbitro/culturista/latino/identidade/matador/agregador/aficionado/judeu/criança/sapatão/preparador/simplório/consumidor/negro/utilizador/bicha/candidato/amadora/criatura/menina/menor/pretendente/pupilo/aluno/emulador/estúpido/otimista/escrava/creador/moroso/hebreu/inimigo/ruiva/homo/heterossexual/dissidência/veado/sócio/homônimo/assassino/proprietário/idiota/personalidade/juiz/adversário/dono/coletor/amo/fêmea/parceiro/concorrente/antagonista/morador/lésbica/gay/acadêmico/estudante/judia/face/cara/jovem/comunicador/vencedor/ganhador/cidadão/explorador/exploradora/parente/contendor/combatente/lutador/lutadora/adulto/capitalista/desafortunado/desventurado/intelectual/intelecto/macho/varão/homem/agente/realizador/trabalhador/fazedor/toureiro/usuário/fiduciário/advogado/representante/defensor/proponente/morte/falecido/africano/caçador/seguidor/turista/viajante/guerreira/guerreiro/devedora/devedor/líder/chefe/jogador/apostador/amado/amante/governador/governante/camarada/amigo/conhecido/amiga/amizade/espectador/observador/medricas/covarde/chefia/autoridade/engenheiro/caucasiano/caucasiana/branco/igual/par/cientista
+pessoa	opositor/perseguidor/potentado/menino/ocultista/macaquice/tirano/ser/utente/vizinho/persona_non_grata/criador/hebraico/vida/abridor/ruivo/loira/plebeu/buscador/precursor/solicitante/homossexual/artista/estrábico/rosto/optimista/autóctone/hetero/intérprete/terror/negra/máquina/dorminhoco/planejador/radical/demandante/colega/pagão/sósia/manda-chuva/travesti/testemunho/sobrevivente/dissidente/cobaia/cara-metade/homem-bomba/xará/coxo/tigre/esfinge/amada/agnóstico/morena/esperança/mestiço/poliglota/nativo/suspeito/juvenil/credor/pansexual/mulher/vítima/gêmeos/destro/habitante/camaleão/eslavo/autodidata/escravo/nomeador/vitoriano/possuidor/amador/estrangeiro/personificação/árbitro/culturista/latino/identidade/matador/agregador/aficionado/judeu/criança/sapatão/preparador/simplório/consumidor/negro/utilizador/bicha/candidato/amadora/criatura/menina/menor/pretendente/pupilo/aluno/emulador/estúpido/otimista/escrava/creador/moroso/hebreu/inimigo/ruiva/homo/heterossexual/dissidência/veado/sócio/homônimo/assassino/proprietário/idiota/personalidade/juiz/adversário/dono/coletor/amo/fêmea/parceiro/concorrente/antagonista/morador/lésbica/gay/acadêmico/estudante/judia/face/cara/jovem/comunicador/vencedor/ganhador/cidadão/explorador/exploradora/parente/contendor/combatente/lutador/lutadora/adulto/capitalista/desafortunado/desventurado/intelectual/intelecto/macho/varão/homem/agente/realizador/trabalhador/fazedor/toureiro/usuário/fiduciário/advogado/representante/defensor/proponente/morte/falecido/africano/caçador/seguidor/turista/viajante/guerreira/guerreiro/devedora/devedor/líder/chefe/jogador/apostador/amado/amante/governador/governante/camarada/amigo/conhecido/amiga/amizade/espectador/observador/medricas/covarde/chefia/autoridade/engenheiro/caucasiano/caucasiana/branco/igual/par/cientista
 saber	compreender/prever/senso/dominar/antecipar/antever/ciência/terreno/campo/disciplina/domínio/entender
 político	demagogo/tecnocrata/legislador/governador/autarca/prefeito/democrata/comunista/candidato/estadista/socialista
 bem	lucratividade/especialidade/tesouro/importação/exportação/rentabilidade/saqué/forte/produto/fazenda/mercadoria/artigo/futuro/handicap/lucro/utilidade/vantagem/recurso/dinheiro/benefício/possessão/propriedade/ativo/obrigação
@@ -62,7 +62,7 @@ processo	fórmula/regra/ramerrão/rotina/cálculo
 encontrar	flagrar/celebrar/sentir/pegar/achar/localizar/descobrir/intersectar/cruzar-se
 acordo	venda/assinatura/aluguel/concórdia/ratificação/sociedade/pacto/aliança/concordância/ajuste/harmonia/contrato/unanimidade/apólice/convenção/promessa/subscrição/conformidade/assentimento/aquiescência/consentimento/aprovação/concessão/conspiração/consenso/pacificação/paz
 equipa	tripulação/equipe
-lugar	observatório/meia-haste/premissa/terra/aqui/base/frente/ocidente/canto/necrópole/casa/anomalia/norte/catering/campismo/agricultura/paradeiro/cemitério/foco/cá/monturo/acampamento/fronte/vértice/tê/escavação/monumento/fronteira/floresta/selva/sul/espaço/situação/direita/esquerda/fonte/procedência/nascente/manancial/raiz/local/área/região/umbigo/centro/trabalho/biscate/emprego/vocação/ocupação/fotografia/posto/cargo/posição/arte/ofício/profissão/contabilidade
+lugar	observatório/meia-haste/premissa/terra/aqui/base/frente/ocidente/canto/necrópole/casa/anomalia/norte/catering/campismo/agricultura/paradeiro/cemitério/pole_position/foco/cá/monturo/acampamento/fronte/vértice/tê/escavação/monumento/fronteira/floresta/selva/sul/espaço/situação/direita/esquerda/fonte/procedência/nascente/manancial/raiz/local/área/região/umbigo/centro/trabalho/biscate/emprego/vocação/ocupação/fotografia/posto/cargo/posição/arte/ofício/profissão/contabilidade
 meio	ferramenta/partes/ambiente/evasão/instrumento/cenário/habitat/recurso/asa/estrada
 questão	desafio/charada/interrogação/inquérito/perguntar/pergunta/adivinhação/indagação/enigma/adivinha/problema/interrogatório
 mercado	ágora/bazar/feira/mercadinho/quitanda/empório/supermercado/oligopólio/monopólio
@@ -72,8 +72,8 @@ fim	impacto/rabo/expiração/mossa/final/cessação/repercussão/produto/decurso
 responsável	patriarca/capo/executivo/gerente/administrador/secretária/secretário
 partido	oposição/gironda
 homem	bígamo/ex-namorado/celibatário/consorte/mundo/viúvo/recém-casado/ex/humanidade/solteiro/povo/gajo/eunuco/sujeito/ex-marido/esposa/mulher/esposo/cônjuge/marido/infante/garoto/moço/criança/varão/macho/menino/noivo/namorado/rapazinho/guri/cavalheiro/senhor/figurino/almofadinha/janota/dândi/galã/mulherengo/sedutor/patriarca/tio/cara/rapaz/branco/velho/avô/corno/chifrudo
-hora	feita/poente/folga/pôr-do-sol/meia-noite/aurora/madrugada/hora-de-ponta/crepúsculo/anoitecer/meio-dia/semestre/trimestre
-local	meia-haste/frente/anomalia/posição/posto/fronte/situação/direita/lugar/esquerda
+hora	feita/poente/folga/meia_noite/pôr-do-sol/meia-noite/aurora/madrugada/hora-de-ponta/crepúsculo/anoitecer/meio-dia/semestre/trimestre
+local	meia-haste/frente/anomalia/posição/pole_position/posto/fronte/situação/direita/lugar/esquerda
 partir	dissociar/decolar/compartimentar/desertar/desocupar/divorciar/romper/tardar/ausentar-se/desarticular/isolar/descasar/evacuar/demorar/afastar-se/demitir-se/resignar/quitar/abandonar/renunciar/trincar/dispersar/espalhar/cindir/rasgar/terminar/separar/apartar/dividir/separar-se/apartar-se/cortar/desconectar/deixar/sair/escapar/fugir/escapulir
 falar	pontificar/acentuar/generalizar/reclamar/trilar/enrolar/sibilar/balbuciar/ladrar/rosnar/modular/prosseguir/exclamar/enunciar/sussurrar/sumarizar/introduzir/explicar/ejacular/orar/verbalizar/ralar/preceder/cochichar/gaguejar/vociferar/prefaciar/resmungar/articular/continuar/professar/ciciar/resumir/dizer/bradar/vocalizar/anunciar/reparar/comentar/mencionar/notar/remarcar/adicionar/acrescentar/acrescer/retrucar/responder/replicar/dar/revelar/declarar/murmurar/gritar/berrar/tagarelar/cantar/pronunciar/apresentar/presentar/conversar/proclamar/lamuriar/choramingar/maldizer/blasfemar/praguejar/discutir/discursar/discorrer
 relação	maternidade/aplicabilidade/função/afiliação/conexão/interrelacionamento/mudança/consanguinidade/reciprocidade/causalidade/convivência/assimilação/paternidade/comparação/fundação/sociedade/bem/romance/conhecido/posse/relacionamento/filiação/simpatia/interrelação/associação/parentesco/afinidade/oposição/localização/colocação/posição/situação/porção/categoria/parte/componente/propriedade/possessão/descendência/linhagem/relevância/pertinência/envolvimento/participação/ligação/amizade/contabilidade
@@ -83,7 +83,7 @@ vida	biologia
 coisa	variável/chupeta/secundário/assunto/tópico/conteúdo/parte/tomo/pedaço/porção/secção/pré-requisito/requisito/necessidade/oceano/água/unidade
 resultado	reação/auto-alimentação/final/impacto/continuação/mossa/repercussão/retorno/parecer/fim/produto/ómega/vencimento/perda/derrota/desolação/destruição/demolição/placar/vitória/mudança/efeito/influência
 serviço	ace
-serviço	ace/foro/catering/agricultura/origem/drive-in/newsgroup/fonte/fórum/zoológico/pista/campo/estação/aeródromo/aeroporto/instalação/puericultura/trabalho/biscate/emprego/vocação/ocupação/fotografia/posto/cargo/posição/arte/ofício/profissão/contabilidade
+serviço	ace/foro/catering/agricultura/origem/drive-in/newsgroup/fonte/help_desk/fórum/zoológico/pista/campo/estação/aeródromo/aeroporto/instalação/puericultura/trabalho/biscate/emprego/vocação/ocupação/fotografia/posto/cargo/posição/arte/ofício/profissão/contabilidade
 permitir	declarar/certificar/licenciar/aturar/suportar/tolerar/aguentar/legalizar/legitimar/autorizar/admitir/sancionar/deferir/aprovar/formalizar/validar
 programa	figura/tradutor/ciclo/intérprete/reprise/regime/verba/shareware/groupware/interpretador/esquema/orçamento/ilustração/depurador/talk-show/manobra/projeto/desenho/sitcom/plano/cronograma/horário/aplicação/aplicativo/utilitário/compilador/função/episódio/show/sistema/tática/táctica/estratégia/política
 além	imortalidade
@@ -103,7 +103,7 @@ realizar	bastar/encarnar/furar/consumar/dinamitar/dirigir/manufaturar/derivar/ri
 zona	incidente
 zona	ilha
 abrir	destravar/estabelecer/inaugurar/desarrolhar/arrombar/reabrir/alavancar/destrancar/desfechar/desatar
-posição	biblioteconomia/graça/equilíbrio/meia-haste/magistério/judicatura/condado/aprendizado/chancelaria/segundo/décimo/assessoria/estágio/aposentadoria/frente/terceiro/milionésimo/dignidade/maestria/califado/termos/liderança/nono/quinta/bastardia/gerência/quadragésimo/composição/nonagésimo/nível/horizontalidade/anomalia/ducado/oitava/octogésimo/almirantado/sexta/centésimo/sétima/undécimo/último/magistratura/trono/advocacia/coincidência/desalinhamento/gradação/sexagésimo/tandem/quarto/protetorado/virilidade/centralidade/paradigma/embaixada/cadeira/duodécimo/sinecura/capitania/aposentação/mestria/sétimo/octagésimo/oitavo/décima/graduação/nacionalidade/postura/sexto/quinto/grau/milésimo/décimo-primeiro/proporção/fronte/secretaria/presidência/espaço/curso/talude/inclinação/situação/local/direita/esquerda/classe/hierarquia/equivalência/igualdade/nobreza/lugar/posto/ordem/fenestração/alinhamento/formação/espaçamento
+posição	biblioteconomia/graça/equilíbrio/meia-haste/magistério/judicatura/condado/aprendizado/chancelaria/segundo/décimo/assessoria/estágio/aposentadoria/frente/terceiro/milionésimo/dignidade/maestria/califado/termos/liderança/nono/quinta/bastardia/gerência/quadragésimo/composição/nonagésimo/nível/horizontalidade/décimo_quinto/anomalia/ducado/oitava/octogésimo/almirantado/sexta/centésimo/sétima/undécimo/último/magistratura/trono/advocacia/coincidência/desalinhamento/gradação/sexagésimo/tandem/quarto/protetorado/virilidade/centralidade/paradigma/embaixada/décimo_oitavo/cadeira/duodécimo/sinecura/capitania/aposentação/mestria/sétimo/octagésimo/oitavo/décima/graduação/nacionalidade/postura/sexto/pole_position/quinto/grau/milésimo/décimo-primeiro/proporção/fronte/secretaria/presidência/espaço/curso/talude/inclinação/situação/local/direita/esquerda/classe/hierarquia/equivalência/igualdade/nobreza/lugar/posto/ordem/fenestração/alinhamento/formação/espaçamento
 manter	alegar/subsidiar/economizar/ficar/vindicar/prosseguir/mumificar/prolongar/proclamar/prover/estar/subvencionar/declarar/poupar/afirmar/conservar/alongar/sustentar/preservar/continuar/registrar/registar/deduzir/segurar/reter/deter/negar/armazenar/guardar/acumular/fiar/patrocinar/suportar/financiar/perseverar/persistir/perpetuar
 valor	mérito/merecimento/virtude/parâmetro/qualidade/preço
 anunciar	apregoar/reclassificar/propagandear/promulgar/soar/denunciar/postar/lutar/agitar/trunfar/advogar/relatar/berrar/reportar/divulgar
@@ -133,7 +133,7 @@ eleição	padrão/possibilidade/preferência/reeleição/default/veto
 nível	alcance/clímax/auge/ápice
 tentar	lutar/ralar/procurar/lidar/guerrear/batalhar/pelejar/empenhar/esforçar/esforçar-se/perseguir/arriscar/verificar/provar
 explicar	descrever/paliar/esclarecer/mitigar/remediar/atenuar/elucidar/interpretar/comentar/expor/elaborar/expandir
-mulher	negro/ex-mulher/gueixa/avião/marquesa/mina/heroína/matriarca/maria-rapaz/viuvez/amiga/namorada/brasa/gata/dona-de-casa/dona/viúva/beleza/dominatrix/ex/esposa/dama/madame/senhora/babá/cortesã/puta/prostituta/quenga/meretriz/rameira/devassa/directoria/amante/chefa/solteira/mocinha/garotinha/menininha/donzela/garota/rapariga/senhorita/menina/moça/funcionária/trabalhadora
+mulher	negro/ex-mulher/gueixa/avião/marquesa/mina/heroína/matriarca/maria-rapaz/viuvez/amiga/namorada/brasa/gata/dona-de-casa/dona/viúva/beleza/dominatrix/ex/esposa/dama/madame/senhora/babá/cortesã/mulher_pública/puta/prostituta/quenga/meretriz/rameira/devassa/directoria/amante/chefa/solteira/mocinha/garotinha/menininha/donzela/garota/rapariga/senhorita/menina/moça/funcionária/trabalhadora
 referir	aludir/comprometer/centrar/interessar/citar/mencionar/afetar/aplicar/valer
 defender	vindicar/conduzir/suportar/emparedar/guardar/enfeitiçar/imunizar/salvaguardar/assegurar/guiar/segurar/salvar/cobrir/proteger/resistir/racionalizar/explicar/justificar/perdoar
 jovem	orfandade/prodígio/diabrete/órfão/menino/adolescente/rapariga/rapaz/moça/moço/pivete/moleque/gaiato/criança
@@ -192,13 +192,13 @@ incluir	contar/reter/ter/acarretar/circundar/pertencer/abranger/abarcar/aguentar
 organização	sintaxe/federação/calendário/gangue/guarda/hierarquia/sucursal/compania/clientelismo/colonização/cooperativismo/reestruturação/grêmio/ecossistema/restruturação/reorganização/organismo/ordenação/consórcio/liga/légua/guilda/clube/partido/legenda/associação/união/sociedade/instituto/instituição/delegação/missão/comitê/comité/embaixada/comissão/empresa/ong/companhia/elenco/pessoal/coligação/coalizão/aliança/sindicato/sindicalismo/ordem/burocracia/administração/esquema/plano/trama/treliça/judiciário/rede/economia
 surgir	atirar-se/reaparecer/agregar/originar/ressaltar/comparecer/aparecer/manifestar/predominar/mostrar-se/evidenciar/erguer-se/aflorar/emergir/publicar-se/destacar-se/provir
 tornar	carbonizar/aparecer/prosperar/afrancesar/emancipar/concentrar/calcificar/acalmar-se/fechar/ossificar/oscilar/mudar/precipitar/coalhar/emulsionar/flutuar/recair/despertar/precipitação/coagular/levantar-se/acidificar/esvaziar/engordar/congelar/emagrecer/integrar/estar/ficar/estragar/esfriar-se/arrefecer/refrescar/esfriar/resfriar/engravidar/conceber/acordar/encher/reagir/acender/vestir/descontrair/relaxar/dissolver/queimar/carburar/eterizar/morrer/perecer/falecer/cair/abrir/piorar/decair/aquecer/desligar/melhorar/nascer
-livro	fólio/autoridade/memento/anuário/missal/panfleto/catequismo/volume/cancioneiro/catálogo/canhenho/romance/compêndio/texto/ritual/sebenta/catecismo/folheto/opúsculo/livreto/álbum/diário/caderno/brochura
+livro	fólio/autoridade/memento/anuário/missal/panfleto/catequismo/volume/cancioneiro/catálogo/canhenho/romance/compêndio/livro_de_texto/texto/ritual/sebenta/catecismo/folheto/opúsculo/livreto/álbum/diário/caderno/brochura
 tipo	descrição/variante/estilo/make/laia/jaez/qualidade/gênero/versão/variedade/género/classe/espécie/sabor
 lançar	reclassificar/arrojar/prostrar/quebrar/sacudir/defenestrar/pular/arremeter/escamotear/espalhar/difundir/esparramar/referir/enviar/redirecionar/atirar/jogar/arremessar
 comissão	júri/embaixada/conselho/comitê/junta/comité
 acrescentar	modificar/qualificar/pontuar/unir/combinar/reunir/misturar/fortificar/enriquecer/incluir/concatenar/intensificar/acirrar/crescer/altear/elevar-se/acrescer/somar/adicionar/revalorizar/subir/aumentar/acumular/conglomerar/amontoar/aglomerar
-música	beethoven/monofonia/pizzicato/ballet/carrilhão/harmonia/melodia/toada/parte/capítulo/serialismo/polifonia/coro/estribilho/refrão/prelúdio
-preço	roubalheira/porte/resgate/ágio/magnitude/importância/despesa/custo/pagamento/recompensa/serviço/tarifa/sobrecarga
+música	beethoven/monofonia/pizzicato/ballet/carrilhão/harmonia/melodia/toada/parte/capítulo/serialismo/polifonia/coro/estribilho/refrão/dance_music/prelúdio
+preço	roubalheira/porte/resgate/ágio/produto_interno_bruto/magnitude/importância/despesa/custo/pagamento/recompensa/serviço/tarifa/sobrecarga
 revelar	depositar/virar/descobrir/anunciar/falar/trair/desembrulhar/confidenciar/desmascarar/desenterrar/expor/desvelar/mostrar/descerrar/escavar/descortinar/cotar
 trabalhar	ocupar/lavrar/estagiar/ministrar/mourejar/retrabalhar/ajudar/cooperar/ralar/colaborar/auxiliar/arar/assistir/laborar/exercer/servir
 defesa	forte/baluarte/fortaleza/fortificação
@@ -226,9 +226,9 @@ espanhol	catalão/ladino/castelhano
 modo	indicativo/ferramenta/evasão/conjuntivo/instrumento/imperativo/recurso/asa/estrada
 acusar	culpabilizar/repreender/reclamar/tributar/taxar/culpar/queixar/inculpar/incriminar/arguir/criminar/conspurcar/denegrir/difamar/caluniar
 terminar	retirar-se/abortar/concluir/extinguir/clausurar/culminar/matar/resolver/arrematar/decidir/finalizar/encerrar/parar/suspender/executar/atingir/realizar/cumprir/efetuar/abandonar/interromper/acabar/esvair/desaparecer
-termo	partitivo/substantivo/charada/verbete/heterônimo/antónimo/sinônimo/anagrama/derivado/palavrão/diminutivo/sinónimo/heterónimo/antônimo/empréstimo/palavra-chave/nomenclatura/terminologia/neologismo/homônimo/homónimo/palavra/vocábulo
+termo	partitivo/substantivo/charada/verbete/heterônimo/antónimo/sinônimo/anagrama/derivado/palavrão/diminutivo/sinónimo/heterónimo/antônimo/empréstimo/ad_hoc/palavra-chave/nomenclatura/terminologia/neologismo/homônimo/homónimo/palavra/vocábulo
 candidato	apresentante/pretendente
-período	viuvez/capítulo/primavera/bimestre/culminância/ocupação/colheita/validade/quinzena/encarnação/sesta/dificuldade/flor/festividade/lua-de-mel/geração/reinado/noviciado/auge/semivida/olimpíada/seca/arrendamento/fim-de-semana/floração/sono/culminação/lustro/titularidade/legislatura/condenação/semestre/hora/outono/estio/inverno/minuto/pouquinho/segundo/instante/quando/antiguidade/prazo/prorrogação/vida/mês/fase/momento/era/jornada/século/centúria/dia/ano/madrugada/manhã/decênio/década/milênio/milénio/trimestre/canícula/noite/noitada/tarde/semana/temporada/estação/tempo/pré-história/duração/continuidade/época/sessenta/maturidade/adolescência/verão/juventude/puberdade/quarenta/velhice/idade/infância
+período	viuvez/capítulo/primavera/bimestre/culminância/ocupação/colheita/validade/quinzena/encarnação/sesta/dificuldade/flor/festividade/lua-de-mel/geração/reinado/noviciado/auge/semivida/olimpíada/final_de_semana/seca/arrendamento/fim-de-semana/floração/sono/culminação/lustro/titularidade/legislatura/condenação/semestre/hora/outono/estio/inverno/minuto/pouquinho/segundo/instante/quando/antiguidade/prazo/prorrogação/vida/mês/fase/momento/era/jornada/século/centúria/dia/ano/madrugada/manhã/decênio/década/milênio/milénio/trimestre/canícula/noite/noitada/tarde/semana/temporada/estação/tempo/pré-história/duração/continuidade/época/sessenta/maturidade/adolescência/verão/juventude/puberdade/quarenta/velhice/idade/infância
 associação	gangue/instituto/compania/cooperativismo/instituição/grêmio/sindicato/consórcio/liga/légua/sociedade/guilda/ordem/clube
 jornalista	colunista
 ouvir	entender/pegar/interceptar/assistir/atender/escutar
@@ -269,12 +269,12 @@ autor	ensaísta/ghost-writer/tratadista/comentarista/poeta/poetisa/dramaturgo/li
 sessão	tutorial
 jornal	pulp/anais/diário/órgãos/tablóide/gazeta/órgão/folha/revista/número/série/resenha
 jornal	diário/folha/tablóide/gazeta
-palavra	partitivo/substantivo/charada/verbete/heterônimo/antónimo/sinônimo/anagrama/derivado/palavrão/diminutivo/sinónimo/heterónimo/antônimo/empréstimo/palavra-chave/nomenclatura/terminologia/neologismo/homônimo/homónimo/termo/vocábulo
+palavra	partitivo/substantivo/charada/verbete/heterônimo/antónimo/sinônimo/anagrama/derivado/palavrão/diminutivo/sinónimo/heterónimo/antônimo/empréstimo/ad_hoc/palavra-chave/nomenclatura/terminologia/neologismo/homônimo/homónimo/termo/vocábulo
 princípio	ditame/incipiência/alfa/abc/lógica/abertura/madrugada/investida/ditado/nascimento/emergência/crescimento/iniciação/origem/decolagem/começo/início/criação/concepção
 obter	readquirir/passar/começar/fretar/tomar/assinar/entrar/coletar/fazer/culminar/apurar/pegar/alugar/reunir/adoptar/chegar/recolher/conseguir/apanhar/capturar/achar/encontrar/exprimir/extrair/reaver/herdar/recuperar/reconquistar/reganhar/vencer/ganhar/beneficiar/aceitar/receber/comprar/atingir/adquirir/isolar/engajar/empregar/lucrar/rentabilizar
 investimento	arbitragem/especulação
 necessidade	desejo/vida/moralidade/moral/ética/impulso/urgência/carência/falta/ausência/escassez/deficiência
-qualidade	inflamabilidade/inferioridade/passaporte/invariância/probabilidade/infidelidade/robustez/aridez/segurança/urbanidade/positivismo/finitude/simplicidade/distintivo/sofisticação/amoralidade/natureza/divindade/incapacidade/relatividade/subjetivismo/distinção/invariante/correcção/faceta/originalidade/conveniência/adequabilidade/excelência/atração/fidelidade/lealdade/irregularidade/expressividade/aura/atmosfera/recurso/vantagem/propriedade/lógica/dificuldade/regularidade/facilidade/utilidade/particularidade/mutabilidade/poder/impotência/humanidade/discordância/diferença/certeza/incompreensibilidade/inutilidade/santidade/naturalidade/generalidade/semelhança/credibilidade/exactidão/exatidão/correção/rigor/precisão/mobilidade/incerteza/precariedade/semblante/aparência/aspecto/legalidade/valor/bem/popularidade/característica/compreensibilidade/romantismo/moralidade/moral/virtude/transparência/clareza/claridade/complexidade/elegância/habilidade/capacidade/opacidade/maldade/ingenuidade/singeleza/adequação/suficiência/magnitude/importância/custo/preço/compatibilidade
+qualidade	inflamabilidade/inferioridade/passaporte/invariância/probabilidade/infidelidade/robustez/aridez/segurança/urbanidade/positivismo/finitude/simplicidade/distintivo/sofisticação/amoralidade/natureza/divindade/incapacidade/relatividade/subjetivismo/distinção/invariante/produto_interno_bruto/correcção/faceta/originalidade/conveniência/adequabilidade/excelência/atração/fidelidade/lealdade/irregularidade/expressividade/aura/atmosfera/recurso/vantagem/propriedade/lógica/dificuldade/regularidade/facilidade/utilidade/particularidade/mutabilidade/poder/impotência/humanidade/discordância/diferença/certeza/incompreensibilidade/inutilidade/santidade/naturalidade/generalidade/semelhança/credibilidade/exactidão/exatidão/correção/rigor/precisão/mobilidade/incerteza/precariedade/semblante/aparência/aspecto/legalidade/valor/bem/popularidade/característica/compreensibilidade/romantismo/moralidade/moral/virtude/transparência/clareza/claridade/complexidade/elegância/habilidade/capacidade/opacidade/maldade/ingenuidade/singeleza/adequação/suficiência/magnitude/importância/custo/preço/compatibilidade
 campanha	reforma/expedição/peneplanície/consumismo/tundra/feminismo/candidatura/planície/estepe/charneca/páramo
 confirmar	justificar/reconfirmar/corroborar/suportar/ratificar/homologar/referendar/verificar/documentar/demonstrar/validar
 assumir	pressupor/reassumir
@@ -465,7 +465,7 @@ justificar	paliar/desculpar/mitigar/remediar/desculpar-se/atenuar/explicar
 cargo	biblioteconomia/magistério/judicatura/aprendizado/chancelaria/assessoria/estágio/maestria/califado/gerência/almirantado/magistratura/trono/advocacia/protetorado/virilidade/embaixada/cadeira/sinecura/capitania/mestria/secretaria/presidência
 eleger	reeleger
 escolher	reeleger/desistir/dedicar/posicionar/adoptar/eleger/selecionar/peneirar/analisar/nomear/extrair/propor/coar/determinar/designar/especificar/votar
-amigo	conexão/alter-ego/coabitante/ficante/acompanhante/irmão/amiga/camarada/colega/companheiro/confidente
+amigo	conexão/alter-ego/alter_ego/coabitante/ficante/acompanhante/irmão/amiga/camarada/colega/companheiro/confidente
 verificar	controlar/reverificar/conferir/assegurar/reexaminar/checar/corrigir
 luta	agressão/revolta/choque/tiroteio/briga/duelo/superação/torneio/insurreição/rebelião/peleja/pugna/guerra/discórdia/contenda/batalha/combate/wrestling/disputa/conflito/esgrima
 arte	fortificação/taxidermia/enologia/fortificar/falcoaria
@@ -529,7 +529,7 @@ recusar	desobedecer/repelir/lamentar/repudiar/desprezar/rejeitar
 autarca	prefeita/ex-prefeito/prefeito/alcaide
 hospital	sanatório
 concurso	luta/partida/combate/torneio/jogo/corrida
-indicar	invalidar/refletir/criticar/sugerir/apontar/reverberar/dizer/ler/cadastrar/registrar/mostrar/representar/simbolizar/significar/assinalar/prognosticar/predizer/profetizar/pressagiar/prenunciar/vaticinar/prefigurar/augurar/prever/agourar
+indicar	invalidar/refletir/criticar/sugerir/apontar/reverberar/dizer/ler/cadastrar/registrar/mostrar/representar/simbolizar/significar/querer_dizer/assinalar/prognosticar/predizer/profetizar/pressagiar/prenunciar/vaticinar/prefigurar/augurar/prever/agourar
 liberdade	impunidade/autarquia/independência/licença/autonomia/liberalismo
 sequência	série/combinação/nexo/hierarquia/curso/abertura/sucessão/progressão/gene
 existência	coexistência/eternidade/animação/vida/presença/realidade/possibilidade/chance
@@ -580,7 +580,7 @@ educação	base/catequese/aprendizado/assimilação/tutoria/experiência/auto-ap
 descobrir	redescobrir/desenterrar/apreçar/sacar/sentir/pegar/reencontrar/entender
 república	suserano/aliado/estrangeiro/domínio/cidade-estado/superpoder/superpotência
 disco	78/ponto/ficha/disquete/diafragma/frisbee
-branco	ariano/pérola/alabastro/cal/cara-pálida
+branco	ariano/pérola/alabastro/cal/white_trash/cara-pálida
 divisão	bissetriz/fragmentação/dissidência/racionamento/parte/quartel/cisão/parcela/cisma/broto/ramo/departamento/hifenização
 passo	lentidão/precaução/moonwalk/manobra/celeridade/rapidez/velocidade/pernada/pas
 assistir	testemunhar/visualizar/facilitar/incitar/desenrascar/socorrer/acelerar/aliviar/instigar/apressar/custodiar/ver/observar/servir/ajudar/zelar/tutelar/cuidar
@@ -588,7 +588,7 @@ presidência	presidente
 festa	jantar/gala/iniciação/reunião/recepção/cocktail/formalidade/inauguração/comemoração/rotulagem/dança/boda/casamento/baile/banquete/reveillon/balada/night/cerimónia/cerimônia/funeral/enterro/compromisso/celebração/festival/agon
 bater	estrelar/salvar/ricochetear/chocar/trapacear/ferver/esmurrar/espalhar/cortar/surrar/apalpar/chutar/encostar/arrombar/espancar/destruir/sacanear/roubar/esbarrar/triunfar/socar/derrotar/vencer/ultrapassar/superar/subjugar/chocar-se/fincar/martelar/jogar/tocar/manusear/atingir/colidir/raspar/roçar/acertar/golpear/beijar/prensar/pressionar/afagar/chibatar/açoitar/chicotear
 recordar	rememorar/incomodar/conhecer/rever/comemorar/reclamar/imortalizar/reconhecer
-significar	aplicar/apontar/denotar/expressar/sugerir/torcer/desvirtuar/sofismar/exprimir/dizer/usar/indicar/identificar/nomear/representar/simbolizar
+significar	aplicar/apontar/denotar/expressar/sugerir/torcer/desvirtuar/sofismar/exprimir/dizer/usar/indicar/identificar/nomear/representar/simbolizar/querer_dizer
 justiça	honra/honestidade/justeza/equanimidade
 impor	impingir/comandar/receitar/ditar/prescrever/ordenar
 resultar	redundar/seguir-se/seguir/suceder/derivar/sobrevir
@@ -624,7 +624,7 @@ informar	reiterar/comunicar/descrever/propagandear/desabusar/prever/atestar/tran
 conduzir	oferecer/processar/encaminhar/coordenar/cuidar/retransmitir/organizar/administrar/confundir/ajudar/auxiliar/lidar/tratar/reinvindicar/guiar/encabeçar/gerir/comandar/liderar/dirigir/operar
 conhecimento	história/senso/léxico/equivalente/datum/circunstância/dado/vocabulário/histórico/consideração/familiaridade/atitude/capacidade/talento/faculdade/habilidade/incapacidade/informação/mente/cabeça/psique/estímulo/estimulante/exemplo/evidência/verdade/facto/ciência/terreno/campo/disciplina/domínio
 actor	ator/mímico/comparsa/mímica/atriz/actriz
-alguém	opositor/perseguidor/potentado/menino/ocultista/macaquice/tirano/ser/utente/vizinho/criador/hebraico/vida/abridor/ruivo/loira/plebeu/buscador/precursor/solicitante/homossexual/artista/estrábico/rosto/optimista/autóctone/hetero/intérprete/terror/negra/máquina/dorminhoco/planejador/radical/demandante/colega/pagão/sósia/manda-chuva/travesti/testemunho/sobrevivente/dissidente/cobaia/cara-metade/homem-bomba/xará/coxo/tigre/esfinge/amada/agnóstico/morena/esperança/mestiço/poliglota/nativo/suspeito/juvenil/pessoa/credor/pansexual/mulher/vítima/gêmeos/destro/habitante/camaleão/eslavo/autodidata/escravo/nomeador/vitoriano/possuidor/amador/estrangeiro/personificação/árbitro/culturista/latino/matador/agregador/aficionado/judeu/criança/sapatão/preparador/simplório/consumidor/negro/utilizador/bicha/candidato/amadora/criatura/menina/menor/pretendente/pupilo/aluno/emulador/estúpido/otimista/escrava/creador/moroso/hebreu/inimigo/ruiva/homo/heterossexual/dissidência/veado/sócio/homônimo/assassino/proprietário/idiota/juiz/adversário/dono/coletor/amo/fêmea/parceiro/concorrente/antagonista/morador/lésbica/gay/acadêmico/estudante/judia/face/cara/jovem/comunicador/vencedor/ganhador/cidadão/explorador/exploradora/parente/contendor/combatente/lutador/lutadora/adulto/capitalista/desafortunado/desventurado/intelectual/intelecto/macho/varão/homem/agente/realizador/trabalhador/fazedor/toureiro/usuário/fiduciário/advogado/representante/defensor/proponente/morte/falecido/africano/caçador/seguidor/turista/viajante/guerreira/guerreiro/devedora/devedor/líder/chefe/jogador/apostador/amado/amante/governador/governante/camarada/amigo/conhecido/amiga/amizade/espectador/observador/medricas/covarde/chefia/autoridade/engenheiro/caucasiano/caucasiana/branco/igual/par/cientista
+alguém	opositor/perseguidor/potentado/menino/ocultista/macaquice/tirano/ser/utente/vizinho/persona_non_grata/criador/hebraico/vida/abridor/ruivo/loira/plebeu/buscador/precursor/solicitante/homossexual/artista/estrábico/rosto/optimista/autóctone/hetero/intérprete/terror/negra/máquina/dorminhoco/planejador/radical/demandante/colega/pagão/sósia/manda-chuva/travesti/testemunho/sobrevivente/dissidente/cobaia/cara-metade/homem-bomba/xará/coxo/tigre/esfinge/amada/agnóstico/morena/esperança/mestiço/poliglota/nativo/suspeito/juvenil/pessoa/credor/pansexual/mulher/vítima/gêmeos/destro/habitante/camaleão/eslavo/autodidata/escravo/nomeador/vitoriano/possuidor/amador/estrangeiro/personificação/árbitro/culturista/latino/matador/agregador/aficionado/judeu/criança/sapatão/preparador/simplório/consumidor/negro/utilizador/bicha/candidato/amadora/criatura/menina/menor/pretendente/pupilo/aluno/emulador/estúpido/otimista/escrava/creador/moroso/hebreu/inimigo/ruiva/homo/heterossexual/dissidência/veado/sócio/homônimo/assassino/proprietário/idiota/juiz/adversário/dono/coletor/amo/fêmea/parceiro/concorrente/antagonista/morador/lésbica/gay/acadêmico/estudante/judia/face/cara/jovem/comunicador/vencedor/ganhador/cidadão/explorador/exploradora/parente/contendor/combatente/lutador/lutadora/adulto/capitalista/desafortunado/desventurado/intelectual/intelecto/macho/varão/homem/agente/realizador/trabalhador/fazedor/toureiro/usuário/fiduciário/advogado/representante/defensor/proponente/morte/falecido/africano/caçador/seguidor/turista/viajante/guerreira/guerreiro/devedora/devedor/líder/chefe/jogador/apostador/amado/amante/governador/governante/camarada/amigo/conhecido/amiga/amizade/espectador/observador/medricas/covarde/chefia/autoridade/engenheiro/caucasiano/caucasiana/branco/igual/par/cientista
 idade	reinado/senilidade/era/período/época/maioria/antiguidade/novidade/velhice/juventude
 escolha	padrão/intenção/preferido/possibilidade/preferência/favorito/default/amostragem/eleição/votação/voto/vontade/decisão/resolução
 tentativa	contribuição/incursão/tacada/chute/esforço/ensaio/luta/batalha/teste
@@ -670,7 +670,7 @@ fronteira	horizonte/periferia/máximo/berma/curso/quadrante/beira/lado/perímetr
 estudar	diplomar-se/praticar/assimilar/treinar/reaprender/memorizar/diplomar/decorar/marrar
 bolsa	subvenção/subsídio/algibeira/bolso/alforje/mochila/airbag/bexiga/carteira/malote/marsúpio
 criticar	culpar/acusar/crucificar/denunciar/delatar/agredir/atacar/minimizar/deplorar/descompor/verberar/reprimir/repreender/condenar/reprovar/censurar
-posto	posição/delegacia/biblioteconomia/magistério/judicatura/condado/aprendizado/chancelaria/segundo/décimo/estação/assessoria/estágio/terceiro/milionésimo/maestria/califado/nono/quinta/gerência/quadragésimo/nonagésimo/nível/ducado/emissora/oitava/octogésimo/almirantado/sexta/centésimo/sétima/undécimo/último/magistratura/trono/advocacia/gradação/sexagésimo/quarto/protetorado/virilidade/embaixada/cadeira/duodécimo/sinecura/capitania/mestria/sétimo/octagésimo/oitavo/décima/graduação/usina/sexto/quinto/grau/classe/polícia/milésimo/décimo-primeiro/observatório/secretaria/presidência
+posto	posição/delegacia/biblioteconomia/magistério/judicatura/condado/aprendizado/chancelaria/segundo/décimo/estação/assessoria/estágio/terceiro/milionésimo/maestria/califado/nono/quinta/gerência/quadragésimo/nonagésimo/nível/décimo_quinto/ducado/emissora/oitava/octogésimo/almirantado/sexta/centésimo/sétima/undécimo/último/magistratura/trono/advocacia/gradação/sexagésimo/quarto/protetorado/virilidade/embaixada/décimo_oitavo/cadeira/duodécimo/sinecura/capitania/mestria/sétimo/octagésimo/oitavo/décima/graduação/usina/sexto/quinto/grau/classe/polícia/milésimo/décimo-primeiro/observatório/secretaria/presidência
 parar	embargar/retirar-se/interpor/respirar/culminar/deter-se/morrer/espirar/demorar-se/pausar/intrometer-se/intrometer/abandonar/terminar/acabar/esvair/desaparecer/interromper/fraturar/travar/frear
 afetar	registrar/apaixonar/repercutir/envolver/tensionar/alhear/emudecer/deprimir/embriagar/colorir/gravar/conquistar/comover/penetrar/infectar/alienar/sedar/tranquilizar/relaxar/espairecer/excitar/animar/influir/influenciar/sujeitar/atingir/atacar/incomodar/desconfortar/estimular/arriscar/comprometer/tocar/entristecer/surpreender/assombrar/sobressaltar/impressionar/perturbar
 dívida	empréstimo/crédito
@@ -747,7 +747,7 @@ esclarecer	interpretar/comentar/explicar
 expectativa	esperança/possibilidade/apreensão
 japonês	shogun/xogum/xógum/gueixa
 exercício	revisão/ensaio
-máquina	alavanca/agrafador/eixo/jipe/taxi/trava/monovolume/calendário/calhambeque/sedan/compacto/conversível/gim/betoneira/coupé/andróide/robot/bate-estaca/ciborgue/táxi/robô/maquinaria/mecanismo/viatura/patrulha/controlador/corda/partida/ignição/marcha/engrenagem/arrefecimento/esfriamento/refrigeração/radiador/ambulância/carro/limusina/limusine/impressor/tipógrafo/impressora/escavadeira/escavadora/motor/gramofone/fonógrafo/calculador/computador/calculista/calculadora/simulador/prensa/imprensa/gerador/moinho/polia/roldana/roda
+máquina	alavanca/agrafador/eixo/jipe/taxi/trava/monovolume/calendário/calhambeque/sedan/compacto/conversível/gim/betoneira/coupé/andróide/robot/bate-estaca/ciborgue/táxi/robô/maquinaria/mecanismo/viatura/patrulha/controlador/corda/partida/ignição/marcha/engrenagem/arrefecimento/esfriamento/refrigeração/radiador/ambulância/carro/limusina/limusine/impressor/tipógrafo/impressora/escavadeira/escavadora/motor/slot_machine/gramofone/fonógrafo/calculador/computador/calculista/calculadora/simulador/prensa/imprensa/gerador/moinho/polia/roldana/roda
 constituição	federação/genótipo/cariótipo/colonização/fenotipo/arquitectura/estrutura
 receita	renda/passivo/rendimento
 atraso	imbecilidade/pausa/idiotia/procrastinação/anormalidade/adiamento/interrupção
@@ -758,7 +758,7 @@ habitante	alsaciano/terráqueo/aldeã/ocidental/ilhéu/neozelandês/aldeão/fili
 analisar	decompor
 chinês	cantonês/mandarim
 organismo	híbrido/nativo/recombinante/clone/anão/anaeróbio/anfitrião/eucariota/hospedeiro/mutante/mutação/progenitor/mestiço/mascote/alma/alguém/fungo/parasita/indivíduo/pessoa/microorganismo/microrganismo/animal/bicho/besta/flora/planta/vegetal/plancton/plâncton/criatura/ser/vida/célula
-comércio	exportação/aventura/turismo/livre-cambismo/agricultura/pesca/agro-indústria/publicidade/finança/construção/edifício/transportação/expedição/transporte/publicação/publicitação/indústria/marketing/pagamento/venda/trânsito/tráfico/tráfego/importação/empresa/negócio/distribuição
+comércio	exportação/insider_trading/aventura/turismo/livre-cambismo/agricultura/pesca/agro-indústria/publicidade/finança/construção/edifício/transportação/expedição/transporte/publicação/publicitação/indústria/marketing/pagamento/venda/trânsito/tráfico/tráfego/importação/empresa/negócio/distribuição
 classificar	contar/estigmatizar/reordenar/catalogar/estereotipar/isolar/priorizar/distribuir/reclassificar/dicotomizar/rebaixar/referir/agrupar/sequenciar/agrupar-se/denunciar/arranjar/subordinar/nomear/denominar/chamar
 demonstrar	autenticar/esclarecer/refletir/condenar/provar/contradizer/negar
 nota	demissão/quartil/minuta/dólar/mínima/trilo/colcheia/semicolcheia/dominante/memorando/vinte/semifusa/semibreve/marginália/apontamento/anotação/citação/referência/menção/acorde/tónica
@@ -781,10 +781,10 @@ distribuir	reemitir/reimplantar/redistribuir/desbloquear/liberar/anunciar/lança
 bastar	qualificar/qualificar-se/servir
 compromisso	encontro
 especialista	pedante/desenhador/enólogo/bibliófilo/educador/mestre/doutor/humanista/bibliógrafo/leitor/dietista/decorador/dr./graduado/oculista/historiador/cronista/filósofo/teólogo
-classe	descrição/quartil/dualidade/condado/segundo/décimo/irmandade/aposentadoria/terceiro/milionésimo/dignidade/termos/liderança/nono/quinta/bastardia/quadragésimo/nonagésimo/nível/ducado/oitava/octogésimo/sexta/centésimo/sétima/undécimo/mulher/variante/último/mercado/ninja/gradação/sexagésimo/proletariado/quarto/sexo/submundo/casta/duodécimo/estilo/burguesia/make/laia/aposentação/filovírus/classe-média/sétimo/octagésimo/oitavo/décima/jaez/declinação/graduação/nacionalidade/sexto/quinto/fraternidade/grau/qualidade/milésimo/décimo-primeiro/gênero/versão/dicotomia/variedade/espécie/sabor/raça/tipo/género/categoria/hierarquia/posição/equivalência/igualdade/nobreza/lugar/posto/ordem/gastrópodes
+classe	descrição/quartil/dualidade/condado/segundo/décimo/irmandade/aposentadoria/terceiro/milionésimo/dignidade/termos/liderança/nono/quinta/bastardia/quadragésimo/nonagésimo/nível/décimo_quinto/ducado/oitava/octogésimo/sexta/centésimo/sétima/undécimo/mulher/variante/último/mercado/ninja/gradação/sexagésimo/proletariado/quarto/sexo/décimo_oitavo/submundo/casta/duodécimo/estilo/burguesia/make/laia/aposentação/filovírus/classe-média/sétimo/octagésimo/oitavo/décima/jaez/declinação/graduação/nacionalidade/sexto/quinto/fraternidade/grau/qualidade/milésimo/décimo-primeiro/gênero/versão/dicotomia/variedade/espécie/sabor/raça/tipo/género/categoria/hierarquia/posição/equivalência/igualdade/nobreza/lugar/posto/ordem/gastrópodes
 optar	desistir
 cooperação	representação/reconciliação/abnegação/meio-termo/compromisso/colaboração/coação/acordo/dedicação/conformidade
-indivíduo	opositor/perseguidor/potentado/menino/ocultista/macaquice/tirano/ser/utente/vizinho/criador/hebraico/vida/abridor/ruivo/loira/plebeu/buscador/precursor/solicitante/homossexual/artista/estrábico/rosto/optimista/autóctone/hetero/intérprete/terror/negra/máquina/dorminhoco/planejador/radical/demandante/colega/pagão/sósia/manda-chuva/travesti/testemunho/sobrevivente/dissidente/cobaia/cara-metade/homem-bomba/xará/coxo/tigre/esfinge/amada/agnóstico/morena/esperança/mestiço/poliglota/nativo/suspeito/juvenil/pessoa/credor/pansexual/mulher/vítima/gêmeos/destro/habitante/camaleão/eslavo/autodidata/escravo/nomeador/vitoriano/possuidor/amador/estrangeiro/personificação/árbitro/culturista/latino/matador/agregador/aficionado/judeu/criança/sapatão/preparador/simplório/consumidor/negro/utilizador/bicha/candidato/amadora/criatura/menina/menor/pretendente/pupilo/aluno/emulador/estúpido/otimista/escrava/creador/moroso/hebreu/inimigo/ruiva/homo/heterossexual/dissidência/veado/sócio/homônimo/assassino/proprietário/idiota/juiz/adversário/dono/coletor/amo/fêmea/parceiro/concorrente/antagonista/morador/lésbica/gay/acadêmico/estudante/judia/face/cara/jovem/comunicador/vencedor/ganhador/cidadão/explorador/exploradora/parente/contendor/combatente/lutador/lutadora/adulto/capitalista/desafortunado/desventurado/intelectual/intelecto/macho/varão/homem/agente/realizador/trabalhador/fazedor/toureiro/usuário/fiduciário/advogado/representante/defensor/proponente/morte/falecido/africano/caçador/seguidor/turista/viajante/guerreira/guerreiro/devedora/devedor/líder/chefe/jogador/apostador/amado/amante/governador/governante/camarada/amigo/conhecido/amiga/amizade/espectador/observador/medricas/covarde/chefia/autoridade/engenheiro/caucasiano/caucasiana/branco/igual/par/cientista
+indivíduo	opositor/perseguidor/potentado/menino/ocultista/macaquice/tirano/ser/utente/vizinho/persona_non_grata/criador/hebraico/vida/abridor/ruivo/loira/plebeu/buscador/precursor/solicitante/homossexual/artista/estrábico/rosto/optimista/autóctone/hetero/intérprete/terror/negra/máquina/dorminhoco/planejador/radical/demandante/colega/pagão/sósia/manda-chuva/travesti/testemunho/sobrevivente/dissidente/cobaia/cara-metade/homem-bomba/xará/coxo/tigre/esfinge/amada/agnóstico/morena/esperança/mestiço/poliglota/nativo/suspeito/juvenil/pessoa/credor/pansexual/mulher/vítima/gêmeos/destro/habitante/camaleão/eslavo/autodidata/escravo/nomeador/vitoriano/possuidor/amador/estrangeiro/personificação/árbitro/culturista/latino/matador/agregador/aficionado/judeu/criança/sapatão/preparador/simplório/consumidor/negro/utilizador/bicha/candidato/amadora/criatura/menina/menor/pretendente/pupilo/aluno/emulador/estúpido/otimista/escrava/creador/moroso/hebreu/inimigo/ruiva/homo/heterossexual/dissidência/veado/sócio/homônimo/assassino/proprietário/idiota/juiz/adversário/dono/coletor/amo/fêmea/parceiro/concorrente/antagonista/morador/lésbica/gay/acadêmico/estudante/judia/face/cara/jovem/comunicador/vencedor/ganhador/cidadão/explorador/exploradora/parente/contendor/combatente/lutador/lutadora/adulto/capitalista/desafortunado/desventurado/intelectual/intelecto/macho/varão/homem/agente/realizador/trabalhador/fazedor/toureiro/usuário/fiduciário/advogado/representante/defensor/proponente/morte/falecido/africano/caçador/seguidor/turista/viajante/guerreira/guerreiro/devedora/devedor/líder/chefe/jogador/apostador/amado/amante/governador/governante/camarada/amigo/conhecido/amiga/amizade/espectador/observador/medricas/covarde/chefia/autoridade/engenheiro/caucasiano/caucasiana/branco/igual/par/cientista
 dividir	macerar/desmembrar/agregar/esfarrapar/ripar/desanexar/coar/roçar/compartimentar/serrar/lascar/esquartejar/sulcar/tosquiar/lotear/balcanizar/desbravar/podar/furar/parcelar/limar/esmagar/desarticular/cavar/filtrar/foiçar/perfurar/isolar/ceifar/esculpir/recortar/rachar/combinar/talhar/derrubar/abater/picar/decepar/dissecar/alisar/lavar/discernir/desfiar/trinchar/romper/espalhar/dissipar/dispersar/fragmentar/arrombar/estourar/arrebentar/explodir/desunir/partilhar/secionar/segmentar/quebrar/desgrudar/descolar/subdividir/cindir/rasgar/terminar/separar/apartar/separar-se/apartar-se/cortar/desconectar/desalojar/remover/despejar/exorcizar
 conquistar	amortecer/recalcar/debelar/abafar/reprimir/silenciar
 restar	permanecer/ficar
@@ -807,7 +807,7 @@ físico	astrónomo/astrônomo
 animal	pedigree/parceiro/gigante/adulto/sobrevivente/zooplâncton/presa/herbívoro/caça/cria/prole/filhote/corredor/embrião/macho/invertebrado/fêmea/larva
 permanecer	espreitar/prosseguir/contar/estar/valer/continuar/ficar
 fábrica	refinaria/serraria/siderurgia/aciaria/fundição/destilaria/salina/usina/cervejaria
-transmitir	implantar/exalar/importar/saudar/lançar/admitir/compartilhar/retransmitir/baixar/acenar/entregar/semear/institucionalizar/demonstrar/assobiar/internar/descarregar/silvar/plantar/manifestar/confirmar/assentir/quantificar/mensurar/mandar/televisionar/mostrar/expressar/reportar-se/aludir/sugerir/indicar/significar/agradecer/apreciar/popularizar/redigir/escrever/dirigir/informar/gesticular/verbalizar/conversar/proferir/sinalizar/gracejar/indagar/perguntar/comungar/falar/dizer/contatar/infligir/impor/ditar/solicitar/requisitar/requerer/pedir/trazer/pegar/remeter/despachar/enviar/propagar
+transmitir	implantar/exalar/importar/saudar/lançar/admitir/compartilhar/retransmitir/baixar/acenar/entregar/semear/institucionalizar/demonstrar/assobiar/internar/descarregar/silvar/plantar/manifestar/confirmar/assentir/quantificar/mensurar/mandar/televisionar/mostrar/expressar/reportar-se/aludir/sugerir/indicar/significar/querer_dizer/agradecer/apreciar/popularizar/redigir/escrever/dirigir/informar/gesticular/verbalizar/conversar/proferir/sinalizar/gracejar/indagar/perguntar/comungar/falar/dizer/contatar/infligir/impor/ditar/solicitar/requisitar/requerer/pedir/trazer/pegar/remeter/despachar/enviar/propagar
 atuar	criticar/reencenar/romantizar/acabar/manobrar/costumar/premiar/satisfazer/hostilizar/interromper/acercar-se/vulgarizar/reiterar/apresentar/condescender/antecipar/presumir/parodiar/ser/roubar/endurecer/forçar/agir/executar/esfriar/prever/atrever-se/desempenhar/aportar/descer/afetar/recompensar/antever/perturbar/oferecer/voluntariar/atrever/ousar/conduzir/resistir/atacar/agredir/engajar/começar/procurar/tentar/participar/comparticipar/aguentar/lidar/virar-se/sobreviver/efetivar/efetuar/efectuar/acelerar/correr/apressar/proceder/seguir/permanecer/prosseguir/comportar/comportar-se/perpetrar/cometer/folgar/jogar/brincar/esperar/reter/aguardar/lutar/continuar/galantear/azarar/namorar/criar/disparar/debandar/surpreender/interagir/alternar/responder/reagir/coadjuvar/retratar/personificar/representar/desmoronar/desesperar/adquirir/conquistar/fazer/simular
 elaborar	especificar/ilustrar/detalhar/pormenorizar/exemplificar/particularizar/explicar
 veículo	jipe/taxi/monovolume/calhambeque/sedan/compacto/sidecar/conversível/coupé/teleférico/táxi/patrulha/ambulância/carro/limusina/limusine/teleférico/maca/liteira/viatura/rojão/foguete/trenó/navio
@@ -863,9 +863,9 @@ músico	cantor/virtuoso/maestro/compositor
 músico	acólito/trombone/flautista/virtuoso/cravista/violoncelista/saxofone/acordeonista/violista/baixista/acompanhador/gaiteiro/acompanhante/flauta/clarinetista/saxofonista/violinista/cantador/cantor/cantora/vocalista/organista/roqueiro/pianista/guitarra/guitarrista/violonista/trompetista/trombeteiro/trombeta/maestro/compositor
 investigador	inspector/inspetor/examinador/detetive/cientista
 consumidor	fumante/subscritor/assinante/patrono/leitor/habitual/comprador/cliente/freguês/comedor
-etapa	bimestre/geração/juventude/ocupação/validade/quinzena/sesta/flor/festividade/lua-de-mel/hora/reinado/noviciado/auge/semivida/olimpíada/seca/arrendamento/fim-de-semana/floração/sono/lustro/prazo/prorrogação/vida/mês/fase/momento/era/jornada/século/centúria/dia/ano/madrugada/manhã/decênio/década/milênio/milénio/trimestre/canícula/noite/noitada/tarde/idade/semana/temporada/estação/tempo/pré-história/duração/continuidade/época/período
+etapa	bimestre/geração/juventude/ocupação/validade/quinzena/sesta/flor/festividade/lua-de-mel/hora/reinado/noviciado/auge/semivida/olimpíada/final_de_semana/seca/arrendamento/fim-de-semana/floração/sono/lustro/prazo/prorrogação/vida/mês/fase/momento/era/jornada/século/centúria/dia/ano/madrugada/manhã/decênio/década/milênio/milénio/trimestre/canícula/noite/noitada/tarde/idade/semana/temporada/estação/tempo/pré-história/duração/continuidade/época/período
 protecção	acompanhamento/defesa/impermeabilizante/vedação/escudo/isolamento/tutela/cuidado/imunização/conservação/preservação
-geração	posteridade
+geração	posteridade/baby_boom
 ocasião	vez/promoção/liquidação
 festival	carnaval/bacanal
 esconder	mistificar/acobertar/dissimular/sepultar/espreitar/cobrir/camuflar/ocultar/caiar/enterrar/soterrar/tapar/encobrir/mascarar/disfarçar
@@ -890,7 +890,7 @@ atacar	violar/emboscar/injuriar/assediar/torpedear/arremeter/contra-atacar/atent
 influência	pertubação/tentação/vigor/robustez/força/poder/compreensão
 surpresa	sobressalto/fascínio/maravilha/espanto/admiração
 avaliar	admitir/subestimar/escolher/reavaliar/passar/padronizar/supervalorizar/planejar/valorizar/corrigir/taxar/censurar/elogiar/louvar/revalorizar/aceitar/pensar/declarar/julgar/classificar/aprovar/prever/prognosticar/achar/considerar/calcular/predizer/medir/estimar/rejeitar/imputar/antecipar/desaprovar/ensaiar/tentar/associar/atribuir
-estrela	pentagrama/planetesimal/nova/sol/quasar/supernova/planeta/asteróide/satélite
+estrela	estrela_fixa/pentagrama/planetesimal/nova/anã_branca/sol/quasar/supernova/planeta/asteróide/satélite
 vice-presidente	primeiro-vice-presidente
 muçulmano	faquir/assassino/mouro/xiita/moiro/xiismo/imame/califa
 muçulmano	faquir/assassino/mouro/xiita/moiro/xiismo/imame/califa
@@ -915,8 +915,8 @@ exploração	blaxploitation/capitalização/sobreexploração/comercialização/
 carácter	inicial/consoante/x/k/pi/q/f/eta/teta/p/a/á/s/t/y/z/zê/ípsilon/w/vogal/b/fi/i/psi/ni/gama/u/j/h/delta/m/cá/capa/mi/quem/beta/n/g/sigma/e/ómega/r/d/tau/ó/o/xi/alfa
 afirmação	afirmativa
 desafio	confronto/confrontação/aposta
-distância	hora/minuto/proximidade/salto/lonjura/altura/altitude
-distância	bitola/hora/minuto/proximidade/salto/lonjura/altura/altitude
+distância	hora/distância_focal/minuto/proximidade/salto/lonjura/altura/altitude
+distância	bitola/hora/distância_focal/minuto/proximidade/salto/lonjura/altura/altitude
 interpretar	cantar
 irmão	maninho/trigêmeo/meia-irmã/maçom/gémeo/gêmeos/gêmeo
 demissão	despedimento
@@ -1083,7 +1083,7 @@ proibir	embargar/intimar/frustrar/proscrever/evitar/parar/travar/criminalizar/ce
 gosto	salinidade/doçura/sabor
 espetáculo	tourada
 espetáculo	tourada
-pedra	pedrinha/quartzito/magma/pedra-pomes/cristal/conglomerado/lava/seixo/fundamento/afloramento/soleira/rochedo/matacão/rocha/pedregulho/gravilha/brita/cascalho/mármore/calcário
+pedra	pedrinha/quartzito/magma/pedra-pomes/cristal/conglomerado/lava/seixo/fundamento/afloramento/soleira/rochedo/matacão/rocha/pedregulho/gravilha/brita/cascalho/mármore/rocha_ígnea/calcário
 falhar	falhar/cair/arruinar/ferrar/borrar/perder/faltar
 disposição	perfeccionismo/iniciativa/empréstimo/pessimismo/solidão/abandono/relutância/hesitação/amizade/tolerância/calma/equanimidade/aspiração/ambição/energia/agressividade
 conservador	capitalista/ultraconservador/reacionário/conformista
@@ -1298,7 +1298,7 @@ temer	apavorar/santificar/idolatrar/adorar/apavorar-se
 concorrer	correr/competir/jogar
 vestir	calçar/experimentar/vestido
 animar	seduzir/tentar/divertir/recrear/exultar/rejubilar/vivificar/reanimar/reavivar/renascer/reviver/entusiasmar/encorajar/alentar
-rock	heavy-metal
+rock	heavy_metal/heavy-metal
 massa	multidão/dilúvio/cuscuz/penne/lasanha/ravióli/talharim/macarrão/laico/espectador/audiência/monte/amontoado
 massa	monte/amontoado
 rigor	fidelidade/exatidão/precisão/exactidão
@@ -1346,8 +1346,8 @@ semelhança	reflexão/análogo/homogeneidade/isomorfismo/comparação/homologia/
 reflexão	exploração/reverberação/ponderação/pesada/eco/especulação/contemplação/pensamento/meditação/introspecção/ebulição/luto
 benefício	preferência/privilégio/favor/vantagem/liderança/gorjeta/operacionalidade/utilidade/valor/saqué/proveito/bem/lucro
 pronunciar	discursar/entoar/acentuar/trilar/enrolar/propagandear/vocalizar/ciciar/qualificar/declarar/julgar/absolver/inocentar/condenar/desqualificar
-pesca	fundição
-pesca	fundição
+pesca	fundição/pesca_à_linha
+pesca	fundição/pesca_à_linha
 comprometer	envolver/consagrar
 aniversário	centenário/sesquicentenário/jubileu
 intelectual	classificador/expositor/mentor/cético/alquimista/gênio/pensador/mente/acadêmico/erudito/especialista/teórico/estudioso/organizador
@@ -1409,7 +1409,7 @@ era	reinado/encarnação/dificuldade/período/época/idade/minuto/pouquinho/temp
 misturar	enredar/cortar/confundir/atabalhoar/laçar/aliar/acrescentar/incorporar/integrar/mesclar/combinar/agregar
 casamento	poligamia/exogamia/bigamia/monogamia/endogamia
 antecipar	acreditar/achar/crer/esperar/pensar/presumir/pressupor/assumir/supor/teorizar
-alma	opositor/perseguidor/potentado/menino/ocultista/macaquice/tirano/ser/utente/vizinho/criador/hebraico/abridor/ruivo/loira/plebeu/buscador/precursor/solicitante/homossexual/presença/artista/estrábico/rosto/optimista/autóctone/hetero/intérprete/terror/negra/máquina/dorminhoco/planejador/radical/demandante/colega/pagão/sósia/manda-chuva/travesti/testemunho/sobrevivente/dissidente/cobaia/cara-metade/homem-bomba/xará/coxo/tigre/esfinge/amada/agnóstico/furor/morena/esperança/mestiço/poliglota/nativo/suspeito/juvenil/pessoa/credor/pansexual/mulher/vítima/gêmeos/vigor/destro/habitante/camaleão/eslavo/autodidata/escravo/nomeador/vitoriano/possuidor/amador/estrangeiro/personificação/árbitro/culturista/latino/matador/agregador/aficionado/judeu/criança/sapatão/preparador/simplório/consumidor/negro/utilizador/familiar/bicha/candidato/amadora/criatura/menina/menor/pretendente/vida/pupilo/aluno/emulador/estúpido/otimista/escrava/creador/moroso/hebreu/inimigo/ruiva/homo/alacridade/heterossexual/dissidência/veado/sócio/homônimo/assassino/proprietário/energia/idiota/juiz/adversário/dono/coletor/amo/fêmea/parceiro/concorrente/antagonista/morador/lésbica/gay/acadêmico/estudante/judia/face/cara/jovem/comunicador/vencedor/ganhador/cidadão/explorador/exploradora/parente/contendor/combatente/lutador/lutadora/adulto/capitalista/desafortunado/desventurado/intelectual/intelecto/macho/varão/homem/agente/realizador/trabalhador/fazedor/toureiro/usuário/fiduciário/advogado/representante/defensor/proponente/morte/falecido/africano/caçador/seguidor/turista/viajante/guerreira/guerreiro/devedora/devedor/líder/chefe/jogador/apostador/amado/amante/governador/governante/camarada/amigo/conhecido/amiga/amizade/espectador/observador/medricas/covarde/chefia/autoridade/engenheiro/caucasiano/caucasiana/branco/igual/par/cientista/banshee/génio/gênio/espírito/larva/espectro/assombração/aparição/fantasma/sombra
+alma	opositor/perseguidor/potentado/menino/ocultista/macaquice/tirano/ser/utente/vizinho/persona_non_grata/criador/hebraico/abridor/ruivo/loira/plebeu/buscador/precursor/solicitante/homossexual/presença/artista/estrábico/rosto/optimista/autóctone/hetero/intérprete/terror/negra/máquina/dorminhoco/planejador/radical/demandante/colega/pagão/sósia/manda-chuva/travesti/testemunho/sobrevivente/dissidente/cobaia/cara-metade/homem-bomba/xará/coxo/tigre/esfinge/amada/agnóstico/furor/morena/esperança/mestiço/poliglota/nativo/suspeito/juvenil/pessoa/credor/pansexual/mulher/vítima/gêmeos/vigor/destro/habitante/camaleão/eslavo/autodidata/escravo/nomeador/vitoriano/possuidor/amador/estrangeiro/personificação/árbitro/culturista/latino/matador/agregador/aficionado/judeu/criança/sapatão/preparador/simplório/consumidor/negro/utilizador/familiar/bicha/candidato/amadora/criatura/menina/menor/pretendente/vida/pupilo/aluno/emulador/estúpido/otimista/escrava/creador/moroso/hebreu/inimigo/ruiva/homo/alacridade/heterossexual/dissidência/veado/sócio/homônimo/assassino/proprietário/energia/idiota/juiz/adversário/dono/coletor/amo/fêmea/parceiro/concorrente/antagonista/morador/lésbica/gay/acadêmico/estudante/judia/face/cara/jovem/comunicador/vencedor/ganhador/cidadão/explorador/exploradora/parente/contendor/combatente/lutador/lutadora/adulto/capitalista/desafortunado/desventurado/intelectual/intelecto/macho/varão/homem/agente/realizador/trabalhador/fazedor/toureiro/usuário/fiduciário/advogado/representante/defensor/proponente/morte/falecido/africano/caçador/seguidor/turista/viajante/guerreira/guerreiro/devedora/devedor/líder/chefe/jogador/apostador/amado/amante/governador/governante/camarada/amigo/conhecido/amiga/amizade/espectador/observador/medricas/covarde/chefia/autoridade/engenheiro/caucasiano/caucasiana/branco/igual/par/cientista/banshee/génio/gênio/espírito/larva/espectro/assombração/aparição/fantasma/sombra
 símbolo	cornucópia/águia/nariz/identificador/simbolismo/tipo/sigla/dólar/suástica/monograma/sustenido/crachá/distintivo/tarja/emblema/mancha/marca/estigma/variável/coroa/ícone/icon/prêmio/galardão/prémio/vareta/numeral/número/selo
 paralelo	trópico
 inscrever	registrar/matricular/engajar-se/alistar-se
@@ -1469,7 +1469,7 @@ sentença	fatwa/revogação/arbitragem/julgamento/ditame/pergunta/interrogação
 fundador	colonizador/mãe/co-fundador/fundadora
 lesão	abrasão/galo/corte/mordedura/mordida/torção/queimadura/fratura/fractura/picada/ferimento/ferida/mágoa/sangramento/hemorragia/contusão/inchaço/hematoma/úlcera/ulceração
 piso	alcatrão/asfalto/betão/concreto/formigão
-piso	cave/porão/loft/sobrado/mansarda/trapeira/ático/sótão
+piso	pista_de_dança/cave/porão/loft/sobrado/mansarda/trapeira/ático/sótão
 indicação	testemunha/pista/manifestação/sugestão/sinal/sintoma/dica/indício/testemunho/argumento/identificação/registro/evidência/vestígio/marca/gesto
 atrair	capturar/fascinar/prender/deleitar/deliciar/encantar/cativar/trazer/conduzir
 pacote	tufo/paneleiro/penca/feixe/molho/fardo
@@ -1490,7 +1490,7 @@ amarelo	limão/dourado/âmbar/açafrão
 utilizador	consumidor
 fome	bulimia/inanição
 lote	garagem/estacionamento
-caça	kamikaze
+caça	caça_grossa/kamikaze
 irregularidade	intermitência/flutuação/aleatoriedade/desigualdade/instabilidade
 abandono	apostasia
 defrontar	encarar
@@ -1523,7 +1523,7 @@ treinar	instruir/desfraldar
 mestre	governanta/demonstrador/professora/docente/ama/instrutora/missionário/professor/tutor/tutoria/preceptor
 costas	popa/rabo/traseiro
 tráfego	narcotráfico/simonia
-chão	terra/ilha/cabo/continente/planície/campanha/península/selva/arvoredo/floresta/mata/bosque/istmo/arquipélago
+chão	pista_de_dança/terra/ilha/cabo/continente/planície/campanha/península/selva/arvoredo/floresta/mata/bosque/istmo/arquipélago
 referente	antecedente
 governar	ditar/processar/presidir/coordenar/emboscar/arregimentar/cuidar/controlar/organizar/administrar/atrelar/enfeitiçar/monopolizar/estacionar/açambarcar/reino/direcionar/encantar/encurralar/tratar/acuar/dominar/pilotar/guiar/lidar/conduzir/dirigir/canalizar/preocupar/ocupar/reinar/reger/gerir
 adjunto	coadjutor/peão/manequim/facilitador/cúmplice/auxiliar/substituto/suplente/secretário/secretária/modelo/ajudante/assistente/empregado
@@ -1726,7 +1726,7 @@ potencial	latência
 equivalente	sósia/contrapartida/substituto
 consideração	exploração/justificação/ponderação/pesada/justificativa/especulação/contemplação/pensamento/reflexão/meditação/andamento/tino
 identificação	identidade/diagnose/diagnóstico
-múltiplo	triplo/dobro
+múltiplo	triplo/mínimo_múltiplo_comum/dobro
 criador	artesão/construtor/produtor/desenvolvedor/coreógrafo/costureiro/desenhador/fazedor/designer/arquitecto/agricultor/fazendeiro/artista/artífice/inventor/descobridor
 escrita	cuneiforme/hieróglifo/alfabeto/aramaico/silabário/programação/criptografia/código/notação/impressão/caligrafia/ortografia
 escrita	hieróglifo/código/notação/impressão/caligrafia/ortografia
@@ -1868,7 +1868,7 @@ recomendação	repreensão
 irmã	trigêmeo/meia-irmã/gémeo/gêmeos/gêmeo/irmão
 fracasso	quebra/erro/recidiva/perda/derrota
 falha	quebra/defeito/omissão/mácula/distorção/estupidez/impedimento/confusão/descuido/mancha/burrice/recidiva/fracasso/equívoco/erro/engano/negligência/perda/derrota/bobagem/gafe/fiasco
-amizade	fé/familiaridade/doçura/cordialidade/conexão/hospitalidade/alter-ego/amabilidade/afabilidade/coabitante/acessibilidade/paz/irmão/amiga/amigo/camarada/colega/companheiro/confidente
+amizade	fé/familiaridade/doçura/cordialidade/conexão/hospitalidade/alter-ego/amabilidade/afabilidade/alter_ego/coabitante/acessibilidade/paz/irmão/amiga/amigo/camarada/colega/companheiro/confidente
 panorama	vislumbre/anteprojeto/fundo/perfil
 fado	carma/karma
 ditadura	monarquia/stalinismo/autocracia/despotismo
@@ -1901,7 +1901,7 @@ expulsão	deportação/evacuação/tosse/cuspir/ostracismo/defenestração/excre
 bocado	dilúvio/mordida/gota/porção/fragmento/pedaço/migalha/miga
 obedecer	escutar/seguir/conformar/acatar
 vocação	especialização/especialidade
-comédia	melodrama/tragicomédia/farsa
+comédia	melodrama/commedia_dell'arte/tragicomédia/farsa
 dose	trago/gole/pílula/comprimido
 apartamento	cobertura/harém/suíte/quartel/dormitório
 exclusão	deportação/ostracismo/defenestração/censura/castração
@@ -2094,10 +2094,10 @@ evidenciar	demonstrar/registrar/assinalar/prognosticar/predizer/profetizar/press
 carência	penúria/fome/necessidade/deficiência/escassez/falta/ausência
 pacto	venda/assinatura/concórdia/ratificação/aliança/concordância/ajuste/acordo/harmonia/contrato/convenção/promessa/subscrição/conformidade/assentimento/aquiescência/consentimento/aprovação/concessão/conspiração/pacificação/paz
 explodir	estourar
-metal	rutênio/neptúnio/cúrio/bismuto/tecnécio/frâncio/paládio/ruténio/polónio/molibdénio/amerício/irídio/ródio/cobre/tório/estanho/magnésio/manganésio/manganés/manganês/érbio/nióbio/titânio/mercúrio/tântalo/cádmio/níquel/zircónio/chumbo/túlio/urânio/volfrâmio/tungsténio/índio/tálio/gálio/vanádio/bário/estrôncio/alumínio/rádio/cálcio/ítrio/cromo/crómio/lítio/césio/ferro/cobalto/rubídio/zinco/antimónio/berílio/potássio/sódio
+metal	rutênio/neptúnio/cúrio/bismuto/tecnécio/frâncio/paládio/ruténio/polónio/molibdénio/amerício/irídio/metal_alcalino/ródio/cobre/tório/estanho/magnésio/manganésio/manganés/manganês/érbio/nióbio/titânio/mercúrio/tântalo/cádmio/níquel/zircónio/chumbo/túlio/urânio/volfrâmio/tungsténio/índio/tálio/gálio/vanádio/bário/estrôncio/alumínio/rádio/cálcio/ítrio/cromo/crómio/lítio/césio/ferro/cobalto/rubídio/zinco/antimónio/berílio/potássio/sódio
 jeito	ferramenta/evasão/instrumento/recurso/asa/estrada
 pão	manutenção/puré/hóstia/fast-food/naan/torrada/bolo/pãozinho/carregamento/vitamina/jantar/repasto/refeição/prato/guloseima/leite
-hierarquia	condado/segundo/décimo/terceiro/milionésimo/nono/quinta/quadragésimo/nonagésimo/nível/ducado/oitava/octogésimo/sexta/centésimo/sétima/undécimo/último/gradação/sexagésimo/quarto/duodécimo/sétimo/taxinomia/octagésimo/oitavo/décima/graduação/sexto/posto/quinto/taxonomia/grau/classe/milésimo/décimo-primeiro
+hierarquia	condado/segundo/décimo/terceiro/milionésimo/nono/quinta/quadragésimo/nonagésimo/nível/décimo_quinto/ducado/oitava/octogésimo/sexta/centésimo/sétima/undécimo/último/gradação/sexagésimo/quarto/décimo_oitavo/duodécimo/sétimo/taxinomia/octagésimo/oitavo/décima/graduação/sexto/posto/quinto/taxonomia/grau/classe/milésimo/décimo-primeiro
 fabrico	cartografia
 repartir	lascar/lotear/balcanizar/parcelar/rachar
 menina	lolita/escolar/estudante
@@ -2142,7 +2142,7 @@ profundidade	calado
 opositor	vice/finalista/segundo/favorito/campeão/inimigo
 mexicano	mexicano-americanos
 mexicano	mexicano-americanos
-prato	rabanada/chucrute/manteigueira/croquete/terrina/panela/tartare/risotto/guisado/cozido/acompanhamento/fritada/omelete/almôndega/burrito/paella/paelha/picadinho/kebab/curry/caril/suchi/sushi/salada/taco/sopa/sashimi/mingau/pizza/fondue/molheira/açucareiro/tigela/sobremesa/aperitivo/antepasto
+prato	rabanada/chucrute/manteigueira/croquete/terrina/panela/tartare/risotto/guisado/cozido/acompanhamento/fritada/omelete/almôndega/burrito/paella/paelha/picadinho/kebab/curry/caril/suchi/sushi/salada/taco/ovo_quente/sopa/sashimi/mingau/pizza/fondue/molheira/açucareiro/tigela/sobremesa/aperitivo/antepasto
 civilização	maometismo/islão/islamismo
 especificar	explicitar/quantificar/dedicar/definir/concretizar/precisar/determinar
 inverter	falsificar/alternar/metamorfosear/mudar/transfigurar/trocar/desfazer/corrigir/retificar/reverter/transpor
@@ -2241,7 +2241,7 @@ provedor	distribuidor/revendedor/recrutador
 fumar	tragar/inalar
 raio	trovão/relâmpago
 solar	castelo/palácio
-conhecido	conexão/alter-ego/coabitante/irmão/amiga/amigo/camarada/colega/companheiro/confidente
+conhecido	conexão/alter-ego/alter_ego/coabitante/irmão/amiga/amigo/camarada/colega/companheiro/confidente
 seita	direita/esquerda/guizeira/confraria/jainismo/quaker
 tempestade	nevão/temporal/tormenta/trovoada/granizo/vendaval
 ensaiar	verificar/provar
@@ -2273,6 +2273,7 @@ legalidade	validade/legitimidade
 templo	pagode/abadia/basílica/catedral/sinagoga/panteão/ermida/capela/mesquita/relicário/santuário/igreja/zigurate
 dividendo	numerador
 discordar	desdizer/dissentir/contradizer
+querer_dizer	apontar/sugerir/dizer/indicar/representar/simbolizar/significar
 incentivar	encorajar/encorajar-se
 acolhimento	matrícula
 lazer	féria
@@ -2290,7 +2291,7 @@ segurar	sustentar/preservar/esconder/prender/roubar/entrelaçar/pegar/furtar/apr
 amador	diletante/maníaco
 bala	trufa/pastilha/caramelo/pirulito/marshmallow/bombom/algodão-doce
 festejar	lamentar/marcar/comemorar/enlutar
-cláusula	aditamento/acréscimo
+cláusula	oração_subordinada/aditamento/acréscimo
 mineiro	garimpeiro
 contentor	porquinho-mealheiro/saleiro/mostruário/sobrescrito/envelope/vitrine/relicário/sobre/dedal/mostrador/vitrina/cesta/cesto/copo/lata/cocho/manjedoura/balde/tonel/chocalho/caixa/embalagem/pacote/cassete/gaveta/vasilhame/vasilha/vaso/recipiente/cilindro/prato/louça/xícara/taça/regador/colher/bolsa/saco/carteira/sacola/molde
 minimizar	desacreditar/denegrir/destruir/desonrar/desabonar/descreditar/desprestigiar/depreciar
@@ -2394,7 +2395,7 @@ admissão	matrícula/confissão
 tela	mosquiteiro/pára-brisa
 progressão	progresso/empurrão/carniça/marcha
 índio	inuit/esquimó/nahuatl/iroquês
-dente	siso/traseiro/molar/incisivo/rabo/pré-molar
+dente	siso/traseiro/dente_canino/molar/incisivo/rabo/pré-molar
 arrumar	sincronizar/organizar
 variedade	estirpe/cultivar/variante/raça/versão
 descrição	alegação/ilustração/garantia/fórmula/verdade/epíteto/estimativa/cotação/palavra/emenda/denúncia/dístico/promulgação/anunciação/desenho/orçamento/nota/resultado/retrato/pregão/anotação/vocábulo/proclamação/promessa/compromisso/oferta/licitação/acordo/pacto/solução/resposta/explanação/explicação/comunicação/aviso/anúncio/condição/termo/mentira/falsidade/proposição/declaração/asserção/eufemismo/resumo/sumário/prognóstico/previsão/predição/comentário/observação/caracterização/caraterização
@@ -2500,6 +2501,7 @@ gelo	geada
 encorajar	estimular/extroverter/provocar/instigar/encorajar-se/alimentar/inspirar/alentar/incentivar/empolgar
 desgraça	xingamento
 variável	variante/vetor/infinitesimal/vector
+ficha	blue_chip
 balança	escala/válvula/prato
 tenda	choupana/pavilhão
 convento	abadia
@@ -2508,10 +2510,10 @@ fantasia	sonho/fogo-fátuo/ficção-científica
 provir	remontar/originar/ressurgir/emergir
 emergir	irromper/vazar/escapar/surgir
 extrair	chupar/bombear/sugar/ordenhar
-amiga	alter-ego/coabitante/irmão/amigo/camarada/colega/companheiro/confidente
+amiga	alter-ego/alter_ego/coabitante/irmão/amigo/camarada/colega/companheiro/confidente
 falecido	zumbi
 pastor	cabreiro/pastora/confessor/pegureiro/primaz/prelado/monsenhor/bispo/acólito/pregador/leitor/cura/ministro/reitor/vigário/capelão/eclesiástico/pároco/sacerdote/presbítero/clérigo/padre
-ditador	autocrata/tirano/déspota/xógum/xogum/shogun
+ditador	big_brother/autocrata/tirano/déspota/xógum/xogum/shogun
 cidadania	eólio/eleitorado
 anexo	bairro/paisagem/pára-sol/proximidade
 indiferença	desapego/afastamento/apatia
@@ -2551,7 +2553,7 @@ percepção	toque/sensação/detecção/sensação/visão
 diocese	arquidiocese
 diocese	arquidiocese
 enriquecer	estercar
-camarada	alter-ego/coabitante/ficante/acompanhante/irmão/amiga/amigo/colega/companheiro/confidente
+camarada	alter-ego/alter_ego/coabitante/ficante/acompanhante/irmão/amiga/amigo/colega/companheiro/confidente
 brilho	clarão/lampejo/esplendor/lustre/luzeiro/luminosidade/polimento
 delegar	contratar/eleger/arregimentar/deputar/passar/escolher/relegar/demover/despromover/promover/avançar/remanejar/transferir
 pressupor	postular
@@ -2583,7 +2585,7 @@ riso	gargalhada
 nariz	bocal/focinho
 igualar	empatar/equacionar/representar/combinar/concordar/corresponder
 aparição	espectro/sombra/ovni/fantasma
-rocha	pedrinha/quartzito/magma/pedra-pomes/cristal/conglomerado/lava/seixo/fundamento/afloramento/soleira/rochedo/matacão/pedra/pedregulho/gravilha/brita/cascalho/mármore/calcário
+rocha	pedrinha/quartzito/magma/pedra-pomes/cristal/conglomerado/lava/seixo/fundamento/afloramento/soleira/rochedo/matacão/pedra/pedregulho/gravilha/brita/cascalho/mármore/rocha_ígnea/calcário
 assassinato	morte/asfixia/electrocussão/decapitação/genocídio/fratricídio/linchamento/tiranicídio/eutanásia/infanticídio/linchagem/sufocamento/regicídio/infanticida/sacrifício/homicídio/auto-destruição/suicídio/envenenamento/carnificina/massacre
 demora	extensão/atraso/moratória
 aludir	insinuar/apresentar/referir/invocar/desenterrar/mencionar/citar/levantar/reportar-se
@@ -2615,7 +2617,7 @@ enfermeiro	parteira
 bolo	brioche/cuca/cremoso/blini/croissant/tortilla/cheesecake/queijada/panqueca/bolacha/biscoito/cookie/folhado/pão-de-ló
 particularidade	especificidade
 escalada	alpinismo/montanhismo/ascenção
-cansaço	exaustão
+cansaço	jet_lag/exaustão
 hesitação	preguiça/aversão
 telhado	cúpula/domo/abóbada
 desistência	imunidade
@@ -2640,7 +2642,7 @@ alienar	ratear/separar/compensar/desabituar/liquidar
 imitar	emular/copiar/macaquear/simular
 excedente	sobra
 clareza	visibilidade/transparência
-periférico	impressora
+periférico	impressora/dispositivo_de_entrada
 alastrar	plantar/semear/popularizar
 atacante	violador/fera/besta/estuprador/rufião
 patrocinador	doador/contribuinte/altruísta
@@ -2697,7 +2699,7 @@ destinatário	mandatário/beneficiário/herdeira/protegido/herdeiro
 desigualdade	disparidade
 ansiedade	inquietação/pânico/medo/nervosismo/pressentimento/hipocondria/ressalva/insegurança/preocupação/periculosidade/temor/inquietude
 sopa	gaspacho/gumbo/minestrone/vichyssoise/rabada/consommé/caldo
-oração	coleta/intercessão/missa/bênção/pergunta/interrogação/questão
+oração	coleta/intercessão/missa/oração_subordinada/bênção/pergunta/interrogação/questão
 febre	frio/calor/frieza
 conspiração	intriga/conjuração
 cuidar	superproteger/remoer/criar/ministrar/providenciar/jardinar
@@ -2834,7 +2836,7 @@ serenidade	ataraxia
 decorar	ilustrar/espetar/emplumar/incrustar/trançar/pendurar/colorir/ajardinar/bordar/recamar/encrustar/esmaltar/enfeitar/ornamentar/adornar
 procissão	comboio/cortejo/cavalgada/desfile/parada/caravana/passeata/marcha
 anjo	querubim/serafim/buda/arcanjo/faquir
-pavimento	cave/porão/loft/sobrado/mansarda/trapeira/ático/sótão
+pavimento	pista_de_dança/cave/porão/loft/sobrado/mansarda/trapeira/ático/sótão
 enumerar	listar/adicionar/somar
 fascismo	nazismo
 touro	novilho
@@ -2920,7 +2922,7 @@ doutoramento	cirurgião-dentista
 melhoramento	perfeição/clarificação/ventilação/acumulação/modernização/humanização/aprimoramento/reforço/exagero/optimização/upgrade/melhoria/aperfeiçoamento/reavaliação/renovação/correção/enriquecimento/limpeza/desenvolvimento/conserto/reparo/reparação/reforma/adição/inclusão/expansão/ampliação/aumento/intensificação/enaltecimento/engrandecimento
 conhecedor	esteta
 ofensa	indignidade/insolência/traição/cometimento/ataque/afronta/injúria/insulto/assalto/atentado/desconsideração/crime/falsificação/infração/infracção/roubo/rapto/roubar
-ácido	fenol
+ácido	fenol/ácido_clorídico
 afundar	assentar/relaxar
 recta	tangente/corda/raio/perpendicularidade/secante/diagonal/perpendicular/diâmetro/vetor/vector
 antologia	compilação/florilégio
@@ -3109,7 +3111,7 @@ liberalismo	neo-liberalismo/neoliberalismo/autogoverno/autodeterminação
 liberalismo	neo-liberalismo/neoliberalismo
 corroborar	confirmar/suportar/verificar/documentar/demonstrar/validar
 caricatura	paródia
-caricatura	paródia
+caricatura	paródia/banda_desenhada
 erosão	abrasão/ferrugem/ablação/oxidação
 focar	pensar/escutar
 gruta	furna/caverna/algar
@@ -3153,6 +3155,7 @@ tronco	pecíolo/bolbo/cebola/ramo/tubérculo/rizoma/galho
 cruzado	militante/activista/hippie/abolicionista/ambientalista/rebelde/feminista/manifestante
 naturalidade	sinceridade/inocência/simplicidade
 socorrer	facilitar/desenrascar/acelerar/aliviar/beneficiar/apressar/sanar/sarar/curar/assistir/servir/ajudar/zelar/tutelar/cuidar
+doca	dique_seco
 lavagem	banho/ablução
 clandestinidade	confidencialidade
 semente	café/fruta/noz/grão
@@ -3323,7 +3326,7 @@ reinado	regência
 erudito	pedante/bibliófilo/mestre/doutor/humanista/bibliógrafo/leitor/dr./graduado/historiador/cronista/filósofo/teólogo
 condicionante	influência
 insurgir-se	revoltar/amotinar/sublevar
-tijolo	clínquer/adobe
+tijolo	clínquer/tijolo_cru/adobe
 prateleira	churrasqueira/estante/churrasco/tripé
 palhaço	arlequim/bufão/bobo
 marginalizar	boicotar
@@ -3496,7 +3499,7 @@ efeméride	consoada/festividade
 inspecionar	escrutinar/rinoscopia/acompanhamento/exploração/revisão/autópsia/estudo/comparação/inspecção/inspeção/exame/teste/endoscopia/vistoriar/buscar/procurar/revistar/comprovar/examinar/auscultar
 aptidão	instinto/capacidade/talento
 teólogo	doutor
-verbo	partitivo/substantivo/charada/verbete/heterônimo/antónimo/particípio/sinônimo/anagrama/infinitivo/derivado/palavrão/diminutivo/sinónimo/heterónimo/antônimo/empréstimo/palavra-chave/nomenclatura/terminologia/neologismo/homônimo/homónimo/termo/palavra/vocábulo
+verbo	partitivo/substantivo/charada/verbete/heterônimo/antónimo/particípio/sinônimo/anagrama/infinitivo/derivado/palavrão/verbo_auxiliar/diminutivo/sinónimo/heterónimo/antônimo/empréstimo/ad_hoc/palavra-chave/nomenclatura/terminologia/neologismo/homônimo/homónimo/termo/palavra/vocábulo
 avós	vovô/avó/vovó/avô
 rito	noivado/esponsais/casamento/vigília/circuncisão/liturgia
 possuidor	armador/sócio/poupador/detentor
@@ -3829,7 +3832,7 @@ couro	esmagamento/jacaré/aligátor/caimão/camurça
 ignorante	analfabeto
 viciar	abastardar/envenenar
 mamífero	macho/vaca/plantígrado/touro/ungulados/primata/morcego/pangolim/gado/pecuária/roedor
-esgotamento	exaustão
+esgotamento	jet_lag/exaustão
 trave	lintel/quilha/barrote/biga/cumeeira/viga
 desabar	implodir/desaparecer/baixar/amenizar/afundar/decrescer/declinar/amainar/abater/definhar/enrugar/contrair-se/encolher/contrair/murchar/desvalorizar/reduzir/desacelerar/enfraquecer/minguar/diminuir
 estagiário	cadete
@@ -3943,13 +3946,13 @@ ascendência	pedigree/origem/extração
 insurreição	levantamento/motim/sublevação/insurgência/revolta/rebelião/sedição
 estrato	substrato/irmandade/mulher/mercado/ninja/proletariado/jazigo/submundo/casta/burguesia/classe-média/derme/ordem/fraternidade/cútis/horizonte/epiderme/troposfera/crosta/cromosfera/estratosfera/mesosfera/neve/manto/superfície/litosfera
 odor	fragrância/aroma/fragância/cheiro/perfume/fedor/pejo
-maquinaria	agrafador/máquina/calendário/gim/betoneira/bate-estaca/impressor/tipógrafo/impressora/escavadeira/escavadora/motor/gramofone/fonógrafo/calculador/computador/calculista/calculadora/simulador/prensa/imprensa/moinho
+maquinaria	agrafador/máquina/calendário/gim/betoneira/bate-estaca/impressor/tipógrafo/impressora/escavadeira/escavadora/motor/slot_machine/gramofone/fonógrafo/calculador/computador/calculista/calculadora/simulador/prensa/imprensa/moinho
 cidadã	votante/civil/eleitor
 asfixia	estrangulamento
 patologia	miopatia/priapismo/linfadenopatia/fibrose/desmineralização/refluxo/gangrena/quisto/lesão/neuropatia/disfunção/enfarte/osteoporose/hemocromatose/esclerose
 desfiar	rasgar
-fadiga	exaustão
-fadiga	exaustão
+fadiga	jet_lag/exaustão
+fadiga	jet_lag/exaustão
 índia	inuit/esquimó/nahuatl/iroquês
 pertinência	aplicabilidade
 merda	melena/vômito/guano/urina/coprólito/pipi/xixi/porcaria/excremento/esterco/cocô/bosta/cagalhão
@@ -4020,6 +4023,7 @@ venerar	santificar/idolatrar/adorar/temer/reverenciar/admirar/estimar
 apóstolo	animista/dualista/druso/luterano
 irreverência	sacrilégio/profanação/blasfémia
 extorsão	tributo/chantagem
+cartoon	banda_desenhada
 estreitar	obstruir/tensionar/atarrachar/contrair/comprimir/apertar
 falésia	precipício
 vulgo	ralé
@@ -4109,7 +4113,7 @@ refrigerante	coca/cola/salsaparrilha
 papagaio	periquito/caturra/arara/catatua
 desmoronamento	desabamento/malogro/subsidência/fiasco
 saque	espoliação/pilhagem/depredação/devastação/roubo/furto
-jazida	meio-campo/centro
+jazida	meio-campo/centro/inner_city
 combustão	deflagração/incineração/ignição/incinerador/inflamação/labareda/chama/fogo/flama
 aguardente	cognac/grappa/armagnac/conhaque
 invejar	cobiçar
@@ -4706,7 +4710,7 @@ locação	premissa/necrópole/campismo/cemitério/monturo/acampamento/habitaçã
 reorientação	reversão
 comprazer	encarecer/encantar
 desacelerar	entupir/comedir/retardar/moderar/atrasar
-vocábulo	partitivo/substantivo/charada/verbete/heterônimo/antónimo/sinônimo/anagrama/derivado/palavrão/diminutivo/sinónimo/heterónimo/antônimo/empréstimo/palavra-chave/nomenclatura/terminologia/neologismo/homônimo/homónimo/termo/palavra
+vocábulo	partitivo/substantivo/charada/verbete/heterônimo/antónimo/sinônimo/anagrama/derivado/palavrão/diminutivo/sinónimo/heterónimo/antônimo/empréstimo/ad_hoc/palavra-chave/nomenclatura/terminologia/neologismo/homônimo/homónimo/termo/palavra
 talude	inclinação
 chafariz	bebedouro
 letreiro	outdoor
@@ -4969,7 +4973,7 @@ vociferar	ulular/bramir/esganiçar/gritar
 ornamento	motivo/lantejoula/bronze/grafite/arabesco/laço/gárgula/florão/tatuagem/joalharia/joalheria/jóia/faixa/banda/penduricalho/dragona/mandala/sinalização/naipe/emblema/decalcomania/decoração
 anemia	isquémia/isquemia
 astúcia	fraude/trote
-caucasiano	ariano/branco/cara-pálida
+caucasiano	ariano/white_trash/branco/cara-pálida
 rogar	implorar/suplicar/insistir
 descascar	esfolar
 regozijar	exultar/alegrar/animar/animar-se/alegrar-se
@@ -5107,6 +5111,7 @@ onça	pantera
 suplicar	implorar/rogar/insistir
 hambúrguer	cheeseburguer
 peculiaridade	egoísmo/egocentrismo/sensatez/sagacidade/sapiência/sabedoria/seriedade/feminilidade/desconfiança/masculinidade/limpeza/asseio/firmeza/compulsividade/humildade/fé/confiabilidade/caráter/conduta/procedimento/maneira/comportamento/natureza/índole/vaidade/parcimónia/modalidade/disciplina/frivolidade/personalidade/individualismo/individualidade/inércia/disposição/atividade
+persona_non_grata	desordeiro
 transgredir	infringir/pecar
 curativo	atadura/penso/esparadrapo/ligadura/compressa/emplastro
 metafísica	cosmologia/ontologia
@@ -5448,7 +5453,7 @@ tontura	hipnose
 matreiro	raposa
 pausar	respirar/espirar
 agasalho	cardigan/pulôver/camisola
-tomografia	radiologia/ultra-som
+tomografia	radiologia/ultra-som/ressonância_magnética
 ninfa	eco/dafne
 rememorar	monumentalizar
 cacto	saguaro/mescal/peiote
@@ -5565,7 +5570,7 @@ motocicleta	ciclomotor/motocross/mota/moto
 sedimentação	filão/veio
 tez	tingimento/palidez/tom/matiz/tintura
 corneta	serpentão
-pré-requisito	desejo/necessidade
+pré-requisito	sine_qua_non/desejo/necessidade
 hálito	exalação/fragrância/aroma/odor/fragância/cheiro/perfume/fedor/pejo
 secreção	transpiração/néctar/suor/saliva/cuspe/cuspo/muco/hormona/salivação
 lutadora	espadeiro/gladiador/boxer/pugilista/lutador/vencedor
@@ -5630,6 +5635,7 @@ galho	raminho/ramo
 botânica	micologia
 sexismo	chauvinismo
 contrair-se	flexionar
+fita_magnética	videocassette
 reformismo	iluminismo
 lavar-se	gargarejar/esfregar/enxaguar/bochechar
 transmutar	acontecer/transformar/virar/transformar-se/tornar-se
@@ -5664,6 +5670,7 @@ reaproveitar	requentar
 enlaçar	trançar
 soda	coca/refrigerante/cola/salsaparrilha
 inseticida	lindano
+contracultura	flower_power
 cronograma	programa/horário
 pirilampo	vaga-lume
 canídeo	matreiro/raposa/cachorro/cão/cachorra/hiena/chacal/loba/lobo
@@ -5862,6 +5869,7 @@ pugilismo	luta/combate
 cachoeira	catarata
 cefaléia	enxaqueca
 agenciar	intermediar/interceder/mediar/pechinchar/regatear/renegociar
+dance_music	ragtime/giga/tarantella/conga/samba/beguina/minueto/valsa/polca/tango/bolero/techno/jazz
 timo	tomilho
 viscosidade	porosidade/grossura
 exorbitância	pletora/extravagância/excesso/superabundância
@@ -6028,6 +6036,7 @@ covarde	medricas/medroso
 elmo	capacete
 prosódia	ênfase/cesura/ritmo/acentuação/acento
 mortificar	esmagar/degradar/aviltar/rebaixar
+pesca_à_linha	fundição
 descompor	confundir/castigar
 liteira	palanquim/maca
 escrivaninha	secretária
@@ -6183,6 +6192,7 @@ copular	desvirginar/sodomizar/desflorar/fornicar/transar/trepar/meter/montar/fod
 romã	granada
 pertence	intimidade/proximidade
 pulha	obscenidade
+autoclave	panela_de_pressão
 pelejar	pressionar/esforçar-se/esforçar
 lagartixa	osga/camaleão
 malho	malhete
@@ -6194,6 +6204,7 @@ enrijecer	engomar/rigidificar
 usuário	consumidor/viciado/adicto
 contratador	empreiteiro/constructor/construtor
 meretriz	puta/acompanhante/rapariga/prostituta
+livro_de_texto	introdução/cartilha
 simbolo	nariz/identificador/simbolismo/tipo/sigla/dólar/monograma/sustenido/símbolo/mancha/marca/estigma/variável/coroa/ícone/icon/prêmio/galardão/prémio/vareta/numeral/número/selo
 trinchar	rasgar
 lambuzar	esmaecer
@@ -6520,7 +6531,7 @@ atividade	desintegração/coisa/desabafo/dinamismo/extracção/desmagnetização
 mensuração	densitometria/observação/batimetria/dosimetria/telemetria/antropometria/quantificação/audiometria
 genótipo	biotipo
 buscador	caçador
-estafa	exaustão
+estafa	jet_lag/exaustão
 ungulados	hipopótamo/suíno/porco/camelo/ruminante/lume/mu/babucha/mulo/zebra/mula/cavalo/égua/rinoceronte/anta/equídeo
 livro-caixa	razão
 geladeira	freezer/congelador/cooler/refrigerador
@@ -6542,7 +6553,7 @@ parafilia	exibicionismo/pedofilia/fetiche/voyeurismo/pederastia/zoofilia
 sombreiro	capote/cartola/sombrero
 câncer	linfoma/carcinoma/leucemia/sarcoma
 trapacear	falsear/roubar/falsificar/deturpar/fraudar/defraudar/estafar
-ong	aa/missão/comité/comitê
+ong	aa/exército_de_salvação/missão/comité/comitê
 embaralhar	cortar
 óleoduto	gasoduto/oleoduto
 bergamota	tangerina
@@ -6598,6 +6609,8 @@ chuço	alabarda
 comparecimento	presença
 beque	quarterback
 zagueiro	quarterback
+dispositivo_de_entrada	joystick
+mulher_pública	puta/acompanhante/rapariga/prostituta
 bite	paridade
 engajar-se	alistar
 exatidão	rigor/fidelidade/precisão/exactidão
@@ -6647,6 +6660,7 @@ intercorrência	padrão/possibilidade/preferência/default
 glicoproteína	cd4
 array	espectro/tabela/bicha/linha/matriz/panóplia/coluna
 periodista	colunista
+dente_canino	canino/presa
 românica	romeno/português/italiano/italiana/galego/francês/catalão/castelhano/espanhol
 joão	contramestre/piloto/baleeiro
 comitê	júri/embaixada/conselho/junta/comité
@@ -6663,6 +6677,7 @@ monastério	abadia
 canábis	maconha
 alpercata	alpargata
 exaurir-se	exaurir
+rock_and_roll	heavy_metal/heavy-metal
 constrangir	tolher/confundir
 garrafada	sorgo/melaço
 paralelogramo	losango/rectângulo/retângulo
@@ -6690,6 +6705,7 @@ diagnose	diagnóstico
 satifazer	saciar/satisfazer/aplacar/aliviar/acalmar/alimentar-se
 flebite	tromboflebite
 deseo	paixão/filistinismo
+rocha_ígnea	diorito/porfiróide
 tag	etiqueta
 barganhar	desvalorizar
 jacó	contramestre/piloto/baleeiro
@@ -6741,7 +6757,7 @@ custodiar	patrulhar
 candil	trufa/pastilha/caramelo/pirulito/marshmallow/bombom/algodão-doce
 esquentamento	derretimento/reaquecimento/ebulição/degelo/fervura/fusão/sobre-aquecimento
 cocô	coprólito
-caucasiana	ariano/branco/cara-pálida
+caucasiana	ariano/white_trash/branco/cara-pálida
 ruma	escultura/farpa/comboio/europa/herbário/fornada/repertório/tesouro/universo/pacote/biologia/aglomeração/informação/colagem/conjunto/biota/massa/multidão/lote/tráfego/tránsito/circulação/trânsito/nebulosa/galáxia/mão/guarda-roupa/mitologia/mistura/encepamento/classe/família/categoria/pilha/montão/cúmulo/monte/fauna/vegetação/flora/jogo/grupo/combinação/romaria/procissão/suma/frota/exposição/lei/jurisprudência/biblioteca
 esparadrapo	garrote/gesso/torniquete
 polinómio	série
@@ -6801,6 +6817,7 @@ berilo	esmeralda
 polinômio	série
 cáculo	exponenciação/integração/combinação
 algaravia	abracadabra
+flauta_transversa	flautim/pífaro
 planejador	cabeça
 traslado	precipitação/regresso/avanço/ascensão/vacilação/migração/deslocamento/deslizamento/movimento/aproximação/perseguição/aceleração/viagem/caçada/travessia/retorno/progressão/elevação/locomoção/manobra
 transubstanciar	trabalhar

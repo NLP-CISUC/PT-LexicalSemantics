@@ -60,6 +60,8 @@ mandioca	tapioca
 arsénico	inseticida/herbicida
 aminoácido	proteína
 magnésio	dolomita
+adobe	tijolo_cru
+adobe	tijolo_cru
 ulmeiro	olmo
 laca	goma-laca
 progesterona	pílula

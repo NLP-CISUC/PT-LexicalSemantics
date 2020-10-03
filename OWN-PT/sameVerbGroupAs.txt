@@ -122,7 +122,7 @@ esquecer	abandonar
 descobrir	verificar/encontrar/assegurar/determinar/ver/detectar/achar
 assistir	enxergar/ver/olhar/traçar/seguir
 bater	palpitar/pulsar/enganar/acertar/golpear/agitar/atingir/colidir
-significar	intencionar
+significar	querer_dizer/intencionar
 substituir	recolocar/suplantar/repor/sobrepor/mudar
 dedicar	dar
 recuperar	encontrar/reganhar/achar
@@ -330,6 +330,7 @@ englobar	endereçar/cobrir/falar/tratar/lidar
 deparar	confrontar/defrontar/enfrentar
 prevenir	alertar/advertir/avisar
 incentivar	impressionar/comover/afetar
+querer_dizer	significar
 segurar	capturar/apanhar/conter
 lavar	lavar-se
 contrair	ter/padecer

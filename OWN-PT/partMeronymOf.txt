@@ -10,10 +10,10 @@ todo	porção/parte
 mês	semana/meia-lua
 jogo	turno/metade
 acordo	termo/condição
-semana	fim-de-semana/dia
+semana	fim-de-semana/final_de_semana/dia
 equipa	reserva
 mercado	prateleira/estante/comércio/empresa/negócio
-cidade	centro/vizinhança/bairro/praça
+cidade	centro/inner_city/vizinhança/bairro/praça
 homem	carne/anatomia/corpo/mão/rosto/cara/face/pêlo/cabelo/braço/pé/lombo
 hora	minuto
 vida	nascimento/fim/queda/morte/idade/época/período
@@ -24,9 +24,9 @@ mundo	hemisfério/céu/terra/chão/solo/relevo/litosfera/ar/atmosfera/estrela/as
 câmara	teto/mira/visor/obturador/diafragma/chão/piso/pavimento/muro/parede/muralha/cama/leito/objectiva/pára-sol
 filme	legenda/plano
 história	anticlímax/conclusão/introdução/idade/época/era/período/antiguidade/renascimento
-noite	pôr-do-sol/poente/crepúsculo/anoitecer/madrugada/meia-noite
+noite	pôr-do-sol/poente/crepúsculo/anoitecer/madrugada/meia_noite/meia-noite
 sistema	módulo/infra-estrutura/infraestrutura/hierarquia
-tarde	pôr-do-sol/poente/crepúsculo/anoitecer/madrugada/meia-noite/noite
+tarde	pôr-do-sol/poente/crepúsculo/anoitecer/madrugada/meia_noite/meia-noite/noite
 guerra	agressão/contenda/luta/batalha/combate
 espaço	lugar/ponto/localização
 conta	balanço
@@ -51,8 +51,8 @@ banco	caixa-forte
 documento	preâmbulo/artigo/cláusula
 criação	estrela/astro
 produção	legenda/plano
-jornal	manchete/notícia/editorial/coluna
-jornal	manchete/notícia/editorial/coluna
+jornal	manchete/notícia/editorial/coluna/banda_desenhada
+jornal	manchete/notícia/editorial/coluna/banda_desenhada
 palavra	sílaba/byte
 face	mandíbula/testa/bochecha/boca/olho/óculo/olfato/nariz/traço/sobrolho/sobrancelha/barba/mento/queixo
 administração	hierarquia
@@ -111,7 +111,7 @@ arma	armamento/cano/cartucho/tubo/alça/gatilho
 real	centavo
 década	ano
 estrada	trevo/acostamento/berma/curva/encruzilhada/cruzamento
-município	centro
+município	centro/inner_city
 jornada	parada/etapa/madrugada/manhã
 viagem	parada/etapa
 canal	eclusa
@@ -233,8 +233,8 @@ hectare	erre/are
 boca	gengiva/palato/língua/dentadura/dentição/beiço/lábio
 costa	praia
 sentença	cláusula/oração/constituinte
-piano	teclado
-piano	teclado
+piano	placa_de_som/teclado
+piano	placa_de_som/teclado
 costas	vértebra/cóccix
 poema	estrofe/rima
 teoria	lei/possibilidade/hipótese/suposição
@@ -285,7 +285,7 @@ monte	cume/cimeira/cimo/declive/encosta/vertente/ladeira/rampa
 flor	ovário/estame
 vaca	bife/carne/úbere
 atmosfera	troposfera/estratosfera/mesosfera/ionosfera
-folha	manchete/notícia/editorial/coluna
+folha	manchete/notícia/editorial/coluna/banda_desenhada
 serra	dente
 extinção	dispersão/absorção
 coluna	pedestal/suporte/base/capitel
@@ -302,7 +302,7 @@ marketing	distribuição/venda/publicidade/promoção/anúncio/propaganda
 marketing	distribuição/venda/publicidade/promoção/anúncio/propaganda
 alimentação	mastigação
 lar	habitação/quarto/dormitório/câmara/gabinete/camarim/refeitório/cozinha/salão/sala/banheiro
-cérebro	hemisfério
+cérebro	tronco_cerebral/hemisfério
 garrafa	tampa
 vela	pavio/mecha
 vela	pavio/mecha
@@ -333,6 +333,7 @@ ombro	espádua/omoplata
 ombro	espádua/omoplata/axila/sovaco
 templo	abside/presbitério/transepto/nártex/nave/ábside/sacristia/pilar/coluna
 escada	degrau
+estaleiro	dique_seco
 secretária	caixa/gaveta
 cais	ancoradouro/doca
 m	decímetro
@@ -374,7 +375,7 @@ diocese	paróquia
 mesquita	mihrab/minarete
 mesquita	mihrab/minarete
 faca	lâmina/pico/ponta
-nariz	narina/venta
+nariz	fossa_nasal/narina/venta
 asa	aileron/pluma/pena
 telhado	ladrilho
 pescoço	garganta/rosto/cara/face/caveira/crâneo/crânio/orelha/têmpora/encéfalo/cérebro/faringe/timo/traqueia/nuca/cerviz
@@ -472,7 +473,7 @@ agulha	ponta/buraco
 prateleira	espeto
 garganta	adenóide/língua/orofaringe/glote
 idioma	vocabulário/léxico
-metrópole	centro
+metrópole	centro/inner_city
 atlântico	shetland
 banana	bananeira
 estória	anticlímax
@@ -555,7 +556,7 @@ arcada	arco
 suíno	pé/porco
 taberna	bar
 hp	watt
-urbe	centro
+urbe	centro/inner_city
 polvo	pop
 enfermaria	sala/hospital
 temperamento	índole/caráter/natureza/personalidade/peculiaridade/feição
@@ -697,7 +698,7 @@ cosmo	estrela/astro
 transmissor	antena
 hectolitro	decalitro
 baú	tampa
-noitada	madrugada/meia-noite/noite
+noitada	madrugada/meia_noite/meia-noite/noite
 basquete	metade
 circunferência	sextante
 pimento	piripiri/chili
@@ -869,6 +870,7 @@ luminária	difusor
 balaustrada	carril/balaústre
 pé-de-cabra	fulcro
 roma	vaticano
+tronco_cerebral	ponte
 escrivaninha	caixa/gaveta
 teca	trinco/alça/cabo
 bufete	estante/gaveta/caixa/prateleira
@@ -889,6 +891,7 @@ sacada	corrimão/balaustrada/camarote
 nanómetro	ångström/angström
 timor	timor-leste
 marmeleiro	marmelo
+final_de_semana	sábado/domingo
 saguão	chão/piso/pavimento/muro/parede/muralha/teto
 bunda	glúteo
 espira	jante
@@ -905,7 +908,9 @@ neurónio	dendrite/axónio
 corola	pétala
 tijela	cóccix/ilíaco/sacro/ísquio/púbis/quadril
 cachorro-quente	salsicha
+barra_fixa	barra
 faringe	adenóide/língua/orofaringe
+barra_fixa	barra
 geleira	morena
 sintagma	modificador
 quadril	ísquio
@@ -922,7 +927,9 @@ pélvis	cóccix/ilíaco/sacro/ísquio/púbis/quadril
 nêspera	ameixa
 cona	uretra/grelo/lábio/clitóris/clítoris/berbigão
 manjericão	basílico
+encéfalo	tronco_cerebral
 terabyte	gigabyte
+encéfalo	tronco_cerebral
 terabyte	gigabyte
 braça	jarda
 cabo-verde	praia
@@ -983,7 +990,7 @@ gigabit	megabit
 mezzanino	camarote
 mb	kilobyte
 joule	erg
-olfato	narina/venta
+olfato	fossa_nasal/narina/venta
 sus	pé/porco
 sêmen	esperma/espermatozóide
 califórnia	sacramento/eureka
