@@ -1,0 +1,17 @@
+select ?au ?rel (group_concat(?bu; separator = "/") AS ?values)
+{
+ ?s1 wn30:containsWordSense ?ss1 .
+ ?s1 skos:inScheme <http://logics.emap.fgv.br/wn/> .
+ ?ss1 wn30:word/wn30:lexicalForm ?a .
+ ?s2 wn30:containsWordSense ?ss2 .
+ ?ss2 wn30:word/wn30:lexicalForm ?b .
+ ?s1 skos:inScheme <http://logics.emap.fgv.br/wn/> .
+ BIND(replace(str(?b)," ","_") AS ?bu)
+ BIND(replace(str(?a)," ","_") AS ?au)
+
+ ?s1en ?rel ?s2en .
+ ?s1en owl:sameAs ?s1 .
+ ?s2en owl:sameAs ?s2 .
+}
+group by ?au ?rel
+
