@@ -292,12 +292,12 @@ agredir	assaltar/atacar
 assaltar	atacar/agredir
 mergulhar	focar
 aguentar	sofrer/conter
-equilibrar	compensar/equilibrar-se
 proclamar	ler
+equilibrar	compensar/equilibrar-se
 mencionar	citar
 lidar	englobar/compreender/conter/abarcar/circundar/tratar
-advertir	alertar/desaconselhar/admoestar/prevenir/avisar
 agarrar	capturar/apanhar
+advertir	alertar/desaconselhar/admoestar/prevenir/avisar
 enganar	derrotar/bater/vencer/superar/ultrapassar
 derrubar	virar
 caminhar	deslocar/mover/ir/andar/passear
@@ -540,8 +540,8 @@ desbravar	capitanear
 incinerar	queimar/calcinar/arder
 decair	desintegrar
 desintegrar	dissolver/dividir/decair
-desvanecer	empurrar
 sugar	lactar/amamentar/aleitar
+desvanecer	empurrar
 retocar	tocar
 vasculhar	atravessar/raspar/roçar
 martelar	fincar
@@ -573,9 +573,9 @@ calcinar	queimar/incinerar
 raspar	vassourar/varrer/vasculhar
 aprazer	satisfazer
 vagar	perambular/vagabundear/vaguear/transmigrar/vadiar/errar/flutuar
-decepar	cortar/apartar-se/separar-se/dividir/apartar/separar/terminar
 urinar	mijar/defecar/cagar
 amassar	cultivar
+decepar	cortar/apartar-se/separar-se/dividir/apartar/separar/terminar
 desinteressar	retirar-se
 certificar-se	afiançar
 domar	domesticar
@@ -583,8 +583,8 @@ assegurar-se	afiançar
 golpear	atingir/bater/colidir
 cavalgar	viajar/andar/ir
 sublimar	purificar/distilar/destilar
-chupar	lactar/amamentar/aleitar
 pingar	gotejar
+chupar	lactar/amamentar/aleitar
 foder	beijar
 desobstruir	retirar/limpar
 embevecer	satisfazer
@@ -610,8 +610,8 @@ mijar	urinar/defecar/cagar
 engessar	aplicar/passar
 acercar	chegar
 enervar-se	atormentar/perturbar/aborrecer/amolar/agastar/vexar/molestar/incomodar/irritar/importunar
-revirar	rolar/girar/virar
 levitar	pairar
+revirar	rolar/girar/virar
 mumificar	ressecar
 olvidar	abandonar
 arrumar-se	vestir
@@ -623,8 +623,8 @@ colapsar	desmoronar/desabar/quebrar/ruir/desistir/abandonar
 reganhar	reconquistar/recuperar/encontrar/achar
 pretextar	atuar
 mugir	gritar/exclamar/berrar/bradar/chamar
-masturbar	masturbar-se/punheta
 praguejar	xingar/insultar/desbocar
+masturbar	masturbar-se/punheta
 fincar	martelar
 escovar	varrer
 comprender	obter/adquirir/atingir
@@ -671,8 +671,8 @@ frear	travar
 espionar	traçar/seguir
 desnudar-se	despojar/desnudar/despir
 xingar	praguejar/blasfemar/maldizer
-transar	beijar
 surrar	destruir
+transar	beijar
 punheta	masturbar
 desbocar	praguejar/blasfemar/maldizer
 esposar	casar

@@ -1,0 +1,7 @@
+língua	harmonioso/sonoro
+ironia	merecedor/digno
+comparativo	anterior/menos/melhor/pior
+idioma	harmonioso/sonoro
+dialecto	harmonioso/sonoro
+eufemismo	falecido/morto
+dialeto	harmonioso/sonoro
