@@ -580,8 +580,7 @@ inerente	implícito/intrínseco
 variável	ajustável/volúvel/versátil/regulável/volátil/instável/adaptável/vário
 confuso	nublado/desconcertante/vago/intrigante/aleatório
 isento	privilegiado/imune
-limpo	imaculado
-limpo	asseado
+limpo	imaculado/asseado
 desejável	preferível/elegível/invejável
 infeliz	abjeto/mendigo/lamentável/coitado/desastroso/lastimoso/azarado/triste/miserável/pobre/mendiga/sem-teto/sem-abrigo
 falecido	morto
@@ -1822,7 +1821,6 @@ prestável	serviçal/obsequioso/direito
 inapropriado	ruim/manco/incongruente/mole/aflito/deficiente/brando/estropiado/aleijado/fofo/flácido/perneta/coxo/frouxo
 online	corrente/actual/atual
 vernáculo	informal
-vernáculo	informal
 exasperante	intensificador
 morena	bronzeado/escuro
 regulável	variável/mutável
@@ -1865,8 +1863,8 @@ crescido	maturo/maduro
 indissolúvel	permanente/duradouro
 impo	impressionante
 extraconjugal	ilícito
-onipotente	poderoso
 ad-hoc	específico
+onipotente	poderoso
 mirabolante	insípido
 fofo	inapropriado/macio
 bestial	inumano/desumano
@@ -2259,7 +2257,6 @@ desalmado	inumano/desumano
 venial	perdoável
 desencorajante	desencorajador/desalentador
 roliço	gordo
-saltear	cozinhado
 saltear	cozinhado
 irritável	tenso
 tísico	doente/enfermo

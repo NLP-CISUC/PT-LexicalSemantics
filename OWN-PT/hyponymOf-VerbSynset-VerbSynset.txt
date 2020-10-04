@@ -2762,10 +2762,10 @@ afrancesar	tornar/alterar/revoltar-se/revoltar/mudar/modificar
 chilrear	emitir/soltar
 cadastrar	indicar/assinalar
 bulir	sacanear
-nódulo	fabricar/construir/confeccionar
 feder	cheirar/recender
 piar	cantar/emitir/soltar/chilrear/trinar/gorjear
 alucinar	aperceber-se/entender/aperceber/perceber
+nódulo	fabricar/construir/confeccionar
 degustar	provar/experimentar
 deglutir	tomar/consumir
 flanquear	jazer/andar/ir/caminhar/viajar

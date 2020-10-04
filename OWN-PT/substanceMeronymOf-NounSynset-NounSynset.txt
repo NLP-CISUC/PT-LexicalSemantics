@@ -1,7 +1,6 @@
 ser	tecido
 água	oxigênio/oxigénio/hidrogénio
 papel	celulose
-papel	celulose
 carta	celulose
 pena	melanina
 ar	nitrogénio/árgon/neón/azoto/oxigénio/oxigênio/néon
@@ -11,8 +10,6 @@ cor	pigmento
 praia	areia
 pintura	pigmento
 concreto	cimento/areia
-concreto	cimento/areia
-sangue	soro
 sangue	soro
 pedra	mineral
 vento	ar
@@ -25,13 +22,11 @@ costa	areia
 petróleo	carbono
 pasta	farinha
 pele	melanina
-pele	melanina
 areia	silício/silicone
 folha	assadeira
 oceano	água
 leite	proteína
 corda	maconha/cânhamo/juta
-tabaco	nicotina
 tabaco	nicotina
 pão	farinha
 ovo	proteína
@@ -74,7 +69,6 @@ suíno	banha
 cal	cálcio
 coca	neve/cocaína
 baseado	maconha/canábis/canabis/erva
-baseado	maconha/canábis/canabis/erva
 pastel	farinha
 calcário	carbono/cálcio
 telha	argila
@@ -100,10 +94,8 @@ herbicida	mata-ratos/arsénio/arsénico
 estrume	salitre
 carapaça	casca
 nuvens	vapor
-nuvens	vapor
 celulóide	cânfora
 mandioca	tapioca
-giz	cré
 giz	cré
 transpiração	água
 quartzo	silício/silicone/sílica
@@ -116,7 +108,6 @@ plumagem	melanina
 abeto	pinheiro
 tweed	lanígero/lã
 antimatéria	antipartícula
-absinto	erva-doce/anis
 absinto	erva-doce/anis
 sulfureto	enxofre
 almofariz	cimento
@@ -140,7 +131,6 @@ dolomita	magnésio
 sus	banha
 cordite	nitroglicerina
 polenta	fubá
-hidromel	mel
 hidromel	mel
 cassiterita	estanho
 formigão	cimento/areia

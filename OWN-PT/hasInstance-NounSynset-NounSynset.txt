@@ -5,7 +5,6 @@ cidade	huambo/charleston/genebra/hamburg/gante/buffalo/chester/leitura/split/ast
 homem	sem/caim/sete
 região	arcádia/gália/trácia/caribe/norte/suméria/tule/noroeste/bengala/boémia/labrador/levante/sul/sérvia/sudeste/caxemira/fenícia/médio-oriente/macedónia/sudoeste/lusitânia/extremo-oriente
 capital	camelot
-capital	camelot
 mulher	rebeca
 livro	utopia
 forte	bastilha
@@ -16,13 +15,11 @@ palavra	messias/cristo
 época	califado/barroco/terror/iluminismo/renascimento
 século	califado
 comunidade	zulu/xhosa
-comunidade	zulu/xhosa
 terra	timor-leste/acre/cabo-verde/malta/haiti/israel/maurício/indonésia/domingos/granada/cuba/sabá/américa
 território	acre/sabá
 parlamentar	robert
 município	huambo/charleston/genebra/hamburg/gante/buffalo/chester/leitura/split/astracã/argos/goma/veneza/fez/limeira/rosário/perm/milão/sucre/lyon/limerick/lobito/sarajevo/cremona/tiro/indiana/califórnia/nice/braga/cantão/zurique/setúbal/ufa/porto/bordeaux/luxor/tanger/toyota/recife/colónia/tróia/rio/pisa/granada/vaticano/toledo/barcelona/sevilha/saragoça/bari/medina/valência/manchester/córdoba/winchester/beira
 idade	califado/barroco/terror/iluminismo/renascimento
-personagem	fausto/drácula/pateta/iago/cinderela/pierrot/genebra/protagonista
 personagem	fausto/drácula/pateta/iago/cinderela/pierrot/genebra/protagonista
 adversário	anticristo
 rio	madeira/congo/jordão/sena/tigre/amarelo/escalda
@@ -38,13 +35,11 @@ escritor	marisma/saki/ourives
 etapa	mesolítico/neolítico/paleolítico
 estrela	sol
 porto	lobito/limerick/assunção/hamburg/tiro/barcelona/sevilha/bordeaux/charleston/cairo/setúbal/recife/gante/mascate/acre/cantão/beira
-porto	lobito/limerick/assunção/hamburg/tiro/barcelona/sevilha/bordeaux/charleston/cairo/setúbal/recife/gante/mascate/acre/cantão/beira
 aldeia	jericó/belém/salina/frederico/acre/eureka/bath
 cimeira	olimpo
 província	cabo/bósnia/goa/bornéu/guzerate/tabasco
 rei	átila/pepino
 solo	américa
-continente	antárctica/áfrica/europa
 continente	antárctica/áfrica/europa
 nação	timor-leste/cabo-verde/malta/haiti/israel/maurício/indonésia/domingos/granada/cuba
 poeta	marcial/pope
@@ -77,7 +72,6 @@ relevo	américa
 deus	jeová/senhor/todo-poderoso
 esposa	rebeca
 guitarrista	king
-guitarrista	king
 ditador	franco/hitler
 hino	dies_irae
 península	catar/coréia/coreia/arábia
@@ -85,9 +79,7 @@ filósofo	epiteto
 oração	ave-maria/litania
 vocalista	madonna/king
 santuário	caaba
-navegador	mosaic
 navegador	mosaic/cinza
-dramaturgo	vega
 dramaturgo	vega
 genocídio	holocausto
 vulcão	vesúvio/pasto
@@ -107,7 +99,6 @@ hebraico	lot/cristo
 teólogo	tertuliano/ário
 aeronave	zepelim
 cimo	olimpo
-inventor	zeppelin/sino
 inventor	zeppelin/sino
 barranco	palatino/gólgota/calvário/areópago
 macho	sem/caim/sete
@@ -129,7 +120,6 @@ descobridor	zeppelin/sino
 bíblia	vulgata
 baluarte	kremlin
 prece	ave-maria/litania
-oratório	messias
 oratório	messias
 hebreu	lot/cristo
 possessão	macau

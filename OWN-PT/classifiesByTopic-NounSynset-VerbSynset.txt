@@ -15,7 +15,6 @@ arte	repintar/ilustrar/esculpir/entalhar/sombrear/adornar/posar/delinear/figurar
 crime	pagar/extorquir/traficar/chantagear/sequestrar/raptar/roubar/saltear/contrabandear/subornar/corromper/plagiar/piratear/resgatar/remir
 indústria	privatizar
 justiça	prejudicar
-justiça	prejudicar
 igreja	canonizar/exorcizar/crismar/redimir
 droga	potencializar
 avião	pilotar
@@ -32,7 +31,6 @@ lógica	negar/extrapolar/contradizer/pressupor/quantificar/induzir/deduzir/depre
 exército	aquartelar/separar/desanexar/desordenar
 medicamento	potencializar
 moda	estilizar
-moda	estilizar
 poesia	versar/metrificar/versejar/rimar
 fé	reencarnar/adorar/idolatrar/crer/acreditar
 caça	armadilhar
@@ -41,7 +39,6 @@ religião	canonizar/reencarnar/exorcizar/crismar/redimir/adorar/idolatrar/crer/a
 gravação	apagar/registar/deletar/registrar
 leilão	oferecer
 condução	parar/estacionar/conduzir/dirigir/atravessar/travar/frear
-medicina	apalpar/administrar/dispensar/remediar/vacinar/amputar/medicar/explorar/injetar/enfaixar/diagnosticar/operar/sanar/sarar/curar/dopar/narcotizar/drogar/digitalizar
 medicina	apalpar/administrar/dispensar/remediar/vacinar/amputar/medicar/explorar/injetar/enfaixar/diagnosticar/operar/sanar/sarar/curar/dopar/narcotizar/drogar/digitalizar
 planta	domar/cultivar/domesticar/acrescentar/propagar
 cozinha	clarificar/fornear/apimentar/diminuir/preparar/estufar/empanar/bater/ferver/enriquecer/gratinar/refogar/temperar/salgar/improvisar/marinar/alcoolizar/envenenar/enfarinhar/abrasar/acastanhar/cozer/clarear/assar/fortificar/dourar/torrar/cozinhar/tostar/enlatar/reduzir/condimentar/grelhar/frigir/fritar
@@ -54,10 +51,8 @@ râguebi	canelar
 artesanato	entrançar/tricotar/esmaltar/encrustar/trançar/tecer/urdir
 aviação	embarcar/aterrar/cruzar/sobrevoar/atravessar/pilotar/voar/planar
 óptica	refletir
-óptica	refletir
 baile	coreografar/dançar
 xadrez	rocar/abrir
-física	transformar/polarizar/desmagnetizar/desintegrar/eletrificar/eletrizar/decair/dividir/liquidificar/liquefazer/cristalizar/gelar/congelar/solidificar
 física	transformar/polarizar/desmagnetizar/desintegrar/eletrificar/eletrizar/decair/dividir/liquidificar/liquefazer/cristalizar/gelar/congelar/solidificar
 remédio	potencializar/apalpar/administrar/dispensar/remediar/vacinar/amputar/medicar/explorar/injetar/enfaixar/diagnosticar/operar/sanar/sarar/curar/dopar/narcotizar/drogar/digitalizar
 bicho	pastar/desossar/domar/domesticar
@@ -75,7 +70,6 @@ electrónica	dopar
 química	misturar/livrar/quebrar/eterizar/saturar/reagir/sublimar/dissociar/limpar/sequestrar/aliar/acidificar/desintoxicar/inibir/desmineralizar/incluir/rarefazer/suspender/adsorver/dividir/libertar/debilitar/soltar/apurar/converter/tornar-se/extrair/oxidar/destilar/distilar/purificar/desoxidar/isolar/ligar
 hasta	oferecer
 astronomia	pôr/descer/ascender/subir
-astronomia	pôr/descer/ascender/subir
 aeronave	pilotar
 astro	brilhar
 geometria	transladar/construir
@@ -83,9 +77,7 @@ cultivo	fazer/produzir/gradar/amanhar/plantar/cultivar/semear/espalhar/estercar/
 flora	domar/cultivar/domesticar/acrescentar/propagar
 basebol	roubar/bater/apanhar/capturar
 dramaturgia	coadjuvar/estrelar/entrar/protagonizar/actuar/atuar/fazer/representar
-dramaturgia	coadjuvar/estrelar/entrar/protagonizar/actuar/atuar/fazer/representar
 psicanálise	aliviar
-gramática	decompor/qualificar/analisar/modificar
 gramática	decompor/qualificar/analisar/modificar
 psiquiatria	analisar/confabular/suprimir/reprimir
 pecuária	arrear/unir/jungir/servir/cangar/atrelar/fazer/produzir/gradar/amanhar/plantar/cultivar/semear/espalhar/estercar/arar/lavrar
@@ -95,12 +87,9 @@ radiodifusão	transmitir
 geologia	estratificar
 tv	televisionar
 metalurgia	aviltar/rebaixar/aliar
-metalurgia	aviltar/rebaixar/aliar
 culinária	clarificar/fornear/apimentar/diminuir/preparar/estufar/empanar/bater/ferver/enriquecer/gratinar/refogar/temperar/salgar/improvisar/marinar/alcoolizar/envenenar/enfarinhar/abrasar/acastanhar/cozer/clarear/assar/fortificar/dourar/torrar/cozinhar/tostar/enlatar/reduzir/condimentar/grelhar/frigir/fritar
 pilotagem	transportar/velejar
 acústica	refletir
-acústica	refletir
-aritmética	fazer/multiplicar/deduzir/subtrair/dividir/subestimar/recalcular/elevar/cubar/adicionar/somar
 aritmética	fazer/multiplicar/deduzir/subtrair/dividir/subestimar/recalcular/elevar/cubar/adicionar/somar
 equitação	trotar/galopar
 narcótico	potencializar
@@ -108,7 +97,6 @@ telefonia	telefonar/discar/chamar/ligar
 alvenaria	engessar
 ruminante	ruminar/pré-digerir
 fisiologia	facilitar/irritar
-fisiologia	irritar
 terraplenagem	explorar/escavar/minar/minerar/retalhar
 linguística	reduplicar
 vinificação	vinificar
@@ -118,10 +106,8 @@ mercantilismo	traficar/realizar/tramitar/transacionar/exportar/intermediar/contr
 horticultura	ajardinar/jardinar
 comercialismo	traficar/realizar/tramitar/transacionar/exportar/intermediar/contrabandear/revender/fazer/empenhar/vender/licitar/leiloar/comprar/atingir/adquirir/obter/importar/abastecer/estocar/armazenar/saldar/franquiar/privilegiar/comercializar
 mineração	explorar/escavar/minar/minerar/retalhar
-mineração	explorar/escavar/minar/minerar/retalhar
 arrematação	oferecer
 aeroplano	pilotar
-fonética	assimilar/mudar/trocar
 fonética	assimilar/mudar/trocar
 ficção-científica	teleportar/teletransportar
 psicopatologia	analisar/confabular/suprimir/reprimir

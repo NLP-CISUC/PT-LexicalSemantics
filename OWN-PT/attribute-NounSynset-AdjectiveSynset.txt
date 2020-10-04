@@ -28,12 +28,9 @@ função	funcional
 dificuldade	árduo/difícil/foda/intrincado
 responsabilidade	responsável
 curso	extrovertido
-norte	setentrional/boreal
 norte	nórdico/nortista/setentrional/boreal
-realidade	irreal/existente
 realidade	irreal/existente/verdadeiro/efectivo/real/efetivo
 liberdade	livre/independente/dependente
-existência	existente
 existência	existente
 atitude	vertical
 diferença	diferente
@@ -55,7 +52,6 @@ independência	independente/dependente
 medo	destemido/receoso/alarmante/inquietante
 sul	sulista/meridional
 distância	vizinho/perto/distante/longe/longínquo/próximo
-distância	vizinho/perto/distante/longe/longínquo/próximo
 certeza	certo/inseguro/incerto
 êxito	próspero/bem-sucedido
 personalidade	individual
@@ -69,14 +65,12 @@ moral	imoral/puro
 corrupção	corrupto
 preparação	preparado/pronto/disposto/prestes
 orientação	inclinado/perpendicular/vertical/horizontal
-orientação	inclinado/perpendicular/vertical/horizontal
 rigor	preciso/exato/acurado/justo/exacto
 lógica	lógico
 sexo	hetero/sexual/macho/heterossexual/varão/homo/gay/homossexual/assexual
 belo	bonito/formoso/lindo/feio
 semelhança	similar/diferente/parecido/semelhante/mesmo
 eficácia	vão/efetivo/inútil/eficiente/eficaz/potente/impotente/ineficaz
-eficácia	eficiente/eficaz
 alma	vívido
 animação	vivo/morto
 limpeza	sujo/limpo
@@ -103,7 +97,6 @@ significado	significativo/significante/importante
 sensibilidade	sensível
 transparência	confuso
 beleza	bonito/formoso/lindo/belo/feio
-temperatura	fresco/quente/frio/caloroso
 temperatura	fresco/quente/frio/caloroso
 talento	incapaz/capaz
 faculdade	capaz
@@ -140,7 +133,6 @@ complexidade	complexo/intrincado/simples/singelo
 conforto	confortável/incômodo/incómodo/desconfortável
 maturidade	maduro/maturo/imaturo
 criatividade	original/criativo/criador
-criatividade	original/criativo/criador
 modernidade	contemporâneo/moderno
 normalidade	anormal/normal
 grandeza	mensurável
@@ -172,7 +164,6 @@ humidade	húmido/molhado/seco
 ousadia	audacioso/audaz/bravo/destemido/corajoso
 pureza	casta/casto
 pudor	modesto
-honestidade	corrupto/correto
 honestidade	imoral/corrupto/desonroso/correto/honrado
 lealdade	infiel/fiel/leal
 temor	destemido/receoso
@@ -202,15 +193,12 @@ exactidão	preciso/exato/acurado/justo/exacto
 plenitude	exaustivo/abrangente/amplo/extenso/incompleto/completo/integral/vazio/cheio/pleno/lotado
 moralidade	moral/imoral/puro
 maldade	maléfico/mau/má/ruim/malvado
-maldade	maléfico/mau/má/ruim/malvado
 luminosidade	radiante/brilhante/luminoso/claro/iluminado/escuro
 chance	possível/impossível
 status	dominante/subordinado
 susceptibilidade	suscetível
 fertilidade	fecundo/fértil/infértil/estéril/improdutivo
-fertilidade	fecundo/fértil/infértil/estéril/improdutivo
 tédio	desinteressante/monótono/chato
-oriente	oriental
 oriente	oriental
 audácia	audacioso/audaz/bravo/destemido/corajoso
 cobardia	covardemente/covarde/cobarde
@@ -235,7 +223,6 @@ gula	comilão/guloso
 levante	oriental
 castidade	casta/casto
 civilidade	grosseiro/cortês/polido/educado
-magnetismo	magnético/atrativo
 magnetismo	magnético/atrativo
 alteridade	outro
 admissibilidade	inadmissível/admissível/lícito/aceitável
