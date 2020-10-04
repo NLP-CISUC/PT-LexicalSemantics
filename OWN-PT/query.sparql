@@ -14,4 +14,3 @@ select ?au ?rel (group_concat(?bu; separator = "/") AS ?values)
  ?s2en owl:sameAs ?s2 .
 }
 group by ?au ?rel
-

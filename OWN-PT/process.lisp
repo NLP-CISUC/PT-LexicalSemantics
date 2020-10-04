@@ -1,7 +1,6 @@
 
 (ql:quickload '(:cl-ppcre :yason))
 
-
 (defun filename (url)
   (multiple-value-bind (a b)
       (cl-ppcre:scan-to-strings "<https://w3id.org/own-pt/wn30/schema/([a-zA-Z]+)>" url)
@@ -24,7 +23,6 @@
 	      (push (cons target (format nil "~{~a~^/~}" words))
 		    (gethash rel tb))))))))
 
-
 (defun collect-stats (fn)
   (let ((tb (make-hash-table :test #'equal)))
     (with-open-file (in fn)
@@ -43,7 +41,5 @@
 		   (if (> (gethash (car v) stats 0) 1)
 		       (format out "~a~a~a~%" (car v) #\Tab (cdr v))))))
 	     (collect-wn #P"query.json" stats))))
-
-
 
 ;; sbcl --load process.lisp --eval '(save)' --eval '(sb-ext:quit)'

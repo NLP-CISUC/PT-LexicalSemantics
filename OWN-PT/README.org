@@ -1,7 +1,5 @@
 
-The following file:query.sparql was executed in the endpoint:
-
-http://wnpt.sl.res.ibm.com:10035/#/repositories/wn30/query/s/bats
+The query file:query.sparql can be execute with:
 
 #+BEGIN_SRC bash
 curl -H "Accept: application/json" -H "User-agent: sparql-client/0.1" \
