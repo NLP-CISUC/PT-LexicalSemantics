@@ -1,0 +1,9 @@
+droga	oralmente
+medicamento	oralmente
+poesia	docemente
+verso	docemente
+remédio	oralmente
+anatomia	lateralmente
+narcótico	oralmente
+entorpecente	oralmente
+sonífero	oralmente

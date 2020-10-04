@@ -85,8 +85,8 @@ filósofo	epiteto
 oração	ave-maria/litania
 vocalista	madonna/king
 santuário	caaba
-navegador	mosaic/cinza
 navegador	mosaic
+navegador	mosaic/cinza
 dramaturgo	vega
 dramaturgo	vega
 genocídio	holocausto

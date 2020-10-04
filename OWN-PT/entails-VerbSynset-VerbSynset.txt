@@ -166,8 +166,8 @@ incendiar	acender
 diferenciar	comparar
 precipitar	condensar/destilar
 solucionar	raciocinar
-congelar	solidificar
 povoar	migrar/emigrar
+congelar	solidificar
 seduzir	transar/trepar/meter/copular/montar/foder/comer
 absolver	balizar/julgar/avaliar
 vetar	votar
@@ -293,8 +293,8 @@ levitar	ascender/subir
 desempoeirar	remover/retirar/tirar
 alisar	esfregar
 lacrar	prender/fixar
-masturbar	afagar/acariciar
 esmaltar	assar
+masturbar	afagar/acariciar
 tricotar	bordar
 masturbar-se	afagar/acariciar
 amuar	ressentir
@@ -310,13 +310,13 @@ empalar	furar/perfurar
 chancelar	prender/fixar
 corresponder-se	redigir/escrever
 metabolizar	digerir
+circuncidar	dividir/cortar
 desmamar	aleitar/amamentar/lactar
 drapejar	dobrar
-circuncidar	dividir/cortar
 minerar	cavar
 drapear	dobrar
-mapear	quantificar/mensurar
 descasar	esposar/juntar/casar/casar-se
+mapear	quantificar/mensurar
 lustrar	esfregar
 ensaboar	lavar-se/limpar
 antipatizar	desaprovar

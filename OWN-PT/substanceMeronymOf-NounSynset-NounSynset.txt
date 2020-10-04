@@ -89,8 +89,8 @@ argila	silício/silicone
 olaria	argila
 coco	côco/copra
 lona	cânhamo/maconha
-silicone	silício
 pimento	páprica
+silicone	silício
 pluma	melanina
 latão	cobre
 toa	maconha/cânhamo/juta
@@ -134,8 +134,8 @@ côco	copra
 hulha	carbono
 tapioca	macaxeira/mandioca
 zumbi	rum
-thread	celulose
 pastis	erva-doce/anis
+thread	celulose
 dolomita	magnésio
 sus	banha
 cordite	nitroglicerina
@@ -143,11 +143,11 @@ polenta	fubá
 hidromel	mel
 hidromel	mel
 cassiterita	estanho
+formigão	cimento/areia
+berilo	berílio
+malaquita	cobre
 goma-laca	laca
-cutícula	casca
 zircão	zircónio
+cutícula	casca
 duralumínio	alumínio
 tijolo_cru	adobe
-formigão	cimento/areia
-malaquita	cobre
-berilo	berílio

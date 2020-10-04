@@ -180,15 +180,15 @@ espairecer	descontrair/relaxar
 encolerizar	enraivecer/irritar
 enrijecer	endurecer
 alentar	esperar/aguardar/esperançar
-machucar	sofrer/doer
 extender	esticar
+machucar	sofrer/doer
 resfriar	esfriar/refrescar/arrefecer/esfriar-se
 superaquecer	sobreaquecer
 esquentar	aquecer
 madurar	amadurecer
+esporear	atuar/agir/fazer
 efetuar	ocorrer/passar/suceder/acontecer
 activar	ocorrer/passar/suceder/acontecer
-esporear	atuar/agir/fazer
 irar	enraivecer/irritar
 exaurir-se	fatigar
 reptar	atuar/agir/fazer

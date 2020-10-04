@@ -1,0 +1,10 @@
+menos	comparativo
+anterior	comparativo
+melhor	comparativo
+morto	eufemismo
+sonoro	dialeto/língua/idioma/dialecto
+digno	ironia
+pior	comparativo
+falecido	eufemismo
+harmonioso	dialeto/língua/idioma/dialecto
+merecedor	ironia
