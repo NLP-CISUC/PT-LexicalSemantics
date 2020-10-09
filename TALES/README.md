@@ -9,7 +9,7 @@ It is organised similarly to the Bigger Analogy Test Set (BATS, http://vecto.spa
 Instances of lexical-semantic relations were acquired from a large Portuguese LKB (https://github.com/NLP-CISUC/PT-LexicalSemantics/tree/master/Relations).
 
 # Cite
-A paper on the creation of TALES and some experiments with this test was presented at the Proceedings of the ECAI 2020 <a href="https://hi4nlp.pages.citius.usc.es/">Workshop on Hybrid Intelligence for Natural Language Processing Tasks</a> and published by <a href="http://ceur-ws.org/Vol-2693/paper6.pdf">CEUR-WS</a>. See bibtex:
+A paper on the creation of TALES and some experiments with this test was presented at the Proceedings of the ECAI 2020 <a href="https://hi4nlp.pages.citius.usc.es/">Workshop on Hybrid Intelligence for Natural Language Processing Tasks</a>, where it received the Best Paper award, and published by <a href="http://ceur-ws.org/Vol-2693/paper6.pdf">CEUR-WS</a>. See bibtex:
 
 <pre>
 @inproceedings{goncalo-oliveira_etal:hi4nlp2020,
