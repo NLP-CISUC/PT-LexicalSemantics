@@ -1,0 +1,8 @@
+terra	planeta_telúrico
+levante	asia/ásia
+europa	continente/continentes/continente
+mundo	planeta_telúrico
+oriente	asia/ásia/asia/ásia
+sol	estrela/estrela
+nascente	asia/ásia
+marte	planeta_telúrico

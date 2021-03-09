@@ -1,0 +1,6 @@
+superior	inferior
+formal	informal
+informal	formal
+artificial	natural
+vertical	horizontal
+horizontal	vertical

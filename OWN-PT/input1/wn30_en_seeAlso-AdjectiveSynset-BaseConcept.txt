@@ -1,0 +1,14 @@
+primeiro	original
+alto	grande
+forte	poderoso
+efetivo	poderoso
+primário	original
+profundo	intenso/intensivo
+original	original
+considerável	grande
+criador	original
+eficiente	poderoso
+substancial	material
+eficaz	poderoso
+criativo	original
+potente	poderoso

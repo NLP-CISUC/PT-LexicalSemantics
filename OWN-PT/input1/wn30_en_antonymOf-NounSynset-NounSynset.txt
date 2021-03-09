@@ -1,0 +1,6 @@
+flora	fauna
+singular	plural
+software	hardware
+fauna	flora
+plural	singular
+similitude	dissimilitude

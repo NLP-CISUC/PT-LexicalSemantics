@@ -1,0 +1,9 @@
+química	reversivelmente
+esporte	em_casa
+música	docemente/prestissimo/acelerando/fugalmente
+droga	de_viva_voz/oralmente
+física	reversivelmente/reversivelmente
+medicamento	de_viva_voz/oralmente
+remédio	de_viva_voz/oralmente
+biologia	simbioticamente
+entorpecente	de_viva_voz/oralmente

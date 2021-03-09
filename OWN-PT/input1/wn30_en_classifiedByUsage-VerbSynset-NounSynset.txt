@@ -1,0 +1,5 @@
+acontecer	coloquialismo
+compreender	coloquialismo
+perceber	coloquialismo
+sacar	coloquialismo
+embalar	palavra_entrecruzada/palavra-valise

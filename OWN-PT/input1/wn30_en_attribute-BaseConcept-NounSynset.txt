@@ -1,0 +1,6 @@
+grande	magnitude/dimensão/tamanho/medida
+pequeno	magnitude/dimensão/tamanho/medida
+intenso	grau
+original	originalidade
+poderoso	poder
+intensivo	grau

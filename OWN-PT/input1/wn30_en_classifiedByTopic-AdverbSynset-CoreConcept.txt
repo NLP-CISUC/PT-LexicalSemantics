@@ -1,0 +1,2 @@
+doce	poema/verso/poesia
+oralmente	medicamento/produtos_farmacêuticos/remédio/droga/entorpecente

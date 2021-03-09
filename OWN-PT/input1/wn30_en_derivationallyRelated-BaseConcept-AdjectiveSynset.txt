@@ -1,0 +1,3 @@
+central	central
+face	facial/facial
+flora	floral

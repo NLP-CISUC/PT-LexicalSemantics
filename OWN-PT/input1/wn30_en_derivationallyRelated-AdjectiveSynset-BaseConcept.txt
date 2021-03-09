@@ -1,0 +1,3 @@
+central	central
+motor	motor
+floral	flora

@@ -1,0 +1,6 @@
+mineral	mineral
+pastoral	pastor
+longitudinal	longitude
+vertebral	vertebra
+vaginal	vagina
+floral	flora

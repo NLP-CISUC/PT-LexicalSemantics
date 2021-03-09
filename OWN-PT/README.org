@@ -9,10 +9,22 @@ curl -H "Accept: application/json" -H "User-agent: sparql-client/0.1" \
 
 Filtering the outputs using the frequence of CETEMPublico
 (https://www.linguateca.pt/acesso/ordenador.php). Download the file
-from Linguateca and save it in `stats/lemas.cetempublico.tsv` file and
+from Linguateca and save it in `stats/lemas-cetempublico.tsv` file and
 run:
 
 Now execute the script:
 
 : sbcl --load process.lisp --eval '(save)' --eval '(sb-ext:quit)'
 
+
+The code in `stats/convert.py` was not used. The initial idea was to
+ingest the frequencies in the triplestore for making all the logic in
+the lisp code part of the query.
+
+
+consultas 
+
+ar@leme results % for f in *.json ; do jq '.[] | .details | .[] | .predictions | map(select(.hit)) | .[] | .answer' $f ; done | sort | uniq -c | sort -nr | wc -l
+    1207
+ar@leme results % for f in *.json ; do jq '.[] | .details | .[] | .predictions | map(select(.hit)) | .[] | .answer' $f ; done | wc -l
+    2820

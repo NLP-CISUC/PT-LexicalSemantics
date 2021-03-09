@@ -1,0 +1,5 @@
+região	estados_confederados_da_américa
+continente	europa/europa
+estrela	sol/sol
+ásia	levante/oriente/nascente/oriente/do_leste
+asia	levante/oriente/nascente/oriente/do_leste

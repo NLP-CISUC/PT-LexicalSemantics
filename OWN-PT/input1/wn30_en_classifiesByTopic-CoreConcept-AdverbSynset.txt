@@ -1,0 +1,12 @@
+química	reversivelmente
+esporte	em_casa
+música	docemente/prestissimo/acelerando/fugalmente
+poesia	doce/docemente
+droga	de_viva_voz/oralmente
+poema	doce/docemente
+física	reversivelmente/reversivelmente
+medicamento	de_viva_voz/oralmente
+remédio	de_viva_voz/oralmente
+verso	doce/docemente
+entorpecente	de_viva_voz/oralmente
+gramática	atributivamente

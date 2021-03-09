@@ -1,0 +1,6 @@
+dólar	eeuu/eua/estados_unidos_da_américa/américa/estados_unidos/e.u.a.
+parlamento	reino-unido/grã-bretanha/reino_unido_da_grã-bretanha_e_irlanda_do_norte/reino_unido
+bar	reino-unido/grã-bretanha/reino_unido_da_grã-bretanha_e_irlanda_do_norte/reino_unido
+alfândega	eeuu/eua/estados_unidos_da_américa/américa/estados_unidos/e.u.a./reino-unido/grã-bretanha/reino_unido_da_grã-bretanha_e_irlanda_do_norte/reino_unido
+biscoito	reino-unido/grã-bretanha/reino_unido_da_grã-bretanha_e_irlanda_do_norte/reino_unido
+botequim	reino-unido/grã-bretanha/reino_unido_da_grã-bretanha_e_irlanda_do_norte/reino_unido

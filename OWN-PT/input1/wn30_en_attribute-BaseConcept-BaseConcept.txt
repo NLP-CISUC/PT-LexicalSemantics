@@ -1,0 +1,11 @@
+grande	magnitude/dimensão/tamanho/medida
+poder	poderoso
+medida	pequeno/grande
+pequeno	magnitude/dimensão/tamanho/medida
+intenso	grau
+grau	intenso/intensivo
+poderoso	poder
+dimensão	pequeno/grande
+intensivo	grau
+tamanho	pequeno/grande
+magnitude	pequeno/grande

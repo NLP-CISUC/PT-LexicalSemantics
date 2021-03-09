@@ -1,0 +1,7 @@
+poder	poderoso
+medida	pequeno/grande
+grau	intenso/intensivo
+dimensão	pequeno/grande
+tamanho	pequeno/grande
+magnitude	pequeno/grande
+originalidade	original

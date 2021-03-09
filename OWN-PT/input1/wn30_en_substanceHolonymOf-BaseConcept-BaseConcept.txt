@@ -1,0 +1,12 @@
+água	massa_de_água/água/corpo_de_água
+ferro	aço/aço
+mineral	pedra/rocha
+tecido	ser/organismo/ser/organismo
+tecidos	ser/organismo
+vidro	vidro
+minérios	pedra/rocha
+osso	corno/chifre
+enxofre	sulfeto/sulfureto/sulfetos
+proteínas	leite/leite/ovo/ovo/vianda/carne/vianda/carne
+proteína	leite/ovo/vianda/carne
+pigmentos	pigmento/pintura/cor/tinta

@@ -1,0 +1,9 @@
+água	água_com_gelo/gelo/sudorese/transpiração/perspiração/suor/lágrima
+ferro	aço/aço
+madeira	madeira/viga/trave
+areia	formigão/betão/concreto/praia
+osso	corno/chifre
+carbono	carvão_mineral/carvão/hulha
+proteínas	leite/leite/ovo/ovo/vianda/carne/vianda/carne
+proteína	leite/ovo/vianda/carne
+pigmentos	pigmento/pintura/cor/tinta

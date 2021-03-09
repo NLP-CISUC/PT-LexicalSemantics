@@ -1,0 +1,13 @@
+água	água_com_gelo/gelo/sudorese/transpiração/perspiração/suor/lágrima
+ferro	aço/aço
+ar	vento
+madeira	madeira/viga/trave
+areia	formigão/betão/concreto/praia
+farinha	massa_de_pão/pasta/massa/pão
+osso	corno/chifre
+carbono	carvão_mineral/carvão/hulha
+oxigênio	água/ar
+argila	cerâmica/olaria/tijolo
+gelo	glaciares/glaciar/glaciares/geleira
+proteínas	leite/leite/ovo/ovo/vianda/carne/vianda/carne
+proteína	leite/ovo/vianda/carne

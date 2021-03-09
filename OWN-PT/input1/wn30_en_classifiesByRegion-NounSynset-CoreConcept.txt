@@ -1,0 +1,5 @@
+américa	polegada/alfândega/dólar
+eua	polegada/alfândega/dólar
+áfrica	safari/safári
+grã-bretanha	polegada/alfândega/parlamento/bolacha/biscoito/cookie/bar/boteco/taberna/pub/botequim/rúgbi/râguebi
+africa	safari/safári

@@ -1,0 +1,2 @@
+terra	planeta_telúrico
+mundo	planeta_telúrico

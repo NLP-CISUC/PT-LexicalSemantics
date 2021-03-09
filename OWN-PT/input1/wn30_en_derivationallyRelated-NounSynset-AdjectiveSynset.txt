@@ -1,0 +1,7 @@
+central	central
+face	facial/facial
+pastor	pastoral
+pastoral	pastoral
+flora	floral
+inferno	infernal
+perpendicular	perpendicular

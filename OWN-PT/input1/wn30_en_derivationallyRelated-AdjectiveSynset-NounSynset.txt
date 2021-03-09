@@ -1,0 +1,11 @@
+central	central
+pastoral	pastor/pastoral
+motor	motor
+gay	gay
+coral	coral
+perpendicular	perpendicular/perpendicular
+longitudinal	longitude
+vertebral	vertebra
+vaginal	vagina
+floral	flora
+diagonal	diagonal

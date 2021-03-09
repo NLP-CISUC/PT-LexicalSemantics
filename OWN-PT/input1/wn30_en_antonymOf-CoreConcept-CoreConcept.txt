@@ -1,0 +1,3 @@
+software	hardware
+vertical	horizontal
+horizontal	vertical
