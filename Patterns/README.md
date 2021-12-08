@@ -1,3 +1,5 @@
+# Patterns for lexico-semantic relations
+
 Patterns indicating lexico-semantic relations in Portuguese, to be used in BERT (Masked Language Modelling) or GPT (Text Completion) models for discovering related arguments:
 
 * Relations names are those covered in TALES.
