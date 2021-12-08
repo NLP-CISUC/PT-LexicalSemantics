@@ -1,4 +1,3 @@
-/opt/homebrew/Caskroom/miniforge/base/envs/lexical_relations/bin/python /Users/hugo/python/lexical_relations/export_patterns.py
 HIPERONIMO_4_2_100_50_concreto
 	o [MASK] é um <r>
 	o [MASK] é uma <r>
