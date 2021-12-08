@@ -1,0 +1,74 @@
+HIPERONIMO_4_2_100_50_concreto
+	se <r> é hiperónimo de
+	<r>, como o
+	<r>, como a
+HIPERONIMO_4_2_100_50_abstrato
+	se <r> é hiperónimo de
+	<r>, como o
+	<r>, como a
+HIPERONIMO_inv_4_2_100_50_concreto
+	<r> é um
+	<r> é uma
+	<r> é um tipo de
+	<r> ou outro
+	<r> ou outra
+	<r> é uma espécie de
+	<r> é uma classe de
+	<r> é hipónimo de
+HIPERONIMO_inv_4_2_100_50_abstrato
+	<r> é um
+	<r> é uma
+	<r> é um tipo de
+	<r> ou outro
+	<r> ou outra
+	<r> é uma espécie de
+	<r> é uma classe de
+	<r> é hipónimo de
+HIPERONIMO_ACCAO_3_2_100_50
+	<r> a
+HIPERONIMO_ACCAO_inv_3_2_100_50
+	se <r> é uma forma de
+	se <r> é uma maneira de
+	<r> é como
+PARTE_2_2_100_50
+	o <r> do
+	o <r> da
+	a <r> do
+	a <r> da
+	um <r> faz parte de
+	uma <r> faz parte de
+	um <r> é uma parte de
+	uma <r> é uma parte de
+PARTE_inv_2_2_100_50
+	um <r> tem
+	uma <r> tem
+	um <r> possui
+	uma <r> possui
+FINALIDADE_3_2_100_50
+	a <r> com
+FINALIDADE_inv_3_2_100_50
+	um <r> serve para
+	uma <r> serve para
+	um <r> para
+	uma <r> para
+	um <r> é usado para
+	uma <r> é usada para
+ANTONIMO_ADJ_5_2_100_50
+	<r> é o contrário de
+	<r> é antónimo de
+	ou <r> ou
+SINONIMO_N_8_2_100_50
+	<r> é o mesmo que
+	<r> é sinónimo de
+	<r> é igual a
+	<r> é equivalente a
+SINONIMO_V_7_2_100_50
+	<r> é o mesmo que
+	<r> é sinónimo de
+	<r> é igual a
+	<r> é equivalente a
+SINONIMO_ADJ_7_2_100_50
+	<r> é o mesmo que
+	<r> é sinónimo de
+	<r> é igual a
+	<r> é equivalente a
