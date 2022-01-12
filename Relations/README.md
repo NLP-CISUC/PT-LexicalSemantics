@@ -16,6 +16,9 @@ Relation instances acquired from ten Portuguese lexical resources:
 
 Format
 * One instance per line, "arg1 RELATION_NAME arg2 n", where n is the number of resources where the relation was found.
+* The file "triplos_pesados_norm.tsv" contains only relations with more than 5,000 instances, and each instance has additional weights, based on the loss of transformer models for sequences that denote the instance. The following models were used for this:
+	* BERTimbau base (https://huggingface.co/neuralmind/bert-base-portuguese-cased)
+	* GPorTuguese-2 (https://huggingface.co/pierreguillou/gpt2-small-portuguese)
 
 Numbers:
 * Total instances: 938,846
