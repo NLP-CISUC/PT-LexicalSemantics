@@ -3,7 +3,7 @@
 Patterns indicating lexico-semantic relations in Portuguese, to be used in BERT (Masked Language Modelling) or GPT (Text Completion) models for discovering related arguments:
 
 * Relations names are those covered in [TALES](https://github.com/NLP-CISUC/PT-LexicalSemantics/tree/master/TALESv1.1).
-* Before usage, '''<r>''' is to be replaced by a word.
+* Before usage, &lt;r&gt; is to be replaced by a word.
 * In BERT, arguments will be predicted for the [MASK] token.
 * In GPT-2, the pattern will be automatically completed, and it is up to the programmer to select the argument.
 
