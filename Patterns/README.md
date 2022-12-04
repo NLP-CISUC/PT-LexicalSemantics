@@ -9,7 +9,7 @@ Patterns indicating lexico-semantic relations in Portuguese, to be used in BERT 
 
 BERT patterns were used with [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased) and results are reported in a paper to be published in the 15th International Conference on Computational Processing of Portuguese (PROPOR 2022):
  
-Gonçalo Oliveira, H. (2022). *Drilling lexico-semantic knowledge in Portuguese from BERT*. In Computational Processing of the Portuguese Language – 14th International Conference, PROPOR 2022, volume 12037 of LNCS, pages 387—397. Springer. [check](https://link.springer.com/chapter/10.1007/978-3-030-98305-5_36)
+[Gonçalo Oliveira, H. (2022). *Drilling lexico-semantic knowledge in Portuguese from BERT*. In Computational Processing of the Portuguese Language – 14th International Conference, PROPOR 2022, volume 12037 of LNCS, pages 387—397. Springer.](https://link.springer.com/chapter/10.1007/978-3-030-98305-5_36)
 
 BERT patterns v2 were also used with [BERTimbau](https://huggingface.co/neuralmind/bert-base-portuguese-cased) and results are reported in a paper to be published in the Global WordNet Conference 2023 (GWC 2023).
 
